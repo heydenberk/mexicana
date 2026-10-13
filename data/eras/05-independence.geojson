@@ -1,0 +1,1144 @@
+{
+  "type": "FeatureCollection",
+  "name": "War of Independence (1810–1821)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-guerrero-south",
+        "title": "Insurgent resistance in the south under Vicente Guerrero (1816–1820)",
+        "label": "Guerrero's south",
+        "start": "1816",
+        "end": "1821-02",
+        "type": "boundary",
+        "description": "After Morelos's death and the royalist amnesties of 1816–17, most insurgent leaders surrendered or were captured, but Vicente Guerrero, a mule driver from Tixtla, kept up a guerrilla war in the rugged Sierra Madre del Sur and the hot Tierra Caliente of the Balsas, where royalist columns could not hold the country. His survival there gave Iturbide a reason, and a partner, for the negotiations that led to the Plan of Iguala.",
+        "confidence": "schematic",
+        "note": "An indicative outline of the mountainous country between the Balsas, the Tierra Caliente and the coast in which Guerrero operated, anchored on Huetamo, Teloloapan, Chilpancingo, Tecpan and Zihuatanejo; the area held by the insurgents shifted constantly and was never a defined territory. Acapulco and the main towns generally stayed in royalist hands.",
+        "clip": "land",
+        "style": {
+          "color": "#8a5a3b"
+        },
+        "sources": [
+          {
+            "citation": "Brian R. Hamnett, Roots of Insurgency: Mexican Regions, 1750–1824 (Cambridge University Press, 1986)."
+          },
+          {
+            "citation": "Eric Van Young, The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821 (Stanford University Press, 2001)."
+          },
+          {
+            "citation": "Michael C. Meyer, William L. Sherman and Susan M. Deeds, The Course of Mexican History, 10th ed. (Oxford University Press, 2014)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-101.1403,18.6597],[-100.47,18.42],[-99.8705,18.3672],[-99.62,17.95],[-99.5048,17.5542],[-99.75,17.25],[-100.08,17],[-100.6302,17.2171],[-101.2685,17.5384],[-101.5519,17.6469],[-101.85,17.95],[-101.73,18.31],[-101.45,18.6],[-101.1403,18.6597]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-queretaro-conspiracy",
+        "title": "The Querétaro conspiracy is discovered",
+        "label": "Querétaro conspiracy",
+        "date": "1810-09-13",
+        "type": "political",
+        "description": "Creole officers, merchants and clergy meeting in Querétaro, among them Captain Ignacio Allende, Juan Aldama and the priest Miguel Hidalgo, planned a rising for late 1810 in the name of Ferdinand VII and against the peninsular Spaniards. When the plot was denounced, Josefa Ortiz de Domínguez, wife of the corregidor, got word to Allende and Aldama, who rode to Hidalgo at Dolores and decided to rise at once.",
+        "confidence": "approximate",
+        "note": "Marked at the Casa de la Corregidora (the former Casas Reales), where Josefa Ortiz was confined. Sources date the discovery 13–15 September.",
+        "modern_place": "Casa de la Corregidora, Querétaro",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-100.3901,20.5934]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-dolores",
+        "title": "The Grito de Dolores",
+        "label": "Dolores",
+        "date": "1810-09-16",
+        "type": "uprising",
+        "description": "Before dawn on Sunday 16 September, Hidalgo freed the prisoners of Dolores, arrested the local Spaniards and called his parishioners to rise against \"bad government\". Within days thousands of indigenous and mestizo farmworkers, miners and townspeople had joined, armed mostly with machetes, slings and lances, making it a mass rural insurrection rather than the officers' coup the conspirators had planned.",
+        "confidence": "precise",
+        "modern_place": "Dolores Hidalgo, Guanajuato, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Eric Van Young, The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821 (Stanford University Press, 2001)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ],
+        "note": "Gillingham (ch. 9) has Aldama reaching Dolores at two in the morning and Hidalgo ringing the bell at eight; most accounts put the call before dawn. The new viceroy, Francisco Javier Venegas, had taken office in Mexico City on 14 September; Gillingham (ch. 8) stresses that the rising broke out before he could act."
+      },
+      "geometry": {"type":"Point","coordinates":[-100.9342,21.1575]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-san-miguel",
+        "title": "San Miguel el Grande and the banner of Guadalupe",
+        "label": "San Miguel",
+        "date": "1810-09-16",
+        "type": "city",
+        "description": "On the road from Dolores the insurgents took an image of the Virgin of Guadalupe from the sanctuary of Atotonilco as their banner, and that evening they occupied Allende's home town of San Miguel el Grande, where the provincial militia regiment joined them and Spanish houses were sacked.",
+        "confidence": "precise",
+        "modern_place": "San Miguel de Allende, Guanajuato, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-100.7357,20.9131]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-celaya",
+        "title": "Celaya taken; Hidalgo named captain general",
+        "label": "Celaya",
+        "date": "1810-09-21",
+        "type": "city",
+        "description": "Celaya, a rich Bajío town, surrendered without a fight, and the insurgent leaders proclaimed Hidalgo captain general and Allende lieutenant general. By now the army may have numbered tens of thousands, too many to supply or discipline.",
+        "confidence": "precise",
+        "modern_place": "Celaya, Guanajuato, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-100.8308,20.5223]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-granaditas",
+        "title": "Storming of the Alhóndiga de Granaditas",
+        "label": "Alhóndiga de Granaditas",
+        "date": "1810-09-28",
+        "type": "battle",
+        "description": "The intendant Juan Antonio de Riaño shut the Spaniards, the troops and the royal treasure inside the stone granary of Guanajuato. Insurgents and mine workers stormed it the same day, killing Riaño and most of the defenders, and sacked the city. The massacre turned most creoles against the movement; after the leaders were executed in 1811 their heads hung from the granary's corners until 1821.",
+        "confidence": "precise",
+        "modern_place": "Alhóndiga de Granaditas, Guanajuato",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Eric Van Young, The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821 (Stanford University Press, 2001)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 8."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.2584,21.0191]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-valladolid-1810",
+        "title": "Hidalgo in Valladolid",
+        "label": "Valladolid 1810",
+        "date": "1810-10-17",
+        "type": "city",
+        "description": "The capital of Michoacán, Hidalgo's own diocese, opened its gates to the insurgents, who took its cathedral funds. On 19 October the insurgent intendant José María Anzorena decreed the abolition of slavery and of the Indian tribute, the movement's first social decrees.",
+        "confidence": "precise",
+        "modern_place": "Morelia, Michoacán, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Brian R. Hamnett, Roots of Insurgency: Mexican Regions, 1750–1824 (Cambridge University Press, 1986)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.1924,19.7027]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-hidalgo-advance",
+        "title": "Hidalgo's advance from Dolores toward Mexico City",
+        "label": "Hidalgo 1810",
+        "start": "1810-09-16",
+        "end": "1810-10-30",
+        "type": "route",
+        "description": "In six weeks the insurgent host swept through the Bajío, taking San Miguel, Celaya and Guanajuato, then turned south to Valladolid and east through Acámbaro (where Hidalgo was proclaimed generalísimo) and Toluca toward the capital. It followed the main roads of the richest and most densely settled region of New Spain, where hard times, high maize prices and resentment of peninsular Spaniards had prepared the ground.",
+        "confidence": "approximate",
+        "note": "Main stops only; the leg from Celaya to Guanajuato (via Salamanca and Irapuato) is drawn straight. At Charo, on the road out of Valladolid, Hidalgo commissioned José María Morelos to raise the south (20 October).",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-100.9342,21.1575],[-100.7933,21.0046],[-100.7357,20.9131],[-100.8308,20.5223],[-101.2528,21.0159],[-101.1924,19.7027],[-101.0456,19.7467],[-100.7233,20.0291],[-100.4533,19.8901],[-99.7619,19.5652],[-99.6569,19.2925],[-99.3698,19.2986]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-monte-de-las-cruces",
+        "title": "Battle of Monte de las Cruces",
+        "label": "Monte de las Cruces",
+        "date": "1810-10-30",
+        "type": "battle",
+        "description": "In the forested pass between the Toluca valley and the Valley of Mexico, a much larger insurgent army drove back some 2,500 royalists under Torcuato Trujillo after a day of fighting, but lost heavily. With Mexico City in sight and almost undefended, Hidalgo did not attack; after sending envoys to the viceroy, he turned back in early November, a decision still debated.",
+        "confidence": "approximate",
+        "note": "Marked at La Marquesa (Ocoyoacac), at the head of the pass; the fighting extended along the road over the Monte de las Cruces.",
+        "modern_place": "La Marquesa, Ocoyoacac, México",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.3698,19.2986]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-hidalgo-retreat",
+        "title": "Retreat from Monte de las Cruces to Guadalajara",
+        "label": "Retreat 1810",
+        "start": "1810-11-01",
+        "end": "1810-11-26",
+        "type": "route",
+        "description": "The insurgents withdrew northwest, ran into Calleja's army at Aculco and split up: Allende fell back on Guanajuato, while Hidalgo returned to Valladolid and then went on to Guadalajara, which had been taken for the insurgency by José Antonio Torres.",
+        "confidence": "schematic",
+        "note": "Hidalgo's route only, through its main stops; Allende's route to Guanajuato is not drawn. The road from Valladolid to Guadalajara is drawn straight.",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.3698,19.2986],[-99.7619,19.5652],[-99.8292,20.0989],[-100.7233,20.0291],[-101.1924,19.7027],[-103.3384,20.672]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-aculco",
+        "title": "Battle of Aculco",
+        "label": "Aculco",
+        "date": "1810-11-07",
+        "type": "battle",
+        "description": "Félix María Calleja, commander at San Luis Potosí, had formed a disciplined royalist army of militia and hacienda cavalry. At Aculco he and Manuel de Flon caught the retreating insurgents and routed them, capturing their artillery and baggage. It was the first of a series of royalist victories that showed how vulnerable the untrained masses were to regular troops.",
+        "confidence": "approximate",
+        "note": "Marked at Aculco; the battle was fought on the hills next to the town.",
+        "modern_place": "Aculco de Espinoza, México, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.8292,20.0989]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-calleja-guanajuato",
+        "title": "Calleja retakes Guanajuato",
+        "label": "Guanajuato retaken",
+        "date": "1810-11-25",
+        "type": "battle",
+        "description": "After Allende's forces abandoned Guanajuato, insurgents and townspeople killed the Spanish prisoners held in the Alhóndiga. Calleja retook the city and carried out mass executions in reprisal, setting the pattern of terror and counter-terror that marked the war.",
+        "confidence": "precise",
+        "modern_place": "Guanajuato, Guanajuato, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Timothy E. Anna, The Fall of the Royal Government in Mexico City (University of Nebraska Press, 1978)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.2528,21.0159]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-guadalajara",
+        "title": "Hidalgo's government in Guadalajara",
+        "label": "Guadalajara",
+        "start": "1810-11-26",
+        "end": "1811-01-14",
+        "type": "political",
+        "description": "In Guadalajara, the second city of the west, Hidalgo set up a government with ministers, published the first insurgent newspaper, El Despertador Americano, and on 6 December decreed the abolition of slavery and of the tribute paid by Indians and castas. He also allowed hundreds of Spanish prisoners to be secretly executed, which later weighed heavily at his trial.",
+        "confidence": "precise",
+        "modern_place": "Guadalajara, Jalisco, Mexico",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Eric Van Young, The Other Rebellion: Popular Violence, Ideology, and the Mexican Struggle for Independence, 1810–1821 (Stanford University Press, 2001)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-103.3384,20.672]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-calderon",
+        "title": "Battle of Puente de Calderón",
+        "label": "Puente de Calderón",
+        "date": "1811-01-17",
+        "type": "battle",
+        "description": "Against the advice of Allende, Hidalgo met Calleja's army at the bridge of Calderón east of Guadalajara with a huge but poorly armed force. After hours of fighting, an insurgent ammunition wagon exploded and set the dry grass alight, and the army broke up. Hidalgo lost his army, and soon after his command.",
+        "confidence": "precise",
+        "modern_place": "Puente de Calderón, Zapotlanejo, Jalisco",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-103.0109,20.6753]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-hidalgo-north",
+        "title": "Flight of the insurgent leaders to the north",
+        "label": "Flight north 1811",
+        "start": "1811-01-17",
+        "end": "1811-03-21",
+        "type": "route",
+        "description": "After Calderón the leaders fled north through Aguascalientes, where at the Hacienda de Pabellón Allende and the other officers stripped Hidalgo of military command, and on through Zacatecas to Saltillo. They meant to reach the United States to buy arms, but on the road from Saltillo to Monclova they were ambushed.",
+        "confidence": "schematic",
+        "note": "Main stops only; the road from Zacatecas to Saltillo (by way of the Altiplano and Matehuala) is reconstructed.",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-103.0109,20.6753],[-102.2967,21.8805],[-102.3397,22.1771],[-102.5723,22.7754],[-100.6435,23.6465],[-100.9928,25.423],[-101.2391,26.5337]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-bajan",
+        "title": "Capture at the wells of Acatita de Baján",
+        "label": "Acatita de Baján",
+        "date": "1811-03-21",
+        "type": "battle",
+        "description": "Ignacio Elizondo, a militia officer who had joined the insurgency and then turned against it, waited at the wells of Baján in the Coahuila desert and captured the insurgent column as it arrived group by group, taking Hidalgo, Allende, Aldama, Jiménez and the other leaders.",
+        "confidence": "precise",
+        "note": "Marked at the settlement of Acatita de Baján (Castaños, Coahuila); the hill of the capture (Loma del Prendimiento) and the wells lie close by.",
+        "modern_place": "Acatita de Baján, Castaños, Coahuila",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.2391,26.5337]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-prisoners",
+        "title": "The captured leaders taken to Chihuahua",
+        "label": "To Chihuahua 1811",
+        "start": "1811-03-21",
+        "end": "1811-04-23",
+        "type": "route",
+        "description": "The prisoners were taken first to Monclova and then across the desert to Chihuahua, seat of the commandant general of the Provincias Internas, where they were tried by a military court.",
+        "confidence": "schematic",
+        "note": "Only Monclova is shown between the capture and Chihuahua; the road across the Bolsón de Mapimí is not traced.",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-101.2391,26.5337],[-101.4171,26.9],[-106.0734,28.6391]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-chihuahua-executions",
+        "title": "Execution of Hidalgo and the insurgent leaders",
+        "label": "Executions in Chihuahua",
+        "start": "1811-06-26",
+        "end": "1811-07-30",
+        "type": "political",
+        "description": "Allende, Aldama and Jiménez were shot in Chihuahua on 26 June 1811. Hidalgo, after being stripped of his priesthood, was shot on 30 July in the courtyard of the former Jesuit college where he had been held. Their heads were sent to Guanajuato and hung from the corners of the Alhóndiga de Granaditas.",
+        "confidence": "approximate",
+        "note": "Marked at the Palacio de Gobierno of Chihuahua, built on the site of the former Jesuit college where Hidalgo was imprisoned and shot.",
+        "modern_place": "Palacio de Gobierno, Chihuahua, Chihuahua",
+        "sources": [
+          {
+            "citation": "Hugh M. Hamill Jr., The Hidalgo Revolt: Prelude to Mexican Independence (University of Florida Press, 1966)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-106.0734,28.6391]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-zitacuaro",
+        "title": "Junta of Zitácuaro",
+        "label": "Junta de Zitácuaro",
+        "start": "1811-08-19",
+        "end": "1812-01-02",
+        "type": "political",
+        "description": "Ignacio López Rayón, Hidalgo's former secretary, gathered surviving insurgent chiefs at Zitácuaro in eastern Michoacán and set up the Suprema Junta Nacional Americana, the first attempt at a national insurgent government, still in the name of Ferdinand VII. Calleja took and destroyed the town on 2 January 1812, and the junta became itinerant.",
+        "confidence": "precise",
+        "modern_place": "Zitácuaro, Michoacán, Mexico",
+        "sources": [
+          {
+            "citation": "Brian R. Hamnett, Roots of Insurgency: Mexican Regions, 1750–1824 (Cambridge University Press, 1986)."
+          },
+          {
+            "citation": "Virginia Guedea, En busca de un gobierno alterno: los Guadalupes de México (Universidad Nacional Autónoma de México, 1992)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-100.3553,19.4344]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-morelos-first",
+        "title": "Morelos's first campaign on the south coast",
+        "label": "Morelos 1810–11",
+        "start": "1810-10-25",
+        "end": "1811-08",
+        "type": "route",
+        "description": "Commissioned by Hidalgo to raise the south and take Acapulco, the parish priest of Carácuaro rode down through the Tierra Caliente to the Pacific coast, gathering men, notably the Galeana family at Tecpan and later the Bravos. He besieged Acapulco from the heights of El Veladero but failed to take the fortress, then turned inland and took Chilpancingo, Tixtla and Chilapa in 1811, building a small, disciplined army instead of a mass following.",
+        "confidence": "approximate",
+        "note": "Main stops only: Carácuaro, Huetamo, Zihuatanejo, Petatlán, Tecpan, El Veladero above Acapulco (Nov 1810–Feb 1811), then Chilpancingo, Tixtla and Chilapa (May–Aug 1811).",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-101.1274,19.017],[-100.896,18.6253],[-101.5519,17.6469],[-101.2685,17.5384],[-100.6302,17.2171],[-99.8862,16.9312],[-99.5048,17.5542],[-99.3996,17.5678],[-99.1777,17.5939]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-morelos-second",
+        "title": "Morelos's second campaign, to Izúcar and Cuautla",
+        "label": "Morelos 1811–12",
+        "start": "1811-11",
+        "end": "1812-02",
+        "type": "route",
+        "description": "From Chilapa Morelos moved northeast through Tlapa and Chiautla to Izúcar, where the priest Mariano Matamoros joined him, and then to Cuautla, in the sugar country two days from Mexico City. The advance put the insurgents within reach of the capital and brought Calleja's army down on them.",
+        "confidence": "schematic",
+        "note": "Main stops only; an excursion to Taxco and Tenancingo (January 1812) is omitted.",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.1777,17.5939],[-98.5786,17.5433],[-98.6037,18.2997],[-98.4658,18.6022],[-98.9432,18.829]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-cuautla",
+        "title": "Siege of Cuautla",
+        "label": "Siege of Cuautla",
+        "start": "1812-02-19",
+        "end": "1812-05-02",
+        "type": "battle",
+        "description": "Calleja's army, fresh from destroying Zitácuaro, besieged Morelos in Cuautla for more than two months. Starved and short of water, the defenders broke out in the early hours of 2 May and escaped with most of their leaders. The siege made Morelos famous and showed that the insurgents could stand up to the best royalist army. Gillingham traces the typhus epidemic of 1813, which he says killed some 40,000 people in the Valley of Mexico alone, to the armies of the siege.",
+        "confidence": "precise",
+        "modern_place": "Cuautla, Morelos, Mexico",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.9432,18.829]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-morelos-third",
+        "title": "Morelos's third campaign, to Orizaba and Oaxaca",
+        "label": "Morelos 1812",
+        "start": "1812-05",
+        "end": "1812-11-25",
+        "type": "route",
+        "description": "After Cuautla Morelos regrouped in the Mixteca and made Tehuacán his base, raided Orizaba (where his men burned the royal tobacco stores) and tried to cut the road to Veracruz, then marched south and took Oaxaca.",
+        "confidence": "schematic",
+        "note": "Main stops only; the line returns to Tehuacán between Orizaba and Oaxaca. The roads between stops are not traced.",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-98.9432,18.829],[-98.6037,18.2997],[-97.3904,18.46],[-97.106,18.8497],[-97.3904,18.46],[-96.7254,17.0605]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-oaxaca",
+        "title": "Morelos takes Oaxaca",
+        "label": "Oaxaca 1812",
+        "date": "1812-11-25",
+        "type": "battle",
+        "description": "Morelos stormed Oaxaca after a short battle, gaining a provincial capital, its treasury and its cochineal trade. It was the high point of the insurgency: for most of 1813 the insurgents held much of the south, from the Pacific to the edge of the Valley of Mexico.",
+        "confidence": "precise",
+        "modern_place": "Oaxaca de Juárez, Oaxaca, Mexico",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Brian R. Hamnett, Roots of Insurgency: Mexican Regions, 1750–1824 (Cambridge University Press, 1986)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.7254,17.0605]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-cadiz-constitution",
+        "title": "The Constitution of Cádiz in New Spain",
+        "label": "Cádiz Constitution",
+        "start": "1812-09-30",
+        "end": "1814",
+        "type": "political",
+        "description": "The liberal constitution drawn up by the Spanish Cortes, in which deputies from New Spain sat, was read and sworn in the viceregal palace in Mexico City on 30 September 1812. It created elected town councils and provincial deputations and briefly freed the press, and creoles won the elections in the capital. Viceroys Venegas and Calleja suspended parts of it, and Ferdinand VII abolished it in 1814; its restoration in 1820 helped convince Mexican conservatives to break with Spain.",
+        "confidence": "approximate",
+        "note": "Marked at the viceregal palace in Mexico City; the constitution applied throughout New Spain.",
+        "modern_place": "Palacio Nacional, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Virginia Guedea, En busca de un gobierno alterno: los Guadalupes de México (Universidad Nacional Autónoma de México, 1992), ch. 4, \"La opción liberal\".",
+            "url": "https://historicas.unam.mx/publicaciones/publicadigital/libros/gobierno_alterno/04_04_opcion_liberal.pdf"
+          },
+          {
+            "citation": "Jaime E. Rodríguez O., \"We Are Now the True Spaniards\": Sovereignty, Revolution, Independence, and the Emergence of the Federal Republic of Mexico, 1808–1824 (Stanford University Press, 2012)."
+          },
+          {
+            "citation": "Timothy E. Anna, The Fall of the Royal Government in Mexico City (University of Nebraska Press, 1978)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1313,19.4326]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-morelos-fourth",
+        "title": "Morelos's fourth campaign, from Oaxaca to Acapulco and Valladolid",
+        "label": "Morelos 1813",
+        "start": "1813-02",
+        "end": "1813-12-23",
+        "type": "route",
+        "description": "Instead of marching on Puebla or Mexico City, Morelos spent much of 1813 besieging Acapulco, a decision often criticised, then went to Chilpancingo for the Congress and in December struck at Valladolid, hoping to make it the insurgent capital.",
+        "confidence": "schematic",
+        "note": "Main stops only. The march from Oaxaca to Acapulco along the coast and from Chilpancingo to Valladolid through the Tierra Caliente is reconstructed; Huetamo is used as an indicative waypoint.",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-96.7254,17.0605],[-98.4046,16.6859],[-99.8862,16.9312],[-99.5048,17.5542],[-100.896,18.6253],[-101.1921,19.6724]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-acapulco-1813",
+        "title": "Siege and capture of Acapulco",
+        "label": "Acapulco 1813",
+        "start": "1813-04",
+        "end": "1813-08",
+        "type": "battle",
+        "description": "Morelos took the town of Acapulco in April 1813 and besieged its garrison in the Fort of San Diego for four months until it capitulated in August. The capture gave the insurgents the Pacific port of the Manila galleon, but it kept Morelos away from the centre while royalist forces recovered.",
+        "confidence": "precise",
+        "modern_place": "Fuerte de San Diego, Acapulco",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.9027,16.8499]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-medina",
+        "title": "Battle of Medina",
+        "label": "Medina 1813",
+        "date": "1813-08-18",
+        "type": "battle",
+        "description": "In 1812–13 the Gutiérrez–Magee expedition of Mexican insurgents and US volunteers took San Antonio and declared Texas independent. In the oak woods south of San Antonio, royalist commander Joaquín de Arredondo destroyed their army of about 1,400 men; fewer than a hundred escaped, and his reprisals in San Antonio drove many Tejano families to flee. The bloodiest battle ever fought in Texas left the province weak and thinly settled on the eve of Anglo-American colonization.",
+        "confidence": "approximate",
+        "note": "The battlefield, in the oak woods called el encinal de Medina \"twenty miles south of San Antonio\", has not been precisely located; it is placed in northern Atascosa County, near the old Pleasanton Road, where archival research and finds by landowners in the 2010s put the battle and burial sites (Handbook of Texas). Treat it as within about 10 km.",
+        "sources": [
+          {
+            "citation": "Robert H. Thonhoff, \"Medina, Battle of\", Handbook of Texas Online (Texas State Historical Association).",
+            "url": "https://www.tshaonline.org/handbook/entries/medina-battle-of"
+          },
+          {
+            "citation": "Harris Gaylord Warren, The Sword Was Their Passport: A History of American Filibustering in the Mexican Revolution (Louisiana State University Press, 1943)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.5,29.11]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-chilpancingo",
+        "title": "Congress of Chilpancingo and the Sentimientos de la Nación",
+        "label": "Congress of Chilpancingo",
+        "start": "1813-09-13",
+        "end": "1813-11-06",
+        "type": "political",
+        "description": "Morelos convened a congress of delegates for the insurgent provinces at Chilpancingo, which he called the Congress of Anáhuac, and presented his Sentimientos de la Nación: independence from Spain and any other nation, sovereignty of the people, Catholicism as the sole religion, the abolition of slavery and caste distinctions, and laws that would \"moderate opulence and poverty\". On 6 November 1813 the congress formally declared the independence of \"América Septentrional\". Congress named Morelos generalísimo, and he took the title Siervo de la Nación.",
+        "confidence": "precise",
+        "note": "Sources differ on whether the Sentimientos were read at the opening session on 13 September or on 14 September, the date the document bears.",
+        "modern_place": "Chilpancingo, Guerrero, Mexico",
+        "sources": [
+          {
+            "citation": "José María Morelos, \"Sentimientos de la Nación\", Chilpancingo, 14 September 1813."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          },
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.5048,17.5542]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-valladolid-1813",
+        "title": "Defeat at Valladolid (Lomas de Santa María)",
+        "label": "Valladolid 1813",
+        "start": "1813-12-23",
+        "end": "1813-12-25",
+        "type": "battle",
+        "description": "Morelos's attack on Valladolid from the hills of Santa María failed when royalist reinforcements under Ciriaco del Llano and Agustín de Iturbide arrived; in the confusion of a night counterattack the insurgents fought each other. The rout, followed by the capture of Matamoros at Puruarán, broke Morelos's army.",
+        "confidence": "approximate",
+        "note": "Marked at Santa María de Guido on the heights south of Morelia, where the insurgents camped. Llano's report refers to actions on 23, 24 and 25 December.",
+        "modern_place": "Santa María de Guido, Morelia, Michoacán",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "William Spence Robertson, Iturbide of Mexico (Duke University Press, 1952)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.1921,19.6724]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-puruaran",
+        "title": "Battle of Puruarán",
+        "label": "Puruarán",
+        "date": "1814-01-05",
+        "type": "battle",
+        "description": "Retreating from Valladolid, the insurgents made a stand at the hacienda of Puruarán, which Morelos had left the day before, and were routed again by Llano and Iturbide. Mariano Matamoros, Morelos's best general, was captured and shot in Valladolid on 3 February 1814.",
+        "confidence": "approximate",
+        "note": "The date is from Llano's own report; some secondary accounts give 4 January.",
+        "modern_place": "Puruarán, Turicato, Michoacán",
+        "sources": [
+          {
+            "citation": "Ciriaco del Llano to Viceroy Calleja, \"Parte detallado de la acción de Puruarán\", Valladolid, 20 January 1814, in José María Morelos y Pavón: documentos de su vida y lucha revolucionaria (Universidad Autónoma Metropolitana).",
+            "url": "https://mhiel.azc.uam.mx/morelos/data/1813-1814%205/60%20-%20Parte%20detallado%20de%20la%20accion%20de%20Puruaran.pdf"
+          },
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.5229,19.0949]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-apatzingan",
+        "title": "Constitution of Apatzingán",
+        "label": "Apatzingán",
+        "date": "1814-10-22",
+        "type": "political",
+        "description": "Hunted from town to town through the Tierra Caliente of Michoacán, the insurgent congress promulgated a constitution, the Decreto Constitucional para la Libertad de la América Mexicana, at Apatzingán. It established a republic with popular sovereignty and a weak three-man executive. It never came into force over any real territory, but it was the first Mexican constitution.",
+        "confidence": "precise",
+        "modern_place": "Apatzingán, Michoacán, Mexico",
+        "sources": [
+          {
+            "citation": "Decreto Constitucional para la Libertad de la América Mexicana, sancionado en Apatzingán a 22 de octubre de 1814."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          },
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.3537,19.0914]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-temalaca",
+        "title": "Capture of Morelos at Temalaca",
+        "label": "Temalaca",
+        "date": "1815-11-05",
+        "type": "battle",
+        "description": "Escorting the congress from Michoacán toward Tehuacán, Morelos crossed the Balsas at Atenango and rested at Temalaca, where royalist troops under Manuel de la Concha caught up with him on 5 November. He turned to fight on the hills beyond the village so that the deputies could get away, and after about an hour his force broke and he was taken by Matías Carranco, a royalist militia lieutenant from Tepecoacuilco. The congress reached Tehuacán, where an insurgent commander dissolved it in December.",
+        "confidence": "approximate",
+        "note": "Marked at the village of Temalac (also spelled Temalaca, Tezmalaca or Tesmalaca), municipality of Atenango del Río, Guerrero, about 9 km east of Atenango, the identification used by local historians. Concha's report puts the fighting on the hills just beyond Temalaca on the road to \"Coesala\" (Cohetzala, Puebla), close to the modern Guerrero–Puebla line, which may be why many sources say \"Temalaca, Puebla\"; no place of that name is found in modern Puebla.",
+        "modern_place": "Temalac, Atenango del Río, Guerrero",
+        "sources": [
+          {
+            "citation": "Manuel de la Concha to Viceroy Calleja, \"Parte detallado de la acción en Temalaca y de la prisión de Morelos\", Tepecuacuilco, 13 November 1815, in José María Morelos y Pavón: documentos de su vida y lucha revolucionaria (Universidad Autónoma Metropolitana).",
+            "url": "https://mhiel.azc.uam.mx/morelos/data/1815-1816%20C/07%20-%20Parte%20detallado%20de%20la%20accion%20en%20Temalaca.pdf"
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          },
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Carlos Rodríguez, \"Bicentenario del Congreso de Anáhuac: la ruta igual olía a muerte que a gloria\", Excélsior, 15 September 2013.",
+            "url": "https://www.excelsior.com.mx/nacional/2013/09/15/918694"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.9528,18.1181]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-ecatepec",
+        "title": "Execution of Morelos at San Cristóbal Ecatepec",
+        "label": "Ecatepec",
+        "date": "1815-12-22",
+        "type": "political",
+        "description": "Tried in Mexico City by a military court and by the Inquisition, which degraded him from the priesthood, Morelos was taken out of the capital to San Cristóbal Ecatepec, on the north shore of Lake Texcoco, and shot. After his death the insurgency broke into scattered regional guerrillas.",
+        "confidence": "precise",
+        "note": "Marked at the Casa de Morelos museum, the house where he spent his last hours.",
+        "modern_place": "Casa de Morelos, Ecatepec",
+        "sources": [
+          {
+            "citation": "Wilbert H. Timmons, Morelos: Priest, Soldier, Statesman of Mexico (Texas Western College Press, 1963)."
+          },
+          {
+            "citation": "Ernesto Lemoine Villicaña, Morelos: su vida revolucionaria a través de sus escritos y de otros testimonios de la época (Universidad Nacional Autónoma de México, 1965)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.0365,19.6008]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-victoria",
+        "title": "Guadalupe Victoria on the Veracruz road",
+        "label": "Puente del Rey",
+        "start": "1815",
+        "end": "1816",
+        "type": "battle",
+        "description": "Guadalupe Victoria's guerrillas held the Puente del Rey, where the road from Veracruz to Xalapa crosses the Antigua river, and attacked convoys between the port and the highlands, while receiving arms through small Gulf ports such as Boquilla de Piedras. Royalist forces built fortified posts along the road and drove him out in 1816, and he hid in the forests of Veracruz until 1821; in 1824 he became Mexico's first president.",
+        "confidence": "approximate",
+        "note": "Marked at Puente Nacional (formerly Puente del Rey). Sources differ on when he lost the bridge and Boquilla de Piedras, so only the years are given.",
+        "modern_place": "Puente Nacional, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "Brian R. Hamnett, Roots of Insurgency: Mexican Regions, 1750–1824 (Cambridge University Press, 1986)."
+          },
+          {
+            "citation": "Lucas Alamán, Historia de Méjico desde los primeros movimientos que prepararon su independencia en el año de 1808 hasta la época presente, 5 vols. (Imprenta de J. M. Lara, 1849–1852)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.4815,19.3276]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-soto-la-marina",
+        "title": "Mina lands at Soto la Marina",
+        "label": "Soto la Marina",
+        "date": "1817-04-15",
+        "type": "city",
+        "description": "Francisco Xavier Mina, a Spanish liberal guerrilla against Napoleon who had turned against Ferdinand VII, sailed from Galveston and the United States with about 300 men, Spaniards, Americans and others, and landed at the mouth of the Santander river in Nuevo Santander. He fortified Soto la Marina, which Arredondo retook in June after Mina had marched inland.",
+        "confidence": "approximate",
+        "note": "Marked at the town of Soto la Marina; the landing was near the river mouth. Some sources date the occupation of the town to 21 April.",
+        "modern_place": "Soto la Marina, Tamaulipas, Mexico",
+        "sources": [
+          {
+            "citation": "William Davis Robinson, Memoirs of the Mexican Revolution: Including a Narrative of the Expedition of General Xavier Mina (Philadelphia, 1820)."
+          },
+          {
+            "citation": "Harris Gaylord Warren, The Sword Was Their Passport: A History of American Filibustering in the Mexican Revolution (Louisiana State University Press, 1943)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.2058,23.7707]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-mina-march",
+        "title": "Mina's march inland to the Fuerte del Sombrero",
+        "label": "Mina 1817",
+        "start": "1817-05",
+        "end": "1817-06-24",
+        "type": "route",
+        "description": "With a few hundred men Mina crossed the Sierra Madre Oriental and the Altiplano in a month, beating larger royalist forces at Peotillos and taking Real de Pinos, to join the insurgent Pedro Moreno at the Fuerte del Sombrero in the hills north of León.",
+        "confidence": "schematic",
+        "note": "Main stops only: Soto la Marina, Valle del Maíz (Ciudad del Maíz), the hacienda of Peotillos, Real de Pinos and Comanja; the line between them is not traced.",
+        "sources": [
+          {
+            "citation": "William Davis Robinson, Memoirs of the Mexican Revolution: Including a Narrative of the Expedition of General Xavier Mina (Philadelphia, 1820)."
+          },
+          {
+            "citation": "Harris Gaylord Warren, The Sword Was Their Passport: A History of American Filibustering in the Mexican Revolution (Louisiana State University Press, 1943)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-98.2058,23.7707],[-99.6028,22.4023],[-100.6105,22.4956],[-101.575,22.2972],[-101.7139,21.3221]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-sombrero",
+        "title": "The Fuerte del Sombrero and the end of Mina",
+        "label": "Fuerte del Sombrero",
+        "start": "1817-06",
+        "end": "1817-11-11",
+        "type": "battle",
+        "description": "From Pedro Moreno's hilltop fort in the Sierra de Comanja, Mina won several actions in the Bajío, but royalist troops besieged the fort from late July and it fell in August. Mina was captured at the Rancho del Venadito on 27 October and shot near the fort of Los Remedios on 11 November 1817. His expedition was the last serious insurgent offensive before 1821.",
+        "confidence": "approximate",
+        "note": "Marked at Comanja de Corona (Lagos de Moreno, Jalisco); the fort stood on a hill in the Sierra de Comanja near the town.",
+        "modern_place": "Comanja de Corona, Lagos de Moreno, Jalisco",
+        "sources": [
+          {
+            "citation": "William Davis Robinson, Memoirs of the Mexican Revolution: Including a Narrative of the Expedition of General Xavier Mina (Philadelphia, 1820)."
+          },
+          {
+            "citation": "Harris Gaylord Warren, The Sword Was Their Passport: A History of American Filibustering in the Mexican Revolution (Louisiana State University Press, 1943)."
+          },
+          {
+            "citation": "Brian R. Hamnett, Roots of Insurgency: Mexican Regions, 1750–1824 (Cambridge University Press, 1986)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.7139,21.3221]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-acatempan",
+        "title": "Iturbide and Guerrero at Acatempan",
+        "label": "Acatempan",
+        "date": "1821-02-10",
+        "type": "political",
+        "description": "Sent south to finish off Guerrero, the royalist colonel Agustín de Iturbide instead opened negotiations with him. By tradition the two met and embraced at Acatempan, sealing the alliance between the old insurgents and the royalist army that made independence possible.",
+        "confidence": "approximate",
+        "note": "The meeting and embrace are traditional and their date and even occurrence are debated; the alliance itself is documented in their correspondence of January–February 1821.",
+        "modern_place": "Acatempan, Teloloapan, Guerrero",
+        "sources": [
+          {
+            "citation": "William Spence Robertson, Iturbide of Mexico (Duke University Press, 1952)."
+          },
+          {
+            "citation": "Jaime E. Rodríguez O., \"We Are Now the True Spaniards\": Sovereignty, Revolution, Independence, and the Emergence of the Federal Republic of Mexico, 1808–1824 (Stanford University Press, 2012)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.8831,18.3186]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-iguala",
+        "title": "Plan of Iguala",
+        "label": "Plan of Iguala",
+        "date": "1821-02-24",
+        "type": "political",
+        "description": "At Iguala Iturbide proclaimed a plan for an independent Mexican empire under Ferdinand VII or another Bourbon prince, guaranteeing the Catholic religion, independence and the union of Americans and Europeans. The Three Guarantees appealed to almost every group, and within months most royalist garrisons had joined Iturbide's Army of the Three Guarantees (Trigarante).",
+        "confidence": "precise",
+        "modern_place": "Iguala, Guerrero, Mexico",
+        "sources": [
+          {
+            "citation": "Plan de Independencia de la América Septentrional (Plan de Iguala), Iguala, 24 February 1821."
+          },
+          {
+            "citation": "William Spence Robertson, Iturbide of Mexico (Duke University Press, 1952)."
+          },
+          {
+            "citation": "Jaime E. Rodríguez O., \"We Are Now the True Spaniards\": Sovereignty, Revolution, Independence, and the Emergence of the Federal Republic of Mexico, 1808–1824 (Stanford University Press, 2012)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.5377,18.3466]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-iturbide-1821",
+        "title": "Iturbide's campaign of 1821",
+        "label": "Iturbide 1821",
+        "start": "1821-03",
+        "end": "1821-09-27",
+        "type": "route",
+        "description": "After the Plan of Iguala Iturbide left the south by way of Teloloapan and the Tierra Caliente of the Balsas, covered by Filisola's rising, to the Bajío, where Bustamante and Cortazar had already declared for independence. Rather than fight, his army encircled the main cities and negotiated their surrender: Valladolid on 20 May, Querétaro on 28 June and Puebla on 28 July. From his headquarters at Texcoco he rode to Córdoba to meet O'Donojú, and on 27 September he led the army into Mexico City, the last step of a strategy that won over the provinces \"from the circumference to the centre\".",
+        "confidence": "schematic",
+        "note": "Iturbide's own movements only, through dated stops: Iguala, Teloloapan, Tlalchapa, Cutzamala (25 March), Huetamo, Tuzantla, Zitácuaro, Acámbaro (2 May), Valladolid, San Juan del Río (mid-June), Querétaro, Puebla, Texcoco (August), Córdoba (24 August), Puebla (31 August) and Mexico City. His stay at Arroyo Zarco (July) is not shown, the roads are not traced, and the campaigns of his subordinates (Bustamante, Bravo, Herrera, Guerrero, Santa Anna) are not drawn.",
+        "sources": [
+          {
+            "citation": "Eduardo Adán Orozco Piñón, \"La campaña militar del ejército trigarante en el centro de la Nueva España, 1821\", in José Luis Soberanes Fernández and Serafín Ortiz Ortiz, coords., Nuevas visiones e interpretaciones del proceso emancipador, 1821–2021 (Universidad Nacional Autónoma de México, Instituto de Investigaciones Jurídicas, 2022).",
+            "url": "https://archivos.juridicas.unam.mx/www/bjv/libros/14/6788/9.pdf"
+          },
+          {
+            "citation": "William Spence Robertson, Iturbide of Mexico (Duke University Press, 1952)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.5377,18.3466],[-99.8705,18.3672],[-100.4769,18.4083],[-100.5803,18.4667],[-100.896,18.6253],[-100.5734,19.2071],[-100.3553,19.4344],[-100.7233,20.0291],[-101.1924,19.7027],[-99.9856,20.3953],[-100.3917,20.5923],[-98.1982,19.0438],[-98.8821,19.5144],[-96.9353,18.8945],[-98.1982,19.0438],[-99.1313,19.4326]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-cordoba",
+        "title": "Treaty of Córdoba",
+        "label": "Treaty of Córdoba",
+        "date": "1821-08-24",
+        "type": "political",
+        "description": "Juan O'Donojú, the last Spanish viceroy (jefe político superior), landed at Veracruz to find almost the whole country in Iturbide's hands, and at Córdoba signed a treaty with him recognising Mexico as a sovereign empire on the terms of the Plan of Iguala. The Spanish Cortes rejected the treaty in 1822, and Spain did not recognise Mexican independence until 1836.",
+        "confidence": "precise",
+        "modern_place": "Córdoba, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "Tratados celebrados en la villa de Córdoba el 24 del presente entre los señores D. Juan O'Donojú y D. Agustín de Iturbide (Treaty of Córdoba), 24 August 1821."
+          },
+          {
+            "citation": "William Spence Robertson, Iturbide of Mexico (Duke University Press, 1952)."
+          },
+          {
+            "citation": "Timothy E. Anna, The Fall of the Royal Government in Mexico City (University of Nebraska Press, 1978)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.9353,18.8945]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "independence",
+        "id": "e5-trigarante-entry",
+        "title": "The Army of the Three Guarantees enters Mexico City",
+        "label": "Trigarante enters Mexico City",
+        "date": "1821-09-27",
+        "type": "political",
+        "description": "Iturbide led the Trigarante army, some 16,000 men including Guerrero's former insurgents, into Mexico City on his 38th birthday, and the next day a governing junta signed the Act of Independence of the Mexican Empire. The decade of war had cost a great many lives, disrupted trade and wrecked the mining economy of the Bajío.",
+        "confidence": "precise",
+        "modern_place": "Palacio Nacional, Ciudad de México",
+        "sources": [
+          {
+            "citation": "William Spence Robertson, Iturbide of Mexico (Duke University Press, 1952)."
+          },
+          {
+            "citation": "Timothy E. Anna, The Fall of the Royal Government in Mexico City (University of Nebraska Press, 1978)."
+          },
+          {
+            "citation": "Michael C. Meyer, William L. Sherman and Susan M. Deeds, The Course of Mexican History, 10th ed. (Oxford University Press, 2014)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 9."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1313,19.4326]}
+    }
+  ]
+}

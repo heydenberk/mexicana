@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>Mexicana: a historical atlas of Mexico</title>
+    <meta name="description" content="An interactive historical atlas of Mexico from the Spanish conquest to the present, plotted on real terrain." />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Cpath d='M2 26 L11 10 L17 19 L21 13 L30 26 Z' fill='%238a3b16'/%3E%3C/svg%3E" />
+  </head>
+  <body>
+    <div id="app">
+      <aside id="panel" aria-label="Eras and events">
+        <header class="panel-header">
+          <button id="panel-toggle" class="panel-toggle" aria-expanded="true" aria-controls="panel-body" title="Show or hide the panel">
+            <span class="grip" aria-hidden="true"></span>
+          </button>
+          <div class="brand">
+            <h1>Mexicana</h1>
+            <p>A historical atlas of Mexico, 1519 to the present</p>
+          </div>
+          <button id="about-open" class="icon-button" aria-haspopup="dialog" title="About this atlas">About</button>
+        </header>
+        <div id="panel-body" class="panel-body">
+          <nav aria-label="Eras">
+            <ol id="era-list" class="era-list"></ol>
+          </nav>
+          <section id="era-detail" class="era-detail" aria-live="polite"></section>
+        </div>
+      </aside>
+
+      <main id="map-wrap">
+        <div id="map" role="region" aria-label="Map"></div>
+
+        <div class="map-controls" id="map-controls">
+          <fieldset class="toggles">
+            <legend class="sr-only">Map layers</legend>
+            <label><input type="checkbox" id="toggle-borders" checked /> Modern borders</label>
+            <label><input type="checkbox" id="toggle-hydro" checked /> Rivers &amp; lakes</label>
+            <label><input type="checkbox" id="toggle-physio" checked /> Landform names</label>
+            <label><input type="checkbox" id="toggle-terrain" /> 3D terrain</label>
+          </fieldset>
+          <button id="legend-toggle" class="chip" aria-expanded="false" aria-controls="legend">Legend</button>
+          <div id="legend" class="legend" hidden></div>
+        </div>
+
+        <aside id="details" class="details" hidden aria-label="Selected feature">
+          <div class="details-buttons">
+            <button id="details-collapse" class="details-button" aria-expanded="true" aria-controls="details-body" title="Shrink to the title">−</button>
+            <button id="details-close" class="details-button" aria-label="Close" title="Close (Esc)">×</button>
+          </div>
+          <div id="details-body" class="details-body" aria-live="polite"></div>
+        </aside>
+
+        <div class="timeline" id="timeline">
+          <div class="mode" role="radiogroup" aria-label="Which features to show">
+            <button role="radio" id="mode-era" aria-checked="true">This era</button>
+            <button role="radio" id="mode-cumulative" aria-checked="false">Up to this era</button>
+          </div>
+          <div class="slider-wrap">
+            <input type="range" id="era-slider" min="0" max="11" step="1" value="0" aria-label="Era" />
+            <div id="era-ticks" class="ticks" aria-hidden="true"></div>
+          </div>
+          <div class="stepper" role="group" aria-label="Step through events">
+            <button id="step-prev" class="step-button" aria-label="Previous event" title="Previous event (←)">‹</button>
+            <div id="step-label" class="step-label" aria-live="polite"></div>
+            <button id="step-next" class="step-button" aria-label="Next event" title="Next event (→)">›</button>
+          </div>
+        </div>
+      </main>
+    </div>
+
+    <dialog id="about" aria-labelledby="about-title">
+      <form method="dialog" class="about-close"><button class="icon-button" aria-label="Close">Close</button></form>
+      <div id="about-body"></div>
+    </dialog>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

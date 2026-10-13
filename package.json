@@ -1,0 +1,29 @@
+{
+  "name": "mexicana-atlas",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "npm run validate && tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "validate": "node scripts/validate-data.mjs",
+    "check:places": "node scripts/check-places.mjs",
+    "build:reference": "node scripts/build-reference.mjs",
+    "test": "vitest run",
+    "derive:states": "node scripts/derive-states.mjs"
+  },
+  "dependencies": {
+    "maplibre-gl": "^5.24.0",
+    "polygon-clipping": "^0.15.7",
+    "polylabel": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/geojson": "^7946.0.16",
+    "@types/polylabel": "^2.0.0",
+    "mapshaper": "^0.7.83",
+    "typescript": "^7.0.2",
+    "vite": "^8.3.4",
+    "vitest": "^4.1.11"
+  }
+}

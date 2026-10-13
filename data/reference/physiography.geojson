@@ -1,0 +1,469 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sierra Madre Occidental",
+    "kind": "range",
+    "rotate": 60,
+    "minzoom": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.2,
+     25.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sierra Madre Oriental",
+    "kind": "range",
+    "rotate": 64,
+    "minzoom": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.2,
+     24.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sierra Madre del Sur",
+    "kind": "range",
+    "rotate": 18,
+    "minzoom": 4.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.3,
+     17.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Trans-Mexican Volcanic Belt",
+    "kind": "range",
+    "rotate": 10,
+    "minzoom": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.4,
+     19.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sierra Madre de Chiapas",
+    "kind": "range",
+    "rotate": 35,
+    "minzoom": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93,
+     15.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Rocky Mountains",
+    "kind": "range",
+    "rotate": 0,
+    "minzoom": 3.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.6,
+     38.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Mexican Plateau (Altiplano)",
+    "kind": "plateau",
+    "rotate": 0,
+    "minzoom": 3.8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102.6,
+     24.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Basin of Mexico",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.78,
+     19.86
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bajío",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 6.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.15,
+     20.78
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Isthmus of Tehuantepec",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.85,
+     17.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Yucatán Peninsula",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.2,
+     19.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Baja California",
+    "kind": "region",
+    "rotate": 55,
+    "minzoom": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -114.2,
+     29.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Sonoran Desert",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -112.6,
+     31.4
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Chihuahuan Desert",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.8,
+     29.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Great Plains",
+    "kind": "region",
+    "rotate": 0,
+    "minzoom": 4.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.6,
+     36.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gulf of Mexico",
+    "kind": "water",
+    "rotate": 0,
+    "minzoom": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.5,
+     25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Bay of Campeche",
+    "kind": "water",
+    "rotate": 0,
+    "minzoom": 5.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.6,
+     19.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Pacific Ocean",
+    "kind": "water",
+    "rotate": 0,
+    "minzoom": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -108.5,
+     16.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Gulf of California",
+    "kind": "water",
+    "rotate": 52,
+    "minzoom": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.6,
+     27
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Caribbean Sea",
+    "kind": "water",
+    "rotate": 0,
+    "minzoom": 3.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.5,
+     16.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "Lake Chapala",
+    "kind": "water",
+    "rotate": 0,
+    "minzoom": 7.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.05,
+     20.13
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "MEXICO",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -102,
+     22.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "UNITED STATES",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.5,
+     39.2
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "GUATEMALA",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 4.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.3,
+     15.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "BELIZE",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 5.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.75,
+     17.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "HONDURAS",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 4.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.9,
+     14.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "EL SALVADOR",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 5.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.9,
+     13.72
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "NICARAGUA",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 4.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.1,
+     12.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "name": "CUBA",
+    "kind": "country",
+    "rotate": 0,
+    "minzoom": 4.5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.4,
+     21.75
+    ]
+   }
+  }
+ ]
+}

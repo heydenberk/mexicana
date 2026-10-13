@@ -1,0 +1,1181 @@
+{
+  "type": "FeatureCollection",
+  "name": "2000 to the present",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-cdmx-2016",
+        "derived": true,
+        "from_states": [
+          "Distrito Federal"
+        ],
+        "title": "The Federal District becomes Mexico City (2016)",
+        "label": "Ciudad de México 2016",
+        "date": "2016-01-29",
+        "type": "boundary",
+        "description": "A constitutional reform published on 29 January 2016 turned the Federal District, created in 1824 as the seat of the federal powers, into the Ciudad de México, a federal entity with its own constitution (promulgated in February 2017) and with elected mayors (alcaldías) in place of its delegations. The city proper holds about 9 million people, but the metropolitan area of some 22 million spreads far into the State of Mexico and Hidalgo, which the reform did not touch.",
+        "confidence": "approximate",
+        "note": "Drawn from the modern boundary of the Ciudad de México (Natural Earth, which still names it Distrito Federal).",
+        "style": {
+          "color": "#7a8f5a"
+        },
+        "sources": [
+          {
+            "citation": "Decreto por el que se declaran reformadas y derogadas diversas disposiciones de la Constitución Política de los Estados Unidos Mexicanos, en materia de la reforma política de la Ciudad de México, Diario Oficial de la Federación, 29 Jan 2016."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-99.3347,19.2467],[-99.3326,19.2385],[-99.3144,19.2302],[-99.3142,19.2035],[-99.3067,19.1685],[-99.2851,19.1424],[-99.2617,19.1206],[-99.2291,19.1092],[-99.1309,19.0955],[-99.0905,19.0844],[-99.0548,19.0621],[-99.0428,19.0578],[-99.0178,19.0864],[-99.0055,19.0891],[-98.964,19.0891],[-98.9422,19.1214],[-98.9394,19.1388],[-98.9444,19.1555],[-98.9614,19.1852],[-98.9664,19.2012],[-98.9587,19.2614],[-98.9621,19.2877],[-98.9685,19.3081],[-98.9901,19.3365],[-99.0074,19.3471],[-99.0451,19.3631],[-99.0588,19.3773],[-99.0455,19.3903],[-99.0573,19.4046],[-99.0402,19.4185],[-99.0387,19.4273],[-99.0604,19.4653],[-99.0707,19.4888],[-99.0817,19.4944],[-99.095,19.5133],[-99.0976,19.5433],[-99.1013,19.551],[-99.1237,19.5711],[-99.1549,19.5396],[-99.1529,19.4918],[-99.1754,19.4816],[-99.2375,19.4044],[-99.2597,19.3609],[-99.2733,19.3561],[-99.3093,19.3626],[-99.3145,19.3414],[-99.3329,19.2977],[-99.3237,19.2645],[-99.3347,19.2467]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-election-2000",
+        "title": "Vicente Fox defeats the PRI",
+        "label": "Election 2000",
+        "date": "2000-07-02",
+        "type": "political",
+        "description": "On 2 July 2000 Vicente Fox, a former Coca-Cola executive and governor of Guanajuato, won the presidency for the PAN with about 43 per cent of the vote, ending 71 years of rule by the PRI and its predecessors. President Zedillo recognised the result on election night, after the count by the independent Federal Electoral Institute. Fox took office on 1 December 2000.",
+        "confidence": "approximate",
+        "note": "Marked at the headquarters of the Federal Electoral Institute (now the INE) in Tlalpan, which ran the count. Fox celebrated with supporters at the Ángel de la Independencia in the early hours of 3 July (Gillingham, ch. 21).",
+        "modern_place": "Instituto Nacional Electoral, Viaducto Tlalpan, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Julia Preston and Samuel Dillon, Opening Mexico: The Making of a Democracy (Farrar, Straus and Giroux, 2004)."
+          },
+          {
+            "citation": "Wikipedia, \"2000 Mexican general election\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2000_Mexican_general_election"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 19 and 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1515,19.288]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-puente-grande",
+        "title": "El Chapo escapes from Puente Grande",
+        "label": "Puente Grande 2001",
+        "date": "2001-01-19",
+        "type": "political",
+        "description": "Joaquín \"El Chapo\" Guzmán, arrested in Guatemala in 1993 and serving 20 years for criminal association and bribery, escaped from the federal maximum-security prison of Puente Grande, east of Guadalajara, on the evening of 19 January 2001, in the second month of Vicente Fox's presidency. The official account is that a maintenance worker wheeled him out in a laundry cart, with guards and officials bribed; others say he walked out. Over the next decade he built the Sinaloa organisation into the most powerful of the cartels.",
+        "confidence": "precise",
+        "note": "The laundry-cart version is the official and most widely accepted one; Gillingham (ch. 21) also mentions the claim that he left by the front door.",
+        "modern_place": "Penal de Puente Grande, El Salto, Jalisco",
+        "sources": [
+          {
+            "citation": "El Financiero, \"Así se fugó 'El Chapo'… la primera vez\", 12 Jul 2015.",
+            "url": "https://www.elfinanciero.com.mx/nacional/asi-se-fugo-el-chapo-la-primera-vez/"
+          },
+          {
+            "citation": "Benjamin T. Smith, The Dope: The Real History of the Mexican Drug Trade (W. W. Norton, 2021)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-103.2003,20.5599]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-campo-algodonero",
+        "title": "Feminicides in Ciudad Juárez: the Campo Algodonero",
+        "label": "Campo Algodonero",
+        "date": "2001-11-06",
+        "type": "political",
+        "description": "From 1993 the murders of hundreds of women and girls in Ciudad Juárez, many of them young maquiladora workers, drew international attention to the city and to the impunity of the killers. On 6–7 November 2001 the bodies of eight young women were found in a former cotton field in the city. In 2009 the Inter-American Court of Human Rights held Mexico responsible for failing to prevent and investigate three of these murders, a landmark ruling on gender-based violence.",
+        "confidence": "precise",
+        "note": "Marked at the memorial on the site, at Paseo de la Victoria and Avenida Ejército Nacional. Gillingham (ch. 21) writes that at least 700 young women disappeared from Juárez's maquiladoras and ties the femicides to the breakdown of the old order among the cartels in the 1990s.",
+        "modern_place": "Campo Algodonero, Ciudad Juárez",
+        "sources": [
+          {
+            "citation": "Corte Interamericana de Derechos Humanos, Caso González y otras (\"Campo Algodonero\") vs. México, sentencia de 16 de noviembre de 2009 (Serie C No. 205).",
+            "url": "https://www.corteidh.or.cr/docs/casos/articulos/seriec_205_esp.pdf"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-106.4036,31.6929]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-atenco",
+        "title": "Atenco: the airport that was not built, and the 2006 police raid",
+        "label": "Atenco",
+        "start": "2001-10-22",
+        "end": "2006-05-04",
+        "type": "political",
+        "description": "In October 2001 the Fox government expropriated ejido lands around San Salvador Atenco, on the old bed of Lake Texcoco, for a new airport for Mexico City. Machete-wielding farmers of the Frente de Pueblos en Defensa de la Tierra blocked roads and marched on the capital, and the project was cancelled in August 2002. On 3–4 May 2006 a joint federal and state police operation against the Frente left two young people dead and more than 200 detained; in 2018 the Inter-American Court found Mexico responsible for the sexual torture of eleven women arrested in those days.",
+        "confidence": "approximate",
+        "modern_place": "San Salvador Atenco, México",
+        "sources": [
+          {
+            "citation": "Comisión Nacional de los Derechos Humanos, \"Represión en San Salvador Atenco, violación del derecho a la vida, a la integridad personal y a la justicia. 3 de mayo de 2006\" (efeméride, 2025), summarising Recomendación 38/2006.",
+            "url": "https://www.cndh.org.mx/sites/default/files/documentos/2025-05/FRN_MAY_03-2.pdf"
+          },
+          {
+            "citation": "Corte Interamericana de Derechos Humanos, Caso Mujeres Víctimas de Tortura Sexual en Atenco vs. México, sentencia de 28 de noviembre de 2018 (Serie C No. 371).",
+            "url": "https://www.corteidh.or.cr/docs/casos/articulos/seriec_371_esp.pdf"
+          },
+          {
+            "citation": "Wikipedia, \"Texcoco Airport\" (consulted October 2026), for the 2001–02 airport project.",
+            "url": "https://en.wikipedia.org/wiki/Texcoco_Airport"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.9164,19.5524]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-pasta-de-conchos",
+        "title": "Pasta de Conchos mine disaster",
+        "label": "Pasta de Conchos",
+        "date": "2006-02-19",
+        "type": "economic",
+        "description": "A methane explosion at Grupo México's Pasta de Conchos coal mine, in the Sabinas coal basin of Coahuila that supplies the steel mills of Monclova, trapped 65 miners on 19 February 2006. The company and government soon abandoned the rescue, leaving almost all the bodies underground; a federal recovery effort began only in 2021 and had recovered the remains of about two dozen miners by 2026. The disaster set off a long confrontation between the government and the miners' union led by Napoleón Gómez Urrutia.",
+        "confidence": "approximate",
+        "note": "The mine lies in San Juan de Sabinas municipality, roughly 10 km west of Nueva Rosita toward Palaú (Wikipedia gives 27.968°N, 101.328°W, not independently confirmed); the point marks Nueva Rosita, the nearest town. Recovery counts differ between reports (26 by April 2026 in El Imparcial, 27 by February 2026 in Wikipedia).",
+        "modern_place": "Nueva Rosita, Coahuila",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Pasta de Conchos mine disaster\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Pasta_de_Conchos_mine_disaster"
+          },
+          {
+            "citation": "El Imparcial, \"Recuperan cuerpo 26 en Pasta de Conchos: continúan rescates a más de 20 años de la explosión minera en Coahuila\", 18 Apr 2026.",
+            "url": "https://www.elimparcial.com/mexico/2026/04/18/recuperan-cuerpo-26-en-pasta-de-conchos-continuan-rescates-a-mas-de-20-anos-de-la-explosion-minera-en-coahuila/"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.2187,27.9378]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-oaxaca-2006",
+        "title": "Oaxaca 2006: the teachers' strike and the APPO",
+        "label": "Oaxaca APPO 2006",
+        "start": "2006-05-22",
+        "end": "2006-11-25",
+        "type": "uprising",
+        "description": "Striking teachers of Section 22 of the national union occupied Oaxaca's zócalo from 22 May 2006. When Governor Ulises Ruiz sent state police to evict them on 14 June, the failure of the raid gave birth to the Asamblea Popular de los Pueblos de Oaxaca (APPO), which held the city centre with barricades and seized radio stations for five months, demanding the governor's removal. After the US journalist Brad Will and others were shot on 27 October, Fox sent in the Federal Preventive Police, which retook the zócalo on 29 October and broke the movement after clashes on 25 November; some twenty people were killed during the conflict.",
+        "confidence": "precise",
+        "modern_place": "Zócalo, Oaxaca de Juárez",
+        "sources": [
+          {
+            "citation": "Diana Denham and the C.A.S.A. Collective, eds., Teaching Rebellion: Stories from the Grassroots Mobilization in Oaxaca (PM Press, 2008)."
+          },
+          {
+            "citation": "Committee to Protect Journalists, \"A Killing in Mexico\" (special report on the death of Brad Will, April 2007).",
+            "url": "https://cpj.org/reports/2007/04/killing-in-mexico/"
+          },
+          {
+            "citation": "Wikipedia, \"2006 Oaxaca protests\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2006_Oaxaca_protests"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.7253,17.0606]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-election-2006",
+        "title": "The contested election of 2006",
+        "label": "Election 2006",
+        "date": "2006-07-02",
+        "type": "political",
+        "description": "Felipe Calderón of the PAN defeated Andrés Manuel López Obrador, the former head of government of Mexico City, by 0.56 per cent of the vote, carrying the north and the Bajío while López Obrador won the capital and most of the south. López Obrador alleged fraud, refused to accept the electoral court's ruling and kept supporters camped in the Zócalo and along Paseo de la Reforma for 47 days, from 30 July to mid-September. Many analysts argue that the bitterness of the dispute pushed Calderón, who took office on 1 December, to seek legitimacy in a war on the cartels.",
+        "confidence": "approximate",
+        "note": "Marked at the Zócalo, centre of the post-electoral protests.",
+        "modern_place": "Plaza de la Constitución, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"2006 Mexican general election\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2006_Mexican_general_election"
+          },
+          {
+            "citation": "Michael C. Meyer, William L. Sherman and Susan M. Deeds, The Course of Mexican History, 10th ed. (Oxford University Press, 2014)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1332,19.4326]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-operacion-michoacan",
+        "title": "Operación Conjunta Michoacán: the drug war begins",
+        "label": "Operación Michoacán 2006",
+        "date": "2006-12-11",
+        "type": "battle",
+        "description": "Ten days after taking office, Calderón sent more than 5,000 soldiers and marines, with federal police and prosecutors, into his home state of Michoacán, where on 6 September the Familia Michoacana had announced itself by throwing five severed heads onto the dance floor of a bar in Uruapan. Similar operations followed in Baja California, Guerrero, Chihuahua, Tamaulipas and elsewhere. Captures and killings of cartel leaders splintered the organisations and set off wars of succession: homicides recorded by INEGI rose from about 8,900 in 2007 to about 27,200 in 2011.",
+        "confidence": "schematic",
+        "note": "The operation covered the Tierra Caliente and the Michoacán coast; the point marks Apatzingán, its main theatre. The first announcement listed 4,260 soldiers, 1,054 marines and about 300 federal police and prosecutors; later reports give totals of up to 7,000. Gillingham (ch. 21) gives 6,500 troops sent into Michoacán and Guerrero, and more than 200,000 Mexicans killed in the drug war by 2020, with about 100,000 disappeared.",
+        "modern_place": "Apatzingán, Michoacán",
+        "sources": [
+          {
+            "citation": "El Universo (Guayaquil, wire report), \"Calderón lanza fuerte ofensiva contra narcotráfico en México\", 12 Dec 2006.",
+            "url": "https://www.eluniverso.com/2006/12/12/0001/14/B44694DD65AE4EC4A9045814E9C014CE.html"
+          },
+          {
+            "citation": "George W. Grayson, La Familia Drug Cartel: Implications for U.S.-Mexican Security (Strategic Studies Institute and US Army War College Press, 2010).",
+            "url": "https://press.armywarcollege.edu/monographs/590"
+          },
+          {
+            "citation": "Carlos Arrieta, \"Cabezas humanas en un bar: el día que llegó el terror a Michoacán\", El Universal, 6 Sep 2019.",
+            "url": "https://www.eluniversal.com.mx/estados/cabezas-humanas-en-un-bar-el-dia-que-llego-el-terror-michoacan/"
+          },
+          {
+            "citation": "INEGI, Estadísticas de defunciones registradas: defunciones por homicidio (series 1990 onward; 8,867 in 2007 and 27,213 in 2011)."
+          },
+          {
+            "citation": "Benjamin T. Smith, The Dope: The Real History of the Mexican Drug Trade (W. W. Norton, 2021)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.3537,19.0914]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-juarez-2008",
+        "title": "Ciudad Juárez, the most violent city",
+        "label": "Ciudad Juárez 2008–11",
+        "start": "2008-03",
+        "end": "2011",
+        "type": "battle",
+        "description": "The war between the Sinaloa and Juárez cartels for the El Paso crossing made Ciudad Juárez the most violent city in the world: more than 3,000 people were murdered in 2010 alone, despite the arrival of several thousand soldiers and federal police under Operación Conjunta Chihuahua from March 2008. On 31 January 2010 gunmen killed 15 people, most of them students, at a party in Villas de Salvárcar. Tens of thousands of residents left for El Paso or the interior before the violence fell sharply from 2012.",
+        "confidence": "approximate",
+        "note": "Marked at the city centre; Villas de Salvárcar lies about 15 km to the southeast.",
+        "modern_place": "Ciudad Juárez, Chihuahua, Mexico",
+        "sources": [
+          {
+            "citation": "Viridiana Ríos and David A. Shirk, Drug Violence in Mexico: Data and Analysis Through 2010 (Trans-Border Institute, University of San Diego, 2011)."
+          },
+          {
+            "citation": "Howard Campbell, Drug War Zone: Frontline Dispatches from the Streets of El Paso and Juárez (University of Texas Press, 2009)."
+          },
+          {
+            "citation": "Benjamin T. Smith, The Dope: The Real History of the Mexican Drug Trade (W. W. Norton, 2021)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-106.4832,31.739]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-san-fernando",
+        "title": "San Fernando massacres",
+        "label": "San Fernando 2010",
+        "date": "2010-08-24",
+        "type": "political",
+        "description": "On 24 August 2010 marines, alerted by a wounded survivor, found the bodies of 72 migrants, mostly from Central and South America, at a ranch near San Fernando, Tamaulipas; they had been seized on their way north and shot by the Zetas, apparently for refusing to work for them or to pay ransom. Between April and June 2011 clandestine graves around the town yielded 193 more bodies, many of them people taken from buses. The killings exposed the dangers of the route along the Gulf coast to the Rio Grande.",
+        "confidence": "approximate",
+        "note": "The ranch, in the ejido of El Huizachal, lies in the countryside of San Fernando municipality; the point marks the town. Some sources date the discovery to 25 August, when the full count was made. Gillingham (ch. 21) gives 73 bodies for the 2010 grave and names La Joya as the ranch where the 193 victims of 2011 were killed; the CNDH and most accounts give 72 for 2010.",
+        "modern_place": "San Fernando, Tamaulipas",
+        "sources": [
+          {
+            "citation": "Comisión Nacional de los Derechos Humanos, Recomendación 80/2013 (San Fernando, Tamaulipas, 23 Dec 2013)."
+          },
+          {
+            "citation": "Wikipedia, \"2010 San Fernando massacre\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2010_San_Fernando_massacre"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.1473,24.8467]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-autodefensas",
+        "title": "The Michoacán autodefensas",
+        "label": "Autodefensas 2013",
+        "start": "2013-02-24",
+        "end": "2014-05",
+        "type": "uprising",
+        "description": "On 24 February 2013 armed civilians in Tepalcatepec and in La Ruana (Buenavista), farm towns of the Tierra Caliente, rose against the Caballeros Templarios, the cartel that extorted lime growers, avocado farmers and cattlemen and controlled local government. Led by figures such as the doctor José Manuel Mireles and the lime grower Hipólito Mora, the self-defence groups spread through the region and drove the Templarios from many towns. In 2014 the federal government sent a commissioner and folded many of them into a rural police force; some were later absorbed by rival cartels.",
+        "confidence": "approximate",
+        "note": "Marked at Tepalcatepec; La Ruana lies about 15 km to the east.",
+        "modern_place": "Tepalcatepec, Michoacán",
+        "sources": [
+          {
+            "citation": "El Universal, \"Autodefensas, política y atentados: así fue la vida de Hipólito Mora\", June 2023.",
+            "url": "https://www.eluniversal.com.mx/estados/autodefensas-politica-y-atentados-asi-fue-la-vida-de-hipolito-mora/"
+          },
+          {
+            "citation": "Guillermo Trejo and Sandra Ley, Votes, Drugs, and Violence: The Political Logic of Criminal Wars in Mexico (Cambridge University Press, 2020)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.8454,19.1921]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-avocado-michoacan",
+        "title": "Extortion in the avocado belt of Michoacán",
+        "label": "Avocado extortion",
+        "start": "2009",
+        "end": "2014",
+        "type": "economic",
+        "description": "Michoacán grows most of Mexico's avocados and about half of the world's export supply, and its orchards spread across the uplands around Uruapan and Tancítaro after NAFTA opened the US market. From 2009 the Familia Michoacana, and from 2011 its offshoot the Caballeros Templarios, levied a tax on the growers; Tancítaro's growers estimated that organised crime took about US$770 million from the trade in 2009–13. Extortion of this kind, more than drug trafficking itself, drove the rise of the autodefensas in 2013, and the fight for the orchards continued under other groups.",
+        "confidence": "approximate",
+        "note": "Marked at Tancítaro, whose municipality alone supplies about a quarter of the international market. Gillingham (ch. 21) attributes the 2009 extortion, which he puts at a quarter of a billion pesos, to the Caballeros Templarios; they split from the Familia Michoacana only in 2011.",
+        "modern_place": "Tancítaro, Michoacán, Mexico",
+        "sources": [
+          {
+            "citation": "Michael Lohmuller, \"Enorme extorsión a granja de aguacates resalta la causa de las autodefensas\", InSight Crime, 8 Apr 2014.",
+            "url": "https://insightcrime.org/noticias/noticias-del-dia/enorme-extorsion-a-granja-de-aguacates-saca-a-relucir-las-causas-de-las-autodefensas"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.3626,19.3375]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-ayotzinapa-iguala",
+        "title": "The disappearance of the 43 students of Ayotzinapa",
+        "label": "Iguala 2014",
+        "start": "2014-09-26",
+        "end": "2014-09-27",
+        "type": "political",
+        "description": "On the night of 26–27 September 2014, students of the Ayotzinapa rural teachers' college who had taken buses in Iguala to travel to the 2 October commemoration in Mexico City were attacked by municipal police working with the Guerreros Unidos gang, with state, federal and army forces aware of what was happening. Six people were killed and 43 students were taken and disappeared. The federal attorney general's \"historical truth\", that they were burned at the Cocula rubbish dump, was refuted by the Inter-American Commission's experts (GIEI); in 2022 the federal truth commission called it a crime of state. The remains of only three students have been identified, and the case remains unresolved.",
+        "confidence": "approximate",
+        "note": "The attacks took place at several points in and around Iguala, notably on Calle Juan N. Álvarez and near the Palacio de Justicia on the road to Chilpancingo; the point marks the city centre. The Cocula dump lies about 20 km to the west and is not mapped. Gillingham (ch. 21) follows the truth commission's 2022 report: six of the students who survived the first killings were handed to the colonel of the 27th Infantry Battalion and killed days later, and the former attorney general Jesús Murillo Karam was arrested in 2022. These six are among the 43, not the six people killed on the night.",
+        "modern_place": "Iguala, Guerrero, Mexico",
+        "sources": [
+          {
+            "citation": "Grupo Interdisciplinario de Expertos Independientes (GIEI), Informe Ayotzinapa: investigación y primeras conclusiones de las desapariciones y homicidios de los normalistas de Ayotzinapa (Comisión Interamericana de Derechos Humanos, 2015).",
+            "url": "https://www.oas.org/es/cidh/actividades/giei/GIEI-InformeAyotzinapa1.pdf"
+          },
+          {
+            "citation": "Comisión Nacional de los Derechos Humanos, Recomendación 15VG/2018, \"Caso Iguala\" (28 Nov 2018).",
+            "url": "https://www.cndh.org.mx/sites/default/files/doc/Recomendaciones/ViolacionesGraves/RecVG_015.pdf"
+          },
+          {
+            "citation": "Comisión para la Verdad y Acceso a la Justicia del Caso Ayotzinapa, Informe de la Presidencia (Secretaría de Gobernación, 18 Aug 2022).",
+            "url": "https://www.gob.mx/cms/uploads/attachment/file/753766/CP_Informe_CoVAJ_Ayotzinapa__18ag022__1_.pdf"
+          },
+          {
+            "citation": "Expansión Política, \"12 años de Ayotzinapa: nuevas investigaciones, detenciones y pendientes en el caso de los 43\", 26 Sep 2026.",
+            "url": "https://politica.expansion.mx/mexico/2026/09/26/12-anos-desaparicion-de-los-43-estudiantes-de-ayotzinapa"
+          },
+          {
+            "citation": "John Gibler, I Couldn't Even Imagine That They Would Kill Us: An Oral History of the Attacks Against the Students of Ayotzinapa (City Lights, 2017)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.5377,18.3466]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-ayotzinapa-normal",
+        "title": "Raúl Isidro Burgos rural normal school, Ayotzinapa",
+        "label": "Ayotzinapa normal school",
+        "date": "2014-09-26",
+        "type": "political",
+        "description": "The Escuela Normal Rural Raúl Isidro Burgos, founded in 1926 at Ayotzinapa near Tixtla, trains the sons of poor peasants as rural teachers and has a long tradition of radical politics; the guerrilla leaders Lucio Cabañas and Genaro Vázquez studied here. Its students set out from here on 26 September 2014; since then it has been the centre of the parents' campaign for the truth about the 43.",
+        "confidence": "precise",
+        "modern_place": "Escuela Normal Rural Raúl Isidro Burgos, Tixtla",
+        "sources": [
+          {
+            "citation": "Grupo Interdisciplinario de Expertos Independientes (GIEI), Informe Ayotzinapa: investigación y primeras conclusiones de las desapariciones y homicidios de los normalistas de Ayotzinapa (Comisión Interamericana de Derechos Humanos, 2015).",
+            "url": "https://www.oas.org/es/cidh/actividades/giei/GIEI-InformeAyotzinapa1.pdf"
+          },
+          {
+            "citation": "John Gibler, I Couldn't Even Imagine That They Would Kill Us: An Oral History of the Attacks Against the Students of Ayotzinapa (City Lights, 2017)."
+          },
+          {
+            "citation": "Comisión Nacional de los Derechos Humanos, efeméride of 2 February (death of Genaro Vázquez Rojas, 1972).",
+            "url": "https://www.cndh.org.mx/sites/default/files/documentos/2026-02/FRN_FEB_2-1.pdf"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.4101,17.5528]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-chapo-altiplano",
+        "title": "El Chapo's escape from the Altiplano prison",
+        "label": "Altiplano escape 2015",
+        "date": "2015-07-11",
+        "type": "political",
+        "description": "Joaquín \"El Chapo\" Guzmán, leader of the Sinaloa cartel, who had escaped from the Puente Grande prison in Jalisco in 2001 and been recaptured in 2014, escaped again on 11 July 2015 through a tunnel about 1.5 km long dug to the shower of his cell in the maximum-security Altiplano prison. He was recaptured at Los Mochis, Sinaloa, in January 2016, extradited to the United States in 2017 and sentenced to life in prison in New York in 2019.",
+        "confidence": "precise",
+        "modern_place": "Altiplano, Almoloya de Juárez",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Joaquín \"El Chapo\" Guzmán\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Joaqu%C3%ADn_%22El_Chapo%22_Guzm%C3%A1n"
+          },
+          {
+            "citation": "Benjamin T. Smith, The Dope: The Real History of the Mexican Drug Trade (W. W. Norton, 2021)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.7496,19.4211]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-javier-valdez",
+        "title": "Murder of the journalist Javier Valdez",
+        "label": "Javier Valdez 2017",
+        "date": "2017-05-15",
+        "type": "political",
+        "description": "Javier Valdez Cárdenas, co-founder of the Culiacán weekly Ríodoce and La Jornada's Sinaloa correspondent, was dragged from his car and shot at least twelve times near the paper's office at about noon on 15 May 2017. Prosecutors linked the killing to his reporting on the war between factions of the Sinaloa cartel; an accomplice and one of the gunmen were later convicted, and the alleged mastermind, Dámaso López Serrano, surrendered in the United States. More than a hundred journalists were killed in Mexico between 2006 and 2020, making it one of the most dangerous countries in the world for the press.",
+        "confidence": "approximate",
+        "note": "Marked at the centre of Culiacán; the attack took place near the Ríodoce office, which was not geocoded. Gillingham (ch. 21) uses the case to show how hard it is to know who ordered such killings: theories also pointed to politicians.",
+        "modern_place": "Culiacán, Sinaloa, Mexico",
+        "sources": [
+          {
+            "citation": "Committee to Protect Journalists, \"Javier Valdez Cárdenas\" (case record).",
+            "url": "https://cpj.org/data/people/javier-valdez-cardenas/index.php"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-107.3934,24.7979]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-culiacanazo",
+        "title": "The \"Culiacanazo\"",
+        "label": "Culiacanazo 2019",
+        "date": "2019-10-17",
+        "type": "battle",
+        "description": "On 17 October 2019 soldiers detained Ovidio Guzmán, a son of El Chapo, in Culiacán. Hundreds of cartel gunmen responded by blockading and shooting across the city and taking soldiers hostage, and President López Obrador ordered him released to avoid a massacre. Ovidio was arrested again near Culiacán on 5 January 2023, in an operation that left 29 dead, including 10 soldiers, and was extradited to the United States in September 2023.",
+        "confidence": "approximate",
+        "note": "The fighting spread across Culiacán; the point marks the city centre. Gillingham (ch. 21) gives 29 dead for the Culiacanazo of 2019; that is the toll of the January 2023 arrest. Reports of 17 October 2019 give 8 dead officially, and up to 14.",
+        "modern_place": "Culiacán, Sinaloa",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Battle of Culiacán\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Battle_of_Culiac%C3%A1n"
+          },
+          {
+            "citation": "Benjamin T. Smith, The Dope: The Real History of the Mexican Drug Trade (W. W. Norton, 2021)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-107.3934,24.7979]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-sinaloa-war",
+        "title": "War within the Sinaloa cartel",
+        "label": "Sinaloa war 2024–",
+        "start": "2024-09-09",
+        "type": "battle",
+        "description": "On 25 July 2024 Ismael \"El Mayo\" Zambada, co-founder of the Sinaloa cartel, was flown to New Mexico and arrested with Joaquín Guzmán López, one of El Chapo's sons, who his lawyers say kidnapped him. From 9 September 2024 the two factions, the Mayos and the Chapitos, fought for control of Sinaloa: more than 600 people were killed in the first hundred days, and bodies, school closures and abandoned businesses became part of daily life in Culiacán through 2025.",
+        "confidence": "approximate",
+        "note": "The fighting centred on Culiacán and spread across central Sinaloa; the point marks the city. It is shown as ongoing. Counts differ: the state prosecutors gave 555 homicides for 9 Sep–9 Dec 2024, and Proceso more than 600 in the first hundred days.",
+        "modern_place": "Culiacán, Sinaloa",
+        "sources": [
+          {
+            "citation": "Expansión Política, \"Chapitos vs. Mayos, la confrontación que sumergió a Sinaloa en una 'guerra'\", 29 Dec 2024.",
+            "url": "https://politica.expansion.mx/mexico/2024/12/29/asi-empezo-guerra-chapitos-mayitos"
+          },
+          {
+            "citation": "Proceso, \"Cien días de violencia en una Sinaloa ocupada por el narco; suman más de 600 asesinatos\", 17 Dec 2024.",
+            "url": "https://www.proceso.com.mx/nacional/2024/12/18/cien-dias-de-violencia-en-una-sinaloa-ocupada-por-el-narco-suman-mas-de-600-asesinatos-342282.html"
+          },
+          {
+            "citation": "Associated Press, \"Cartel violence in Sinaloa, Mexico, leaves 20 dead, including 4 decapitated bodies\", 30 Jun 2025 (via KPBS).",
+            "url": "https://www.kpbs.org/news/international/2025/06/30/cartel-violence-in-sinaloa-mexico-leaves-20-dead-including-4-decapitated-bodies"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-107.3934,24.7979]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-quake-2017-chiapas",
+        "title": "The Tehuantepec earthquake of 7 September 2017",
+        "label": "Earthquake Sep 2017 (Isthmus)",
+        "date": "2017-09-07",
+        "type": "political",
+        "description": "Just before midnight on 7 September 2017 a magnitude 8.2 earthquake, the strongest recorded in Mexico in a century, struck offshore in the Gulf of Tehuantepec. It killed about 100 people in Oaxaca, Chiapas and Tabasco, most of them in Oaxaca, and destroyed or damaged thousands of houses and the town hall of the Zapotec town of Juchitán.",
+        "confidence": "approximate",
+        "note": "Marked at Juchitán, the worst-hit town; the USGS epicentre lies offshore in the Gulf of Tehuantepec (15.02°N, 93.90°W), about 200 km to the south-east.",
+        "modern_place": "Juchitán de Zaragoza, Oaxaca",
+        "sources": [
+          {
+            "citation": "US Geological Survey, Earthquake Hazards Program, event us2000ahv0, \"M 8.2 – 2017 Tehuantepec, Mexico Earthquake\" (8 Sep 2017 UTC).",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0"
+          },
+          {
+            "citation": "Wikipedia, \"2017 Chiapas earthquake\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2017_Chiapas_earthquake"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-95.0194,16.4333]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-quake-2017-epicentre",
+        "title": "Epicentre of the 19 September 2017 earthquake",
+        "label": "19S 2017 epicentre",
+        "date": "2017-09-19",
+        "type": "political",
+        "description": "On the anniversary of the 1985 earthquake, and two hours after a commemorative drill, a magnitude 7.1 earthquake struck at 13:14 beneath the Puebla–Morelos border, about 120 km south-east of Mexico City. It killed about 370 people, more than 200 of them in the capital, and damaged towns, churches and convents across Morelos and Puebla.",
+        "confidence": "precise",
+        "note": "USGS epicentre, 1 km south of Matzaco, Puebla, near Axochiapan, Morelos.",
+        "sources": [
+          {
+            "citation": "US Geological Survey, Earthquake Hazards Program, event us2000ar20, \"M 7.1 – 1 km S of Matzaco, Mexico\" (19 Sep 2017).",
+            "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ar20"
+          },
+          {
+            "citation": "Wikipedia, \"2017 Puebla earthquake\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2017_Puebla_earthquake"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.4887,18.5499]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-quake-2017-cdmx",
+        "title": "Collapses in Mexico City, 19 September 2017",
+        "label": "19S 2017 Mexico City",
+        "date": "2017-09-19",
+        "type": "political",
+        "description": "In Mexico City at least 44 buildings collapsed, again concentrated on the soft soils of the old lake bed in the Roma, Condesa, Del Valle and Coapa districts. Among the worst were the office building at Álvaro Obregón 286 in Roma Norte, where dozens died, and the Enrique Rébsamen school in Coapa, where 19 children and 7 adults were killed. As in 1985, volunteers led the first rescue efforts.",
+        "confidence": "approximate",
+        "note": "Marked near Avenida Álvaro Obregón 286 (the geocoder resolves only the avenue). The Rébsamen school was in Tlalpan, about 15 km to the south.",
+        "modern_place": "Avenida Álvaro Obregón 286, Roma Norte, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"2017 Puebla earthquake\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2017_Puebla_earthquake"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1665,19.4185]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-election-2018",
+        "title": "López Obrador elected president",
+        "label": "Election 2018",
+        "date": "2018-07-01",
+        "type": "political",
+        "description": "At his third attempt, Andrés Manuel López Obrador won the presidency for his new party, Morena, with 53 per cent of the vote, carrying 31 of the 32 federal entities, and his coalition won majorities in both chambers of Congress. Promising a \"fourth transformation\", he cancelled the new Texcoco airport, centralised social programmes, gave the armed forces a large role in construction and policing, and concentrated public investment in the south-east.",
+        "confidence": "approximate",
+        "note": "Marked at the Zócalo, where he celebrated his victory on election night.",
+        "modern_place": "Plaza de la Constitución, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"2018 Mexican general election\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2018_Mexican_general_election"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1332,19.4326]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-suchiate",
+        "title": "The Suchiate crossing",
+        "label": "Suchiate crossing",
+        "start": "2018-10-19",
+        "type": "political",
+        "description": "The Suchiate River between Tecún Umán, Guatemala, and Ciudad Hidalgo, Chiapas, is the busiest crossing on Mexico's southern border, most of it by raft beneath the official bridge. On 19 October 2018 thousands of Hondurans in a migrant caravan broke through the Guatemalan gate and filled the bridge; Mexican police held them back, but most crossed the river over the next days. Since 2019, under US pressure, Mexico has deployed the National Guard along the river, and Tapachula has become a city of migrants waiting for papers.",
+        "confidence": "precise",
+        "modern_place": "Ciudad Hidalgo, Chiapas",
+        "sources": [
+          {
+            "citation": "Associated Press, \"Caravan at Mexico-Guatemala border shrinks as migrants cross\", 20 Oct 2018.",
+            "url": "https://www.pbs.org/newshour/world/caravan-at-mexico-guatemala-border-shrinks-as-migrants-cross"
+          },
+          {
+            "citation": "El Colegio de la Frontera Norte, La caravana de migrantes centroamericanos en Tijuana 2018: diagnóstico y propuestas de acción (El Colef, December 2018)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-92.1524,14.6797]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-caravan-2018",
+        "title": "The migrant caravan of October–November 2018",
+        "label": "Caravan 2018",
+        "start": "2018-10-19",
+        "end": "2018-11-25",
+        "type": "route",
+        "description": "Travelling together for safety, some 5,000–7,000 Central Americans, most of them Hondurans, crossed Mexico on foot, by hitching and by bus in about five weeks. They rested at a sports stadium in Mexico City in early November and reached Tijuana in mid-November, where some 6,000 camped at the Benito Juárez sports complex near the border to wait for US asylum hearings. Later caravans followed, and Mexico increasingly stopped them in the south.",
+        "confidence": "schematic",
+        "note": "Only the main stops are drawn; groups split and took different routes, and the line between Guadalajara and the border is schematic.",
+        "sources": [
+          {
+            "citation": "El Colegio de la Frontera Norte, La caravana de migrantes centroamericanos en Tijuana 2018: diagnóstico y propuestas de acción (El Colef, December 2018)."
+          },
+          {
+            "citation": "Associated Press, \"Caravan at Mexico-Guatemala border shrinks as migrants cross\", 20 Oct 2018.",
+            "url": "https://www.pbs.org/newshour/world/caravan-at-mexico-guatemala-border-shrinks-as-migrants-cross"
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-92.1524,14.6797],[-92.2609,14.9043],[-95.0194,16.4333],[-96.9353,18.8945],[-98.1982,19.0438],[-99.0949,19.4077],[-100.3917,20.5923],[-103.3384,20.672],[-110.9692,29.0948],[-115.4747,32.6393],[-117.0371,32.5365]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-texcoco-airport",
+        "title": "The cancelled Texcoco airport (NAIM)",
+        "label": "Texcoco airport (cancelled)",
+        "start": "2014-09-02",
+        "end": "2018-12-27",
+        "type": "economic",
+        "description": "Enrique Peña Nieto's government began building a new international airport for Mexico City, designed by Norman Foster and Fernando Romero, on the dry bed of Lake Texcoco east of the existing airport. After an informal consultation in late October 2018, in which about 70 per cent of the roughly one million participants voted against it, the president-elect announced that the partly built project would be abandoned, citing cost, corruption and the sinking lakebed; work stopped in December 2018. It was replaced by the Felipe Ángeles airport, and the site became the Lake Texcoco Ecological Park (inaugurated 2024).",
+        "confidence": "approximate",
+        "note": "The terminal site lay on the federal lakebed between Ecatepec and Texcoco; the point marks the Lake Texcoco ecological park that now occupies much of it and is approximate.",
+        "modern_place": "Parque Ecológico Lago de Texcoco",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Texcoco Airport\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Texcoco_Airport"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.9658,19.4811]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-tlahuelilpan",
+        "title": "Tlahuelilpan pipeline explosion",
+        "label": "Tlahuelilpan 2019",
+        "date": "2019-01-18",
+        "type": "economic",
+        "description": "On 18 January 2019 a PEMEX gasoline pipeline tapped by fuel thieves near Tlahuelilpan, Hidalgo, exploded while hundreds of local people were collecting fuel from the leak, killing 137. Fuel theft (huachicol) from PEMEX pipelines, above all in Hidalgo, Puebla and Guanajuato, had become a major business for criminal groups, and the new government had just closed pipelines to fight it, causing petrol shortages.",
+        "confidence": "approximate",
+        "note": "The breach was at San Primitivo, on the edge of the town, on the Tuxpan–Tula pipeline; the point marks Tlahuelilpan.",
+        "modern_place": "Tlahuelilpan, Hidalgo",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Tlahuelilpan pipeline explosion\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Tlahuelilpan_pipeline_explosion"
+          },
+          {
+            "citation": "Benjamin T. Smith, The Dope: The Real History of the Mexican Drug Trade (W. W. Norton, 2021)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.2304,20.1299]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-metro-line12",
+        "title": "Collapse of Metro Line 12",
+        "label": "Line 12 collapse 2021",
+        "date": "2021-05-03",
+        "type": "economic",
+        "description": "On the night of 3 May 2021 an elevated section of Line 12 of the Mexico City Metro collapsed between the Tezonco and Olivos stations in Tláhuac, dropping a train onto the road below and killing 26 people. The line, inaugurated in 2012, had been built when Marcelo Ebrard governed the capital; the independent DNV report blamed missing and badly welded studs and the lack of inspections.",
+        "confidence": "approximate",
+        "modern_place": "Olivos, Tláhuac, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Mexico City Metro overpass collapse\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Mexico_City_Metro_overpass_collapse"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.0595,19.3043]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-aifa",
+        "title": "Felipe Ángeles International Airport (AIFA)",
+        "label": "AIFA",
+        "date": "2022-03-21",
+        "type": "economic",
+        "description": "Built by army engineers on the Santa Lucía air force base, about 35 km north of the city centre, and opened on 21 March 2022, AIFA was López Obrador's replacement for the cancelled Texcoco airport. Poorly connected to the city at first, it attracted few passenger flights, but it became the country's largest air-cargo hub after a decree moved cargo flights out of the old Benito Juárez airport in 2023.",
+        "confidence": "precise",
+        "modern_place": "Aeropuerto Internacional Felipe Ángeles",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Felipe Ángeles International Airport\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Felipe_%C3%81ngeles_International_Airport"
+          },
+          {
+            "citation": "Wikipedia, \"Texcoco Airport\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Texcoco_Airport"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.0106,19.7438]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-dos-bocas",
+        "title": "Olmeca refinery, Dos Bocas",
+        "label": "Dos Bocas refinery",
+        "start": "2019-06",
+        "end": "2022-07-01",
+        "type": "economic",
+        "description": "To cut Mexico's dependence on imported petrol, López Obrador had PEMEX build a 340,000-barrel-a-day refinery at the port of Dos Bocas, near Paraíso on the coast of his home state of Tabasco. It was inaugurated, unfinished, on 1 July 2022, with costs far above the original US$8 billion estimate, and its output ramped up only slowly over the following years.",
+        "confidence": "approximate",
+        "modern_place": "Refinería Olmeca, Paraíso, Tabasco",
+        "sources": [
+          {
+            "citation": "Hydrocarbon Processing (Reuters), \"Mexico inaugurates Dos Bocas oil refinery, promising production in 2023\", July 2022.",
+            "url": "https://www.hydrocarbonprocessing.com/news/2022/07/mexico-inaugurates-dos-bocas-oil-refinery-promising-production-in-2023/"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-93.196,18.4227]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-tren-maya",
+        "title": "Tren Maya",
+        "label": "Tren Maya",
+        "start": "2023-12-15",
+        "end": "2024-12-15",
+        "type": "route",
+        "directional": false,
+        "description": "López Obrador's signature project, a 1,554 km railway built largely by the army, loops around the Yucatán Peninsula from Palenque through Campeche, Mérida, Cancún, Tulum and Chetumal and back to Escárcega, with 34 stations and stops. It opened in stages: Campeche–Cancún on 15 December 2023, Palenque–Campeche on 31 December, Cancún–Playa del Carmen on 29 February 2024, the line south to Felipe Carrillo Puerto and Chetumal in September 2024, and the last section, Escárcega–Chetumal, on 15 December 2024. Archaeologists, environmentalists and Maya communities objected to the clearing of jungle and to piles driven into the cave systems near Playa del Carmen and Tulum.",
+        "confidence": "approximate",
+        "note": "Drawn through the 34 stations and minor stops (paraderos) of the official list, approximated by the nearest towns; several stations, such as Tulum, Cancún Aeropuerto and Chetumal Aeropuerto, lie outside the towns, and the track between them is not traced. The September 2024 openings are given to the month because only one news report dates them to the day.",
+        "sources": [
+          {
+            "citation": "Fonatur, \"Tren Maya\" (official project presentation, 27 Feb 2023), for the length and the stations.",
+            "url": "https://www.gob.mx/cms/uploads/attachment/file/806379/Fonatur_Tren_Maya__27feb23.pdf"
+          },
+          {
+            "citation": "El Financiero, \"Inauguración del Tren Maya: ruta y estaciones del tramo hoy 15 de diciembre\", 15 Dec 2023.",
+            "url": "https://www.elfinanciero.com.mx/estados/2023/12/15/inauguracion-del-tren-maya-ruta-y-estaciones-del-tramo-hoy-15-de-diciembre/"
+          },
+          {
+            "citation": "Infobae, \"Claudia Sheinbaum confirma fecha en la que se inaugurará el tramo Palenque-Chetumal del Tren Maya\", 5 Dec 2024.",
+            "url": "https://www.infobae.com/mexico/2024/12/05/claudia-sheinbaum-confirma-fecha-en-la-que-se-inaugurara-el-tramo-palenque-chetumal-del-tren-maya/"
+          },
+          {
+            "citation": "Wikipedia, \"Tren Maya\" (consulted October 2026), for the opening dates of each section.",
+            "url": "https://en.wikipedia.org/wiki/Tren_Maya"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-91.9809,17.5092],[-91.4288,17.4532],[-91.422,17.4707],[-91.1697,17.9224],[-90.7445,18.1603],[-90.7386,18.6069],[-90.5221,19.094],[-90.3693,19.5908],[-90.5367,19.8437],[-90.2255,20.0407],[-90.1339,20.1774],[-90.0509,20.3701],[-90.0769,20.5965],[-89.7679,20.8471],[-89.521,20.9364],[-89.3489,20.9756],[-89.0183,20.9334],[-88.5892,20.6997],[-88.2017,20.6903],[-87.6028,20.8792],[-87.204,20.9897],[-86.8818,21.0407],[-86.8755,20.8489],[-87.0808,20.6463],[-87.4653,20.2114],[-87.6584,20.1673],[-88.0463,19.5776],[-88.1069,19.025],[-88.3923,18.6783],[-88.3325,18.5068],[-88.9281,18.4595],[-89.3952,18.5025],[-89.9143,18.5401],[-90.2854,18.6515],[-90.7386,18.6069]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-interoceanic",
+        "title": "Interoceanic Corridor of the Isthmus of Tehuantepec",
+        "label": "Interoceanic Corridor",
+        "start": "2023-12-22",
+        "type": "route",
+        "directional": false,
+        "description": "The government rebuilt the 1907 Tehuantepec railway between the Gulf port of Coatzacoalcos and the Pacific port of Salina Cruz (Line Z, about 300 km), expanded both ports and planned industrial parks along the way, reviving the old idea of the isthmus as a rival to the Panama Canal. Passenger service began on 22 December 2023, and on 21 November 2025 the first four stations of Line K, the branch toward Chiapas, opened. On 28 December 2025 a passenger train derailed near Nizanda, killing at least 13 people.",
+        "confidence": "approximate",
+        "note": "Drawn through towns with stations on Line Z (Medias Aguas is the junction with the line to Veracruz; Nizanda is a planned station); the track between them is not traced. Line K, from Ixtepec toward Ciudad Hidalgo on the Guatemalan border, is not drawn.",
+        "sources": [
+          {
+            "citation": "Presidencia de la República, \"En Oaxaca, presidente AMLO aborda primer tren de pasajeros del Istmo de Tehuantepec\" (press release), 22 Dec 2023.",
+            "url": "https://www.gob.mx/amlo/prensa/en-oaxaca-presidente-amlo-aborda-primer-tren-de-pasajeros-del-istmo-de-tehuantepec?idiom=es"
+          },
+          {
+            "citation": "Milenio, \"Boletos del Tren Interoceánico: cuánto cuestan y cómo comprar\", 12 Sep 2024, for the station list.",
+            "url": "https://www.milenio.com/politica/boletos-del-tren-interoceanico-cuanto-cuestan-como-comprar"
+          },
+          {
+            "citation": "Expansión Política, \"Sheinbaum inaugura estaciones del Tren Transísmico\", 22 Nov 2025.",
+            "url": "https://politica.expansion.mx/presidencia/2025/11/22/sheinbaum-inaugura-estaciones-del-tren-transismico"
+          },
+          {
+            "citation": "El Universal, \"Sheinbaum inaugura estación Tonalá del Tren Interoceánico en la Línea K\", 21 Nov 2025.",
+            "url": "https://www.eluniversal.com.mx/nacion/sheinbaum-inaugura-estacion-tonala-del-tren-interoceanico-en-la-linea-k-estamos-hermanando-a-oaxaca-y-chiapas-dice/"
+          },
+          {
+            "citation": "Wikipedia, \"Interoceanic Corridor of the Isthmus of Tehuantepec\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Interoceanic_Corridor_of_the_Isthmus_of_Tehuantepec"
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-94.4344,18.1405],[-94.7177,17.9646],[-95.0294,17.6669],[-95.0244,17.4324],[-95.0511,17.2264],[-95.0373,16.9945],[-95.0406,16.8761],[-94.9953,16.7128],[-95.0115,16.6592],[-95.096,16.5564],[-95.2468,16.3173],[-95.1958,16.1825]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-interoceanic-derailment",
+        "title": "Interoceanic train derailment at Nizanda",
+        "label": "Nizanda derailment",
+        "date": "2025-12-28",
+        "type": "economic",
+        "description": "On the morning of 28 December 2025 a passenger train on Line Z of the Interoceanic Corridor, run by the Navy, derailed on a curve between Nizanda and Chivela in the mountain pass of Chivela, Oaxaca. The Navy reported 13 dead and 98 injured (a later El Universal report gives 14 dead). In January 2026 the Attorney General's office attributed the derailment to excessive speed: about 65 km/h on a curve limited to 50.",
+        "confidence": "approximate",
+        "note": "Marked at Nizanda (Asunción Ixtaltepec municipality); the train left the track at km Z-230, between Nizanda and Chivela.",
+        "modern_place": "Nizanda, Oaxaca",
+        "sources": [
+          {
+            "citation": "Milenio, \"Se descarrila el Interoceánico; hay 13 muertos y 98 lesionados\", 28 Dec 2025.",
+            "url": "https://www.milenio.com/politica/tren-del-corredor-interoceanico-se-descarrila-en-nizanda-oaxaca"
+          },
+          {
+            "citation": "El Financiero, \"Descarrilamiento del Tren Interoceánico deja 13 muertos y 98 heridos\", 28 Dec 2025.",
+            "url": "https://www.elfinanciero.com.mx/nacional/2025/12/28/descarrilamiento-del-tren-interoceanico-deja-13-muertos-y-98-heridos-36-personas-estan-hospitalizadas/"
+          },
+          {
+            "citation": "El Universal, \"Así fue, presuntamente, descarrilamiento del Tren Interoceánico; 400 toneladas y 15 km de exceso de velocidad, la línea de investigación\", 27 Jan 2026.",
+            "url": "https://www.eluniversal.com.mx/nacion/video-asi-fue-presuntamente-descarrilamiento-del-tren-interoceanico-400-toneladas-y-15-km-de-exceso-de-velocidad-la-linea-de-investigacion/"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-95.0115,16.6592]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-juarez-inm-fire",
+        "title": "Fire at the Ciudad Juárez migrant detention centre",
+        "label": "INM fire 2023",
+        "date": "2023-03-27",
+        "type": "political",
+        "description": "On the night of 27 March 2023 a fire broke out in a cell of the National Migration Institute's detention centre in central Ciudad Juárez, beside one of the bridges to El Paso, where 68 men, most of them Venezuelans and Central Americans, were held. Guards walked away without unlocking the cell, and 40 men died. The disaster showed how Mexico had become a buffer for US migration policy, holding and returning migrants on its own territory.",
+        "confidence": "precise",
+        "note": "Location from the Global Detention Project record of the Estación Migratoria (closed since the fire).",
+        "modern_place": "Ciudad Juárez, Chihuahua, Mexico",
+        "sources": [
+          {
+            "citation": "Texas Standard, \"At least 40 dead after fire at immigration center in Ciudad Juárez\", 28 Mar 2023.",
+            "url": "https://www.texasstandard.org/stories/ciudad-juarez-fire-el-paso-migrants-mexico-detention-center"
+          },
+          {
+            "citation": "Global Detention Project, \"Ciudad Juárez Estación Migratoria\" (detention centre record).",
+            "url": "https://www.globaldetentionproject.org/countries/americas/mexico/detention-centres/47/ciudad-juarez-estacion-migratoria"
+          },
+          {
+            "citation": "Wikipedia, \"Ciudad Juárez migrant center fire\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/Ciudad_Ju%C3%A1rez_migrant_center_fire"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-106.484,31.7456]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-otis",
+        "title": "Hurricane Otis",
+        "label": "Hurricane Otis 2023",
+        "date": "2023-10-25",
+        "type": "political",
+        "description": "Otis intensified from a tropical storm to a Category 5 hurricane in little more than a day, far faster than forecast, and struck Acapulco early on 25 October 2023 with winds estimated at about 260 km/h, the strongest landfall on record in the eastern Pacific. It wrecked most of the city's hotels and homes; the government counted 52 dead and 32 missing.",
+        "confidence": "approximate",
+        "modern_place": "Acapulco, Guerrero, Mexico",
+        "sources": [
+          {
+            "citation": "Brad J. Reinhart and Amanda Reinhart, Tropical Cyclone Report: Hurricane Otis (EP182023), 22–25 October 2023 (US National Hurricane Center, 7 Mar 2024, updated 2 Apr 2024).",
+            "url": "https://www.nhc.noaa.gov/data/tcr/EP182023_Otis.pdf"
+          },
+          {
+            "citation": "The Irish Times (Reuters), \"Death toll from Hurricane Otis in southern Mexico rises to 48\", 30 Oct 2023.",
+            "url": "https://irishtimes.com/world/americas/2023/10/30/death-toll-from-hurricane-otis-in-southern-mexico-rises-to-48"
+          }
+        ],
+        "note": "Marked at the city; the eye came ashore just west of Acapulco. Local critics regard the official toll as an undercount."
+      },
+      "geometry": {"type":"Point","coordinates":[-99.894,16.868]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-sheinbaum",
+        "title": "Claudia Sheinbaum, first woman president",
+        "label": "Sheinbaum 2024",
+        "start": "2024-06-02",
+        "end": "2024-10-01",
+        "type": "political",
+        "description": "Claudia Sheinbaum, a climate scientist and former head of government of Mexico City, won the election of 2 June 2024 for Morena with about 60 per cent of the vote, and her coalition won a two-thirds majority in the Chamber of Deputies. She took the oath as Mexico's first woman president in the Chamber of Deputies at San Lázaro on 1 October 2024.",
+        "confidence": "precise",
+        "note": "Marked at the Palacio Legislativo de San Lázaro, where she was sworn in.",
+        "modern_place": "Cámara de Diputados, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"2024 Mexican general election\" (consulted October 2026).",
+            "url": "https://en.wikipedia.org/wiki/2024_Mexican_general_election"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), Epilogue."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1179,19.4303]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-judicial-reform",
+        "title": "Judicial reform and the first judicial election",
+        "label": "Judicial election 2025",
+        "start": "2024-09-15",
+        "end": "2025-09-01",
+        "type": "political",
+        "description": "A constitutional reform pushed through by López Obrador in his last weeks in office, and published on 15 September 2024, replaced appointed judges with elected ones. In the first judicial election, on 1 June 2025, turnout was about 13 per cent. A new Supreme Court of nine justices, widely seen as close to the governing party and presided over by the Mixtec lawyer Hugo Aguilar Ortiz, took office on 1 September 2025. Critics in Mexico and abroad saw the end of judicial independence; supporters a blow against a corrupt, privileged judiciary.",
+        "confidence": "approximate",
+        "note": "Marked at the Supreme Court building on the Zócalo; the reform applies to federal and state courts nationwide.",
+        "modern_place": "Suprema Corte de Justicia de la Nación, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Expansión Política, \"Gobierno de AMLO publica la Reforma Judicial en el DOF\", 15 Sep 2024.",
+            "url": "https://politica.expansion.mx/mexico/2024/09/15/gobierno-de-amlo-publica-la-reforma-judicial-en-el-dof"
+          },
+          {
+            "citation": "Proceso, \"INE calcula participación de entre 12.57% y 13.32%, muy por debajo de las expectativas de la 4T\", 1 Jun 2025.",
+            "url": "https://www.proceso.com.mx/nacional/politica/2025/6/1/ine-calcula-participacion-de-entre-1257-1332-muy-por-debajo-de-las-expectativas-de-la-4t-350507.html"
+          },
+          {
+            "citation": "Expansión Política, \"INE estima entre 12.57% y 13.32% de participación en elección judicial\", 1 Jun 2025.",
+            "url": "https://politica.expansion.mx/mexico/2025/06/01/ine-estima-entre-12-57-y-13-32-de-participacion-en-eleccion-judicial"
+          },
+          {
+            "citation": "Proceso, \"Ministros de la nueva Corte toman protesta en el Senado\", 1 Sep 2025.",
+            "url": "https://www.proceso.com.mx/nacional/2025/9/1/ministros-de-la-nueva-corte-toman-protesta-en-el-senado-357987.html"
+          },
+          {
+            "citation": "NBC News, \"Mexico's first judicial elections marked by low turnout, confusion and disillusionment\", June 2025.",
+            "url": "https://www.nbcnews.com/news/latino/mexicos-first-ever-judicial-elections-marked-low-turnout-confusion-dis-rcna210330"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1317,19.4311]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-teuchitlan",
+        "title": "Rancho Izaguirre, Teuchitlán",
+        "label": "Teuchitlán 2025",
+        "date": "2025-03-05",
+        "type": "political",
+        "description": "On 5 March 2025 a collective of mothers searching for missing relatives, the Guerreros Buscadores de Jalisco, entered a ranch near Teuchitlán and found hundreds of shoes and items of clothing, burned bone fragments and what they believed were crematory pits. The federal Attorney General confirmed that the Jalisco cartel had used the ranch to recruit and train forcibly recruited young people, but said there was no evidence of crematoria; dozens of people were arrested. Jalisco then had more registered missing people than any other state.",
+        "confidence": "approximate",
+        "note": "Marked at the ranch as located by OpenStreetMap, near La Estanzuela, about 4 km south of Teuchitlán. The searchers and the federal prosecutors still disagree about what happened there.",
+        "modern_place": "Rancho Izaguirre, Teuchitlán",
+        "sources": [
+          {
+            "citation": "Expansión Política, \"Las claves del caso Teuchitlán y el 'campo de exterminio' que estremeció al país\", 18 Mar 2025.",
+            "url": "https://politica.expansion.mx/mexico/2025/03/18/que-paso-teuchitlan-jalisco-rancho-izaguirre"
+          },
+          {
+            "citation": "El Financiero, \"Rancho en Teuchitlán sí era centro de adiestramiento, pero no crematorio, afirma Gertz Manero\", 29 Apr 2025.",
+            "url": "https://www.elfinanciero.com.mx/nacional/2025/04/29/rancho-en-teuchitlan-si-era-centro-de-adiestramiento-pero-no-crematorio-afirma-gertz-manero/"
+          },
+          {
+            "citation": "El Financiero, \"Colectivos y FGR regresan al rancho Izaguirre en Teuchitlán: ¿qué ha pasado a un año del hallazgo?\", 10 Apr 2026.",
+            "url": "https://www.elfinanciero.com.mx/estados/2026/04/10/colectivos-y-fgr-regresan-al-rancho-izaguirre-en-teuchitlan-que-ha-pasado-a-un-ano-del-hallazgo/"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-103.8161,20.6568]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-floods-2025",
+        "title": "The floods of October 2025",
+        "label": "Floods Oct 2025",
+        "type": "political",
+        "description": "Days of torrential rain from the remnants of tropical storms Priscilla and Raymond, heaviest around 8–10 October 2025, caused floods and landslides across the Sierra Madre Oriental and the Gulf slope in Veracruz, Hidalgo, Puebla, Querétaro and San Luis Potosí. In Poza Rica the Cazones River burst into the city before dawn on 10 October. By late October the government counted about 80 dead and some 20 missing.",
+        "confidence": "approximate",
+        "note": "Marked at Poza Rica, the worst-hit city; deaths were spread across many mountain towns. Interim tolls varied (78 dead and 23 missing on 22 October; 80 and 18 on 23 October); no final figure was found. Reports of the river's rise range from 2 m to more than 7 m, so none is given.",
+        "modern_place": "Poza Rica, Veracruz",
+        "sources": [
+          {
+            "citation": "Expansión Política, \"Cifra de muertos por lluvias sube a 78; inicia entrega de apoyos a damnificados\", 22 Oct 2025.",
+            "url": "https://politica.expansion.mx/presidencia/2025/10/22/cifra-de-muertos-por-lluvias-sube-a-78-inicia-entrega-de-apoyos-a-damnificados"
+          },
+          {
+            "citation": "N+, \"Sube a 80 la cifra de muertos por lluvias de octubre 2025, informa Gobierno de México\", 23 Oct 2025.",
+            "url": "https://www.nmas.com.mx/clima/aumenta-muertos-lluvias-mexico-octubre-2025-cifra-veracruz-puebla-hidalgo-slp-queretaro/"
+          },
+          {
+            "citation": "Al Jazeera, \"Mexico flooding death toll rises to 64, with dozens still missing\", 13 Oct 2025.",
+            "url": "https://www.aljazeera.com/news/2025/10/13/mexico-flooding-death-toll-rises-to-64-with-dozens-still-missing"
+          },
+          {
+            "citation": "NBC News / Associated Press, \"At least 37 dead in Mexico as heavy rain sets off floods and landslides\", 11 Oct 2025.",
+            "url": "https://www.nbcnews.com/world/mexico/dead-mexico-heavy-rain-sets-floods-landslides-rcna237082"
+          }
+        ],
+        "date": "2025-10"
+      },
+      "geometry": {"type":"Point","coordinates":[-97.4536,20.5321]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-manzo",
+        "title": "Murder of Uruapan's mayor, Carlos Manzo",
+        "label": "Uruapan 2025",
+        "date": "2025-11-01",
+        "type": "political",
+        "description": "Carlos Manzo, the independent mayor of Uruapan, Michoacán's avocado capital, who had demanded tougher federal action against the cartels, was shot dead in the town's main square during the Day of the Dead candle festival on the evening of 1 November 2025. The federal security secretary later blamed the Jalisco cartel. The killing provoked large marches in Michoacán and was taken up by the youth-led \"Generation Z\" march in Mexico City on 15 November, and on 9 November the federal government presented a security and development plan for Michoacán.",
+        "confidence": "approximate",
+        "note": "Marked at the town centre; the attack was at the municipal pergola on the main square.",
+        "modern_place": "Uruapan, Michoacán",
+        "sources": [
+          {
+            "citation": "El Financiero, \"Muere alcalde de Uruapan, Carlos Manzo, tras ser atacado a balazos en Festival de Velas\", 1 Nov 2025.",
+            "url": "https://www.elfinanciero.com.mx/estados/2025/11/01/balean-al-alcalde-de-uruapan-carlos-manzo-en-festival-de-velas-lo-reportan-grave/"
+          },
+          {
+            "citation": "Milenio, \"¿Qué le pasó a Carlos Manzo? Cronología del asesinato del alcalde de Uruapan\", 19 Nov 2025.",
+            "url": "https://www.milenio.com/estados/paso-cronologia-caso-carlos-manzo-alcalde-uruapan"
+          },
+          {
+            "citation": "Al Jazeera, \"Calls for justice after Mexico mayor killed during Day of the Dead festival\", 3 Nov 2025.",
+            "url": "https://www.aljazeera.com/news/2025/11/3/calls-for-justice-after-mexico-mayor-killed-during-day-of-the-dead-festival"
+          },
+          {
+            "citation": "Expansión Política, \"García Harfuch: Carlos Manzo fue asesinado porque grupo criminal sentía una provocación\", 31 Jul 2026.",
+            "url": "https://politica.expansion.mx/mexico/2026/07/31/garcia-harfuch-carlos-manzo-fue-asesinado-porque-grupo-criminal-sentia-una-provocacion"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.0523,19.4147]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "present",
+        "id": "e12-mencho",
+        "title": "Death of \"El Mencho\"",
+        "label": "El Mencho 2026",
+        "date": "2026-02-22",
+        "type": "battle",
+        "description": "On 22 February 2026 army special forces and the National Guard, using intelligence partly supplied by the United States, raided cabins near the mountain town of Tapalpa, Jalisco, and mortally wounded Nemesio Oseguera Cervantes, \"El Mencho\", founder and leader of the Jalisco New Generation Cartel, one of Mexico's most powerful criminal groups. His followers responded with roadblocks, burned vehicles and attacks in Jalisco and some ten other states; about 60 people were killed, among them 25 National Guard members.",
+        "confidence": "approximate",
+        "note": "Marked at Tapalpa; the cabins, in the Tapalpa Country Club area, lay in the wooded hills outside the town. Tolls for the reprisals vary by report and day (Expansión gives 58 dead in its headline and about 62 in its breakdown).",
+        "modern_place": "Tapalpa, Jalisco",
+        "sources": [
+          {
+            "citation": "Al Jazeera, \"The killing of Mexican drug lord El Mencho: How it unfolded\", 24 Feb 2026.",
+            "url": "https://www.aljazeera.com/news/2026/2/24/the-killing-of-mexican-drug-lord-el-mencho-how-it-unfolded"
+          },
+          {
+            "citation": "El Universal, \"Trevilla narra operativo contra 'El Mencho'\", 23 Feb 2026.",
+            "url": "https://www.eluniversal.com.mx/nacion/asi-fue-el-operativo-para-abatir-a-el-mencho-se-le-quiebra-la-voz-al-general-trevilla-trejo-al-dar-pesame-a-familias-de-elementos-caidos/"
+          },
+          {
+            "citation": "Milenio, \"Harfuch confirma muerte de 25 elementos de GN en caída de 'El Mencho'\", 23 Feb 2026.",
+            "url": "https://www.milenio.com/politica/harfuch-confirma-muerte-25-elementos-de-gn-tras-caida-de-el-mencho"
+          },
+          {
+            "citation": "Expansión Política, \"Violencia tras captura de 'El Mencho' deja 58 muertos y 70 personas detenidas\", 23 Feb 2026.",
+            "url": "https://politica.expansion.mx/mexico/2026/02/23/cuantos-militares-murieron-en-la-captura-del-mencho"
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-103.7576,19.9449]}
+    }
+  ]
+}

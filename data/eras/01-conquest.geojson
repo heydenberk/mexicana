@@ -1,0 +1,1218 @@
+{
+  "type": "FeatureCollection",
+  "name": "Conquest (1519–1521)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-triple-alliance",
+        "title": "Triple Alliance (Aztec Empire) c. 1519",
+        "label": "Triple Alliance",
+        "date": "1519",
+        "type": "boundary",
+        "description": "The tributary domain of Tenochtitlan, Texcoco and Tlacopan on the eve of the conquest, including the detached province of Xoconochco (Soconusco) on the Chiapas coast. It was a hegemonic empire of tribute-paying city-states rather than a territorial state with borders, and it surrounded several unconquered polities, which is why Cortés could find allies inside it. The outline here is deliberately simple.",
+        "confidence": "schematic",
+        "note": "Outline drawn from the province maps in Berdan et al. (1996) and Hassig (1988). Unconquered enclaves (Tlaxcala, Metztitlán, Yopitzinco, Tututepec) are cut out automatically; coasts are clipped to the modern shoreline. Gillingham (ch. 1) counts the Zapotecs among the peoples the empire surrounded but did not conquer. The map follows Berdan et al.: the Valley of Oaxaca was held through the garrison at Huaxyacac, while the Isthmus Zapotecs of Tehuantepec stayed independent and are left outside the outline.",
+        "clip": "land",
+        "exclude": [
+          "e1-tlaxcala-state",
+          "e1-metztitlan",
+          "e1-yopitzinco",
+          "e1-tututepec",
+          "e1-tarascan-state"
+        ],
+        "style": {
+          "color": "#b5523b"
+        },
+        "sources": [
+          {
+            "citation": "Frances F. Berdan, Richard E. Blanton, Elizabeth H. Boone, Mary G. Hodge, Michael E. Smith and Emily Umberger, Aztec Imperial Strategies (Dumbarton Oaks, 1996), esp. the map of tributary and strategic provinces."
+          },
+          {
+            "citation": "Ross Hassig, Aztec Warfare: Imperial Expansion and Political Control (University of Oklahoma Press, 1988)."
+          },
+          {
+            "citation": "Peter Gerhard, A Guide to the Historical Geography of New Spain, rev. ed. (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"MultiPolygon","coordinates":[[[[-97.2,21.45],[-97.9,21.5],[-98.8,21.7],[-99.1,21.3],[-99.3,20.9],[-99.6,20.6],[-100.1,20.3],[-100.2,19.9],[-100.25,19.55],[-100.2,19.1],[-100.15,18.65],[-100.4,18.2],[-100.9,18.1],[-101.7,17.7],[-101.8,17.3],[-100,16.4],[-98,15.7],[-96.2,15.5],[-96,16.3],[-95.6,17.3],[-95.2,17.9],[-94.95,18.7],[-95.6,19.3],[-96.2,20],[-96.8,20.8],[-97.2,21.45]]],[[[-93.3,15.8],[-92.9,15.55],[-92.45,15.25],[-92.15,14.95],[-92.1,14.6],[-92.25,14.4],[-93,14.9],[-93.6,15.5],[-93.3,15.8]]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tlaxcala-state",
+        "title": "Tlaxcala (independent)",
+        "label": "Tlaxcala",
+        "date": "1519",
+        "type": "boundary",
+        "description": "A confederation of four altepetl (Tepeticpac, Ocotelolco, Tizatlan and Quiahuiztlan) that the Triple Alliance had surrounded and cut off from trade but never conquered. After fighting Cortés in September 1519, Tlaxcala allied with the Spaniards and supplied the bulk of the army that took Tenochtitlan, an alliance it leveraged for privileges throughout the colonial period.",
+        "confidence": "approximate",
+        "note": "Approximates the core of modern Tlaxcala state. Neighbouring Huexotzinco was also outside Aztec control in 1519 but is not drawn.",
+        "style": {
+          "color": "#4f7f4f"
+        },
+        "sources": [
+          {
+            "citation": "Charles Gibson, Tlaxcala in the Sixteenth Century (Yale University Press, 1952)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-98.48,19.5],[-98.2,19.58],[-97.9,19.48],[-97.78,19.3],[-97.95,19.15],[-98.15,19.13],[-98.35,19.2],[-98.48,19.33],[-98.48,19.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-metztitlan",
+        "title": "Metztitlán (independent)",
+        "label": "Metztitlán",
+        "date": "1519",
+        "type": "boundary",
+        "description": "An independent señorío in the barrancas of the Sierra de Hidalgo that resisted Aztec conquest, one of several unconquered pockets inside the imperial domain.",
+        "confidence": "schematic",
+        "style": {
+          "color": "#7d7d6b"
+        },
+        "sources": [
+          {
+            "citation": "Peter Gerhard, A Guide to the Historical Geography of New Spain, rev. ed. (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Frances F. Berdan, Richard E. Blanton, Elizabeth H. Boone, Mary G. Hodge, Michael E. Smith and Emily Umberger, Aztec Imperial Strategies (Dumbarton Oaks, 1996), esp. the map of tributary and strategic provinces."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-98.95,20.85],[-98.55,20.85],[-98.45,20.55],[-98.7,20.35],[-98.95,20.5],[-98.95,20.85]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-yopitzinco",
+        "title": "Yopitzinco (independent)",
+        "label": "Yopitzinco",
+        "date": "1519",
+        "type": "boundary",
+        "description": "Mountain territory of the Yopes behind the Pacific coast east of Acapulco, which remained outside Aztec control.",
+        "confidence": "schematic",
+        "clip": "land",
+        "style": {
+          "color": "#7d7d6b"
+        },
+        "sources": [
+          {
+            "citation": "Peter Gerhard, A Guide to the Historical Geography of New Spain, rev. ed. (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Frances F. Berdan, Richard E. Blanton, Elizabeth H. Boone, Mary G. Hodge, Michael E. Smith and Emily Umberger, Aztec Imperial Strategies (Dumbarton Oaks, 1996), esp. the map of tributary and strategic provinces."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-99.85,16.85],[-99.6,17.25],[-99.2,17.2],[-99,16.75],[-99.1,16.4],[-99.8,16.5],[-99.85,16.85]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tututepec",
+        "title": "Tututepec (independent Mixtec kingdom)",
+        "label": "Tututepec",
+        "date": "1519",
+        "type": "boundary",
+        "description": "A powerful Mixtec kingdom on the Pacific coast of Oaxaca that held off the Triple Alliance. It submitted to the Spanish under Pedro de Alvarado in 1522.",
+        "confidence": "schematic",
+        "clip": "land",
+        "style": {
+          "color": "#7d7d6b"
+        },
+        "sources": [
+          {
+            "citation": "Peter Gerhard, A Guide to the Historical Geography of New Spain, rev. ed. (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Frances F. Berdan, Richard E. Blanton, Elizabeth H. Boone, Mary G. Hodge, Michael E. Smith and Emily Umberger, Aztec Imperial Strategies (Dumbarton Oaks, 1996), esp. the map of tributary and strategic provinces."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-98.3,16.5],[-97.6,16.6],[-97,16.3],[-96.4,16.05],[-96.05,15.85],[-96,15.5],[-97.5,15.6],[-98.4,16.1],[-98.3,16.5]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tarascan-state",
+        "title": "Tarascan (Purépecha) state c. 1519",
+        "label": "Tarascan state",
+        "date": "1519",
+        "type": "boundary",
+        "description": "Centred on Tzintzuntzan and Lake Pátzcuaro, the Tarascan state was the one rival the Triple Alliance could not defeat; it crushed an Aztec invasion around 1479 and both sides fortified the frontier along the Lerma–Balsas line. In 1520 its ruler declined to help the Mexica against the Spaniards, and it submitted peacefully in 1522.",
+        "confidence": "schematic",
+        "note": "After the frontier maps in Pollard (1993). How far Tarascan control reached toward the Pacific coast and Colima is uncertain. Sources date the failed Aztec invasion between about 1476 and 1479; Gillingham (ch. 1) gives 1478.",
+        "clip": "land",
+        "style": {
+          "color": "#4c6a92"
+        },
+        "sources": [
+          {
+            "citation": "Helen Perlstein Pollard, Tariacuri's Legacy: The Prehispanic Tarascan State (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Peter Gerhard, A Guide to the Historical Geography of New Spain, rev. ed. (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Ross Hassig, Aztec Warfare: Imperial Expansion and Political Control (University of Oklahoma Press, 1988)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-102.75,20.25],[-102,20.35],[-101.3,20.3],[-100.75,20.1],[-100.42,19.9],[-100.45,19.65],[-100.35,19.4],[-100.45,19],[-100.55,18.5],[-101,18.3],[-101.6,18.1],[-102,18.05],[-102.3,17.8],[-103.4,18.3],[-103.3,18.9],[-103.3,19.4],[-103.55,19.75],[-103.3,20.1],[-102.75,20.25]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tzintzuntzan",
+        "title": "Tzintzuntzan, Tarascan capital",
+        "label": "Tzintzuntzan",
+        "date": "1519",
+        "type": "city",
+        "description": "Capital of the Tarascan state on the shore of Lake Pátzcuaro, with its distinctive yácata platforms. Its ruler, the cazonci Tangáxuan II (Tzintzicha), submitted to the Spanish in 1522 and was executed by Nuño de Guzmán in 1530.",
+        "confidence": "precise",
+        "modern_place": "Yácatas de Tzintzuntzan",
+        "sources": [
+          {
+            "citation": "Helen Perlstein Pollard, Tariacuri's Legacy: The Prehispanic Tarascan State (University of Oklahoma Press, 1993)."
+          },
+          {
+            "citation": "Peter Gerhard, A Guide to the Historical Geography of New Spain, rev. ed. (University of Oklahoma Press, 1993)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.5738,19.6231]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-lake-texcoco",
+        "title": "Lakes of the Basin of Mexico c. 1519",
+        "label": "Lake Texcoco",
+        "date": "1519",
+        "type": "boundary",
+        "description": "In 1519 a chain of shallow lakes (Zumpango, Xaltocan, Texcoco, Xochimilco and Chalco) filled the floor of the closed Basin of Mexico. Tenochtitlan and Tlatelolco stood on an island in the western, partly freshened arm of Lake Texcoco, linked to shore by causeways. The lake made the city a fortress that could only be taken with boats, and the colonial drainage of the basin over the next four centuries is why almost none of it survives.",
+        "confidence": "approximate",
+        "note": "Hand-drawn from the reconstruction maps in Sanders, Parsons & Santley (1979) and Mundy (2015), anchored to settlements known to have stood on the shore or on islands. The real shoreline moved with the seasons and is shown as a single average outline; the island outline is schematic.",
+        "style": {
+          "fill": "water"
+        },
+        "sources": [
+          {
+            "citation": "William T. Sanders, Jeffrey R. Parsons and Robert S. Santley, The Basin of Mexico: Ecological Processes in the Evolution of a Civilization (Academic Press, 1979)."
+          },
+          {
+            "citation": "Barbara E. Mundy, The Death of Aztec Tenochtitlan, the Life of Mexico City (University of Texas Press, 2015)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-99.2,19.75],[-99.15,19.7],[-99.1,19.66],[-99.07,19.6],[-99.06,19.56],[-99.08,19.51],[-99.115,19.488],[-99.14,19.495],[-99.18,19.49],[-99.19,19.46],[-99.185,19.425],[-99.18,19.4],[-99.16,19.36],[-99.13,19.355],[-99.14,19.33],[-99.16,19.3],[-99.15,19.27],[-99.1,19.255],[-99.05,19.25],[-99,19.22],[-98.95,19.2],[-98.9,19.23],[-98.89,19.27],[-98.93,19.3],[-98.98,19.31],[-99.03,19.315],[-99.095,19.33],[-99.11,19.34],[-99.105,19.36],[-99.085,19.365],[-99.06,19.355],[-99.02,19.35],[-98.97,19.37],[-98.95,19.4],[-98.96,19.43],[-98.93,19.45],[-98.91,19.5],[-98.93,19.54],[-98.98,19.57],[-99.02,19.6],[-99,19.64],[-98.96,19.68],[-98.98,19.74],[-99.06,19.76],[-99.07,19.8],[-99.12,19.83],[-99.2,19.8],[-99.2,19.75]],[[-99.152,19.462],[-99.13,19.465],[-99.118,19.455],[-99.12,19.43],[-99.123,19.418],[-99.14,19.417],[-99.152,19.425],[-99.157,19.445],[-99.152,19.462]],[[-99.039,19.7143],[-99.045,19.712],[-99.051,19.7143],[-99.0535,19.72],[-99.051,19.7257],[-99.045,19.728],[-99.039,19.7257],[-99.0365,19.72],[-99.039,19.7143]],[[-99.08,19.4342],[-99.083,19.433],[-99.086,19.4342],[-99.0872,19.437],[-99.086,19.4398],[-99.083,19.441],[-99.08,19.4398],[-99.0788,19.437],[-99.08,19.4342]],[[-99.0298,19.3681],[-99.035,19.366],[-99.0402,19.3681],[-99.0424,19.373],[-99.0402,19.3779],[-99.035,19.38],[-99.0298,19.3779],[-99.0276,19.373],[-99.0298,19.3681]],[[-99.0003,19.2825],[-99.004,19.281],[-99.0077,19.2825],[-99.0093,19.286],[-99.0077,19.2895],[-99.004,19.291],[-99.0003,19.2895],[-98.9987,19.286],[-99.0003,19.2825]],[[-98.962,19.2222],[-98.965,19.221],[-98.968,19.2222],[-98.9692,19.225],[-98.968,19.2278],[-98.965,19.229],[-98.962,19.2278],[-98.9608,19.225],[-98.962,19.2222]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-causeways",
+        "title": "Causeways of Tenochtitlan",
+        "label": "causeways",
+        "date": "1519",
+        "type": "route",
+        "description": "Three great causeways tied the island city to the mainland: west to Tlacopan, south to Iztapalapa and Coyoacán (joining at Xoloc), and north to Tepeyac. They carried traffic and fresh water but had removable bridges at their canal cuts, which made them deathtraps during the Noche Triste and the main axes of attack during the siege of 1521.",
+        "confidence": "approximate",
+        "note": "Alignments follow later colonial streets (México-Tacuba, Calzada de Tlalpan, Calzada de los Misterios) as reconstructed in Mundy (2015).",
+        "directional": false,
+        "style": {
+          "color": "#6b5a45"
+        },
+        "sources": [
+          {
+            "citation": "Barbara E. Mundy, The Death of Aztec Tenochtitlan, the Life of Mexico City (University of Texas Press, 2015)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          }
+        ]
+      },
+      "geometry": {"type":"MultiLineString","coordinates":[[[-99.1907,19.4554],[-99.1755,19.4529],[-99.16,19.443],[-99.146,19.437],[-99.141,19.436]],[[-99.0925,19.3589],[-99.1198,19.3571],[-99.13,19.385],[-99.135,19.405],[-99.134,19.418]],[[-99.162,19.35],[-99.15,19.36],[-99.14,19.385],[-99.133,19.398]],[[-99.117,19.484],[-99.124,19.47],[-99.13,19.464]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-dike-nezahualcoyotl",
+        "title": "Dike of Nezahualcóyotl",
+        "label": "Nezahualcóyotl dike",
+        "date": "1519",
+        "type": "boundary",
+        "description": "A stone-and-timber dike some 16 km long, built around 1449 under the direction of Nezahualcóyotl of Texcoco after a disastrous flood, running from Atzacoalco near Tepeyac to Iztapalapa. It protected Tenochtitlan from floods and held back the saline eastern lake so that the western lagoon around the city stayed fresh enough for chinampa farming.",
+        "confidence": "approximate",
+        "note": "The line is schematic between its two documented end points.",
+        "style": {
+          "color": "#6b5a45"
+        },
+        "sources": [
+          {
+            "citation": "Barbara E. Mundy, The Death of Aztec Tenochtitlan, the Life of Mexico City (University of Texas Press, 2015)."
+          },
+          {
+            "citation": "William T. Sanders, Jeffrey R. Parsons and Robert S. Santley, The Basin of Mexico: Ecological Processes in the Evolution of a Civilization (Academic Press, 1979)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.0951,19.5004],[-99.088,19.46],[-99.085,19.42],[-99.083,19.39],[-99.08,19.365]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-centla",
+        "title": "Battle of Centla",
+        "label": "Centla",
+        "date": "1519-03",
+        "type": "battle",
+        "description": "Cortés's first major battle in Mexico, fought against the Chontal Maya of Potonchán near the mouth of the Grijalva River. In its aftermath the Chontal lords presented twenty women to the Spaniards, among them Malintzin (Doña Marina), whose command of Nahuatl and Maya made her the expedition's indispensable interpreter.",
+        "confidence": "approximate",
+        "note": "The site of Potonchán is not securely identified; the point marks the lower Grijalva near Frontera. Sources differ on the day (mid- to late March 1519).",
+        "modern_place": "Frontera, Centla, Tabasco, Mexico",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Camilla Townsend, Malintzin's Choices: An Indian Woman in the Conquest of Mexico (University of New Mexico Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-92.69,18.47]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-veracruz-landing",
+        "title": "Landing opposite San Juan de Ulúa; Villa Rica de la Vera Cruz constituted",
+        "label": "Landing (Veracruz)",
+        "date": "1519-04-22",
+        "type": "city",
+        "description": "The fleet anchored off the island of San Juan de Ulúa on Holy Thursday 1519 and landed on the beach the next day, where Moctezuma's envoys soon arrived with gifts. Here Cortés had his men constitute the town council of the Villa Rica de la Vera Cruz, a legal device that let him renounce the authority of Governor Diego Velázquez of Cuba and answer directly to the Crown.",
+        "confidence": "approximate",
+        "note": "The landing beach lies within modern Veracruz city. The town council was formed in the weeks after the landing; the date given is the landing.",
+        "modern_place": "Veracruz, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "Letter of the town council of Vera Cruz to Charles V (10 July 1519; the \"First Letter\"), in Hernán Cortés, Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.137,19.199]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-cempoala",
+        "title": "Cempoala and the Totonac alliance",
+        "label": "Cempoala",
+        "date": "1519-06",
+        "type": "political",
+        "description": "The Totonac capital, subject to the Triple Alliance since the mid-fifteenth century, welcomed the Spaniards. Its ruler (remembered as the \"fat cacique\") became Cortés's first major ally, and the Totonacs broke with Moctezuma when his tribute collectors were seized at nearby Quiahuiztlan. Cempoala supplied porters and warriors for the march inland, which set out from here in mid-August 1519.",
+        "confidence": "precise",
+        "modern_place": "Zempoala, Úrsulo Galván, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Instituto Nacional de Antropología e Historia (INAH), site descriptions for Zona Arqueológica de Cempoala, Quiahuiztlan, Tizatlán, Cholula and Templo Mayor.",
+            "url": "https://www.inah.gob.mx/"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.4053,19.4469]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-villa-rica",
+        "title": "Quiahuiztlan and Villa Rica de la Vera Cruz",
+        "label": "Villa Rica",
+        "date": "1519",
+        "type": "city",
+        "description": "At the hilltop Totonac town of Quiahuiztlan, with the lord of Cempoala present, Cortés had Moctezuma's tribute collectors seized, binding the Totonacs to the Spanish side. The first Spanish town on the mainland was moved from the landing beach to a sheltered spot below it, where the Spaniards began building a fortress. Before marching inland Cortés had his ships run aground and dismantled so that no faction could sail back to Cuba; the popular story that he \"burned his ships\" is a later embellishment.",
+        "confidence": "approximate",
+        "note": "The ruins lie at Villa Rica, Actopan municipality. The town was later moved again, to La Antigua and finally to the present site of Veracruz.",
+        "modern_place": "Villa Rica, Actopan, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Instituto Nacional de Antropología e Historia (INAH), site descriptions for Zona Arqueológica de Cempoala, Quiahuiztlan, Tizatlán, Cholula and Templo Mayor.",
+            "url": "https://www.inah.gob.mx/"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.405,19.672]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-march-inland",
+        "title": "Cortés's march from Cempoala to Tenochtitlan",
+        "label": "Cortés 1519",
+        "start": "1519-08-16",
+        "end": "1519-11-08",
+        "type": "route",
+        "description": "From Cempoala the Spaniards and their Totonac allies climbed from the tropical coast past Xalapa and Xico onto the cold, dry Altiplano, then fought their way into Tlaxcala, turned south to Cholula, and crossed the saddle between Popocatépetl and Iztaccíhuatl into the Basin of Mexico. They descended past Amecameca and Tlalmanalco and crossed the lakes on the Cuitláhuac and Iztapalapa causeways to meet Moctezuma. On the causeway Bernal Díaz, recalling it decades later, compared the towns rising from the water to an enchanted vision from the romance of Amadís de Gaula.",
+        "confidence": "approximate",
+        "note": "Main stops follow Díaz and Cortés; the exact passage across the Sierra (via Ixhuacán and the pass near the Cofre de Perote) and the stretch to Zautla and Ixtacamaxtitlán are reconstructed.",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-96.4053,19.4469],[-96.9146,19.5408],[-97.0084,19.4227],[-97.1169,19.3556],[-97.38,19.52],[-97.672,19.7145],[-97.8258,19.5981],[-98.0862,19.3833],[-98.2183,19.3328],[-98.3044,19.0623],[-98.407,19.1592],[-98.655,19.085],[-98.7665,19.1249],[-98.8022,19.2059],[-98.9291,19.2081],[-99.0047,19.2704],[-99.0925,19.3589],[-99.1198,19.3571],[-99.13,19.385],[-99.135,19.405],[-99.1335,19.4295]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tlaxcala-battles",
+        "title": "Battles with Tlaxcala",
+        "label": "Tlaxcalan battles",
+        "start": "1519-08-31",
+        "end": "1519-09-06",
+        "type": "battle",
+        "description": "Entering Tlaxcalan territory past its frontier wall, the Spaniards fought a series of hard engagements against armies led by Xicotencatl the Younger in the hills around Tzompantzinco. Unable to destroy the Spaniards, the Tlaxcalan leadership chose alliance, judging the newcomers useful against their old enemy, the Triple Alliance.",
+        "confidence": "approximate",
+        "note": "Battle sites are approximated to the Tzompantepec area. Sources differ on the sequence: first skirmishes around 31 August–1 September, the main battles on 2 and 5 September, and a Tlaxcalan night attack around 6 September.",
+        "modern_place": "Tzompantepec, Tlaxcala, Mexico",
+        "sources": [
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Charles Gibson, Tlaxcala in the Sixteenth Century (Yale University Press, 1952)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.0862,19.3833]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tizatlan",
+        "title": "Entry into Tlaxcala and the Tlaxcalan alliance",
+        "label": "Tlaxcala (Tizatlan)",
+        "date": "1519-09-23",
+        "type": "political",
+        "description": "The Spaniards entered Tlaxcala, where Xicotencatl the Elder of Tizatlan and Maxixcatzin of Ocotelolco sealed the alliance. Tlaxcala later sheltered the defeated Spaniards after the Noche Triste, built the brigantines' components, and provided tens of thousands of warriors for the siege of Tenochtitlan.",
+        "confidence": "approximate",
+        "note": "The point marks the Tizatlan archaeological zone, seat of Xicotencatl. The colonial city of Tlaxcala was founded nearby in the 1520s. Gillingham (ch. 1) spells the altepetl Ocotelulco.",
+        "modern_place": "Zona Arqueológica de Tizatlán",
+        "sources": [
+          {
+            "citation": "Charles Gibson, Tlaxcala in the Sixteenth Century (Yale University Press, 1952)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Instituto Nacional de Antropología e Historia (INAH), site descriptions for Zona Arqueológica de Cempoala, Quiahuiztlan, Tizatlán, Cholula and Templo Mayor.",
+            "url": "https://www.inah.gob.mx/"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.2183,19.3328]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-cholula",
+        "title": "Cholula massacre",
+        "label": "Cholula",
+        "date": "1519-10",
+        "type": "battle",
+        "description": "In the great pilgrimage city of Quetzalcoatl, Cortés, claiming to have uncovered an ambush, had his men and Tlaxcalan allies kill thousands of Cholulan nobles and townspeople gathered in the main temple courtyard. Whether a plot existed is still debated; several historians, followed by Gillingham, think the Tlaxcalans, Cholula's old enemies, steered the Spaniards there and supplied the story of the ambush. The massacre was meant as a warning, and many towns submitted afterwards.",
+        "confidence": "approximate",
+        "note": "The killing took place in the courtyard of the temple of Quetzalcoatl in the town centre, traditionally placed under the Franciscan convent of San Gabriel, not at the Great Pyramid. Date given to the month; most accounts place it on or about 18 October 1519.",
+        "modern_place": "Convento de San Gabriel, Cholula",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Matthew Restall, When Montezuma Met Cortés: The True Story of the Meeting That Changed History (Ecco, 2018)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.3044,19.0623]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-paso-de-cortes",
+        "title": "Pass between the volcanoes (Paso de Cortés)",
+        "label": "Paso de Cortés",
+        "date": "1519-11",
+        "type": "route",
+        "description": "The expedition crossed the 3,600 m saddle between Popocatépetl and Iztaccíhuatl and got its first view of the Basin of Mexico and its lake cities.",
+        "confidence": "approximate",
+        "note": "Tradition identifies the modern Paso de Cortés with the route; Díaz and Cortés do not describe it precisely.",
+        "modern_place": "Paso de Cortés, Amecameca, México, Mexico",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.655,19.085]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-meeting",
+        "title": "Moctezuma meets Cortés",
+        "label": "Meeting with Moctezuma",
+        "date": "1519-11-08",
+        "type": "political",
+        "description": "Moctezuma II (Montezuma in Gillingham) received Cortés on the southern causeway at the edge of the city and lodged the Spaniards in the palace of his father Axayacatl. Within about a week the Spaniards took him hostage and ruled through him for some seven months.",
+        "confidence": "approximate",
+        "note": "The meeting place is traditionally located near the present Hospital de Jesús, on the line of the Iztapalapa causeway.",
+        "modern_place": "Hospital de Jesús, Ciudad de México, Mexico",
+        "sources": [
+          {
+            "citation": "Matthew Restall, When Montezuma Met Cortés: The True Story of the Meeting That Changed History (Ecco, 2018)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1335,19.4295]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tenochtitlan",
+        "title": "Tenochtitlan",
+        "label": "Tenochtitlan",
+        "date": "1519",
+        "type": "city",
+        "description": "The Mexica capital, founded on an island in Lake Texcoco in the fourteenth century (traditionally 1325), was in 1519 one of the largest cities in the world, with a population usually estimated at well over 100,000. Its ceremonial precinct was dominated by the Templo Mayor, whose excavated remains mark this point.",
+        "confidence": "precise",
+        "modern_place": "Templo Mayor, Ciudad de México, Mexico",
+        "sources": [
+          {
+            "citation": "Barbara E. Mundy, The Death of Aztec Tenochtitlan, the Life of Mexico City (University of Texas Press, 2015)."
+          },
+          {
+            "citation": "Instituto Nacional de Antropología e Historia (INAH), site descriptions for Zona Arqueológica de Cempoala, Quiahuiztlan, Tizatlán, Cholula and Templo Mayor.",
+            "url": "https://www.inah.gob.mx/"
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1314,19.4351]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-narvaez",
+        "title": "Cortés defeats Narváez at Cempoala",
+        "label": "Narváez defeated",
+        "date": "1520-05",
+        "type": "battle",
+        "description": "Governor Velázquez sent Pánfilo de Narváez with a larger force to arrest Cortés. Cortés left Pedro de Alvarado in Tenochtitlan, marched to the coast, and overwhelmed Narváez in a night attack at Cempoala, then recruited most of his men, which more than doubled his Spanish force. Narváez's expedition is also usually blamed for bringing smallpox to the mainland, traditionally through an enslaved African in his company, Francisco de Eguía.",
+        "confidence": "precise",
+        "note": "Fought at night in late May 1520; sources differ on the exact night.",
+        "modern_place": "Zempoala, Úrsulo Galván, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.4045,19.4485]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-toxcatl",
+        "title": "Toxcatl massacre and the Mexica uprising",
+        "label": "Toxcatl massacre",
+        "date": "1520-05",
+        "type": "uprising",
+        "description": "While Cortés was away, Pedro de Alvarado's men attacked the unarmed nobles and warriors dancing at the festival of Toxcatl in the ceremonial precinct, killing many of them. The city rose against the Spaniards and besieged them in the palace of Axayacatl; Moctezuma died during the fighting in late June.",
+        "confidence": "approximate",
+        "note": "Located in the ceremonial precinct; sources disagree on the day in May and on how Moctezuma died. Gillingham (ch. 1) thinks it most likely that the Spaniards killed Moctezuma, as several Indigenous historians allege.",
+        "sources": [
+          {
+            "citation": "Bernardino de Sahagún, Florentine Codex, Book 12: The Conquest of Mexico (c. 1577), trans. Arthur J. O. Anderson and Charles E. Dibble (School of American Research / University of Utah, 1975)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Matthew Restall, When Montezuma Met Cortés: The True Story of the Meeting That Changed History (Ecco, 2018)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1327,19.4342]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-noche-triste",
+        "title": "La Noche Triste",
+        "label": "Noche Triste",
+        "start": "1520-06-30",
+        "end": "1520-07-01",
+        "type": "battle",
+        "description": "Led by Cuitláhuac, Moctezuma's chosen successor, the Mexica trapped the Spaniards, who tried to escape at night along the western causeway to Tlacopan. Attacked from canoes at the causeway's open canal cuts, they lost perhaps half the Spaniards and many more Tlaxcalan allies, with much of the treasure they had gathered. The survivors regrouped at Popotla and Tlacopan.",
+        "confidence": "approximate",
+        "note": "Marked at the Toltec canal cut on the Tlacopan causeway, where the heaviest losses are usually placed. Casualty figures vary widely between sources. Gillingham (ch. 1) puts the escape on the night of 1 July and, from Cortés's later muster, estimates about 900 Spaniards killed in the retreat, with some 4,000 Tlaxcalans according to Ixtlilxóchitl.",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernardino de Sahagún, Florentine Codex, Book 12: The Conquest of Mexico (c. 1577), trans. Arthur J. O. Anderson and Charles E. Dibble (School of American Research / University of Utah, 1975)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1467,19.437]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-retreat",
+        "title": "Retreat from Tenochtitlan to Tlaxcala",
+        "label": "Retreat 1520",
+        "start": "1520-07-01",
+        "end": "1520-07-12",
+        "type": "route",
+        "description": "Unable to go back through the hostile lake towns, the survivors of the Noche Triste circled north around the lakes, sheltering at the shrine hill of Otoncalpolco (later Los Remedios), passing Tepotzotlan and Citlaltepec, then turning east toward Tlaxcala. After the battle of Otumba they reached Tlaxcalan territory at Hueyotlipan and, after a few days' rest, Tlaxcala itself.",
+        "confidence": "schematic",
+        "note": "Only the main stops are documented; the line between them is schematic and the identification of several stops is debated.",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.1467,19.437],[-99.1755,19.4529],[-99.1907,19.4554],[-99.2517,19.4733],[-99.2231,19.7173],[-99.1445,19.8109],[-99.02,19.8],[-98.93,19.73],[-98.756,19.699],[-98.55,19.62],[-98.3301,19.4796],[-98.2183,19.3328]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-otumba",
+        "title": "Battle of Otumba",
+        "label": "Otumba",
+        "date": "1520-07-07",
+        "type": "battle",
+        "description": "A large Mexica-led army intercepted the exhausted Spaniards on the plain near Otumba. According to Spanish accounts, a cavalry charge that killed the enemy commander and seized his standard broke the attack, and the survivors escaped to Tlaxcala.",
+        "confidence": "approximate",
+        "note": "Most accounts give 7 July 1520; some give 8 July. The battlefield is placed on the plain near Otumba.",
+        "modern_place": "Otumba, México, Mexico",
+        "sources": [
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.756,19.699]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tepeaca",
+        "title": "Tepeaca campaign; Segura de la Frontera founded",
+        "label": "Segura de la Frontera",
+        "date": "1520-09",
+        "type": "city",
+        "description": "Rebuilding with Tlaxcalan help, the Spaniards subdued Tepeaca, which controlled the route between the coast and the Altiplano, and founded the town of Segura de la Frontera there as a base. From here Cortés dated his second letter to Charles V (30 October 1520), in which he proposed calling the country New Spain. Over the following months the Spaniards detached towns east and south of the basin from Tenochtitlan, while smallpox killed Cuitláhuac and many thousands of others in the city.",
+        "confidence": "approximate",
+        "modern_place": "Tepeaca, Puebla, Mexico",
+        "sources": [
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Hernán Cortés, Second Letter to Charles V (30 Oct 1520), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-97.904,18.965]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-texcoco",
+        "title": "Texcoco: Spanish base and brigantine launch",
+        "label": "Texcoco",
+        "start": "1520-12-31",
+        "end": "1521-04-28",
+        "type": "city",
+        "description": "Texcoco, the second city of the Triple Alliance, split by a succession dispute, was occupied at the end of 1520 and became the Spanish base on the lake shore; its prince Ixtlilxochitl became a key ally. Thirteen brigantines were assembled here and launched through a canal dug to the lake, giving the Spaniards control of the water.",
+        "confidence": "precise",
+        "modern_place": "Texcoco, México, Mexico",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.8826,19.511]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-brigantines",
+        "title": "Brigantine parts carried from Tlaxcala to Texcoco",
+        "label": "Brigantines",
+        "date": "1521-02",
+        "type": "route",
+        "description": "The shipwright Martín López prefabricated the brigantines in Tlaxcala, and thousands of Tlaxcalan porters and warriors carried the timbers over the mountains to Texcoco in a column several miles long. The boats were the decisive weapon of the siege, able to break up canoe fleets and support attacks along the causeways.",
+        "confidence": "schematic",
+        "note": "Route schematic via Hueyotlipan and Calpulalpan. Gillingham (ch. 1) gives some 8,000 Tlaxcalan porters over about fifty miles.",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-98.2183,19.3328],[-98.3301,19.4796],[-98.569,19.588],[-98.75,19.53],[-98.8826,19.511]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-cozumel",
+        "title": "Cozumel: Jerónimo de Aguilar joins the expedition",
+        "label": "Cozumel",
+        "start": "1519-02",
+        "end": "1519-03",
+        "type": "political",
+        "description": "The fleet's first stop was the Maya island of Cozumel. There Cortés recovered Jerónimo de Aguilar, a Spaniard shipwrecked in 1511 who had learned Yucatec Maya in captivity. With Malintzin, who joined after Centla and spoke Maya and Nahuatl, he formed the two-step chain of interpreters through which Cortés dealt with Moctezuma's envoys.",
+        "confidence": "approximate",
+        "note": "Marked at San Miguel de Cozumel; the Spaniards' anchorage and the town they visited are not precisely located.",
+        "modern_place": "San Miguel de Cozumel",
+        "sources": [
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Hugh Thomas, Conquest: Montezuma, Cortés, and the Fall of Old Mexico (Simon & Schuster, 1993)."
+          },
+          {
+            "citation": "Camilla Townsend, Malintzin's Choices: An Indian Woman in the Conquest of Mexico (University of New Mexico Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), Introduction and ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-86.9436,20.5014]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-iztapalapa-1521",
+        "title": "Attack on Iztapalapa and the breached dikes",
+        "label": "Iztapalapa 1521",
+        "date": "1521-01",
+        "type": "battle",
+        "description": "Cortés's first move from Texcoco was an attack on Iztapalapa, at the foot of the Cerro de la Estrella. The defenders broke the dikes and flooded the town, nearly trapping the Spaniards, a lesson in why the lake had to be controlled by boats before the city could be attacked.",
+        "confidence": "approximate",
+        "modern_place": "Iztapalapa, Ciudad de México, Mexico",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.0925,19.3589]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-chalco",
+        "title": "Chalco changes sides",
+        "label": "Chalco",
+        "start": "1521-01",
+        "end": "1521-03",
+        "type": "political",
+        "description": "The Chalca towns on the southeastern shore asked for Spanish help against the Mexica, and Gonzalo de Sandoval's campaigns secured them. Their defection opened the road from Tlaxcala into the basin south of Texcoco and was one of many that turned the conquest into a war of the empire's subjects against Tenochtitlan.",
+        "confidence": "approximate",
+        "modern_place": "Chalco de Díaz Covarrubias",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-98.8958,19.2612]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-encirclement",
+        "title": "Cortés's circuit around the lakes",
+        "label": "Circuit of the lakes",
+        "date": "1521-04",
+        "type": "route",
+        "description": "Before the siege Cortés led a circuit around the basin: south through Chalco and over the mountains to Oaxtepec, Yautepec and Cuauhnahuac (Cuernavaca), then back north to Xochimilco, where he was nearly captured, and around the western and northern shores to Texcoco. It detached the southern towns and showed him the approaches to the city.",
+        "confidence": "schematic",
+        "note": "Stops follow Cortés's Third Letter; the line between them is schematic.",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-98.8826,19.511],[-98.8958,19.2612],[-98.97,18.906],[-99.06,18.885],[-99.2342,18.9218],[-99.1047,19.2634],[-99.162,19.35],[-99.1907,19.4554],[-99.18,19.67],[-98.91,19.636],[-98.8826,19.511]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-cuauhnahuac",
+        "title": "Cuauhnahuac (Cuernavaca) taken",
+        "label": "Cuauhnahuac",
+        "date": "1521-04",
+        "type": "battle",
+        "description": "Spanish and allied troops crossed the ravine defending Cuauhnahuac and took the town, a cotton-producing centre south of the basin. Cortés later built his palace here, and the town became the seat of his marquisate.",
+        "confidence": "approximate",
+        "modern_place": "Cuernavaca, Morelos",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.2342,18.9218]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-xochimilco",
+        "title": "Battle of Xochimilco",
+        "label": "Xochimilco",
+        "date": "1521-04",
+        "type": "battle",
+        "description": "At the chinampa town of Xochimilco the Spaniards fought for several days against local forces and canoe-borne reinforcements from Tenochtitlan. Cortés was unhorsed and nearly captured before the town was taken and burned.",
+        "confidence": "approximate",
+        "modern_place": "Xochimilco, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1047,19.2634]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-chapultepec-aqueduct",
+        "title": "Chapultepec aqueduct cut",
+        "label": "Aqueduct cut",
+        "date": "1521-05-26",
+        "type": "battle",
+        "description": "At the start of the siege Alvarado and Olid destroyed the aqueduct that carried spring water from Chapultepec to the island, forcing the city to depend on brackish lake water and wells for the rest of the siege.",
+        "confidence": "approximate",
+        "note": "Date follows Hassig; some accounts give a day or two earlier or later.",
+        "modern_place": "Bosque de Chapultepec, Ciudad de México, Mexico",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Barbara E. Mundy, The Death of Aztec Tenochtitlan, the Life of Mexico City (University of Texas Press, 2015)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1817,19.4204]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-siege-alvarado",
+        "title": "Siege: Alvarado's division from Tlacopan",
+        "label": "Alvarado",
+        "start": "1521-05",
+        "end": "1521-08-13",
+        "type": "route",
+        "description": "Pedro de Alvarado's division, with Tlaxcalan troops, camped at Tlacopan and fought its way east along the western causeway, filling canal cuts by day that the defenders reopened by night.",
+        "confidence": "approximate",
+        "note": "Gillingham (chs. 1 and 4) dates the start of the siege to 13 May 1521; most modern accounts have the divisions take up their positions around 22 May and cut the Chapultepec aqueduct on 26 May.",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.1907,19.4554],[-99.1755,19.4529],[-99.16,19.443],[-99.146,19.437],[-99.135,19.436]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-siege-olid",
+        "title": "Siege: Olid's division from Coyoacán and Cortés at Xoloc",
+        "label": "Olid / Cortés",
+        "start": "1521-05",
+        "end": "1521-08-13",
+        "type": "route",
+        "description": "Cristóbal de Olid's division based itself at Coyoacán and advanced up the southern causeway, where Cortés set up his headquarters at the fortified junction of Xoloc after the brigantines won control of the lake.",
+        "confidence": "approximate",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.162,19.35],[-99.15,19.36],[-99.14,19.385],[-99.134,19.405],[-99.134,19.425]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-siege-sandoval",
+        "title": "Siege: Sandoval's division from Iztapalapa",
+        "label": "Sandoval",
+        "start": "1521-05",
+        "end": "1521-08-13",
+        "type": "route",
+        "description": "Gonzalo de Sandoval attacked Iztapalapa and then moved along the Iztapalapa causeway; he was later shifted north to Tepeyac to close the northern causeway, completing the blockade.",
+        "confidence": "approximate",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-99.0925,19.3589],[-99.1198,19.3571],[-99.13,19.385],[-99.134,19.403]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-siege-brigantines",
+        "title": "Siege: brigantines on Lake Texcoco",
+        "label": "Brigantines",
+        "start": "1521-05",
+        "end": "1521-08-13",
+        "type": "route",
+        "description": "Launched from Texcoco, the brigantines defeated the Mexica canoe fleet early in the siege, supported the causeway attacks and cut off canoe traffic bringing food into the city.",
+        "confidence": "schematic",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          }
+        ]
+      },
+      "geometry": {"type":"LineString","coordinates":[[-98.905,19.505],[-98.98,19.47],[-99.06,19.445],[-99.11,19.44]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-colhuacatonco",
+        "title": "Defeat at Colhuacatonco: the Spaniards beaten back from the market",
+        "label": "Defeat of 30 June 1521",
+        "date": "1521-06-30",
+        "type": "battle",
+        "description": "Impatient with the slow siege, Cortés sent three columns through the streets of northern Tenochtitlan toward the great market of Tlatelolco. The Mexica let his own column cross an unfilled gap in the roadway, then cut it off; Cortés was wounded and nearly dragged away before his men and Tlaxcalan allies rescued him. Dozens of Spaniards were taken alive and sacrificed on the temples within sight of their camps, and for a time many Indigenous allies went home. Cortés turned afterwards to systematically razing the city block by block.",
+        "confidence": "approximate",
+        "note": "Placed on the line of the modern Calle República de Chile, the narrow street usually identified with Cortés's line of advance; the fighting spread over the Cuepopan district and into Tlatelolco. Sources put the captives at about 40 (Gómara), 53 (Sahagún's informants) or 66 (Díaz); Gillingham (ch. 1) gives 66.",
+        "modern_place": "Calle República de Chile, Centro, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernal Díaz del Castillo, Historia verdadera de la conquista de la Nueva España (written c. 1568, publ. 1632); Eng. trans. The Conquest of New Spain, trans. J. M. Cohen (Penguin, 1963)."
+          },
+          {
+            "citation": "Bernardino de Sahagún, Florentine Codex, Book 12: The Conquest of Mexico (c. 1577), trans. Arthur J. O. Anderson and Charles E. Dibble (School of American Research / University of Utah, 1975)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1354,19.4425]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "conquest",
+        "id": "e1-tlatelolco-fall",
+        "title": "Fall of Tenochtitlan–Tlatelolco; capture of Cuauhtémoc",
+        "label": "Fall of Tlatelolco",
+        "date": "1521-08-13",
+        "type": "battle",
+        "description": "After some eleven weeks of siege, famine and epidemic, the defenders were pushed back into Tlatelolco, the city's northern twin and site of its great market. The Mexica ruler Cuauhtémoc was captured on the lake as he tried to escape by canoe, ending organised resistance. The Plaza de las Tres Culturas now marks the site.",
+        "confidence": "precise",
+        "note": "Precise for Tlatelolco. Cuauhtémoc was captured on the water to the east; a plaque in Tepito (Calle Tenochtitlan 40) marks the traditional site.",
+        "modern_place": "Tlatelolco, Ciudad de México, Mexico",
+        "sources": [
+          {
+            "citation": "Hernán Cortés, Third Letter to Charles V (15 May 1522), in Letters from Mexico, trans. and ed. Anthony Pagden (Yale University Press, 1986)."
+          },
+          {
+            "citation": "Bernardino de Sahagún, Florentine Codex, Book 12: The Conquest of Mexico (c. 1577), trans. Arthur J. O. Anderson and Charles E. Dibble (School of American Research / University of Utah, 1975)."
+          },
+          {
+            "citation": "Ross Hassig, Mexico and the Spanish Conquest, 2nd ed. (University of Oklahoma Press, 2006)."
+          },
+          {
+            "citation": "Instituto Nacional de Antropología e Historia (INAH), site descriptions for Zona Arqueológica de Cempoala, Quiahuiztlan, Tizatlán, Cholula and Templo Mayor.",
+            "url": "https://www.inah.gob.mx/"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 1."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1374,19.4515]}
+    }
+  ]
+}

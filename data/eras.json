@@ -1,0 +1,122 @@
+[
+  {
+    "id": "conquest",
+    "title": "Conquest",
+    "start": 1519,
+    "end": 1521,
+    "file": "01-conquest.geojson",
+    "bbox": [-102.5, 17.3, -92.4, 21.2],
+    "summary": "Hernán Cortés landed on the Gulf coast in 1519 with about 500 men and, by allying with Totonacs, Tlaxcalans and later many other subject peoples of the Triple Alliance, brought down Tenochtitlan in August 1521. By the end of the siege his Indigenous allies numbered in the tens of thousands or more, which is why historians such as Gillingham describe the war as much a civil war as a conquest. The geography explains much of the story: the climb from the coast to the Altiplano, the unconquered enclave of Tlaxcala on the flank of the empire, and the lake that made the Mexica capital a fortress that could only be taken with boats. Smallpox, which arrived in 1520, killed a large share of the city's defenders before the siege began.",
+    "reading": "ch. 1, with the Introduction and ch. 2"
+  },
+  {
+    "id": "expansion",
+    "title": "Expansion and early colony",
+    "start": 1521,
+    "end": 1600,
+    "file": "02-expansion.geojson",
+    "bbox": [-112, 14, -85.5, 39],
+    "summary": "In eighty years Spanish rule spread from the Valley of Mexico south to Guatemala and Yucatán, where the Montejos needed two decades to subdue the Maya provinces, and west into Nueva Galicia, where Guzmán's brutal conquest provoked the Mixtón War (1540–42); in each campaign Indigenous allies from central Mexico did most of the fighting. Friars arriving from 1524 baptised millions and built convents across the centre and south, while the viceroys (from 1535) and the suppression of the alleged Cortés conspiracy of 1566 broke the political power of the conquistadors. The silver strikes at Zacatecas (1546) and Guanajuato pulled settlement north along the Camino Real de Tierra Adentro into the lands of the Chichimecas, whose forty-year war ended in negotiated peace and Tlaxcalan colonies; by 1598 the road reached New Mexico. From 1565 the Manila galleon tied New Spain to Asia, while epidemics, above all the cocoliztli of 1545–48 and 1576–80, reduced the Indigenous population to a fraction of its pre-conquest size.",
+    "reading": "chs. 2–3, with parts of chs. 1 and 5–7"
+  },
+  {
+    "id": "mature-colony",
+    "title": "Mature colony",
+    "start": 1600,
+    "end": 1760,
+    "file": "03-mature-colony.geojson",
+    "bbox": [-123, 16, -89, 37.5],
+    "summary": "In the seventeenth and early eighteenth centuries New Spain settled into a mature, hybrid colonial society of Spaniards, Indigenous people, Africans, Asians and castas, governed lightly by a Habsburg crown that sold offices and lost much of its silver to contraband. Mexico City began draining its lakes through the Desagüe of Huehuetoca in 1607 but lay under water for five years after 1629, and its crowds rose against bad government in 1624 and 1692; prosperous cities such as Puebla, Querétaro and Guadalajara grew on silver from northern mines like Parral and Chihuahua, Oaxaca's cochineal, and the fleets and fairs of Veracruz, Jalapa and Acapulco, while buccaneers raided the Gulf ports. On the northern frontier Jesuit and Franciscan missions and presidios spread through Sonora, Baja California, New Mexico and Texas, and Escandón colonised Nuevo Santander, but they met resistance: the Pueblo Revolt of 1680 drove the Spaniards out of New Mexico for twelve years, Tepehuán, Tarahumara, Yaqui, Pima and Pericú risings shook the north, and the Cora of the Nayar kept their independence until 1722.",
+    "reading": "chs. 5–7, with parts of chs. 3, 4 and 8"
+  },
+  {
+    "id": "bourbon",
+    "title": "Bourbon reforms",
+    "start": 1760,
+    "end": 1810,
+    "file": "04-bourbon.geojson",
+    "bbox": [-125, 15, -86, 42],
+    "summary": "Charles III's ministers set out to make New Spain a more profitable, better-defended colony. José de Gálvez's inspection (1765–71) set up the tobacco monopoly, enforced the expulsion of the Jesuits in 1767 and crushed the riots that followed, the most serious challenge to Spanish rule before 1810, and began the occupation of Alta California in 1769; heavier taxes and new militias were resented from Canek's Maya rising in Yucatán (1761) to the mining camps of Real del Monte. The north became a separate military command, the Provincias Internas (1776), and in 1786 the rest of the viceroyalty was divided into twelve intendancies, from which most Mexican states descend, while silver output from mines such as the Valenciana and Catorce reached its colonial peak. War with Britain, the Crown's seizure of Church loans in 1804, Napoleon's seizure of Spain in 1808 and a peninsular coup in Mexico City then opened the crisis that led to independence.",
+    "reading": "ch. 8, with parts of chs. 4, 6, 7 and 10"
+  },
+  {
+    "id": "independence",
+    "title": "War of Independence",
+    "start": 1810,
+    "end": 1821,
+    "file": "05-independence.geojson",
+    "bbox": [-107, 15.8, -95.5, 30],
+    "summary": "Hidalgo's rising at Dolores in September 1810 became a mass rural revolt that swept the Bajío and came within sight of Mexico City before collapsing; its leaders were captured in the Coahuila desert and shot at Chihuahua in 1811. Morelos built a smaller, disciplined army in the south, took Oaxaca and Acapulco, and convened a congress at Chilpancingo that declared independence in 1813 and issued the Apatzingán constitution in 1814; he was captured and shot in 1815. Guerrilla resistance survived in the southern mountains under Vicente Guerrero. In 1821 Iturbide's Plan of Iguala joined royalist officers and former insurgents, the garrisons went over one by one, and the Treaty of Córdoba recognised independence. By some estimates the decade of war, with the epidemics the armies spread, killed one Mexican in ten and wrecked the mining economy of the Bajío.",
+    "reading": "ch. 9, with the end of ch. 8"
+  },
+  {
+    "id": "early-republic",
+    "title": "Early republic and territorial loss",
+    "start": 1821,
+    "end": 1854,
+    "file": "06-early-republic.geojson",
+    "bbox": [-125, 14, -86, 42.5],
+    "summary": "Independent Mexico inherited a vast, thinly held north and a treasury ruined by a decade of war. Spain held the fortress of San Juan de Ulúa off Veracruz until 1825 and tried to reconquer the country at Tampico in 1829. Between 1821 and 1854 it lost Central America (1823), Texas (1836), and, after the US–Mexican War, Alta California and New Mexico (1848), then sold the Mesilla strip (1853). The losses came amid constant conflict between federalists and centralists, foreign interventions, Comanche and Apache raiding across the northern states, and the Caste War that nearly drove the non-Maya population out of Yucatán.",
+    "reading": "ch. 10 and the second half of ch. 9, with the start of ch. 11"
+  },
+  {
+    "id": "reform",
+    "title": "Reform and French Intervention",
+    "start": 1854,
+    "end": 1876,
+    "file": "07-reform.geojson",
+    "bbox": [-109, 14.5, -88.5, 32.3],
+    "summary": "The Revolution of Ayutla (1854–55) brought a generation of liberals to power who stripped the Church and army of their legal privileges, forced the sale of corporate lands and wrote the Constitution of 1857. In the Reform War that followed (1858–60), Juárez's government, cut off from the capital, sailed by way of Panama, Havana and New Orleans to Veracruz and governed from the port and its customs house until the liberal armies won in the Bajío and at Calpulalpan; to win US support it even signed away transit rights across Tehuantepec in the McLane–Ocampo Treaty, which the US Senate rejected in 1860. A French army then climbed the road from Veracruz, was thrown back at Puebla on 5 May 1862, occupied Mexico City in 1863 and installed Maximilian in 1864, while Juárez carried the republic north to Paso del Norte; after the French withdrew, the empire ended at Querétaro in 1867. The Restored Republic lasted until Díaz's Plan of Tuxtepec and victory at Tecoac in 1876.",
+    "reading": "ch. 11, with the Díaz pages of ch. 12"
+  },
+  {
+    "id": "porfiriato",
+    "title": "Porfiriato",
+    "start": 1876,
+    "end": 1911,
+    "file": "08-porfiriato.geojson",
+    "bbox": [-112, 14, -86, 32.5],
+    "summary": "Porfirio Díaz ruled, directly or through his ally Manuel González (1880–84), from 1876 to 1911, trading political freedom for order and foreign investment. Railways built mostly with US and British capital grew from about 600 km to about 19,000, tying the north to the US border, opening the mines, the cotton of the Laguna and Monterrey's industry, and binding the regions to Mexico City. Treaties with Guatemala (1882) and Britain (1893) fixed the southern borders, campaigns ended Apache raiding and the Caste War, and Yaquis were deported from Sonora to the henequen estates of Yucatán. Growth rested on lost village lands, drained lakes and coerced labour; after the Creelman interview of 1908 promised democracy, the strikes at Cananea and Río Blanco and the rigged election of 1910 led to Madero's call to revolt.",
+    "reading": "chs. 12–13, and the start of ch. 14"
+  },
+  {
+    "id": "revolution",
+    "title": "Revolution",
+    "start": 1910,
+    "end": 1920,
+    "file": "09-revolution.geojson",
+    "bbox": [-112, 14, -86, 32.5],
+    "summary": "Madero's revolt of November 1910 brought down Porfirio Díaz within six months, after rebels from the Chihuahua sierra took Ciudad Juárez on the US border; Huerta's coup and the murder of Madero in 1913 set off a wider war, fought along the railways as Villa's División del Norte drove south through the centre, Obregón came down the Pacific coast and Zapata's villagers held Morelos. When the victors split in 1914, Villa and Zapata held the north and centre while Carranza held the Gulf ports, whose customs, oil and henequen paid for arms. Obregón broke Villa at Celaya in 1915, Villa's raid on Columbus in 1916 brought a US army into Chihuahua, and the 1917 Constitution written at Querétaro laid the legal ground for land reform and national ownership of oil. War, famine and epidemics, the 1918 influenza among them, caused some 1.4 million excess deaths over the decade.",
+    "reading": "chs. 14–15, with part of ch. 16"
+  },
+  {
+    "id": "consolidation",
+    "title": "Consolidation",
+    "start": 1920,
+    "end": 1940,
+    "file": "10-consolidation.geojson",
+    "bbox": [-117, 14, -86, 33],
+    "summary": "The Sonoran generals Obregón and Calles rebuilt the state: they put down army revolts in 1923–24 and 1929, came to terms with the United States over oil at Bucareli in 1923, and in 1929 founded the party that later became the PRI. Calles's enforcement of the anticlerical laws set off the Cristero War (1926–29) among the rancheros and villagers of west-central Mexico. Under Cárdenas (1934–40), who sent Calles into exile in 1936, land reform reached the commercial heartlands, from the cotton of La Laguna and the henequen of Yucatán to the Yaqui and Mexicali valleys and the Michoacán lowlands, and in 1938 he expropriated the foreign oil companies of the Gulf coast. In the Depression of the early 1930s some 350,000–400,000 Mexicans were sent or pressed to return from the United States.",
+    "reading": "ch. 16 and the last third of ch. 15"
+  },
+  {
+    "id": "pri",
+    "title": "PRI era",
+    "start": 1940,
+    "end": 2000,
+    "file": "11-pri.geojson",
+    "bbox": [-118, 15.5, -86, 33.5],
+    "summary": "Under the PRI and its predecessor, Mexico's population grew from about 20 to 100 million and became mostly urban: Mexico City grew from under 2 million people to more than 15 million, federal dams and irrigation opened the northwest and the tropical lowlands, and Acapulco and later Cancún were built as resorts. The north was tied ever more closely to the United States, by the Bracero Program (1942–64), which issued some 4.6 million contracts, the maquiladoras of the border cities (from 1965) and NAFTA (1994), and by a drug trade that moved from the Sinaloa sierra to Guadalajara after Operation Condor. Behind the stability lay managed elections, regional bosses and repression: killings at León, the Alameda (1952), Chilpancingo, Tlatelolco and Aguas Blancas, and a dirty war in Guerrero that included death flights over the Pacific. The PRI's hold weakened after the 1985 earthquake, the disputed 1988 election and the uprising and murders of 1994, as the opposition advanced from the north and the cities.",
+    "reading": "chs. 17–20, with the drug-trade sections of ch. 21"
+  },
+  {
+    "id": "present",
+    "title": "2000 to the present",
+    "start": 2000,
+    "end": 2026,
+    "file": "12-present.geojson",
+    "bbox": [-118, 14, -86, 33],
+    "summary": "Vicente Fox's victory in 2000 ended 71 years of PRI rule, but the democratic transition coincided with the rise of the cartels: from Calderón's deployment to Michoacán in December 2006, the drug war splintered criminal groups and roughly tripled recorded homicides by 2011, with the worst violence in border and Pacific states such as Chihuahua, Tamaulipas, Michoacán, Guerrero and Sinaloa; by the early 2020s hundreds of thousands had been killed and more than 100,000 people were registered as missing. The disappearance of 43 Ayotzinapa students in Iguala in 2014 became a symbol of collusion between criminals and the state, and Mexico became both a corridor and a buffer for migrants heading from Central America to the US border. López Obrador (2018) and Claudia Sheinbaum (2024), Mexico's first woman president, concentrated power, gave the army policing (the National Guard, 2019) and the building of airports and railways, and steered public investment to the south-east, with the Tren Maya, the Dos Bocas refinery and the Interoceanic Corridor, and in 2025 replaced appointed judges with elected ones.",
+    "reading": "ch. 21 and the Epilogue, with the end of ch. 19 and ch. 20"
+  }
+]

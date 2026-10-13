@@ -1,0 +1,1167 @@
+{
+  "type": "FeatureCollection",
+  "name": "Consolidation (1920–1940)",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-cristero-region",
+        "title": "The Cristero War (1926–1929)",
+        "label": "Cristero region",
+        "start": "1926-08",
+        "end": "1929-06-21",
+        "type": "boundary",
+        "description": "When the Calles government enforced the constitution's anticlerical articles with the \"Calles Law\", in force from 31 July 1926, the bishops suspended public worship. Armed risings began in August 1926 and became a general rebellion in January 1927, strongest among the rancheros and villagers of west-central Mexico: Los Altos and southern Jalisco, Colima, western Michoacán, western Guanajuato, southern Zacatecas, Aguascalientes and Nayarit. Meyer counts some 50,000 Cristeros in arms at the peak and about 90,000 combatants killed on both sides. A smaller second rising (la Segunda) followed in the mid-1930s, much of it against socialist education.",
+        "confidence": "schematic",
+        "note": "Hand-drawn after Meyer's maps of the zones of rebellion. The Cristeros held the countryside, not the cities: Guadalajara, Colima, Morelia and the railway towns stayed in government hands. Smaller outbreaks in Durango, Querétaro, Guerrero, Oaxaca, Puebla and elsewhere are not drawn, and the Segunda (c. 1934–1938) is not mapped. Gillingham (ch. 15) gives as many as 100,000 dead.",
+        "clip": "land",
+        "style": {
+          "color": "#8a4f7d"
+        },
+        "sources": [
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          },
+          {
+            "citation": "Jean Meyer, La Cristiada, 3 vols. (Siglo XXI, 1973–1974)."
+          },
+          {
+            "citation": "Matthew Butler, Popular Piety and Political Identity in Mexico's Cristero Rebellion: Michoacán, 1927–29 (Oxford University Press for the British Academy, 2004)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-104.6,23.6],[-103.6,23],[-102.9,23],[-102.25,22.4],[-101.95,21.75],[-101.3,21.35],[-101.05,20.9],[-101.1,20.4],[-100.85,20],[-101,19.6],[-101.4,19.1],[-102.2,18.6],[-102.6,17.95],[-103,17.8],[-104,18.4],[-104.6,18.9],[-105.3,19.3],[-105.8,20.4],[-105.6,21.2],[-105.2,22],[-104.9,22.6],[-104.6,23.6]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-laguna-ejidos",
+        "title": "Land reform in La Laguna",
+        "label": "La Laguna ejidos",
+        "date": "1936-10-06",
+        "type": "economic",
+        "description": "La Laguna, the irrigated cotton district on the Nazas and Aguanaval rivers around Torreón, Gómez Palacio and Lerdo, was the most valuable commercial agriculture in the north. After a farmworkers' strike in August 1936, Cárdenas decreed on 6 October the expropriation of most of the cotton estates, about 450,000 hectares, and personally oversaw their distribution to some 300 ejidos with around 35,000 members. The ejidos were run collectively with credit from the government's ejidal bank, the showcase of Cardenista agrarian reform.",
+        "confidence": "schematic",
+        "note": "Outline anchored on Tlahualilo, Mapimí, Lerdo, Torreón, Matamoros, San Pedro and Viesca, spanning the Coahuila–Durango border. The decree as announced covered 447,516 ha for 34,743 ejidatarios in 296 ejidos; other accounts round these to about 500,000 ha and 35,000–38,000 ejidatarios. Gillingham (ch. 16) puts the expropriation in the last weeks of 1936, when the distribution was carried out, and gives 38,000 ejidatarios on more than a million acres (about 400,000 ha). Elsewhere (ch. 20) Gillingham dates it to 1937.",
+        "style": {
+          "color": "#b8913a"
+        },
+        "sources": [
+          {
+            "citation": "Clarence Senior, Land Reform and Democracy (University of Florida Press, 1958)."
+          },
+          {
+            "citation": "Barry Carr, \"The Mexican Communist Party and Agrarian Mobilization in the Laguna, 1920–1940: A Worker-Peasant Alliance?,\" Hispanic American Historical Review 67, no. 3 (1987): 371–404."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-103.65,25.45],[-103.72,25.7],[-103.55,26.15],[-103.35,26.22],[-103,25.95],[-102.75,25.8],[-102.68,25.45],[-102.85,25.25],[-103.2,25.35],[-103.45,25.38],[-103.65,25.45]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-henequen-zone",
+        "title": "Henequen zone of Yucatán: the 1937 reform",
+        "label": "Henequen zone",
+        "date": "1937-08-08",
+        "type": "economic",
+        "description": "The henequen plantations of northwestern Yucatán, around Mérida, produced the fibre for binder twine and had made the peninsula's planters rich. In August 1937 Cárdenas went to Mérida, and his decree of 8 August turned most of the henequen land into 272 ejidos of Maya workers, about 178,000 hectares; the owners kept the decorticating mills and up to 150 hectares each, and the ejidos were later run together as the \"Gran Ejido\". Because the fields depended on those mills and on a shrinking world market, the reform proved economically troubled and politically contested.",
+        "confidence": "schematic",
+        "note": "Hand-drawn around the henequen belt, from Maxcanú and Muna in the south (below which the Puuc hills mark its edge) to Motul, Izamal and Temax in the east. The 272 ejidos and 178,000 ha are the figures usually given for the August 1937 decree; other accounts of the area distributed in 1937–38 run to about 360,000 ha. Gillingham (ch. 16) gives 1.2 million acres (about 490,000 ha) redistributed, in late 1937.",
+        "clip": "land",
+        "style": {
+          "color": "#6f8f3e"
+        },
+        "sources": [
+          {
+            "citation": "Ben Fallaw, Cárdenas Compromised: The Failure of Reform in Postrevolutionary Yucatán (Duke University Press, 2001)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-90.35,21.15],[-90.4,20.75],[-90.3,20.5],[-89.75,20.4],[-89.4,20.5],[-89,20.75],[-88.85,20.95],[-88.75,21.2],[-88.7,21.5],[-89.6,21.4],[-90.2,21.3],[-90.35,21.15]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-golden-lane",
+        "title": "The Golden Lane (Faja de Oro)",
+        "label": "Golden Lane",
+        "date": "1938-03-18",
+        "type": "economic",
+        "description": "A narrow arc of extraordinarily productive fields between Tampico and Tuxpan, west of the Tamiahua lagoon (Juan Casiano, Potrero del Llano, Cerro Azul, Naranjos, Álamo and others), which made Mexico the world's second-largest oil producer around 1921. Salt water invaded most of its wells in the 1920s and output collapsed, so by the 1938 expropriation the Golden Lane had largely given way to Poza Rica.",
+        "confidence": "schematic",
+        "note": "Hand-drawn through the main field towns. The individual fields were separate pools along a buried reef, not a continuous area.",
+        "style": {
+          "color": "#5a4a3a"
+        },
+        "sources": [
+          {
+            "citation": "Jonathan C. Brown, Oil and Revolution in Mexico (University of California Press, 1993)."
+          },
+          {
+            "citation": "Myrna I. Santiago, The Ecology of Oil: Environment, Labor, and the Mexican Revolution, 1900–1938 (Cambridge University Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Polygon","coordinates":[[[-97.72,21.55],[-97.6,21.5],[-97.6,21.35],[-97.65,21.15],[-97.6,20.9],[-97.65,20.85],[-97.75,20.9],[-97.8,21.1],[-97.82,21.3],[-97.8,21.5],[-97.72,21.55]]]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-vasconcelos-sep",
+        "title": "Vasconcelos and the Ministry of Education",
+        "label": "Vasconcelos at the SEP",
+        "start": "1921",
+        "end": "1924",
+        "type": "political",
+        "description": "Under Obregón, José Vasconcelos headed the new federal Ministry of Public Education (SEP), created in 1921. He sent teachers and \"cultural missions\" into the countryside, founded rural schools and libraries, published cheap editions of the classics, and commissioned the first murals by Diego Rivera, José Clemente Orozco and others, including Rivera's cycle in the ministry's own building. The federal school became one of the main ways the revolutionary state reached the villages.",
+        "confidence": "approximate",
+        "note": "Marked at the ministry's historic building on República de Argentina, in the former convent of La Encarnación, across the street from the Colegio de San Ildefonso, where Orozco painted his murals.",
+        "modern_place": "Antiguo Colegio de San Ildefonso, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Claude Fell, José Vasconcelos: los años del águila (1920–1925) (Universidad Nacional Autónoma de México, 1989)."
+          },
+          {
+            "citation": "Mary Kay Vaughan, Cultural Politics in Revolution: Teachers, Peasants, and Schools in Mexico, 1930–1940 (University of Arizona Press, 1997)."
+          },
+          {
+            "citation": "Jean Meyer, \"Mexico: Revolution and Reconstruction in the 1920s,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. V (Cambridge University Press, 1986)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.132,19.4362]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-bucareli",
+        "title": "Bucareli agreements",
+        "label": "Bucareli agreements",
+        "start": "1923-05",
+        "end": "1923-08-13",
+        "type": "political",
+        "description": "In talks at a government building on Calle Bucareli, US and Mexican commissioners agreed that Article 27 would not be applied retroactively to oil lands where companies had performed \"positive acts\" before 1917, and set up commissions for claims arising from the revolution. In return the United States recognised the Obregón government on 31 August 1923, in time to sell it arms against the de la Huerta rebellion.",
+        "confidence": "approximate",
+        "note": "Marked at Bucareli 85, now the Secretaría de Gobernación.",
+        "modern_place": "Secretaría de Gobernación, Bucareli, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Lorenzo Meyer, Mexico and the United States in the Oil Controversy, 1917–1942, trans. Muriel Vasconcellos (University of Texas Press, 1977)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Jürgen Buchenau, The Last Caudillo: Álvaro Obregón and the Mexican Revolution (Wiley-Blackwell, 2011)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 15–16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.152,19.4307]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-villa-parral",
+        "title": "Pancho Villa assassinated at Parral",
+        "label": "Villa killed",
+        "date": "1923-07-20",
+        "type": "political",
+        "description": "Since his surrender in 1920 Villa had lived on the hacienda of Canutillo in northern Durango. Driving through Parral, he was ambushed and killed by gunmen led by Jesús Salas Barraza. Katz concludes that the killing was organised with the knowledge of Obregón and Calles, who feared Villa might back de la Huerta in the coming presidential succession.",
+        "confidence": "precise",
+        "note": "Marked at the Museo Francisco Villa, beside the street corner where he was shot.",
+        "modern_place": "Museo Francisco Villa, Hidalgo del Parral",
+        "sources": [
+          {
+            "citation": "Friedrich Katz, The Life and Times of Pancho Villa (Stanford University Press, 1998)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-105.6727,26.9329]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-delahuerta-veracruz",
+        "title": "De la Huerta rebellion proclaimed at Veracruz",
+        "label": "De la Huerta rebellion",
+        "start": "1923-12-07",
+        "end": "1924",
+        "type": "uprising",
+        "description": "When Obregón chose Calles as his successor, Adolfo de la Huerta issued the Plan of Veracruz (7 December 1923), and a large part of the army followed him: Guadalupe Sánchez in Veracruz, Enrique Estrada in Jalisco and Michoacán, Fortunato Maycotte in Oaxaca and others. Obregón, armed by the United States after the Bucareli agreements and backed by agrarian and labour militias, defeated the rebels by spring 1924, and many rebel generals were shot. After the defeat at Esperanza, de la Huerta abandoned Veracruz for Frontera, Tabasco, in early February 1924, and later fled to the United States.",
+        "confidence": "approximate",
+        "note": "Marked at Veracruz, where the plan was issued. Sources differ on when the last rebel groups surrendered, so only the year is given for the end. The first move came on 30 November 1923, when Rómulo Figueroa threatened revolt at Iguala, Guerrero (Plasencia de la Parra), which Gillingham (ch. 15) gives as the start of the rising.",
+        "modern_place": "Veracruz, Veracruz, Mexico",
+        "sources": [
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Jürgen Buchenau, The Last Caudillo: Álvaro Obregón and the Mexican Revolution (Wiley-Blackwell, 2011)."
+          },
+          {
+            "citation": "Jean Meyer, \"Mexico: Revolution and Reconstruction in the 1920s,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. V (Cambridge University Press, 1986)."
+          },
+          {
+            "citation": "Enrique Plasencia de la Parra, Personajes y escenarios de la rebelión delahuertista, 1923–1924 (Universidad Nacional Autónoma de México, Instituto de Investigaciones Históricas, 1998)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.1384,19.2003]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-escudero-acapulco",
+        "title": "Juan R. Escudero killed",
+        "label": "Escudero",
+        "date": "1923-12-21",
+        "type": "political",
+        "description": "Juan Ranulfo Escudero founded the Partido Obrero de Acapulco in 1919 among the port's dockers and the peasants of the coast, and as mayor from 1920 challenged the Spanish merchant houses that controlled the town's trade. Federal troops shot and crippled him in an attack on the town hall in March 1922; when the de la Huerta rebellion began he was taken from custody and shot by soldiers outside the town. He was one of several regional radicals killed in the violence around the 1923–24 rebellion.",
+        "confidence": "approximate",
+        "note": "Marked at the centre of Acapulco, where he led his party and was first shot; he was killed at El Aguacatillo, near La Venta, on the outskirts.",
+        "modern_place": "Acapulco, Guerrero, Mexico",
+        "sources": [
+          {
+            "citation": "Ian Jacobs, Ranchero Revolt: The Mexican Revolution in Guerrero (University of Texas Press, 1982)."
+          },
+          {
+            "citation": "Wikipedia (es), \"Juan R. Escudero\".",
+            "url": "https://es.wikipedia.org/wiki/Juan_R._Escudero"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.894,16.868]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-carrillo-puerto",
+        "title": "Felipe Carrillo Puerto executed",
+        "label": "Carrillo Puerto shot",
+        "date": "1924-01-03",
+        "type": "political",
+        "description": "Felipe Carrillo Puerto, the socialist governor of Yucatán who had organised Maya henequen workers into \"leagues of resistance\" and begun land distribution, was overthrown when the federal garrison joined the de la Huerta rebellion. Captured while fleeing, he was shot with several of his brothers and companions in Mérida.",
+        "confidence": "approximate",
+        "note": "Marked at the Cementerio General of Mérida, where the executions took place.",
+        "modern_place": "Cementerio General, Mérida",
+        "sources": [
+          {
+            "citation": "Gilbert M. Joseph, Revolution from Without: Yucatán, Mexico, and the United States, 1880–1924 (Cambridge University Press, 1982)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-89.6404,20.9497]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-esperanza-1924",
+        "title": "Battle of Esperanza",
+        "label": "Esperanza 1924",
+        "start": "1924-01-27",
+        "end": "1924-01-28",
+        "type": "battle",
+        "description": "Federal forces under General Eugenio Martínez, with Juan Andreu Almazán, defeated the combined rebel forces of Guadalupe Sánchez and Fortunato Maycotte at Esperanza, where the railway from Mexico City begins its descent to the Gulf. The rebels abandoned the port of Veracruz within days, and federal troops occupied it in February.",
+        "confidence": "approximate",
+        "note": "Marked at the town of Esperanza; the fighting was along the railway nearby. Plasencia de la Parra dates the battle to 27–28 January 1924.",
+        "modern_place": "Esperanza, Puebla, Mexico",
+        "sources": [
+          {
+            "citation": "Enrique Plasencia de la Parra, Personajes y escenarios de la rebelión delahuertista, 1923–1924 (Universidad Nacional Autónoma de México, Instituto de Investigaciones Históricas, 1998)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-97.3753,18.8585]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-ocotlan-1924",
+        "title": "Battle of Ocotlán",
+        "label": "Ocotlán 1924",
+        "date": "1924-02",
+        "type": "battle",
+        "description": "Directing the western campaign himself, Obregón sent Joaquín Amaro's troops across the river at Ocotlán, where the railway from the Bajío to Guadalajara crosses the Santiago as it leaves Lake Chapala, against the entrenched rebel line held by Salvador Alvarado. The frontal assault was costly, but it broke the line; Enrique Estrada's western rebellion collapsed and federal troops entered Guadalajara a few days later.",
+        "confidence": "approximate",
+        "note": "Marked at Ocotlán; the fighting extended along the river crossing. The attack was ordered for daybreak after 8 February 1924 (Plasencia de la Parra); other accounts give 9 or 10 February, so only the month is shown.",
+        "modern_place": "Ocotlán, Jalisco, Mexico",
+        "sources": [
+          {
+            "citation": "Enrique Plasencia de la Parra, Personajes y escenarios de la rebelión delahuertista, 1923–1924 (Universidad Nacional Autónoma de México, Instituto de Investigaciones Históricas, 1998)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Jürgen Buchenau, The Last Caudillo: Álvaro Obregón and the Mexican Revolution (Wiley-Blackwell, 2011)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.7688,20.3514]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-garrido-tabasco",
+        "title": "Tabasco under Garrido Canabal",
+        "label": "Garrido's Tabasco",
+        "start": "1919",
+        "end": "1935-08",
+        "type": "political",
+        "description": "Tomás Garrido Canabal dominated Tabasco from his first interim governorship in 1919 until 1935, with two terms as governor, in the early 1920s and in 1931–34. He made the state a \"laboratory of the revolution\": churches were closed or destroyed and priests required to marry, alcohol was prohibited, and a youth militia, the Red Shirts, enforced his anticlerical campaign. After Red Shirts fired on Catholics in Coyoacán and Cárdenas broke with Calles, he was forced out in mid-1935 and left for Costa Rica.",
+        "confidence": "approximate",
+        "note": "Marked at Villahermosa, the state capital. Sources give different years for his first terms; the end date is when he lost control of the state (August 1935).",
+        "modern_place": "Villahermosa, Tabasco, Mexico",
+        "sources": [
+          {
+            "citation": "Carlos Martínez Assad, El laboratorio de la revolución: el Tabasco garridista (Siglo XXI, 1979)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 15–16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-92.9366,17.9885]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-icam-1925",
+        "title": "Schismatic Mexican Catholic Church founded",
+        "label": "ICAM schism",
+        "date": "1925-02",
+        "type": "political",
+        "description": "With backing from the CROM labour federation and Calles's approval, the former priest José Joaquín Pérez proclaimed an Iglesia Católica Apostólica Mexicana independent of Rome, and his followers occupied the church of La Soledad in Mexico City. Catholics rioted against the takeover, and the episode helped bring about the League for the Defence of Religious Liberty. The schismatic church never won more than a minority, but the clash began the escalation that led to the Calles Law and the Cristero War.",
+        "confidence": "approximate",
+        "note": "Marked at the church of La Soledad (Santa Cruz y Soledad), east of the Zócalo. Gillingham (ch. 15) credits the schismatics with some three hundred parishes at their height.",
+        "modern_place": "Templo de la Soledad, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          },
+          {
+            "citation": "Wikipedia, \"Mexican Catholic Apostolic Church\".",
+            "url": "https://en.wikipedia.org/wiki/Mexican_Catholic_Apostolic_Church"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.123,19.4318]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-ayotzinapa-1926",
+        "title": "Rural teachers' college at Ayotzinapa",
+        "label": "Ayotzinapa",
+        "date": "1926",
+        "type": "city",
+        "description": "The rural normal school of Guerrero, founded in 1926 by the teachers Raúl Isidro Burgos and Rodolfo A. Bonilla, worked at first in rented houses in Tixtla and was then given land of the old hacienda of Ayotzinapa. It was one of the boarding colleges that trained the rural teachers of the revolutionary education campaign. It later became a centre of student radicalism; the disappearance of 43 of its students in 2014 is mapped in era 12.",
+        "confidence": "precise",
+        "note": "Marked at the school, near Tixtla. Founded 1926 (Expansión gives 2 March); the school moved to the Ayotzinapa site in the early 1930s.",
+        "modern_place": "Ayotzinapa, Tixtla, Guerrero, Mexico",
+        "sources": [
+          {
+            "citation": "Wikipedia, \"Ayotzinapa Rural Normal School\".",
+            "url": "https://en.wikipedia.org/wiki/Ayotzinapa_Rural_Normal_School"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.4101,17.5528]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-primo-tapia-naranja",
+        "title": "Primo Tapia and the agraristas of Naranja",
+        "label": "Naranja",
+        "start": "1921-11",
+        "end": "1926",
+        "type": "political",
+        "description": "Primo Tapia, a Purépecha from Naranja who had worked in the United States and absorbed the anarchism of the Flores Magón circle, came home and in 1921 organised Naranja, Tiríndaro and Tarejero, villages that had lost their land and lake to the drainage of the Zacapu marsh, into an agrarian union; he went on to lead the Liga de Comunidades Agrarias of Michoacán. The villages won ejido grants from the Noriegas' hacienda Cantabria, but in 1926 Tapia was seized and killed by federal soldiers. Naranja, now Naranja de Tapia, became a byword for agrarian struggle and for the feuds that followed reform.",
+        "confidence": "approximate",
+        "note": "Marked at Naranja de Tapia. The start is the founding of the agrarian union of the three villages (November 1921); the end is Tapia's killing, usually placed in April 1926 (the exact day was not confirmed). Gillingham (ch. 16) says the Abbot of Pátzcuaro had put a bounty on his head.",
+        "modern_place": "Naranja de Tapia, Michoacán, Mexico",
+        "sources": [
+          {
+            "citation": "Paul Friedrich, Agrarian Revolt in a Mexican Village (University of Chicago Press, 1977)."
+          },
+          {
+            "citation": "José Napoleón Guzmán Ávila, La ciénega de Zacapu, Michoacán: de la conformación de las haciendas al reparto agrario, 1870–1940 (PhD thesis, Universidad Nacional Autónoma de México, 2009).",
+            "url": "https://ru.dgb.unam.mx/bitstream/20.500.14330/TES01000648252/3/0648252_A1.pdf"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 12, 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-101.7591,19.7764]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-guadalajara-1926",
+        "title": "First armed clash: the Guadalupe sanctuary, Guadalajara",
+        "label": "Guadalajara 1926",
+        "date": "1926-08-03",
+        "type": "uprising",
+        "description": "Days after worship was suspended, about 400 armed Catholics shut themselves inside the Sanctuary of Our Lady of Guadalupe in Guadalajara and fought federal troops until their ammunition ran out. It was the first armed confrontation of the conflict; in the following months scattered risings broke out across Jalisco, before the general rebellion of January 1927.",
+        "confidence": "approximate",
+        "modern_place": "Santuario de Guadalupe, Guadalajara, Jalisco",
+        "sources": [
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-103.3483,20.6848]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-huitzilac-1927",
+        "title": "Serrano and his followers killed at Huitzilac",
+        "label": "Huitzilac",
+        "date": "1927-10-03",
+        "type": "political",
+        "description": "Generals Francisco Serrano and Arnulfo Gómez stood against Obregón's bid for re-election in 1928 and were suspected of plotting a revolt. Serrano was arrested in Cuernavaca with his companions, and on the road to Mexico City the escort shot him and thirteen others at Huitzilac, in the pine forest on the pass. Gómez fled to Veracruz and was caught and shot near Coatepec in November, clearing Obregón's way to the 1928 election.",
+        "confidence": "approximate",
+        "note": "Marked at Huitzilac; the killings took place by the Cuernavaca–Mexico City road near the village. Sources give thirteen or fourteen companions killed with Serrano.",
+        "modern_place": "Huitzilac, Morelos, Mexico",
+        "sources": [
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Jürgen Buchenau, The Last Caudillo: Álvaro Obregón and the Mexican Revolution (Wiley-Blackwell, 2011)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.267,19.0281]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-obregon-bombilla",
+        "title": "Obregón assassinated at La Bombilla",
+        "label": "La Bombilla",
+        "date": "1928-07-17",
+        "type": "political",
+        "description": "Two weeks after being elected to a second term, President-elect Obregón was shot at a banquet at La Bombilla restaurant in San Ángel by José de León Toral, a young Catholic militant. Calles, to avoid civil war among Obregón's generals, announced the end of the age of caudillos and the passage to a \"nation of institutions\", and organised a revolutionary party.",
+        "confidence": "precise",
+        "note": "Marked at the Parque de la Bombilla, where a monument to Obregón stands on the site of the restaurant.",
+        "modern_place": "Parque de la Bombilla, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Jürgen Buchenau, The Last Caudillo: Álvaro Obregón and the Mexican Revolution (Wiley-Blackwell, 2011)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1868,19.3472]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-pnr-1929",
+        "title": "Founding of the PNR",
+        "label": "PNR founded",
+        "start": "1929-03-01",
+        "end": "1929-03-04",
+        "type": "political",
+        "description": "A convention at Querétaro founded the National Revolutionary Party (PNR), Calles's coalition of the regional parties and political machines of the revolutionary generals, which settled succession disputes within the party rather than by revolt. Calles dominated it and the presidents of 1928–1934 (the \"Maximato\"). Cárdenas reorganised it in 1938 as the Party of the Mexican Revolution (PRM), built on workers', peasants', military and popular sectors; it became the PRI in 1946.",
+        "confidence": "precise",
+        "note": "The convention sat in the Teatro de la República, where the 1917 Constitution had been written.",
+        "modern_place": "Santiago de Querétaro, Querétaro, Mexico",
+        "sources": [
+          {
+            "citation": "Jürgen Buchenau, Plutarco Elías Calles and the Mexican Revolution (Rowman & Littlefield, 2007)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Michael C. Meyer, William L. Sherman and Susan M. Deeds, The Course of Mexican History, 10th ed. (Oxford University Press, 2014)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 15–17."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-100.3928,20.5939]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-escobar-1929",
+        "title": "Escobar rebellion",
+        "label": "Escobar rebellion",
+        "start": "1929-03-03",
+        "end": "1929-04-30",
+        "type": "uprising",
+        "description": "As the PNR was founded, generals led by José Gonzalo Escobar rose under the Plan of Hermosillo, holding Sonora, much of Chihuahua and Coahuila, and briefly Monterrey, while a rising in Veracruz failed at once. Calles, as Secretary of War, crushed it in under two months with loyal troops, agrarian militias and arms bought from the United States. It was the last major army rebellion.",
+        "confidence": "approximate",
+        "note": "Marked at Hermosillo, where the rebels' plan was issued; the rising spread across the northern states. The last rebel garrison, at Nogales, surrendered on 30 April.",
+        "modern_place": "Hermosillo, Sonora, Mexico",
+        "sources": [
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Jürgen Buchenau, Plutarco Elías Calles and the Mexican Revolution (Rowman & Littlefield, 2007)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-110.9692,29.0948]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-jimenez-1929",
+        "title": "Battle of Jiménez",
+        "label": "Jiménez 1929",
+        "start": "1929-03-30",
+        "end": "1929-04",
+        "type": "battle",
+        "description": "Retreating north from Torreón along the Central railway, Escobar's main army made a stand at Jiménez, in southern Chihuahua, and was decisively beaten by federal forces in several days of fighting. The rebels scattered toward Sonora and the border.",
+        "confidence": "approximate",
+        "note": "Marked at the town; the fighting covered the surrounding plain and the railway, and ended near La Reforma, to the north. The battle began on 30 March and lasted about five days, so the end is given to the month.",
+        "modern_place": "Jiménez, Chihuahua, Mexico",
+        "sources": [
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-104.9118,27.1258]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-tepatitlan-1929",
+        "title": "Battle of Tepatitlán",
+        "label": "Tepatitlán 1929",
+        "date": "1929-04-19",
+        "type": "battle",
+        "description": "In the heart of Los Altos de Jalisco, the core of the rebellion, Cristero forces attacked the federal troops at Tepatitlán and won, but the priest-general José Reyes Vega, who had planned the attack, was killed. By 1929 the Cristeros were stronger than ever in the countryside, though they could not take and hold the cities.",
+        "confidence": "approximate",
+        "note": "Meyer dates the battle to 19 April 1929; Moisés González Navarro puts Reyes Vega's death on 20 April.",
+        "modern_place": "Tepatitlán de Morelos, Jalisco",
+        "sources": [
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.7588,20.8151]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-gorostieta",
+        "title": "Death of Gorostieta",
+        "label": "Gorostieta killed",
+        "date": "1929-06-02",
+        "type": "battle",
+        "description": "Enrique Gorostieta, a former federal general who had commanded the Cristero forces since 1927–28, was killed by federal troops at the Hacienda del Valle near Atotonilco el Alto. His death three weeks before the settlement removed the one commander who might have held the movement together against a compromise.",
+        "confidence": "approximate",
+        "note": "The Hacienda del Valle, now a museum, is in the municipality of Atotonilco el Alto; the point is at the locality of El Valle, about 7 km southwest of the town, and the building itself was not located on the geocoder.",
+        "modern_place": "El Valle, Atotonilco el Alto, Jalisco",
+        "sources": [
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.5325,20.4917]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-arreglos",
+        "title": "The arreglos end the Cristero War",
+        "label": "Arreglos 1929",
+        "date": "1929-06-21",
+        "type": "political",
+        "description": "With the mediation of US Ambassador Dwight Morrow, President Emilio Portes Gil and the bishops Leopoldo Ruiz y Flores and Pascual Díaz agreed that worship would resume and the laws would be applied \"without sectarian spirit\", with an amnesty for the rebels. The laws were not changed. Most Cristeros laid down their arms, and many of their leaders were later killed.",
+        "confidence": "approximate",
+        "note": "Marked at the National Palace, from which Portes Gil's declaration of 21 June was issued. The sources checked do not say where the talks themselves were held.",
+        "modern_place": "Palacio Nacional, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Jean Meyer, The Cristero Rebellion: The Mexican People between Church and State, 1926–1929 (Cambridge University Press, 1976)."
+          },
+          {
+            "citation": "John W. F. Dulles, Yesterday in Mexico: A Chronicle of the Revolution, 1919–1936 (University of Texas Press, 1961)."
+          },
+          {
+            "citation": "Emilio Portes Gil, declaration (Palacio Nacional, 21 June 1929), and Leopoldo Ruiz y Flores, statement of the same date, in Doralicia Carmona Dávila (comp.), Memoria Política de México.",
+            "url": "https://www.memoriapoliticademexico.org/Textos/6Revolucion/1929MNR.html"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 15."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1313,19.4326]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-juarez-drug-trade",
+        "title": "Ciudad Juárez and the first drug gangs",
+        "label": "Juárez drug trade",
+        "start": "1928",
+        "end": "1936",
+        "type": "economic",
+        "description": "After Mexico banned marijuana in 1920 and, as Gillingham notes, opium-poppy growing in 1926, while the United States enforced Prohibition and its own narcotics laws, Ciudad Juárez across from El Paso became an early centre of the smuggling trade. Enrique Fernández, the \"king of morphine\", ran it in the late 1920s and early 1930s by placing his men in the town government and police and lending to state officials, and lost his position after falling out with the governor of Chihuahua in 1931. Ignacia Jasso, \"La Nacha\", who rose in his organisation, controlled much of the city's heroin trade for decades afterwards.",
+        "confidence": "approximate",
+        "note": "Marked at the centre of Ciudad Juárez. Dated to the years of Mottier's study (1928–1936). Gillingham (ch. 21) ties the Juárez trade to the Chihuahua governorship of Rodrigo Quevedo (1932–36) and traces the opium supply to the Sinaloa–Durango–Chihuahua sierra, later the \"Golden Triangle\" (see `e11-operacion-condor`).",
+        "modern_place": "Ciudad Juárez, Chihuahua, Mexico",
+        "sources": [
+          {
+            "citation": "Nicole Mottier, \"Drug Gangs and Politics in Ciudad Juárez, 1928–1936\", Mexican Studies/Estudios Mexicanos 25, no. 1 (2009)."
+          },
+          {
+            "citation": "Wikipedia, \"Ignacia Jasso\".",
+            "url": "https://en.wikipedia.org/wiki/Ignacia_Jasso"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 21."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-106.4832,31.739]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-monterrey-1936",
+        "title": "Cárdenas confronts the Monterrey industrialists",
+        "label": "Monterrey 1936",
+        "date": "1936-02",
+        "type": "political",
+        "description": "When a strike at the Vidriera glassworks led Monterrey's employers to stage a lockout and an anti-government march, Cárdenas went to the city and set out his labour policy in fourteen points: the state would arbitrate between capital and labour, and businessmen who were tired of the social struggle could hand their plants over to the workers or the government. The speech marked the government's turn to open support for unions, weeks before the founding of the CTM.",
+        "confidence": "approximate",
+        "note": "Marked at Monterrey. The fourteen points are usually dated 11 February 1936; only the month was confirmed here.",
+        "modern_place": "Monterrey, Nuevo León, Mexico",
+        "sources": [
+          {
+            "citation": "Michael Snodgrass, Deference and Defiance in Monterrey: Workers, Paternalism, and Revolution in Mexico, 1890–1950 (Cambridge University Press, 2003)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-100.3153,25.6802]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-ctm-1936",
+        "title": "Founding of the CTM",
+        "label": "CTM founded",
+        "start": "1936-02-21",
+        "end": "1936-02-24",
+        "type": "political",
+        "description": "Unions that had backed Cárdenas in his break with Calles founded the Confederation of Mexican Workers (CTM) at a congress in Mexico City, with Vicente Lombardo Toledano as secretary general. It displaced the Calles-era CROM, supported the strikes and expropriations of the following years, and in 1938 became the labour sector of the official party.",
+        "confidence": "schematic",
+        "note": "The founding congress met in Mexico City on 21–24 February 1936; its venue was not confirmed, so the point marks the city centre.",
+        "modern_place": "Zócalo, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Joe C. Ashby, Organized Labor and the Mexican Revolution under Lázaro Cárdenas (University of North Carolina Press, 1967)."
+          },
+          {
+            "citation": "Kevin J. Middlebrook, The Paradox of Revolution: Labor, the State, and Authoritarianism in Mexico (Johns Hopkins University Press, 1995)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Doralicia Carmona Dávila (comp.), \"Nace la Confederación de Trabajadores de México CTM,\" Memoria Política de México.",
+            "url": "https://www.memoriapoliticademexico.org/Efemerides/2/24021936.html"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1332,19.4326]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-calles-exiled-1936",
+        "title": "Cárdenas expels Calles",
+        "label": "Calles exiled",
+        "date": "1936-04-10",
+        "type": "political",
+        "description": "After Calles publicly criticised Cárdenas's labour policy in June 1935, Cárdenas purged the Callistas from the cabinet, and when the former Jefe Máximo tried to rebuild his following the president had him arrested at his hacienda of Santa Bárbara on the night of 9 April 1936. The next day Calles was put on a plane to the United States with the labour boss Luis Morones and two other allies. It ended the Maximato and left Cárdenas free to pursue the land and oil reforms of 1936–38.",
+        "confidence": "approximate",
+        "note": "Marked at the Mexico City airport, the old Puerto Central Aéreo at Balbuena, from which Calles was flown out; his hacienda of Santa Bárbara is not marked.",
+        "modern_place": "Aeropuerto Internacional de la Ciudad de México",
+        "sources": [
+          {
+            "citation": "Jürgen Buchenau, Plutarco Elías Calles and the Mexican Revolution (Rowman & Littlefield, 2007)."
+          },
+          {
+            "citation": "Excélsior, \"El destierro que evitó una guerra civil; 80 años del exilio de Plutarco Elías Calles\", 10 April 2016."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.0733,19.4342]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-mexicali-1937",
+        "title": "The \"assault on the lands\" in the Mexicali Valley",
+        "label": "Mexicali 1937",
+        "date": "1937-01-27",
+        "type": "economic",
+        "description": "Most of the irrigated Mexicali Valley belonged to the US-owned Colorado River Land Company, which leased it to tenants, many of them Chinese, Japanese and American, to grow cotton. On 27 January 1937 Mexican peasants occupied company lands; the government expropriated much of the valley that spring and distributed it to ejidos and colonists, part of a policy of populating the border territory with Mexicans.",
+        "confidence": "approximate",
+        "note": "Marked at the ejido of Michoacán de Ocampo, where the anniversary of the occupation is celebrated; the occupations took place at several points in the valley.",
+        "modern_place": "Michoacán de Ocampo, Mexicali, Baja California",
+        "sources": [
+          {
+            "citation": "John Mason Hart, Empire and Revolution: The Americans in Mexico since the Civil War (University of California Press, 2002)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-115.3092,32.4648]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-railways-1937",
+        "title": "Nationalisation of the railways",
+        "label": "Railways nationalised",
+        "date": "1937-06-23",
+        "type": "economic",
+        "description": "Cárdenas expropriated the Ferrocarriles Nacionales de México, the main railway system, which the government had partly owned since 1908 but which was burdened with foreign debt. In 1938 the railway union was given the management of the lines in a \"workers' administration\", which lasted until 1940.",
+        "confidence": "schematic",
+        "note": "The point marks Buenavista, the main station in Mexico City; the decree covered the national network.",
+        "modern_place": "Buenavista, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Joe C. Ashby, Organized Labor and the Mexican Revolution under Lázaro Cárdenas (University of North Carolina Press, 1967)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1527,19.4463]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-yaqui-1937",
+        "title": "Land reform in the Yaqui Valley",
+        "label": "Yaqui Valley 1937",
+        "date": "1937-10-27",
+        "type": "economic",
+        "description": "By a presidential decision (acuerdo) of 27 October 1937, Cárdenas distributed irrigated estates in the Yaqui Valley of southern Sonora to collective ejidos and recognised a territory of more than 400,000 hectares for the Yaqui people, after a century of wars and deportations. The valley later became the centre of Mexico's commercial wheat agriculture and the Green Revolution.",
+        "confidence": "approximate",
+        "note": "Marked at Ciudad Obregón (then Cajeme), the main town of the irrigated valley; the Yaqui territory lay north of the river, around the traditional Yaqui towns. Sources give the territory as 417,000 to 485,000 ha.",
+        "modern_place": "Ciudad Obregón, Sonora",
+        "sources": [
+          {
+            "citation": "Cynthia Hewitt de Alcántara, Modernizing Mexican Agriculture: Socioeconomic Implications of Technological Change, 1940–1970 (United Nations Research Institute for Social Development, 1976)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-109.9338,27.4847]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-trotsky",
+        "title": "Trotsky in Coyoacán",
+        "label": "Trotsky",
+        "start": "1937-01-09",
+        "end": "1940-08-21",
+        "type": "political",
+        "description": "Cárdenas granted asylum to Leon Trotsky, who landed at Tampico on 9 January 1937 and lived in Coyoacán, first at Diego Rivera and Frida Kahlo's house and then in a fortified house on Avenida Viena. He survived an armed attack in May 1940 but was struck with an ice axe by the Stalinist agent Ramón Mercader on 20 August and died the next day. Asylum for him and for the Spanish Republicans made Mexico a refuge for exiles.",
+        "confidence": "precise",
+        "note": "Marked at the house on Avenida Viena, now the Museo Casa de León Trotsky.",
+        "modern_place": "Museo Casa de León Trotsky, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Isaac Deutscher, The Prophet Outcast: Trotsky, 1929–1940 (Oxford University Press, 1963)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1595,19.3577]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-oil-expropriation",
+        "title": "The oil expropriation",
+        "label": "Oil expropriation",
+        "date": "1938-03-18",
+        "type": "political",
+        "description": "After the foreign oil companies refused to obey an arbitration award to their workers that the Supreme Court had upheld on 1 March, Cárdenas announced in a radio address on the night of 18 March 1938 the expropriation of the properties of seventeen companies, including Shell's Mexican Eagle (El Águila) and Standard Oil's Huasteca Petroleum. The decree invoked the Expropriation Law and Article 27. Petróleos Mexicanos (Pemex) was created on 7 June 1938; compensation was agreed with the US companies in 1942 and with El Águila later in the decade.",
+        "confidence": "approximate",
+        "note": "Marked at the National Palace, from which the announcement was broadcast.",
+        "modern_place": "Palacio Nacional, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Lorenzo Meyer, Mexico and the United States in the Oil Controversy, 1917–1942, trans. Muriel Vasconcellos (University of Texas Press, 1977)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Jonathan C. Brown, Oil and Revolution in Mexico (University of California Press, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.1313,19.4326]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-tampico-refineries",
+        "title": "Tampico and its refineries",
+        "label": "Tampico refineries",
+        "date": "1938-03-18",
+        "type": "economic",
+        "description": "Tampico, at the mouth of the Pánuco, was the capital of the oil industry and its main export port, with El Águila's refinery at Doña Cecilia (now Ciudad Madero) and Huasteca Petroleum's at Mata Redonda across the river. Its oil workers were the core of the union whose strike and wage dispute led to the expropriation, and the refineries passed to Pemex in 1938.",
+        "confidence": "approximate",
+        "note": "Marked at Ciudad Madero; the Mata Redonda refinery lay on the Veracruz bank of the Pánuco opposite Tampico.",
+        "modern_place": "Ciudad Madero, Tamaulipas, Mexico",
+        "sources": [
+          {
+            "citation": "Jonathan C. Brown, Oil and Revolution in Mexico (University of California Press, 1993)."
+          },
+          {
+            "citation": "Myrna I. Santiago, The Ecology of Oil: Environment, Labor, and the Mexican Revolution, 1900–1938 (Cambridge University Press, 2006)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-97.8373,22.2474]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-poza-rica",
+        "title": "Poza Rica oil field",
+        "label": "Poza Rica",
+        "date": "1938-03-18",
+        "type": "economic",
+        "description": "Discovered by El Águila around 1930, Poza Rica in northern Veracruz had replaced the exhausted Golden Lane as Mexico's leading field by the time of the expropriation, and a pipeline carried its oil to the refinery at Azcapotzalco. It was the main source of Pemex's production for decades, and the settlement grew into a city.",
+        "confidence": "approximate",
+        "modern_place": "Poza Rica, Veracruz",
+        "sources": [
+          {
+            "citation": "Jonathan C. Brown, Oil and Revolution in Mexico (University of California Press, 1993)."
+          },
+          {
+            "citation": "Myrna I. Santiago, The Ecology of Oil: Environment, Labor, and the Mexican Revolution, 1900–1938 (Cambridge University Press, 2006)."
+          },
+          {
+            "citation": "Lorenzo Meyer, Mexico and the United States in the Oil Controversy, 1917–1942, trans. Muriel Vasconcellos (University of Texas Press, 1977)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-97.4536,20.5321]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-minatitlan",
+        "title": "Minatitlán refinery",
+        "label": "Minatitlán",
+        "date": "1938-03-18",
+        "type": "economic",
+        "description": "Weetman Pearson's company, from 1909 the Mexican Eagle (El Águila), built a refinery at Minatitlán on the Coatzacoalcos River, in the Isthmus of Tehuantepec, in about 1906–08, near its first oil fields. It passed to Pemex in the expropriation and is still one of its refineries.",
+        "confidence": "approximate",
+        "note": "Sources date the refinery's construction and opening between 1906 and 1908.",
+        "modern_place": "Minatitlán, Veracruz",
+        "sources": [
+          {
+            "citation": "Jonathan C. Brown, Oil and Revolution in Mexico (University of California Press, 1993)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-94.5567,17.9928]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-azcapotzalco",
+        "title": "Azcapotzalco refinery",
+        "label": "Azcapotzalco refinery",
+        "date": "1938-03-18",
+        "type": "economic",
+        "description": "El Águila's refinery at Azcapotzalco, on the northwest edge of Mexico City, opened in 1933 to supply the capital's market. Expropriated in 1938 and later named \"18 de Marzo\", it was closed in 1991 because of air pollution; the site is now the Parque Bicentenario.",
+        "confidence": "approximate",
+        "note": "Marked at the Parque Bicentenario on the former refinery site.",
+        "modern_place": "Parque Bicentenario, Ciudad de México",
+        "sources": [
+          {
+            "citation": "Jonathan C. Brown, Oil and Revolution in Mexico (University of California Press, 1993)."
+          },
+          {
+            "citation": "Lorenzo Meyer, Mexico and the United States in the Oil Controversy, 1917–1942, trans. Muriel Vasconcellos (University of Texas Press, 1977)."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.2002,19.4692]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-cedillo",
+        "title": "Cedillo rebellion",
+        "label": "Cedillo rebellion",
+        "start": "1938-05",
+        "end": "1939-01-11",
+        "type": "uprising",
+        "description": "Saturnino Cedillo, the agrarian strongman of San Luis Potosí, whose militia of veterans had been settled in agricultural colonies, rose against Cárdenas in May 1938 after being pushed out of the cabinet. Cárdenas went personally to San Luis Potosí, and the rebellion quickly collapsed into guerrilla resistance in the sierra; Cedillo was killed there in January 1939. It was the last armed revolt by a revolutionary general.",
+        "confidence": "approximate",
+        "note": "Marked at Palomas, Cedillo's home ranch near Ciudad del Maíz and his base; he was killed in the Sierra de la Ventana. Accounts of his death differ, and 11 January 1939 is the official date.",
+        "modern_place": "Palomas, Ciudad del Maíz, San Luis Potosí",
+        "sources": [
+          {
+            "citation": "Dudley Ankerson, Agrarian Warlord: Saturnino Cedillo and the Mexican Revolution in San Luis Potosí (Northern Illinois University Press, 1984)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.85,22.4837]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-nueva-italia",
+        "title": "Lombardía and Nueva Italia become collective ejidos",
+        "label": "Nueva Italia 1938",
+        "date": "1938",
+        "type": "economic",
+        "description": "In the hot lowlands of the Tepalcatepec basin in Michoacán, Cárdenas's home state, the Italian immigrant Cusi family had built irrigated rice and cattle haciendas at Lombardía and Nueva Italia. In 1938 they were expropriated and turned into collective ejidos that kept the estates' irrigation and mills working, one of the largest collective experiments of the reform.",
+        "confidence": "approximate",
+        "note": "Marked at Nueva Italia de Ruiz; Lombardía lies about 15 km to the north. Only the year of the expropriation is given. Gillingham (ch. 16) dates the seizure to November 1938. Gillingham (ch. 17) describes the collective falling under local bosses in the 1940s.",
+        "modern_place": "Nueva Italia de Ruiz, Michoacán",
+        "sources": [
+          {
+            "citation": "Susana Glantz, El ejido colectivo de Nueva Italia (Instituto Nacional de Antropología e Historia, Centro de Investigaciones Superiores, 1974)."
+          },
+          {
+            "citation": "Alan Knight, \"Mexico, c. 1930–46,\" in Leslie Bethell (ed.), The Cambridge History of Latin America, vol. VII (Cambridge University Press, 1990)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 12, 16–17."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-102.0934,19.0231]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-zacatepec-1938",
+        "title": "Emiliano Zapata sugar mill, Zacatepec",
+        "label": "Zacatepec",
+        "date": "1938",
+        "type": "economic",
+        "description": "To revive the sugar economy of Morelos, wrecked in the Revolution, Cárdenas founded a new state-financed central mill at Zacatepec, named after Zapata and run as a cooperative, to grind the cane of the surrounding ejidos. It brought large credits to the ejidatarios of southern Morelos, but its government-appointed managers soon clashed with the growers and mill workers; the Zapatista veteran Rubén Jaramillo led a strike there in 1943.",
+        "confidence": "approximate",
+        "note": "Marked at the town of Zacatepec, where the mill stands. Only the year was confirmed.",
+        "modern_place": "Zacatepec, Morelos, Mexico",
+        "sources": [
+          {
+            "citation": "Tanalís Padilla, Rural Resistance in the Land of Zapata: The Jaramillista Movement and the Myth of the Pax Priísta, 1940–1962 (Duke University Press, 2008)."
+          },
+          {
+            "citation": "Wikipedia, \"Rubén Jaramillo\".",
+            "url": "https://en.wikipedia.org/wiki/Rub%C3%A9n_Jaramillo"
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), chs. 16–17."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-99.2031,18.6506]}
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "era": "consolidation",
+        "id": "e10-sinaia",
+        "title": "The Sinaia brings Spanish Republican exiles",
+        "label": "Sinaia",
+        "date": "1939-06-13",
+        "type": "political",
+        "description": "The steamer Sinaia, sailing from Sète in France, landed some 1,600 Spanish Republican refugees at Veracruz, the first of the large exile convoys. Cárdenas's government, which had supported the Republic during the civil war, admitted some 20,000 or more Spanish exiles, among them many teachers, scientists, writers and skilled workers who shaped Mexican universities, publishing and culture.",
+        "confidence": "precise",
+        "note": "Gillingham (ch. 16) gives thirty thousand refugees; most estimates of the Spanish exile in Mexico run from about 20,000 to 25,000.",
+        "modern_place": "Puerto de Veracruz, Veracruz",
+        "sources": [
+          {
+            "citation": "Patricia W. Fagen, Exiles and Citizens: Spanish Republicans in Mexico (University of Texas Press, 1973)."
+          },
+          {
+            "citation": "Paul Gillingham, Mexico: A 500-Year History (Atlantic Monthly Press, 2025), ch. 16."
+          }
+        ]
+      },
+      "geometry": {"type":"Point","coordinates":[-96.1467,19.2094]}
+    }
+  ]
+}
