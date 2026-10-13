@@ -25,6 +25,9 @@ chapters to read alongside it (`reading` in `data/eras.json`). See
 ## Using it
 
 - Pick an era on the timeline slider, in the list, or with the [ / ] keys. The map fits to the era.
+- **Search** (the box at the top of the panel, or press /) looks through every era's titles, places, descriptions and
+  mapping notes, ignoring accents (`queretaro` finds Querétaro). Pick a result, or press Enter for the first one, to
+  jump to its era and fly to it.
 - Step through the era's events in date order with the ‹ › buttons under the timeline or the ← / → keys. Each step
   flies to the event and shows its details in a card beside it (on narrow screens, in place of the bottom
   sheet), framing the event in the part of the map the card leaves clear. The card can be shrunk to its title with −.

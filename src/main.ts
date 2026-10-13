@@ -8,6 +8,7 @@ import { ERAS, indexLand, loadEraCollections, prepareFeatures, toDisplayFeature,
 import { formatSpan, sortKey } from './dates';
 import { HISTORY_SOURCE, INTERACTIVE_LAYERS, LABEL_SOURCE, addHistoryLayers, animateFlow, clickPriority } from './history-layers';
 import { esc } from './html';
+import { highlight, searchFeatures } from './search';
 import { symbolDataUrl } from './symbols';
 
 type Mode = 'era' | 'cumulative';
@@ -144,9 +145,11 @@ function select(id: string | null, opts: { fly?: boolean; lngLat?: maplibregl.Ln
   map.setFeatureState({ source: HISTORY_SOURCE, id }, { selected: true });
   const isRoute = p.feature.properties.type === 'route' && p.feature.geometry.type !== 'Point';
   map.setFilter('route-flow', ['==', ['get', 'id'], isRoute ? id : '']);
-  const listItem = document.querySelector(`.feature-list button[data-feature="${CSS.escape(id)}"]`);
-  listItem?.setAttribute('aria-current', 'true');
-  listItem?.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  // The feature can be in both the era's list and the search results; only scroll the one that is showing.
+  document.querySelectorAll<HTMLElement>(`.feature-list button[data-feature="${CSS.escape(id)}"]`).forEach((b) => {
+    b.setAttribute('aria-current', 'true');
+    if (b.offsetParent) b.scrollIntoView({ block: 'nearest', behavior: 'smooth' });
+  });
 
   const others = (opts.others ?? []).filter((o) => o !== id).map((o) => ({ id: o, title: byId(o)?.feature.properties.title ?? o }));
   const body = $('details-body');
@@ -299,6 +302,54 @@ function renderEraDetail() {
   if (state.selectedId) document.querySelector(`.feature-list button[data-feature="${CSS.escape(state.selectedId)}"]`)?.setAttribute('aria-current', 'true');
 }
 
+// ---------------------------------------------------------------- search
+const searchInput = $<HTMLInputElement>('search-input');
+
+/** Every feature, era by era and in date order within each, which is the order search results tie-break on. */
+function chronological(): PreparedFeature[] {
+  return [...state.prepared].sort((a, b) => a.eraIndex - b.eraIndex || sortKey(a.feature.properties) - sortKey(b.feature.properties));
+}
+
+/** Shows matches from every era in place of the era list and detail while the search box has text in it. */
+function renderSearch() {
+  const query = searchInput.value.trim();
+  const results = $('search-results');
+  const searching = query.length > 0;
+  results.hidden = !searching;
+  $('panel-body').classList.toggle('searching', searching);
+  if (!searching) {
+    results.innerHTML = '';
+    return;
+  }
+  const limit = 60;
+  const hits = searchFeatures(chronological(), (p) => p.feature.properties, query, limit + 1);
+  const items = hits.slice(0, limit).map(({ item: p, snippet }) => {
+    const f = p.feature.properties;
+    return `<li><button data-feature="${esc(f.id)}" ${f.id === state.selectedId ? 'aria-current="true"' : ''}>
+      <img src="${symbolDataUrl(f.type)}" alt="" width="16" height="16" />
+      <span class="fl-title">${highlight(f.title, query, esc)}</span>
+      <span class="fl-date">${esc(formatSpan(f))} · ${esc(ERAS[p.eraIndex].title)}</span>
+      ${snippet ? `<span class="fl-snippet">${highlight(snippet, query, esc)}</span>` : ''}
+    </button></li>`;
+  }).join('');
+  const count = hits.length > limit ? `first ${limit} matches` : `${hits.length} ${hits.length === 1 ? 'match' : 'matches'}`;
+  results.innerHTML = hits.length
+    ? `<h3 class="list-heading">${count} <span class="muted">in all eras</span></h3><ol class="feature-list">${items}</ol>`
+    : '<p class="search-empty">Nothing matches every word. Search looks in titles, places, descriptions and mapping notes.</p>';
+  results.querySelectorAll<HTMLButtonElement>('button[data-feature]').forEach((b) =>
+    b.addEventListener('click', () => {
+      const p = byId(b.dataset.feature!);
+      if (!p) return;
+      if (p.eraIndex !== state.eraIndex) setEra(p.eraIndex, false);
+      select(p.feature.properties.id, { fly: true });
+    }));
+}
+
+function clearSearch() {
+  searchInput.value = '';
+  renderSearch();
+}
+
 function setEra(index: number, fit = true) {
   state.eraIndex = Math.max(0, Math.min(ERAS.length - 1, index));
   const slider = $<HTMLInputElement>('era-slider');
@@ -380,6 +431,34 @@ function initControls() {
 
   $('panel-toggle').addEventListener('click', () => setPanelOpen($('panel').classList.contains('collapsed')));
 
+  searchInput.addEventListener('input', renderSearch);
+  searchInput.addEventListener('keydown', (e) => {
+    const first = document.querySelector<HTMLButtonElement>('#search-results button[data-feature]');
+    if (e.key === 'Escape') {
+      // The first Escape clears the box; the next one leaves it.
+      e.stopPropagation();
+      if (searchInput.value) clearSearch();
+      else searchInput.blur();
+    } else if (e.key === 'Enter' && first) {
+      e.preventDefault();
+      first.click();
+    } else if (e.key === 'ArrowDown' && first) {
+      e.preventDefault();
+      first.focus();
+    }
+  });
+  // Up and down move through the results; Escape returns to the box.
+  $('search-results').addEventListener('keydown', (e) => {
+    const buttons = [...document.querySelectorAll<HTMLButtonElement>('#search-results button[data-feature]')];
+    const i = buttons.indexOf(document.activeElement as HTMLButtonElement);
+    if (i < 0) return;
+    if (e.key === 'ArrowDown' || e.key === 'ArrowUp' || e.key === 'Escape') {
+      e.preventDefault();
+      e.stopPropagation();
+      (e.key === 'Escape' ? searchInput : e.key === 'ArrowDown' ? buttons[i + 1] : buttons[i - 1] ?? searchInput)?.focus();
+    }
+  });
+
   $('details-close').addEventListener('click', () => select(null));
   $('details-collapse').addEventListener('click', () => {
     const collapsed = details.classList.toggle('collapsed');
@@ -397,6 +476,14 @@ function initControls() {
 
   document.addEventListener('keydown', (e) => {
     if (e.target instanceof Element && e.target.closest('input, textarea, dialog')) return;
+    if (e.key === '/' && !e.metaKey && !e.ctrlKey) {
+      e.preventDefault();
+      setPanelOpen(true);
+      searchInput.focus();
+      searchInput.select();
+      return;
+    }
+    if (e.target instanceof Element && e.target.closest('#search-results') && (e.key === 'ArrowLeft' || e.key === 'ArrowRight')) return;
     // ← / → step through events; [ / ] (or Page Up / Page Down) change era.
     if (e.key === 'ArrowRight') step(1);
     if (e.key === 'ArrowLeft') step(-1);
@@ -423,6 +510,7 @@ map.on('load', async () => {
     console.error('Could not load the land layer for clipping; polygons will be drawn unclipped', err);
   }
   state.prepared = prepareFeatures(loadEraCollections(), land);
+  renderSearch(); // in case something was typed while the data loaded
   layoutOverlays();
   setEra(state.eraIndex, false);
   if (initialFeature && byId(initialFeature)) select(initialFeature, { fly: true });
