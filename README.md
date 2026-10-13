@@ -1,6 +1,6 @@
 # Mexicana: a historical atlas of Mexico
 
-**Live:** https://heydenberk.github.io/mexicana/
+**Live:** https://heydenberk.com/mexicana/
 
 An interactive atlas of Mexican history from the Spanish conquest (1519) to the present: events, routes and
 territories plotted on real terrain (hillshaded relief, rivers, coastlines, modern borders for reference),
