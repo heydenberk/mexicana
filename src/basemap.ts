@@ -5,6 +5,8 @@ import riversUrl from '../data/reference/rivers.geojson?url';
 import countryBordersUrl from '../data/reference/country-borders.geojson?url';
 import stateBordersUrl from '../data/reference/state-borders.geojson?url';
 import physiographyUrl from '../data/reference/physiography.geojson?url';
+import stateLabelsUrl from '../data/reference/state-labels.geojson?url';
+import citiesUrl from '../data/reference/cities.geojson?url';
 
 export const LAND_URL = landUrl;
 
@@ -20,6 +22,8 @@ export const PALETTE = {
   border: '#6f6557',
   label: '#5a5145',
   waterLabel: '#4f6f7f',
+  /** Modern states and cities: a cool slate, so they read as today's map rather than as history. */
+  modern: '#4c5866',
 };
 
 /** Rivers worth naming on the map (Natural Earth names). */
@@ -37,6 +41,7 @@ export const REFERENCE_GROUPS = {
   hydro: ['rivers', 'river-labels', 'lakes'],
   relief: ['hypsometric', 'hillshade'],
   physiography: ['physiography-labels', 'water-labels'],
+  modern: ['state-labels', 'cities', 'city-labels'],
 };
 
 export function baseStyle(): StyleSpecification {
@@ -65,6 +70,8 @@ export function baseStyle(): StyleSpecification {
       'country-borders': { type: 'geojson', data: countryBordersUrl },
       'state-borders': { type: 'geojson', data: stateBordersUrl },
       physiography: { type: 'geojson', data: physiographyUrl },
+      'state-labels': { type: 'geojson', data: stateLabelsUrl },
+      cities: { type: 'geojson', data: citiesUrl },
     },
     layers: [
       { id: 'sea', type: 'background', paint: { 'background-color': PALETTE.sea } },
@@ -190,6 +197,64 @@ export function baseStyle(): StyleSpecification {
           'text-letter-spacing': 0.35,
         },
         paint: { 'text-color': PALETTE.border, 'text-opacity': 0.45 },
+      },
+      // Modern states and cities, off until "Modern states & cities" is ticked. They sit below the history layers,
+      // whose labels therefore win any collision.
+      {
+        id: 'state-labels',
+        type: 'symbol',
+        source: 'state-labels',
+        minzoom: 4,
+        layout: {
+          visibility: 'none',
+          'text-field': ['get', 'name'],
+          'text-font': FONT,
+          'text-transform': 'uppercase',
+          'text-size': ['interpolate', ['linear'], ['zoom'], 4, 9, 8, 12],
+          'text-letter-spacing': 0.12,
+          'text-max-width': 7,
+          'symbol-sort-key': ['case', ['==', ['get', 'country'], 'MEX'], 0, 1],
+        },
+        paint: {
+          'text-color': PALETTE.modern,
+          'text-opacity': ['case', ['==', ['get', 'country'], 'MEX'], 0.75, 0.5],
+          'text-halo-color': 'rgba(255,253,246,0.7)',
+          'text-halo-width': 1,
+        },
+      },
+      {
+        id: 'cities',
+        type: 'circle',
+        source: 'cities',
+        filter: ['>=', ['zoom'], ['get', 'minzoom']],
+        layout: { visibility: 'none' },
+        paint: {
+          'circle-radius': ['interpolate', ['linear'], ['zoom'],
+            4, ['match', ['get', 'capital'], 2, 4, 1, 3, 2.4],
+            9, ['match', ['get', 'capital'], 2, 5, 1, 4, 3.4]],
+          'circle-color': ['match', ['get', 'capital'], 0, '#ffffff', PALETTE.modern],
+          'circle-stroke-color': ['match', ['get', 'capital'], 0, PALETTE.modern, '#ffffff'],
+          'circle-stroke-width': ['match', ['get', 'capital'], 0, 1.2, 1.5],
+        },
+      },
+      {
+        id: 'city-labels',
+        type: 'symbol',
+        source: 'cities',
+        filter: ['>=', ['zoom'], ['get', 'minzoom']],
+        layout: {
+          visibility: 'none',
+          'text-field': ['get', 'name'],
+          'text-font': FONT,
+          'text-size': ['interpolate', ['linear'], ['zoom'], 4, ['match', ['get', 'capital'], 0, 9.5, 10.5], 9, ['match', ['get', 'capital'], 0, 12, 13]],
+          'text-variable-anchor': ['left', 'right', 'top', 'bottom'],
+          'text-radial-offset': 0.6,
+          'text-justify': 'auto',
+          'text-max-width': 8,
+          // Capitals first, then by population.
+          'symbol-sort-key': ['-', 0, ['+', ['get', 'pop'], ['*', ['get', 'capital'], 1e8]]],
+        },
+        paint: { 'text-color': PALETTE.modern, 'text-halo-color': 'rgba(255,253,246,0.85)', 'text-halo-width': 1.2 },
       },
     ],
   };

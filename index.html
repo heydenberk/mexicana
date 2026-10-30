@@ -40,10 +40,12 @@
         <div class="map-controls" id="map-controls">
           <fieldset class="toggles">
             <legend class="sr-only">Map layers</legend>
-            <label><input type="checkbox" id="toggle-borders" checked /> Modern borders</label>
-            <label><input type="checkbox" id="toggle-hydro" checked /> Rivers &amp; lakes</label>
-            <label><input type="checkbox" id="toggle-physio" checked /> Landform names</label>
-            <label><input type="checkbox" id="toggle-terrain" /> 3D terrain</label>
+            <label><input type="checkbox" autocomplete="off" id="toggle-history" checked /> <span class="long">Historical features</span><span class="short">History</span></label>
+            <label><input type="checkbox" autocomplete="off" id="toggle-borders" checked /> <span class="long">Modern borders</span><span class="short">Borders</span></label>
+            <label><input type="checkbox" autocomplete="off" id="toggle-hydro" checked /> <span class="long">Rivers &amp; lakes</span><span class="short">Rivers</span></label>
+            <label><input type="checkbox" autocomplete="off" id="toggle-physio" checked /> <span class="long">Landform names</span><span class="short">Landforms</span></label>
+            <label><input type="checkbox" autocomplete="off" id="toggle-modern" /> <span class="long">Modern states &amp; cities</span><span class="short">States &amp; cities</span></label>
+            <label><input type="checkbox" autocomplete="off" id="toggle-terrain" /> <span class="long">3D terrain</span><span class="short">3D</span></label>
           </fieldset>
           <button id="legend-toggle" class="chip" aria-expanded="false" aria-controls="legend">Legend</button>
           <div id="legend" class="legend" hidden></div>

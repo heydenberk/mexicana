@@ -33,7 +33,9 @@ chapters to read alongside it (`reading` in `data/eras.json`). See
   sheet), framing the event in the part of the map the card leaves clear. The card can be shrunk to its title with −.
 - **This era / Up to this era** switches between the selected era only and everything up to it (earlier eras faded).
 - Click anything for its date, explanation, mapping confidence and sources. Overlapping features are listed as “Also here”.
-- Toggles: modern borders, rivers and lakes, landform names, 3D terrain. The **Legend** button explains the symbols.
+- Toggles: **historical features** (switch the history off to see the land and the modern map on their own; picking an
+  event brings it back), modern borders, rivers and lakes, landform names, **modern states & cities** (off by default: today's state
+  names and cities, in slate grey so they don't read as history), 3D terrain. The **Legend** button explains the symbols.
 - The URL keeps the era, mode and selected feature (`#era=conquest&f=e1-otumba`), so views can be bookmarked.
 
 ## Editing the history
@@ -105,8 +107,14 @@ says which states they use.
 ## Reference layers
 
 `data/reference/` holds the faint modern layers, all from [Natural Earth](https://www.naturalearthdata.com/)
-1:10m (public domain): land, lakes, rivers, country and state borders. It also has a small hand-made file of
-landform and sea labels (`physiography.geojson`). Rebuild them with `npm run build:reference`.
+1:10m (public domain): land, lakes, rivers, country and state borders, state names, and cities. It also has a small
+hand-made file of landform and sea labels (`physiography.geojson`). Rebuild them with `npm run build:reference`.
+
+The cities are every Mexican state capital and every Mexican city of 100,000 or more, the capitals and main cities of
+the US states that were once New Spain or Mexico (and Louisiana), and the Central American and Caribbean capitals.
+`scripts/build-reference.mjs` corrects Natural Earth's mistakes in Mexico (missing accents, a misspelt Navojoa, a
+village given half a million people) and moves a few city points that sit off-centre. Check them against
+OpenStreetMap with `npm run check:places -- --cities`.
 
 ## Accuracy
 

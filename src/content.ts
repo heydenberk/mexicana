@@ -1,3 +1,4 @@
+import { PALETTE } from './basemap';
 import { formatSpan } from './dates';
 import { DASH } from './history-layers';
 import { esc, safeUrl } from './html';
@@ -74,6 +75,11 @@ export function legendHtml(): string {
       <li><svg class="dash" width="34" height="14" aria-hidden="true"><rect x="2" y="2" width="30" height="10" fill="#b5523b" fill-opacity="0.2" stroke="#b5523b" stroke-width="1.5"/></svg>Territory</li>
       <li><svg class="dash" width="34" height="10" aria-hidden="true"><line x1="2" y1="5" x2="32" y2="5" stroke="#4d4d4d" stroke-width="3"/></svg>Treaty line</li>
     </ul>
+    <h3>Modern map (when switched on)</h3>
+    <ul class="legend-list">
+      <li><svg class="dash" width="18" height="18" aria-hidden="true"><circle cx="9" cy="9" r="4.5" fill="${PALETTE.modern}" stroke="#fff" stroke-width="1.5"/></svg>National or state capital</li>
+      <li><svg class="dash" width="18" height="18" aria-hidden="true"><circle cx="9" cy="9" r="3.2" fill="#fff" stroke="${PALETTE.modern}" stroke-width="1.3"/></svg>City (in Mexico, 100,000 people or more)</li>
+    </ul>
     <h3>Confidence (line style)</h3>
     <ul class="legend-list">${lines}</ul>
     <p class="muted small">In “Up to this era” mode, features from earlier eras are drawn faded.</p>`;
@@ -94,7 +100,7 @@ export function aboutHtml(): string {
     <ul>
       <li>Historical content: one GeoJSON file per era in <code>data/eras/</code>, with citations on every feature. Open questions are listed in <code>UNCERTAIN.md</code>.</li>
       <li>Relief: <a href="https://registry.opendata.aws/terrain-tiles/" target="_blank" rel="noopener">Terrain Tiles</a> on AWS Open Data (Mapzen/Tilezen; SRTM, GMTED2010, ETOPO1 and others).</li>
-      <li>Coastlines, rivers, lakes and modern borders: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain).</li>
+      <li>Coastlines, rivers, lakes, modern borders, states and cities: <a href="https://www.naturalearthdata.com/" target="_blank" rel="noopener">Natural Earth</a> (public domain).</li>
       <li>Map fonts: <a href="https://openfreemap.org/" target="_blank" rel="noopener">OpenFreeMap</a>. Map rendering: <a href="https://maplibre.org/" target="_blank" rel="noopener">MapLibre GL JS</a>.</li>
     </ul>`;
 }

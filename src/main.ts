@@ -6,7 +6,7 @@ import { LAND_URL, REFERENCE_GROUPS, baseStyle } from './basemap';
 import { aboutHtml, detailsHtml, legendHtml } from './content';
 import { ERAS, indexLand, loadEraCollections, prepareFeatures, toDisplayFeature, toLabelFeature, type PreparedFeature } from './data';
 import { formatSpan, sortKey } from './dates';
-import { HISTORY_SOURCE, INTERACTIVE_LAYERS, LABEL_SOURCE, addHistoryLayers, animateFlow, clickPriority } from './history-layers';
+import { HISTORY_SOURCE, INTERACTIVE_LAYERS, LABEL_SOURCE, addHistoryLayers, animateFlow, clickPriority, historyLayerIds } from './history-layers';
 import { esc } from './html';
 import { highlight, searchFeatures } from './search';
 import { symbolDataUrl } from './symbols';
@@ -142,6 +142,8 @@ function select(id: string | null, opts: { fly?: boolean; lngLat?: maplibregl.Ln
   }
   const p = byId(id);
   if (!p) return;
+  // Picking an event from the list, the stepper or search brings the history back if it was switched off.
+  setHistoryVisible(true);
   map.setFeatureState({ source: HISTORY_SOURCE, id }, { selected: true });
   const isRoute = p.feature.properties.type === 'route' && p.feature.geometry.type !== 'Point';
   map.setFilter('route-flow', ['==', ['get', 'id'], isRoute ? id : '']);
@@ -163,6 +165,14 @@ function select(id: string | null, opts: { fly?: boolean; lngLat?: maplibregl.Ln
   matchSheetToCard();
   if (opts.fly) frame(p);
   else if (opts.lngLat) reveal(opts.lngLat);
+}
+
+/** Shows or hides every historical feature, leaving the modern map, e.g. to see the terrain or today's cities. */
+function setHistoryVisible(on: boolean) {
+  $<HTMLInputElement>('toggle-history').checked = on;
+  for (const id of historyLayerIds(map)) map.setLayoutProperty(id, 'visibility', on ? 'visible' : 'none');
+  // A selected feature can't be seen with the history hidden, so let go of it.
+  if (!on && state.selectedId) select(null);
 }
 
 /**
@@ -400,9 +410,15 @@ function initControls() {
       for (const l of layers) if (map.getLayer(l)) map.setLayoutProperty(l, 'visibility', on ? 'visible' : 'none');
     });
   };
+  $<HTMLInputElement>('toggle-history').addEventListener('change', (e) => setHistoryVisible((e.target as HTMLInputElement).checked));
   groupToggle('toggle-borders', REFERENCE_GROUPS.borders);
   groupToggle('toggle-hydro', REFERENCE_GROUPS.hydro);
   groupToggle('toggle-physio', REFERENCE_GROUPS.physiography);
+  groupToggle('toggle-modern', REFERENCE_GROUPS.modern);
+  // With the modern map on, the state lines are worth seeing properly, not just as a faint guide.
+  $<HTMLInputElement>('toggle-modern').addEventListener('change', (e) => {
+    if (map.getLayer('state-borders')) map.setPaintProperty('state-borders', 'line-opacity', (e.target as HTMLInputElement).checked ? 0.6 : 0.35);
+  });
 
   $<HTMLInputElement>('toggle-terrain').addEventListener('change', (e) => {
     const on = (e.target as HTMLInputElement).checked;

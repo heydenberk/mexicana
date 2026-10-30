@@ -412,8 +412,14 @@ dialog ul { padding-left: 20px; }
   .step-date { display: none; }
   .search-key { display: none; }
 }
+.toggles .short { display: none; }
 @media (max-width: 520px) {
   .ticks span:nth-child(even) { visibility: hidden; }
+  /* Short layer names keep the toggles to two rows on a phone. */
+  .toggles .long { display: none; }
+  .toggles .short { display: inline; }
+  .toggles { gap: 2px 12px; }
+  .map-controls { max-width: calc(100% - 24px); }
 }
 
 /* Set from main.ts: lifts the zoom buttons, scale bar and attribution above the timeline when it would cover them. */

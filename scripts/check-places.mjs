@@ -7,6 +7,7 @@
 // Usage: npm run check:places [-- --threshold=5]            check all era files
 //        npm run check:places -- --file=02          check only era files whose name contains "02"
 //        npm run check:places -- --lookup "Otumba, México, Mexico"   geocode ad-hoc names
+//        npm run check:places -- --cities           check the modern cities in data/reference/cities.geojson
 //
 // Several copies can run at once: a lock file serializes their requests, so the 1/s limit holds overall.
 import { readFileSync, writeFileSync, readdirSync, existsSync, mkdirSync, rmdirSync, statSync } from 'node:fs';
@@ -80,6 +81,21 @@ if (lookupIndex > -1) {
 
 let flagged = 0;
 let checked = 0;
+
+if (args.includes('--cities')) {
+  const fc = JSON.parse(readFileSync('data/reference/cities.geojson', 'utf8'));
+  for (const f of fc.features) {
+    const { name, adm1, country } = f.properties;
+    const q = `${name}, ${adm1}, ${country === 'United States of America' ? 'USA' : country}`;
+    const hit = await geocode(q);
+    checked++;
+    const d = hit ? km(f.geometry.coordinates, [hit.lon, hit.lat]) : Infinity;
+    if (d > threshold) flagged++;
+    console.log(hit ? `${d > threshold ? '⚠' : '✓'}  ${d.toFixed(1).padStart(6)} km  ${q}  ← ${hit.name}` : `?  "${q}" not found by Nominatim`);
+  }
+  console.log(`\n${checked} cities checked, ${flagged} flagged (threshold ${threshold} km)`);
+  process.exit(0);
+}
 for (const file of readdirSync('data/eras').filter((f) => f.endsWith('.geojson') && (!fileFilter || f.includes(fileFilter))).sort()) {
   const fc = JSON.parse(readFileSync(join('data/eras', file), 'utf8'));
   for (const f of fc.features) {

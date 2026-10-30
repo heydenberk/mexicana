@@ -221,6 +221,13 @@ export function addHistoryLayers(map: MapLibreMap): void {
   for (const layer of layers) map.addLayer(layer);
 }
 
+/** Every layer drawn from the history sources, for showing or hiding the history as a whole. */
+export function historyLayerIds(map: MapLibreMap): string[] {
+  return map.getStyle().layers
+    .filter((l) => 'source' in l && (l.source === HISTORY_SOURCE || l.source === LABEL_SOURCE))
+    .map((l) => l.id);
+}
+
 export const INTERACTIVE_LAYERS = [
   'points',
   ...['precise', 'approximate', 'schematic'].map((c) => `route-line-${c}`),
