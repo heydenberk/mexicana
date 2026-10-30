@@ -127,7 +127,12 @@ export function baseStyle(): StyleSpecification {
         id: 'state-borders',
         type: 'line',
         source: 'state-borders',
-        paint: { 'line-color': PALETTE.border, 'line-opacity': 0.35, 'line-width': 0.6, 'line-dasharray': [3, 2] },
+        paint: {
+          'line-color': PALETTE.border,
+          'line-opacity': 0.55,
+          'line-width': ['interpolate', ['linear'], ['zoom'], 4, 1, 9, 1.8],
+          'line-dasharray': [4, 2],
+        },
       },
       {
         id: 'country-borders',

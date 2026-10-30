@@ -2,7 +2,7 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import './styles.css';
 import maplibregl, { type MapGeoJSONFeature, type MapMouseEvent } from 'maplibre-gl';
 import type { Feature, FeatureCollection } from 'geojson';
-import { LAND_URL, REFERENCE_GROUPS, baseStyle } from './basemap';
+import { LAND_URL, PALETTE, REFERENCE_GROUPS, baseStyle } from './basemap';
 import { aboutHtml, detailsHtml, legendHtml } from './content';
 import { ERAS, indexLand, loadEraCollections, prepareFeatures, toDisplayFeature, toLabelFeature, type PreparedFeature } from './data';
 import { formatSpan, sortKey } from './dates';
@@ -415,9 +415,12 @@ function initControls() {
   groupToggle('toggle-hydro', REFERENCE_GROUPS.hydro);
   groupToggle('toggle-physio', REFERENCE_GROUPS.physiography);
   groupToggle('toggle-modern', REFERENCE_GROUPS.modern);
-  // With the modern map on, the state lines are worth seeing properly, not just as a faint guide.
+  // With the modern map on, the state lines are drawn firmly, in the modern layer's slate, not as a faint guide.
   $<HTMLInputElement>('toggle-modern').addEventListener('change', (e) => {
-    if (map.getLayer('state-borders')) map.setPaintProperty('state-borders', 'line-opacity', (e.target as HTMLInputElement).checked ? 0.6 : 0.35);
+    if (!map.getLayer('state-borders')) return;
+    const on = (e.target as HTMLInputElement).checked;
+    map.setPaintProperty('state-borders', 'line-opacity', on ? 0.85 : 0.55);
+    map.setPaintProperty('state-borders', 'line-color', on ? PALETTE.modern : PALETTE.border);
   });
 
   $<HTMLInputElement>('toggle-terrain').addEventListener('change', (e) => {
