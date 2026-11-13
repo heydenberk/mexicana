@@ -38,6 +38,15 @@ chapters to read alongside it (`reading` in `data/eras.json`). See
   names and cities, in slate grey so they don't read as history), 3D terrain. The **Legend** button explains the symbols.
 - The URL keeps the era, mode and selected feature (`#era=conquest&f=e1-otumba`), so views can be bookmarked.
 
+## The quiz
+
+**Live:** https://heydenberk.com/mexicana/quiz/ (also linked from the atlas header)
+
+Ten questions on each of the twelve eras: seven multiple choice, and three where you place a pin on the map (within
+100 km counts, unless the question sets its own tolerance). Answer options are shuffled; the questions stay in
+roughly chronological order. After each answer the event is drawn on the map in the atlas's own style, with a link to
+it in the atlas. `#era=reform` opens an era's quiz directly, and each browser remembers its best score per era.
+
 ## Editing the history
 
 All historical content is in `data/`, which you can edit without touching code. In dev the page reloads when you save.
@@ -67,9 +76,31 @@ All historical content is in `data/`, which you can edit without touching code. 
 
 Routes are `LineString`s drawn in the direction of travel. Territories are `Polygon`s or `MultiPolygon`s.
 
+### Quiz questions
+
+`data/quiz/NN-name.json` (the same basename as the era's GeoJSON) holds that era's ten questions:
+
+```json
+{
+  "era": "reform",
+  "questions": [
+    { "id": "reform-1", "kind": "choice", "prompt": "…", "options": ["right answer", "wrong", "wrong", "wrong"],
+      "explanation": "…", "feature": "e7-…" },
+    { "id": "reform-8", "kind": "where", "prompt": "… Click the map.", "explanation": "…", "feature": "e7-…" }
+  ]
+}
+```
+
+- In a `choice` question the **first option is the right answer**; the quiz shuffles them. Exactly four options.
+- A `where` question's answer is its feature's point, so `feature` must be a `Point` that is not `schematic` and lies
+  inside the era's `bbox`. `tolerance_km` (default 100) changes how close counts as right.
+- `feature` is the event the question is about. It is drawn on the map after answering and linked in the atlas.
+- Questions only use facts stated in the era's feature descriptions and summary, so they inherit the atlas's
+  fact-checking. `npm run validate` checks the structure.
+
 ### Checks
 
-- `npm run validate`: schema check of every era file (runs automatically before `npm run build`).
+- `npm run validate`: schema check of every era file and quiz bank (runs automatically before `npm run build`).
 - `npm run check:places` (`-- --file=07` for one era): geocodes every point that has a `modern_place` with OpenStreetMap Nominatim and
   flags any more than 5 km from the stored coordinate. A flag means look again, not that the point is
   wrong: a battlefield can lie well outside the town it is named after.

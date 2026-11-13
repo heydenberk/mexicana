@@ -1,0 +1,82 @@
+{
+  "era": "conquest",
+  "questions": [
+    {
+      "id": "conquest-1",
+      "kind": "choice",
+      "prompt": "Malintzin (Doña Marina), who became the expedition's indispensable interpreter, was among twenty women presented to the Spaniards after which battle?",
+      "options": ["The battle of Centla", "The battle of Otumba", "The battle of Xochimilco", "The battles with Tlaxcala"],
+      "explanation": "Centla, fought in March 1519 against the Chontal Maya of Potonchán near the mouth of the Grijalva, was Cortés's first major battle in Mexico. Malintzin spoke Nahuatl and Maya, and with Jerónimo de Aguilar, who had learned Yucatec Maya in captivity after a shipwreck, she formed the chain of interpreters through which Cortés dealt with Moctezuma's envoys.",
+      "feature": "e1-centla"
+    },
+    {
+      "id": "conquest-2",
+      "kind": "where",
+      "prompt": "Where was Cempoala, the Totonac capital whose ruler became Cortés's first major ally and from which the march inland set out in August 1519? Click the map.",
+      "feature": "e1-cempoala",
+      "explanation": "Cempoala lay near the Gulf coast and had been subject to the Triple Alliance since the mid-fifteenth century. The Totonacs broke with Moctezuma when his tribute collectors were seized at nearby Quiahuiztlan, and Cempoala supplied porters and warriors for the march inland."
+    },
+    {
+      "id": "conquest-3",
+      "kind": "choice",
+      "prompt": "Before marching inland in 1519, what did Cortés do with the ships that had brought his expedition?",
+      "options": ["Had them run aground and dismantled", "Had them burned off the coast", "Sent them back to Cuba with his treasure", "Kept them at anchor off San Juan de Ulúa"],
+      "explanation": "He did it so that no faction could sail back to Cuba, after binding the Totonacs to his side at Quiahuiztlan and moving the first Spanish town on the mainland to a sheltered spot below it. The popular story that he \"burned his ships\" is a later embellishment.",
+      "feature": "e1-villa-rica"
+    },
+    {
+      "id": "conquest-4",
+      "kind": "choice",
+      "prompt": "Tlaxcala fought Cortés in September 1519 and then supplied the bulk of the army that took Tenochtitlan. What had been its relationship with the Triple Alliance?",
+      "options": ["Surrounded and cut off from trade, but never conquered", "A tribute-paying subject since the mid-fifteenth century", "One of the three cities that made up the alliance", "A province held down by an Aztec garrison"],
+      "explanation": "Tlaxcala, a confederation of four altepetl, was an unconquered enclave inside the empire. Its leaders judged the Spaniards useful against their old enemy, and Tlaxcala leveraged the alliance for privileges throughout the colonial period.",
+      "feature": "e1-tlaxcala-state"
+    },
+    {
+      "id": "conquest-5",
+      "kind": "where",
+      "prompt": "Where was Tzintzuntzan, capital of the Tarascan state, the one rival the Triple Alliance could not defeat? Click the map.",
+      "feature": "e1-tzintzuntzan",
+      "explanation": "Tzintzuntzan stood on the shore of Lake Pátzcuaro, and both the Tarascans and the Aztecs fortified the frontier along the Lerma–Balsas line. In 1520 the Tarascan ruler declined to help the Mexica against the Spaniards, and the state submitted peacefully in 1522."
+    },
+    {
+      "id": "conquest-6",
+      "kind": "choice",
+      "prompt": "On the Noche Triste in 1520, which way did the Spaniards try to escape from Tenochtitlan?",
+      "options": ["Along the western causeway to Tlacopan", "Along the southern causeway to Iztapalapa", "Along the northern causeway to Tepeyac", "By canoe across the lake to Texcoco"],
+      "explanation": "Led by Moctezuma's chosen successor, the Mexica attacked the fleeing column from canoes at the causeway's open canal cuts. The Spaniards lost perhaps half their number, many more Tlaxcalan allies and much of their treasure, and the survivors regrouped at Popotla and Tlacopan.",
+      "feature": "e1-noche-triste"
+    },
+    {
+      "id": "conquest-7",
+      "kind": "where",
+      "prompt": "Where was the battle of Otumba, fought in July 1520 when a Mexica-led army intercepted the Spaniards retreating to Tlaxcala? Click the map.",
+      "feature": "e1-otumba",
+      "explanation": "After the Noche Triste the survivors circled north around the lakes and were caught, exhausted, on the plain near Otumba. According to Spanish accounts, a cavalry charge that killed the enemy commander and seized his standard broke the attack."
+    },
+    {
+      "id": "conquest-8",
+      "kind": "choice",
+      "prompt": "Which Mexica leader, Moctezuma's chosen successor, was killed by smallpox while the Spaniards rebuilt their forces after the Noche Triste?",
+      "options": ["Cuitláhuac", "Cuauhtémoc", "Ixtlilxochitl", "Axayacatl"],
+      "explanation": "Smallpox arrived in 1520 and killed Cuitláhuac and many thousands of others in the city, a large share of its defenders, before the siege began. Meanwhile the Spaniards, with Tlaxcalan help, subdued Tepeaca and detached towns east and south of the basin from Tenochtitlan.",
+      "feature": "e1-tepeaca"
+    },
+    {
+      "id": "conquest-9",
+      "kind": "choice",
+      "prompt": "Which lakeshore city, split by a succession dispute, became the Spaniards' base from the end of 1520 and the launch site of their brigantines?",
+      "options": ["Texcoco", "Iztapalapa", "Xochimilco", "Coyoacán"],
+      "explanation": "Texcoco was the second city of the Triple Alliance, and its prince Ixtlilxochitl became a key ally. Thirteen brigantines, prefabricated in Tlaxcala and carried over the mountains by thousands of porters, were launched here through a canal dug to the lake, giving the Spaniards control of the water.",
+      "feature": "e1-texcoco"
+    },
+    {
+      "id": "conquest-10",
+      "kind": "choice",
+      "prompt": "In August 1521, after some eleven weeks of siege, famine and epidemic, where were the last Mexica defenders pushed back to?",
+      "options": ["Tlatelolco", "Coyoacán", "Iztapalapa", "Tepeyac"],
+      "explanation": "Tlatelolco was the city's northern twin and the site of its great market. The Mexica ruler Cuauhtémoc was captured on the lake as he tried to escape by canoe on 13 August 1521, ending organised resistance; the Plaza de las Tres Culturas now marks the site.",
+      "feature": "e1-tlatelolco-fall"
+    }
+  ]
+}

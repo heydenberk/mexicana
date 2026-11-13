@@ -1,6 +1,6 @@
-// Validates data/eras.json and every era GeoJSON against the atlas data model.
+// Validates data/eras.json, every era GeoJSON and the quiz banks in data/quiz/ against the data model.
 // Runs before every build (npm run build) and on its own with `npm run validate`.
-import { readFileSync, readdirSync } from 'node:fs';
+import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 
 const TYPES = ['battle', 'city', 'route', 'boundary', 'uprising', 'economic', 'political'];
@@ -97,7 +97,76 @@ for (const { f, where } of allFeatures) {
   for (const id of f.properties?.exclude ?? []) if (!ids.has(id)) err(where, `exclude refers to unknown id "${id}"`);
 }
 
+// ---------------------------------------------------------------- quiz banks: data/quiz/NN-name.json, one per era file
+const QUESTIONS_PER_ERA = 10;
+const QUESTION_KEYS = {
+  choice: ['id', 'kind', 'prompt', 'options', 'explanation', 'feature'],
+  where: ['id', 'kind', 'prompt', 'explanation', 'feature', 'tolerance_km'],
+};
+const featureById = new Map(allFeatures.map(({ f }) => [f.properties?.id, f]));
+const questionIds = new Set();
+let questionCount = 0;
+const quizFiles = existsSync('data/quiz') ? readdirSync('data/quiz').filter((f) => f.endsWith('.json')) : [];
+for (const era of eras.filter((e) => e.file)) {
+  const file = era.file.replace(/\.geojson$/, '.json');
+  const path = join('data/quiz', file);
+  if (!quizFiles.includes(file)) {
+    warn(path, `missing, so the quiz has no questions on ${era.title}`);
+    continue;
+  }
+  let bank;
+  try {
+    bank = JSON.parse(readFileSync(path, 'utf8'));
+  } catch (e) {
+    err(path, `invalid JSON: ${e.message}`);
+    continue;
+  }
+  if (bank.era !== era.id) err(path, `era "${bank.era}" should be "${era.id}"`);
+  if (!Array.isArray(bank.questions)) {
+    err(path, 'needs a "questions" list');
+    continue;
+  }
+  if (bank.questions.length !== QUESTIONS_PER_ERA) err(path, `has ${bank.questions.length} questions; each era has ${QUESTIONS_PER_ERA}`);
+  bank.questions.forEach((q, i) => {
+    questionCount++;
+    const where = `${file} #${i + 1} ${q.id ?? ''}`.trim();
+    if (!QUESTION_KEYS[q.kind]) {
+      err(where, `kind "${q.kind}" must be "choice" or "where"`);
+      return;
+    }
+    for (const k of ['id', 'prompt', 'explanation', 'feature']) if (typeof q[k] !== 'string' || !q[k].trim()) err(where, `missing "${k}"`);
+    for (const k of Object.keys(q)) if (!QUESTION_KEYS[q.kind].includes(k)) warn(where, `unknown property "${k}"`);
+    if (q.id) {
+      if (questionIds.has(q.id)) err(where, 'duplicate question id');
+      questionIds.add(q.id);
+    }
+    const f = featureById.get(q.feature);
+    if (q.feature && !f) err(where, `feature "${q.feature}" not found`);
+    else if (f && f.properties.era !== era.id) err(where, `feature "${q.feature}" belongs to era ${f.properties.era}`);
+    if (q.kind === 'choice') {
+      const opts = q.options;
+      if (!Array.isArray(opts) || opts.length !== 4) err(where, 'needs exactly 4 options (the first is the right answer)');
+      else {
+        if (opts.some((o) => typeof o !== 'string' || !o.trim())) err(where, 'every option must be non-empty text');
+        if (new Set(opts.map((o) => String(o).trim().toLowerCase())).size !== opts.length) err(where, 'options must all differ');
+      }
+    } else {
+      if (q.tolerance_km !== undefined && !(Number.isFinite(q.tolerance_km) && q.tolerance_km > 0)) err(where, '"tolerance_km" must be a positive number');
+      if (f && f.geometry?.type !== 'Point') err(where, `a map question needs a Point feature; "${q.feature}" is a ${f.geometry?.type}`);
+      else if (f) {
+        if (f.properties.confidence === 'schematic') err(where, `"${q.feature}" is schematic, so it has no exact place to find`);
+        const [x, y] = f.geometry.coordinates;
+        const [w, s, e, n] = era.bbox;
+        if (x < w || x > e || y < s || y > n) err(where, `"${q.feature}" lies outside the era's map (bbox in eras.json)`);
+      }
+    }
+  });
+}
+for (const file of quizFiles) {
+  if (!eras.some((e) => e.file?.replace(/\.geojson$/, '.json') === file)) warn(join('data/quiz', file), 'does not match an era file, so it is not used');
+}
+
 for (const w of warnings) console.warn(`warning  ${w}`);
 for (const e of errors) console.error(`error    ${e}`);
-console.log(`\n${allFeatures.length} features checked: ${errors.length} errors, ${warnings.length} warnings`);
+console.log(`\n${allFeatures.length} features and ${questionCount} quiz questions checked: ${errors.length} errors, ${warnings.length} warnings`);
 process.exit(errors.length ? 1 : 0);

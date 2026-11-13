@@ -1,0 +1,117 @@
+{
+  "era": "consolidation",
+  "questions": [
+    {
+      "id": "consolidation-1",
+      "kind": "choice",
+      "prompt": "The Bucareli agreements of 1923 won the Obregón government recognition from the United States. What did that recognition make possible within months?",
+      "options": [
+        "US arms sales against the de la Huerta rebellion",
+        "US arms sales against the Escobar rebellion",
+        "A settlement ending the Cristero War",
+        "The expropriation of the foreign oil companies"
+      ],
+      "explanation": "At Bucareli the commissioners agreed that Article 27 would not be applied retroactively to oil lands where companies had performed \"positive acts\" before 1917. The United States recognised Obregón on 31 August 1923, in time to sell him arms against Adolfo de la Huerta's rising that December.",
+      "feature": "e10-bucareli"
+    },
+    {
+      "id": "consolidation-2",
+      "kind": "choice",
+      "prompt": "What set off the Cristero War in 1926?",
+      "options": [
+        "The enforcement of the constitution's anticlerical articles",
+        "The assassination of President-elect Obregón",
+        "The founding of the National Revolutionary Party",
+        "Cárdenas's expulsion of Calles to the United States"
+      ],
+      "explanation": "When the \"Calles Law\" put the anticlerical articles into force from 31 July 1926, the bishops suspended public worship and armed risings followed. The rebellion was strongest among the rancheros and villagers of west-central Mexico, from Los Altos de Jalisco to Colima and western Michoacán.",
+      "feature": "e10-cristero-region"
+    },
+    {
+      "id": "consolidation-3",
+      "kind": "where",
+      "prompt": "The first armed clash of the Cristero War was fought at the Sanctuary of Our Lady of Guadalupe in Guadalajara in August 1926. Where is Guadalajara? Click the map.",
+      "feature": "e10-guadalajara-1926",
+      "explanation": "Days after worship was suspended, about 400 armed Catholics shut themselves inside the sanctuary and fought federal troops until their ammunition ran out. The Cristeros went on to hold much of the countryside around it, but Guadalajara itself stayed in government hands."
+    },
+    {
+      "id": "consolidation-4",
+      "kind": "choice",
+      "prompt": "Who shot President-elect Álvaro Obregón at La Bombilla restaurant in July 1928?",
+      "options": [
+        "José de León Toral",
+        "Jesús Salas Barraza",
+        "Ramón Mercader",
+        "Enrique Gorostieta"
+      ],
+      "explanation": "De León Toral, a young Catholic militant, struck two weeks after Obregón was elected to a second term. To avoid civil war among Obregón's generals, Calles announced the passage to a \"nation of institutions\" and organised a revolutionary party.",
+      "feature": "e10-obregon-bombilla"
+    },
+    {
+      "id": "consolidation-5",
+      "kind": "choice",
+      "prompt": "In what year was the National Revolutionary Party (PNR), the forerunner of the PRI, founded at a convention in Querétaro?",
+      "options": [
+        "1929",
+        "1917",
+        "1938",
+        "1946"
+      ],
+      "explanation": "The PNR brought together the regional parties and machines of the revolutionary generals so that succession disputes were settled inside the party rather than by revolt. Cárdenas reorganised it in 1938 as the Party of the Mexican Revolution (PRM), and it became the PRI in 1946.",
+      "feature": "e10-pnr-1929"
+    },
+    {
+      "id": "consolidation-6",
+      "kind": "choice",
+      "prompt": "Whom did Cárdenas have arrested at his hacienda and flown to the United States in April 1936?",
+      "options": [
+        "Plutarco Elías Calles",
+        "Saturnino Cedillo",
+        "Tomás Garrido Canabal",
+        "Vicente Lombardo Toledano"
+      ],
+      "explanation": "The former Jefe Máximo had publicly criticised Cárdenas's labour policy in 1935 and was trying to rebuild his following; he was flown out with the labour boss Luis Morones and two other allies. His exile ended the Maximato and left Cárdenas free to pursue the land and oil reforms of 1936–38.",
+      "feature": "e10-calles-exiled-1936"
+    },
+    {
+      "id": "consolidation-7",
+      "kind": "choice",
+      "prompt": "Which crop did the irrigated estates of La Laguna, around Torreón, produce when Cárdenas expropriated them in 1936?",
+      "options": [
+        "Cotton",
+        "Henequen",
+        "Rice",
+        "Sugar cane"
+      ],
+      "explanation": "La Laguna, watered by the Nazas and Aguanaval rivers, was the most valuable commercial agriculture in the north. After a farmworkers' strike, about 450,000 hectares were distributed to some 300 collectively run ejidos, the showcase of Cardenista agrarian reform.",
+      "feature": "e10-laguna-ejidos"
+    },
+    {
+      "id": "consolidation-8",
+      "kind": "where",
+      "prompt": "On 27 January 1937 Mexican peasants occupied lands of the US-owned Colorado River Land Company in the Mexicali Valley. Where is the Mexicali Valley? Click the map.",
+      "feature": "e10-mexicali-1937",
+      "explanation": "The company leased the irrigated valley to tenants, many of them Chinese, Japanese and American, to grow cotton. That spring the government expropriated much of it for ejidos and colonists, part of a policy of populating the border territory with Mexicans."
+    },
+    {
+      "id": "consolidation-9",
+      "kind": "choice",
+      "prompt": "What led Cárdenas to expropriate the foreign oil companies in March 1938?",
+      "options": [
+        "Their refusal to obey an arbitration award to their workers",
+        "A strike at the Vidriera glassworks in Monterrey",
+        "The Cedillo rebellion in San Luis Potosí",
+        "The creation of Pemex to run the oil industry"
+      ],
+      "explanation": "The Supreme Court had upheld the award on 1 March; on the night of 18 March Cárdenas announced by radio the expropriation of seventeen companies, including Shell's El Águila and Standard Oil's Huasteca Petroleum. Petróleos Mexicanos (Pemex) was created afterwards, on 7 June 1938.",
+      "feature": "e10-oil-expropriation"
+    },
+    {
+      "id": "consolidation-10",
+      "kind": "where",
+      "prompt": "Tampico, at the mouth of the Pánuco, was the capital of the oil industry and its main export port. Where is Tampico? Click the map.",
+      "feature": "e10-tampico-refineries",
+      "explanation": "El Águila had its refinery at Doña Cecilia (now Ciudad Madero) and Huasteca Petroleum at Mata Redonda across the river. Tampico's oil workers were the core of the union whose wage dispute led to the 1938 expropriation, and the refineries passed to Pemex."
+    }
+  ]
+}

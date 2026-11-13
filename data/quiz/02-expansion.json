@@ -1,0 +1,82 @@
+{
+  "era": "expansion",
+  "questions": [
+    {
+      "id": "expansion-1",
+      "kind": "choice",
+      "prompt": "Which conquistador did Cortés send south at the end of 1523 to invade Guatemala?",
+      "options": ["Pedro de Alvarado", "Cristóbal de Olid", "Francisco de Montejo", "Nuño de Guzmán"],
+      "explanation": "Alvarado went by the Isthmus of Tehuantepec and Soconusco with a few hundred Spaniards and several thousand Nahua and other allies. He defeated the K'iche' near Xelajú in February 1524, burned their capital Q'umarkaj and was received by his Kaqchikel allies at Iximché, where he founded a Spanish town that July.",
+      "feature": "e2-alvarado-guatemala"
+    },
+    {
+      "id": "expansion-2",
+      "kind": "choice",
+      "prompt": "Twelve friars led by Martín de Valencia landed in May 1524 and walked barefoot to Mexico City, opening the \"spiritual conquest\". Which order did they belong to?",
+      "options": ["The Franciscans", "The Dominicans", "The Augustinians", "The Jesuits"],
+      "explanation": "Cortés knelt to greet the Twelve Franciscans in Mexico City in June 1524. They spread out from the Valley of Mexico and the Puebla–Tlaxcala valley, baptised on a vast scale and learned Indigenous languages; Dominicans followed in 1526 and Augustinians in 1533.",
+      "feature": "e2-twelve-franciscans"
+    },
+    {
+      "id": "expansion-3",
+      "kind": "choice",
+      "prompt": "Nuño de Guzmán's brutal conquest of the west in 1529–31 is the background to which war a decade later?",
+      "options": ["The Mixtón War", "The Chichimeca War", "The Tiguex War", "The Great Maya Revolt"],
+      "explanation": "Guzmán tortured and burned the Tarascan ruler Tangáxuan II and enslaved and killed on a scale that depopulated much of the region. The Caxcan and other peoples of Nueva Galicia rose in 1540, and the viceroy needed a large army, mostly of Indigenous allies from central Mexico, to put them down in 1541–42.",
+      "feature": "e2-guzman"
+    },
+    {
+      "id": "expansion-4",
+      "kind": "choice",
+      "prompt": "Who was the first viceroy of New Spain, sent by the Crown in 1535 to curb the conquistadors and the abuses of the first audiencia?",
+      "options": ["Antonio de Mendoza", "Luis de Velasco", "Martín Enríquez", "Nuño de Guzmán"],
+      "explanation": "Mendoza governed for fifteen years. He set up the institutions of colonial rule, the mint (1535) and the printing press (1539), sent Coronado north and crushed the Mixtón rising in person.",
+      "feature": "e2-viceroyalty"
+    },
+    {
+      "id": "expansion-5",
+      "kind": "where",
+      "prompt": "Where did Montejo the Younger found Mérida in 1542, on the site of the Maya city of T'Hó? Click the map.",
+      "feature": "e2-merida",
+      "explanation": "Mérida, built partly from the stone of T'Hó's platforms, became the capital of the province of Yucatán, governed largely apart from Mexico because overland travel was so difficult. It came after two failed campaigns: Yucatán had no central state to capture, and the Montejos needed two decades to subdue its Maya provinces."
+    },
+    {
+      "id": "expansion-6",
+      "kind": "where",
+      "prompt": "Where is Zacatecas, where Juan de Tolosa's party found silver-bearing ore at the Cerro de la Bufa in 1546 and opened the richest mining district in New Spain? Click the map.",
+      "feature": "e2-zacatecas",
+      "explanation": "Zacatecas pulled Spanish settlement, roads, livestock and labour hundreds of kilometres north into the lands of the Chichimecas. The Camino Real de Tierra Adentro grew out of the cart road opened to it around 1550."
+    },
+    {
+      "id": "expansion-7",
+      "kind": "where",
+      "prompt": "Where was Acapulco, the Pacific port where the Manila galleons ended their voyage from Asia from 1565? Click the map.",
+      "feature": "e2-acapulco",
+      "explanation": "Acapulco's deep, sheltered bay was closer to Mexico City than any other Pacific port. The galleons brought Chinese silk, porcelain and other Asian goods in exchange for Mexican and Peruvian silver, and from 1593 the trade was restricted to two ships a year."
+    },
+    {
+      "id": "expansion-8",
+      "kind": "choice",
+      "prompt": "In 1566 the audiencia arrested young creoles accused of plotting to kill the royal officials and make whom king of an independent New Spain?",
+      "options": ["Martín Cortés, second Marqués del Valle", "Francisco de Ibarra, governor of Nueva Vizcaya", "Juan de Tolosa, a founder of Zacatecas", "Luis de Carvajal, founder of Nuevo León"],
+      "explanation": "The accused were angered by the Crown's moves to stop encomiendas passing to further generations; whether there was a real plot is doubted. The Ávila brothers were beheaded in the plaza, a royal inquiry executed and tortured more suspects, and the episode ended the political power of the conquistadors' heirs.",
+      "feature": "e2-avila-conspiracy"
+    },
+    {
+      "id": "expansion-9",
+      "kind": "choice",
+      "prompt": "How did the Spaniards finally end the forty-year Chichimeca War along the silver road?",
+      "options": ["With negotiated peace, gifts of food and clothing, missions and Tlaxcalan settlers", "With a war \"by fire and blood\" that enslaved captives until none resisted", "By abandoning the Zacatecas road for a safer route along the coast", "With a single decisive campaign led by Viceroy Antonio de Mendoza"],
+      "explanation": "From 1550 the Guachichiles, Zacatecos, Guamares, Pames and others raided the road's wagon trains and towns. After decades of forts, defensive towns and enslavement, the Spaniards turned to peace from 1585–90, and about 400 Tlaxcalan families were sent north to settle beside Spanish and Chichimeca towns.",
+      "feature": "e2-gran-chichimeca"
+    },
+    {
+      "id": "expansion-10",
+      "kind": "choice",
+      "prompt": "In what year did Juan de Oñate lead soldiers, families and Franciscans north to found Spanish New Mexico?",
+      "options": ["1598", "1540", "1567", "1581"],
+      "explanation": "Oñate took formal possession of New Mexico on the Rio Grande below El Paso in April 1598 and set up his headquarters at Ohkay Owingeh, renamed San Juan de los Caballeros, in July. His route became the northern section of the Camino Real, making it a road of some 2,500 km.",
+      "feature": "e2-onate"
+    }
+  ]
+}

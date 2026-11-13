@@ -68,6 +68,7 @@ code { font-size: 0.9em; background: var(--paper-2); padding: 1px 4px; border-ra
   min-height: 34px;
 }
 .icon-button:hover { background: var(--accent-soft); }
+a.icon-button { color: var(--ink); text-decoration: none; display: inline-flex; align-items: center; }
 
 .panel-body { overflow-y: auto; flex: 1; min-height: 0; overscroll-behavior: contain; }
 

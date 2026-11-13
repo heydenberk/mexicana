@@ -1,0 +1,117 @@
+{
+  "era": "present",
+  "questions": [
+    {
+      "id": "present-1",
+      "kind": "choice",
+      "prompt": "Who won the presidential election of 2 July 2000, ending 71 years of rule by the PRI and its predecessors?",
+      "options": [
+        "Vicente Fox",
+        "Felipe Calderón",
+        "Andrés Manuel López Obrador",
+        "Ernesto Zedillo"
+      ],
+      "explanation": "Fox, a former Coca-Cola executive and governor of Guanajuato, won for the PAN with about 43 per cent of the vote. President Zedillo recognised the result on election night, after the count by the independent Federal Electoral Institute.",
+      "feature": "e12-election-2000"
+    },
+    {
+      "id": "present-2",
+      "kind": "choice",
+      "prompt": "Ten days after taking office in December 2006, Felipe Calderón sent more than 5,000 soldiers and marines into which state, beginning the drug war?",
+      "options": [
+        "Michoacán",
+        "Chihuahua",
+        "Tamaulipas",
+        "Baja California"
+      ],
+      "explanation": "In Calderón's home state the Familia Michoacana had announced itself that September by throwing five severed heads onto the dance floor of a bar in Uruapan. Similar operations followed elsewhere, and as captures and killings splintered the cartels, recorded homicides rose from about 8,900 in 2007 to about 27,200 in 2011.",
+      "feature": "e12-operacion-michoacan"
+    },
+    {
+      "id": "present-3",
+      "kind": "choice",
+      "prompt": "In August 2010 marines found the bodies of 72 migrants at a ranch near San Fernando, Tamaulipas. Which criminal group had killed them?",
+      "options": [
+        "The Zetas",
+        "Guerreros Unidos",
+        "The Caballeros Templarios",
+        "The Familia Michoacana"
+      ],
+      "explanation": "The migrants, mostly from Central and South America, had been seized on their way north and shot, and in 2011 clandestine graves around the town yielded 193 more bodies. The killings exposed the dangers of the route along the Gulf coast to the Rio Grande.",
+      "feature": "e12-san-fernando"
+    },
+    {
+      "id": "present-4",
+      "kind": "choice",
+      "prompt": "What, more than drug trafficking itself, drove armed civilians in Michoacán's Tierra Caliente to form the autodefensas in 2013?",
+      "options": [
+        "Cartel extortion of growers and cattlemen",
+        "The disappearance of the Ayotzinapa students",
+        "The war between the Sinaloa and Juárez cartels",
+        "The cancellation of the Texcoco airport"
+      ],
+      "explanation": "On 24 February 2013 armed civilians in Tepalcatepec and La Ruana rose against the Caballeros Templarios, who extorted lime growers, avocado farmers and cattlemen and controlled local government. Tancítaro's avocado growers estimated that organised crime took about US$770 million from their trade in 2009–13.",
+      "feature": "e12-autodefensas"
+    },
+    {
+      "id": "present-5",
+      "kind": "where",
+      "prompt": "On the night of 26–27 September 2014, 43 students of the Ayotzinapa rural teachers' college were taken and disappeared in Iguala, Guerrero. Where is Iguala? Click the map.",
+      "feature": "e12-ayotzinapa-iguala",
+      "explanation": "The students were attacked by municipal police working with the Guerreros Unidos gang, with state, federal and army forces aware of what was happening. The attorney general's \"historical truth\" that they were burned at the Cocula rubbish dump was refuted by the Inter-American Commission's experts, and in 2022 the federal truth commission called it a crime of state."
+    },
+    {
+      "id": "present-6",
+      "kind": "where",
+      "prompt": "On 19 October 2018 thousands of Hondurans in a migrant caravan filled the bridge over the Suchiate River between Tecún Umán, Guatemala, and Ciudad Hidalgo, Chiapas. Where is the crossing? Click the map.",
+      "feature": "e12-suchiate",
+      "explanation": "Mexican police held the caravan back on the bridge, but most of its members crossed the river over the next days. From 2019, under US pressure, Mexico deployed the National Guard along the river, and Tapachula became a city of migrants waiting for papers."
+    },
+    {
+      "id": "present-7",
+      "kind": "where",
+      "prompt": "On 17 October 2019 cartel gunmen besieged Culiacán, Sinaloa, after soldiers detained Ovidio Guzmán, a son of El Chapo. Where is Culiacán? Click the map.",
+      "feature": "e12-culiacanazo",
+      "explanation": "Hundreds of gunmen blockaded and shot across the city and took soldiers hostage, and López Obrador ordered Ovidio released to avoid a massacre. He was arrested again near Culiacán in January 2023 and extradited to the United States that September."
+    },
+    {
+      "id": "present-8",
+      "kind": "choice",
+      "prompt": "Which project did López Obrador's government build at the port of Dos Bocas, on the coast of his home state of Tabasco?",
+      "options": [
+        "The Olmeca refinery",
+        "The Felipe Ángeles airport",
+        "The Lake Texcoco Ecological Park",
+        "The expanded port of Salina Cruz"
+      ],
+      "explanation": "Meant to cut Mexico's dependence on imported petrol, the 340,000-barrel-a-day refinery was inaugurated unfinished on 1 July 2022, with costs far above the original US$8 billion estimate. With the Tren Maya and the Interoceanic Corridor, it was part of the shift of public investment to the south-east.",
+      "feature": "e12-dos-bocas"
+    },
+    {
+      "id": "present-9",
+      "kind": "choice",
+      "prompt": "What office had Claudia Sheinbaum held before she was elected Mexico's first woman president in June 2024?",
+      "options": [
+        "Head of government of Mexico City",
+        "Governor of Guanajuato",
+        "Mayor of Uruapan",
+        "Secretary-general of the PRI"
+      ],
+      "explanation": "Sheinbaum, a climate scientist, won for Morena with about 60 per cent of the vote, and her coalition won a two-thirds majority in the Chamber of Deputies. She took the oath in the Chamber of Deputies at San Lázaro on 1 October 2024.",
+      "feature": "e12-sheinbaum"
+    },
+    {
+      "id": "present-10",
+      "kind": "choice",
+      "prompt": "What did the constitutional reform published on 15 September 2024 do?",
+      "options": [
+        "Replaced appointed judges with elected ones",
+        "Created the National Guard to take over policing",
+        "Turned the Federal District into Mexico City",
+        "Made the electoral institute independent"
+      ],
+      "explanation": "Pushed through by López Obrador in his last weeks in office, it led to the first judicial election on 1 June 2025, when turnout was about 13 per cent. Critics saw the end of judicial independence; supporters a blow against a corrupt, privileged judiciary.",
+      "feature": "e12-judicial-reform"
+    }
+  ]
+}

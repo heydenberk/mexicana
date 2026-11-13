@@ -1,0 +1,82 @@
+{
+  "era": "bourbon",
+  "questions": [
+    {
+      "id": "bourbon-1",
+      "kind": "where",
+      "prompt": "Where did Jacinto Canek's Maya rising break out in 1761, at a village fiesta in Cisteil? Click the map.",
+      "feature": "e4-canek-1761",
+      "explanation": "In Cisteil, in the Sotuta district of the Yucatán interior, Jacinto Uc de los Santos had himself crowned king as Canek and called on the surrounding villages to drive out the Spaniards. Militiamen stormed the fortified village on 26 November, and Canek was executed in the main square of Mérida on 14 December."
+    },
+    {
+      "id": "bourbon-2",
+      "kind": "choice",
+      "prompt": "Which visitor-general, sent by Charles III in 1765, reorganised New Spain's treasury and set up the tobacco monopoly?",
+      "options": ["José de Gálvez", "Teodoro de Croix", "Gaspar de Portolá", "Juan Bautista de Anza"],
+      "explanation": "Gálvez's inspection of 1765–71 was meant to raise revenue and tighten royal control; he also organised the Sonora campaign and the occupation of Alta California. As Minister of the Indies from 1776 he went on to create the Provincias Internas and the intendancies, the core of the Bourbon reforms in New Spain.",
+      "feature": "e4-galvez-visita"
+    },
+    {
+      "id": "bourbon-3",
+      "kind": "choice",
+      "prompt": "To control supply, the royal tobacco monopoly confined legal tobacco growing to one small district. Which?",
+      "options": ["Around Córdoba and Orizaba", "Around Pátzcuaro and Uruapan", "Around Cuernavaca and Cuautla", "Around Celaya and Salamanca"],
+      "explanation": "Licensed growers there, on the eastern escarpment, sold their whole crop to the crown, and troops uprooted plantings elsewhere. The cigars and cigarettes were made in state factories, and the monopoly became one of the crown's biggest sources of revenue in New Spain.",
+      "feature": "e4-tobacco-growing"
+    },
+    {
+      "id": "bourbon-4",
+      "kind": "choice",
+      "prompt": "Which royal measure did crowds at San Luis de la Paz, San Luis Potosí and Guanajuato try to stop in June and July 1767?",
+      "options": ["The expulsion of the Jesuits", "The creation of the intendancies", "The Consolidación de Vales Reales", "The creation of the Provincias Internas"],
+      "explanation": "Troops surrounded the Jesuit houses of New Spain at dawn on 25 June 1767, and several hundred Jesuits were shipped into exile in Italy. The riots, which also protested new taxes and the tobacco monopoly, were the most serious challenge to Spanish rule before 1810; Gálvez answered with summary trials, executions and banishments.",
+      "feature": "e4-jesuit-expulsion"
+    },
+    {
+      "id": "bourbon-5",
+      "kind": "where",
+      "prompt": "Where did Junípero Serra found the mission of San Diego de Alcalá in 1769, the first of the Franciscan missions of Alta California? Click the map.",
+      "feature": "e4-san-diego",
+      "explanation": "With Russian traders active in Alaska, Gálvez ordered San Diego and Monterey occupied. From San Diego the governor, Gaspar de Portolá, led some sixty men north, and his party became the first Europeans known to have seen San Francisco Bay."
+    },
+    {
+      "id": "bourbon-6",
+      "kind": "choice",
+      "prompt": "In 1776 the northern provinces became a separate military command, the Provincias Internas. Which town did its first commandant general, Teodoro de Croix, make his capital?",
+      "options": ["Arizpe", "Chihuahua", "San Antonio de Béxar", "Monterey"],
+      "explanation": "Croix proclaimed the Sonoran river town of Arizpe the capital in January 1780; it lay far from the Apache and Comanche frontiers of Chihuahua, Coahuila and Texas. Pedro de Nava moved the headquarters of the reunited command to Chihuahua in 1793.",
+      "feature": "e4-arizpe"
+    },
+    {
+      "id": "bourbon-7",
+      "kind": "choice",
+      "prompt": "In which year did the Real Ordenanza de Intendentes divide New Spain into twelve intendancies?",
+      "options": ["1786", "1776", "1778", "1795"],
+      "explanation": "The intendants took over justice, finance, war and public works from the old alcaldes mayores. Most Mexican states descend from the intendancies: Guanajuato, the smallest in area and the heart of the Bajío, survives almost unchanged as the modern state.",
+      "feature": "e4-int-guanajuato"
+    },
+    {
+      "id": "bourbon-8",
+      "kind": "where",
+      "prompt": "Where was the Valenciana, the silver mine that made Antonio de Obregón y Alcocer Count of Valenciana? Click the map.",
+      "feature": "e4-valenciana",
+      "explanation": "Obregón struck rich ore in the late 1760s in an abandoned vein north of Guanajuato, and the Valenciana helped make Guanajuato the leading silver district of New Spain. With Catorce, it shows how the reduced mercury prices and tax concessions of the Bourbon reforms helped silver output reach its colonial peak around 1800."
+    },
+    {
+      "id": "bourbon-9",
+      "kind": "choice",
+      "prompt": "What did the Consolidación de Vales Reales of 1804 order?",
+      "options": ["Church loans to be called in and the money sent to Spain", "Jesuit colleges and haciendas to be confiscated", "Legal tobacco growing to be confined to one district", "Trade to be opened with more Spanish ports"],
+      "explanation": "To pay for its wars, the crown called in the church charitable funds that had been lent out as mortgages. Thousands of landowners, miners and merchants had to repay or lose their property, alienating much of creole society and the lower clergy before the measure was suspended in 1808.",
+      "feature": "e4-consolidacion"
+    },
+    {
+      "id": "bourbon-10",
+      "kind": "choice",
+      "prompt": "Who led the peninsular merchants who seized Viceroy Iturrigaray in his palace in September 1808?",
+      "options": ["Gabriel de Yermo", "Pedro Garibay", "José Mariano Michelena", "Francisco de Gamboa"],
+      "explanation": "After Napoleon forced the Spanish Bourbons to abdicate, Iturrigaray had seemed to sympathise with the creole city council's call for a provisional government. The coup installed the elderly Pedro Garibay as viceroy and, by closing the legal path to self-government, pushed creoles toward conspiracy and rebellion.",
+      "feature": "e4-coup-1808"
+    }
+  ]
+}

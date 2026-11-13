@@ -1,0 +1,87 @@
+{
+  "era": "porfiriato",
+  "questions": [
+    {
+      "id": "porfiriato-1",
+      "kind": "choice",
+      "prompt": "What did the killing of Victorio and most of his warriors at Tres Castillos in 1880 help to bring to an end?",
+      "options": [
+        "Apache raiding in Chihuahua and Sonora",
+        "The Caste War of the Maya in Yucatán",
+        "Yaqui resistance in the Sonora valley",
+        "The Tomóchic rising in the sierra"
+      ],
+      "explanation": "Chihuahuan forces under Joaquín Terrazas trapped Victorio's band at the hills of Tres Castillos. With Geronimo's surrender in Arizona in 1886, it largely ended half a century of Apache raiding and opened the northern ranges to railways, ranching and mining.",
+      "feature": "e8-tres-castillos"
+    },
+    {
+      "id": "porfiriato-2",
+      "kind": "choice",
+      "prompt": "Once the 1882 treaty with Guatemala settled the border, which crop spread over the slopes above Tapachula in the Soconusco?",
+      "options": ["Coffee", "Henequen", "Cotton", "Tobacco"],
+      "explanation": "The slopes were sold off to coffee planters, many of them German, and worked by seasonal labourers brought down from the Chiapas highlands and across from Guatemala. The Soconusco became one of Mexico's main export regions.",
+      "feature": "e8-soconusco-coffee"
+    },
+    {
+      "id": "porfiriato-3",
+      "kind": "choice",
+      "prompt": "Which Boston-financed railway carried the first through train from Mexico City to the US border at Paso del Norte in March 1884?",
+      "options": ["The Mexican Central", "The Mexican National", "The Mexican International", "The Interoceanic"],
+      "explanation": "It roughly paralleled the old Camino Real de Tierra Adentro through Querétaro, the Bajío, Aguascalientes and Zacatecas, then crossed the Laguna to Chihuahua and met the US railways at El Paso. It became the backbone of the Porfirian network; the National ran to Nuevo Laredo instead.",
+      "feature": "e8-rail-central"
+    },
+    {
+      "id": "porfiriato-4",
+      "kind": "where",
+      "prompt": "Torreón grew from a ranch into a city where two railways crossed, in the middle of the Laguna cotton district. Where is Torreón? Click the map.",
+      "explanation": "The Mexican Central and the Mexican International crossed there, and the floodwaters of the Nazas irrigated cotton estates that supplied the national textile industry. Disputes over the river's water and the region's labour made the Laguna a centre of the coming revolution.",
+      "feature": "e8-torreon-laguna"
+    },
+    {
+      "id": "porfiriato-5",
+      "kind": "choice",
+      "prompt": "When the Noriega brothers drained the lake and marsh of Zacapu in northern Michoacán, which people's villages lost their land, fishing and reeds?",
+      "options": ["Purépecha", "Yaqui", "Tének (Huastec)", "Maya"],
+      "explanation": "Some 12,000 hectares became the maize and wheat fields of the Noriegas' hacienda, Cantabria, and many villagers of Naranja, Tiríndaro and Tarejero left as migrant labourers. Naranja became a centre of the agrarian movement of the 1920s.",
+      "feature": "e8-zacapu-cienega"
+    },
+    {
+      "id": "porfiriato-6",
+      "kind": "choice",
+      "prompt": "Shipped from Guaymas and moved across Mexico by sea, on foot and by rail, many of the Yaquis deported from Sonora were sold as labourers for which industry?",
+      "options": ["Henequen in Yucatán", "Coffee in the Soconusco", "Sugar in Morelos", "Cotton in the Laguna"],
+      "explanation": "The deportations, meant to break Yaqui resistance to the surveying and sale of their river valley, peaked in 1907–08. Many went by ship to San Blas, on foot to the railhead at San Marcos, by train through Guadalajara and Mexico City to Veracruz, and by sea to Progreso; families were split up on the way, and many died on the haciendas.",
+      "feature": "e8-yaqui-deportations"
+    },
+    {
+      "id": "porfiriato-7",
+      "kind": "where",
+      "prompt": "Where is Mérida, the city at the centre of Yucatán's henequen boom? Click the map.",
+      "explanation": "Demand for binder twine from the mechanical reapers of the US wheat belt turned the dry northwest of Yucatán into henequen plantations. The fibre was sold mostly to International Harvester through the Mérida house of Olegario Molina, and went out by rail to the port of Progreso.",
+      "feature": "e8-henequen"
+    },
+    {
+      "id": "porfiriato-8",
+      "kind": "where",
+      "prompt": "Where is Cananea, the copper town whose miners struck in June 1906? Click the map.",
+      "explanation": "Mexican miners at William C. Greene's Cananea Consolidated Copper Company struck for a five-peso, eight-hour day and the same treatment as American workers, and the governor of Sonora let armed Arizona volunteers cross the border to help suppress them. The leaders, linked to the Flores Magón brothers' Liberal Party, were jailed in San Juan de Ulúa.",
+      "feature": "e8-cananea-1906"
+    },
+    {
+      "id": "porfiriato-9",
+      "kind": "choice",
+      "prompt": "To which American did Díaz say in 1908 that Mexico was ready for democracy and that he would not serve again after 1910?",
+      "options": ["James Creelman", "John Kenneth Turner", "William C. Greene", "Edward L. Doheny"],
+      "explanation": "Creelman, an American journalist, interviewed Díaz at Chapultepec Castle; translated and reprinted in Mexico, the interview set off a scramble over the succession: supporters of Bernardo Reyes organised, and Francisco Madero published La sucesión presidencial en 1910. Turner was the journalist who made Valle Nacional the emblem of Porfirian forced labour; Greene owned the Cananea copper company and Doheny brought in Mexico's first commercial oil wells at Ébano.",
+      "feature": "e8-creelman-interview"
+    },
+    {
+      "id": "porfiriato-10",
+      "kind": "choice",
+      "prompt": "Where was Madero's Plan of San Luis Potosí, which called for a rising on 20 November 1910, actually written and published?",
+      "options": ["San Antonio, Texas", "San Luis Potosí", "Monterrey", "El Paso, Texas"],
+      "explanation": "Arrested in Monterrey during the campaign and held at San Luis Potosí while Díaz was declared re-elected, Madero fled on bail to San Antonio. The plan was dated 5 October, his last day in San Luis, and declared the election void.",
+      "feature": "e8-plan-san-luis"
+    }
+  ]
+}

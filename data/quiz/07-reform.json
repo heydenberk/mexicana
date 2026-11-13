@@ -1,0 +1,97 @@
+{
+  "era": "reform",
+  "questions": [
+    {
+      "id": "reform-1",
+      "kind": "choice",
+      "prompt": "The Plan of Ayutla of 1854 was proclaimed with the backing of which cacique of the Guerrero coast?",
+      "options": ["Juan Álvarez", "Santiago Vidaurri", "Félix Zuloaga", "Manuel Lozada"],
+      "explanation": "Proclaimed by Colonel Florencio Villarreal with Álvarez's backing and amended at Acapulco by Ignacio Comonfort, the plan called for the removal of Santa Anna and a congress to write a new constitution. Santa Anna went into exile for the last time in August 1855.",
+      "feature": "e7-plan-ayutla"
+    },
+    {
+      "id": "reform-2",
+      "kind": "choice",
+      "prompt": "What did the Ley Lerdo of June 1856 do?",
+      "options": [
+        "Forced corporations to sell their real estate",
+        "Ended the special courts of the clergy and army",
+        "Limited the fees that parishes could charge",
+        "Made marriage a civil contract"
+      ],
+      "explanation": "It targeted the Church, but it also applied to the communal lands of Indian villages, which were broken up in many regions over the following decades. The special courts were ended by the Ley Juárez (1855) and parish fees limited by the Ley Iglesias (1857); civil marriage came with the Reform laws issued at Veracruz from 1859.",
+      "feature": "e7-reform-laws-1855"
+    },
+    {
+      "id": "reform-3",
+      "kind": "choice",
+      "prompt": "Driven to the Pacific coast in 1858, how did Juárez's government reach the liberal stronghold of Veracruz?",
+      "options": [
+        "By sea via Panama, Havana and New Orleans",
+        "Overland through Morelia, Toluca and Puebla",
+        "By sea around Cape Horn and up the Gulf",
+        "Overland by Zacatecas, Saltillo and Tampico"
+      ],
+      "explanation": "From Manzanillo Juárez sailed to Panama, crossed the isthmus by the new Panama Railroad and continued by Havana and New Orleans to Veracruz. With the conservatives holding the roads of the centre, a detour of several thousand kilometres through foreign ports was the only way through.",
+      "feature": "e7-juarez-voyage-1858"
+    },
+    {
+      "id": "reform-4",
+      "kind": "where",
+      "prompt": "Where is Veracruz, the port from which Juárez governed for almost three years during the Reform War? Click the map.",
+      "explanation": "The port gave the liberals the customs revenues of the country's main harbour, a link to the outside world and the protection of the coastal fevers, which repeatedly wore down conservative armies coming down from the highlands. Miramón besieged it in 1859 and again in 1860 and failed both times.",
+      "feature": "e7-veracruz-capital"
+    },
+    {
+      "id": "reform-5",
+      "kind": "choice",
+      "prompt": "What became of the McLane–Ocampo Treaty of 1859, which offered the United States transit rights across the Isthmus of Tehuantepec?",
+      "options": [
+        "The US Senate rejected it in 1860",
+        "US troops guarded the isthmus transit from 1860",
+        "Ocampo refused to sign it at Veracruz",
+        "The transit opened after the liberal victory"
+      ],
+      "explanation": "Signed at Veracruz by Melchor Ocampo and the US envoy Robert McLane, it granted perpetual transit across Tehuantepec and along two northern routes, with the right to protect them with troops, for four million pesos. The Senate rejected it on 31 May 1860, so the transit was never used.",
+      "feature": "e7-mclane-ocampo"
+    },
+    {
+      "id": "reform-6",
+      "kind": "choice",
+      "prompt": "Whose army threw back the French at Puebla on 5 May 1862?",
+      "options": ["Ignacio Zaragoza", "Jesús González Ortega", "Mariano Escobedo", "Santos Degollado"],
+      "explanation": "Lorencez sent his columns up the Cerro de Guadalupe against the forts of Loreto and Guadalupe, and Zaragoza's army, with Porfirio Díaz's brigade on the flank, threw them back. The defeat cost Napoleon III a year: a reinforced French army under Forey took Puebla only in May 1863, after González Ortega had defended it for two months.",
+      "feature": "e7-puebla-1862"
+    },
+    {
+      "id": "reform-7",
+      "kind": "where",
+      "prompt": "During the US Civil War, Confederate cotton crossed Texas to Matamoros to be shipped out past the Union blockade. Where is Matamoros? Click the map.",
+      "explanation": "The Union blockaded the Confederacy's ports but not the Mexican bank of the Rio Grande, so cotton went out through the beach anchorage of Bagdad at the river's mouth and arms came back the same way. The trade made the northeastern border towns valuable to both empire and republic.",
+      "feature": "e7-matamoros-trade"
+    },
+    {
+      "id": "reform-8",
+      "kind": "choice",
+      "prompt": "Carrying the republic north in a coach ahead of the French, where did Juárez set up his government in August 1865?",
+      "options": ["Paso del Norte", "Monterrey", "San Luis Potosí", "Saltillo"],
+      "explanation": "After San Luis Potosí (1863), Saltillo and Monterrey (1864) and Chihuahua, Juárez reached Paso del Norte on the US border on 14 August 1865. By staying on Mexican soil he denied the empire the claim that the republic had ceased to exist.",
+      "feature": "e7-juarez-north"
+    },
+    {
+      "id": "reform-9",
+      "kind": "where",
+      "prompt": "Maximilian's empire ended at Querétaro in 1867. Where is the city of Querétaro? Click the map.",
+      "explanation": "Besieged by Escobedo's republican armies from early March, the city fell on 15 May, when Colonel Miguel López let republican troops into the Convent of La Cruz, the emperor's headquarters. Maximilian, Miramón and Mejía were captured and later shot on the Cerro de las Campanas.",
+      "feature": "e7-queretaro-siege"
+    },
+    {
+      "id": "reform-10",
+      "kind": "choice",
+      "prompt": "At Tecoac in November 1876, whose division arrived in time to save Porfirio Díaz from defeat?",
+      "options": ["Manuel González", "Ignacio Alatorre", "Mariano Escobedo", "Ramón Corona"],
+      "explanation": "Díaz was nearly beaten by the government army under Ignacio Alatorre when González's division arrived and the Lerdist army broke. Lerdo fled the capital, and Díaz entered Mexico City later in November, beginning the thirty-five years of rule known as the Porfiriato.",
+      "feature": "e7-tecoac-1876"
+    }
+  ]
+}
