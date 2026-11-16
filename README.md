@@ -38,14 +38,26 @@ chapters to read alongside it (`reading` in `data/eras.json`). See
   names and cities, in slate grey so they don't read as history), 3D terrain. The **Legend** button explains the symbols.
 - The URL keeps the era, mode and selected feature (`#era=conquest&f=e1-otumba`), so views can be bookmarked.
 
-## The quiz
+## Flashcards and quiz
 
 **Live:** https://heydenberk.com/mexicana/quiz/ (also linked from the atlas header)
 
-Ten questions on each of the twelve eras: seven multiple choice, and three where you place a pin on the map (within
-100 km counts, unless the question sets its own tolerance). Answer options are shuffled; the questions stay in
-roughly chronological order. After each answer the event is drawn on the map in the atlas's own style, with a link to
-it in the atlas. `#era=reform` opens an era's quiz directly, and each browser remembers its best score per era.
+Each era has a deck of cards drawn from Gillingham's book: the events, people, terms, numbers and arguments a reader
+should remember, not only the ones that can be mapped. Both modes use the same cards.
+
+- **Flashcards** (`#study` for all eras, `#study=reform` for one). Recall the answer, reveal it, and grade yourself:
+  Again, Hard, Good or Easy (keys 1–4; Space reveals, then means Good). Scheduling is Anki-style spaced repetition: new
+  cards go through short learning steps (1 and 10 minutes), then come back after a day, and each success stretches the
+  interval by the card's ease. New cards come core cards first, then the rest; a session across all eras takes one
+  from each era in turn, so the whole outline builds up from the first day. New cards are limited per day (20 by
+  default, changeable on the home screen), and a button at the end of a session lets you learn more.
+- **Quiz** (`#era=reform`). Ten cards drawn at random from the era: up to three where you place a pin on the map (within
+  100 km counts, unless the card sets its own tolerance), the rest multiple choice with the card's distractors. After
+  each answer the event is drawn on the map in the atlas's own style, with a link to it in the atlas. A missed question
+  goes into the flashcards, due now.
+
+Progress and best scores are kept in the browser's local storage only (`mexicana-study` and `mexicana-quiz-best`).
+**Clear saved progress**, at the foot of the home screen, deletes both.
 
 ## Editing the history
 
@@ -76,31 +88,36 @@ All historical content is in `data/`, which you can edit without touching code. 
 
 Routes are `LineString`s drawn in the direction of travel. Territories are `Polygon`s or `MultiPolygon`s.
 
-### Quiz questions
+### Cards
 
-`data/quiz/NN-name.json` (the same basename as the era's GeoJSON) holds that era's ten questions:
+`data/cards/NN-name.json` (the same basename as the era's GeoJSON) holds that era's deck:
 
 ```json
 {
   "era": "reform",
-  "questions": [
-    { "id": "reform-1", "kind": "choice", "prompt": "…", "options": ["right answer", "wrong", "wrong", "wrong"],
-      "explanation": "…", "feature": "e7-…" },
-    { "id": "reform-8", "kind": "where", "prompt": "… Click the map.", "explanation": "…", "feature": "e7-…" }
+  "cards": [
+    { "id": "reform-ayutla-alvarez", "prompt": "…?", "answer": "Juan Álvarez",
+      "distractors": ["wrong", "wrong", "wrong"], "explanation": "…", "chapter": 11, "core": true, "feature": "e7-…" },
+    { "id": "reform-9", "kind": "where", "prompt": "Where is …?", "answer": "Querétaro, north-west of Mexico City",
+      "explanation": "…", "feature": "e7-…" }
   ]
 }
 ```
 
-- In a `choice` question the **first option is the right answer**; the quiz shuffles them. Exactly four options.
-- A `where` question's answer is its feature's point, so `feature` must be a `Point` that is not `schematic` and lies
-  inside the era's `bbox`. `tolerance_km` (default 100) changes how close counts as right.
-- `feature` is the event the question is about. It is drawn on the map after answering and linked in the atlas.
-- Questions only use facts stated in the era's feature descriptions and summary, so they inherit the atlas's
-  fact-checking. `npm run validate` checks the structure.
+- `answer` is the back of the flashcard and the right option in the quiz; the three `distractors` are the quiz's wrong
+  options. Keep them the same kind and length as the answer so that nothing gives it away.
+- `chapter` is the book chapter the fact comes from (0 is the Introduction, 22 the Epilogue). `core` marks the cards
+  that matter most, which are studied first. `feature` (optional) is an atlas feature of the era, shown on the map once
+  the card is answered and linked in the atlas.
+- A `where` card's answer is its feature's point, so `feature` must be a `Point` that is not `schematic` and lies
+  inside the era's `bbox`. `tolerance_km` (default 100) changes how close counts as right in the quiz.
+- Ids are permanent: progress is stored by card id, so renaming one restarts that card. Each id starts with the era id.
+- Every card was written from the book and then checked against it by a second reader. `npm run validate` checks the
+  structure.
 
 ### Checks
 
-- `npm run validate`: schema check of every era file and quiz bank (runs automatically before `npm run build`).
+- `npm run validate`: schema check of every era file and card deck (runs automatically before `npm run build`).
 - `npm run check:places` (`-- --file=07` for one era): geocodes every point that has a `modern_place` with OpenStreetMap Nominatim and
   flags any more than 5 km from the stored coordinate. A flag means look again, not that the point is
   wrong: a battlefield can lie well outside the town it is named after.

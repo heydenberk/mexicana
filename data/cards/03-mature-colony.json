@@ -1,0 +1,1687 @@
+{
+  "era": "mature-colony",
+  "cards": [
+    {
+      "id": "mature-colony-1",
+      "prompt": "What was New Spain's most valuable export after silver, produced by Mixtec and Zapotec households in the highlands of Oaxaca?",
+      "answer": "Cochineal",
+      "distractors": [
+        "Logwood",
+        "Woollen cloth",
+        "Glazed pottery"
+      ],
+      "explanation": "Cochineal is a red dye made from insects raised on nopal cactus. Merchants of Antequera and Mexico City bought it in the villages through the alcaldes mayores and the forced credit of the repartimiento, and shipped it through Veracruz to the textile industries of Europe.",
+      "feature": "e3-antequera-cochineal",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "mature-colony-2",
+      "prompt": "In 1624 a crowd burned part of the viceregal palace in Mexico City, ending a long conflict between the Marqués de Gelves and whom?",
+      "answer": "Archbishop Pérez de la Serna",
+      "distractors": [
+        "Bishop Juan de Palafox",
+        "Enrico Martínez",
+        "Guillén Lombardo"
+      ],
+      "explanation": "The archbishop had excommunicated the reforming viceroy, and the crowd was stirred up by his party; the rioters cheered the king even as they attacked his viceroy. Gelves escaped in disguise and was replaced, and the riot showed the power of the creole elite and the clergy against the viceroy.",
+      "feature": "e3-riot-1624",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-3",
+      "prompt": "After torrential rain in September 1629, with the drainage tunnel blocked, the lakes rose over Mexico City. For roughly how long did much of the city stay under water?",
+      "answer": "About five years",
+      "distractors": [
+        "About five weeks",
+        "About eighteen months",
+        "About twelve years"
+      ],
+      "explanation": "Thousands died or left, people moved about by canoe, and the Crown considered moving the capital to higher ground. The disaster committed the government to the costly, centuries-long Desagüe, begun in 1607 to drain the basin to the north.",
+      "feature": "e3-flood-1629"
+    },
+    {
+      "id": "mature-colony-4",
+      "kind": "where",
+      "prompt": "Where was San José del Parral, whose silver strike set off the great boom of the seventeenth-century north?",
+      "answer": "Parral, in southern Chihuahua",
+      "explanation": "Parral, near Santa Bárbara, became the largest town of Nueva Vizcaya and the usual seat of its governors. Its demand for food, mules and labour drew ranches, farms and labour drafts from the Conchos and Tarahumara missions.",
+      "feature": "e3-parral",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-5",
+      "prompt": "Who coordinated the Pueblo Revolt of 1680 from Taos, sending runners with knotted cords to count the days?",
+      "answer": "Po'pay",
+      "distractors": [
+        "Teporaca",
+        "Luis Oacpicagigua",
+        "Juan Calixto"
+      ],
+      "explanation": "Po'pay was a Tewa leader from Ohkay Owingeh. The Pueblos killed about 400 colonists and 21 of the 33 friars, besieged Governor Otermín at Santa Fe and drove the Spaniards out of New Mexico for twelve years, the most successful Native rising against Spanish rule in North America.",
+      "feature": "e3-pueblo-revolt",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "mature-colony-6",
+      "kind": "where",
+      "prompt": "Where is Veracruz, which buccaneers under Laurens de Graaf surprised by night in May 1683, locking thousands of residents in the churches?",
+      "answer": "Veracruz, on the Gulf coast",
+      "explanation": "The pirates held the city for days and left with a huge ransom and hundreds of enslaved captives. The raid exposed the weakness of the coastal defences and led to new fortifications.",
+      "feature": "e3-veracruz-1683",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-7",
+      "prompt": "What first set off Spanish settlement of Texas in the late 1680s?",
+      "answer": "News of La Salle's French colony on Matagorda Bay",
+      "distractors": [
+        "The arrival of St. Denis, a French trader from Louisiana",
+        "The arrival of settlers from the Canary Islands",
+        "The Comanche destruction of the San Sabá mission"
+      ],
+      "explanation": "La Salle, aiming for the mouth of the Mississippi, landed his colony on Matagorda Bay in 1685. The search for the French ended when Alonso de León found the ruins of their settlement in April 1689, and the first Spanish mission in East Texas, San Francisco de los Tejas, followed in 1690.",
+      "feature": "e3-fort-st-louis"
+    },
+    {
+      "id": "mature-colony-8",
+      "kind": "where",
+      "prompt": "Where did the Jesuit Juan María de Salvatierra found the mission of Loreto in 1697, after repeated failed attempts to settle California?",
+      "answer": "Loreto, on the Gulf coast of Baja California Sur",
+      "explanation": "Loreto, on the Gulf shore of the peninsula, became the capital of the Californias until 1777. Its supplies came by boat from the Sonoran and Sinaloan missions across the Gulf.",
+      "feature": "e3-loreto"
+    },
+    {
+      "id": "mature-colony-9",
+      "prompt": "Which people kept an independent kingdom in the canyons of the Sierra Madre, surrounded by Spanish provinces, until 1722?",
+      "answer": "The Cora",
+      "distractors": [
+        "The Itzá Maya",
+        "The Pericú",
+        "The Yaquis"
+      ],
+      "explanation": "The Cora (Náayeri) kingdom was centred on a sacred mesa between Nueva Galicia and Nueva Vizcaya. In January 1722 some 560 soldiers and Indigenous allies stormed the Mesa del Nayar; the Cora leader, the Tonati, surrendered weeks later, and Jesuit missions were set up in the sierra.",
+      "feature": "e3-nayar-1722",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "mature-colony-10",
+      "prompt": "Who colonised Nuevo Santander, the coastal plain between Pánuco and Texas, in a single planned campaign of 1748–55?",
+      "answer": "José de Escandón",
+      "distractors": [
+        "Martín de Alarcón",
+        "Alonso de León",
+        "Eusebio Francisco Kino"
+      ],
+      "explanation": "Escandón founded about two dozen towns and missions with settlers from Querétaro, Nuevo León and Coahuila. Unlike most of the north, Nuevo Santander was settled by ranching families rather than miners or missionaries, and its towns on the Rio Grande became the base of the later Tamaulipas–Texas borderland.",
+      "feature": "e3-nuevo-santander"
+    },
+    {
+      "id": "mature-colony-obedezco",
+      "prompt": "Which formula, written into the Laws of the Indies, let a colonial official acknowledge a royal order while declining to carry it out?",
+      "answer": "Obedezco pero no cumplo",
+      "distractors": [
+        "Viva el rey, muera el mal gobierno",
+        "Plus ultra",
+        "Non fecit taliter omni nationi"
+      ],
+      "explanation": "\"I obey but I do not comply\" turned passive resistance into a respectful legal routine. Gillingham sees it as the essence of Habsburg rule: distant kings tolerated local discretion rather than forcing laws that would not fit.",
+      "chapter": 4,
+      "core": true
+    },
+    {
+      "id": "mature-colony-kingdom",
+      "prompt": "What was New Spain's formal status within the Habsburg monarchy, according to Gillingham?",
+      "answer": "A kingdom, on a par with Aragon or Naples",
+      "distractors": [
+        "A crown colony ruled from Seville",
+        "A private fief of the Cortés family",
+        "A papal fief granted to the king"
+      ],
+      "explanation": "Habsburg possessions were never officially called colonies. New Spain was a viceroyalty, a semi-autonomous kingdom under the same king, and its people thought of it in those terms.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-no-army",
+      "prompt": "Gillingham notes that the Habsburg viceroyalty kept order for two centuries with next to none of what?",
+      "answer": "A standing army or police",
+      "distractors": [
+        "Royal judges and courts",
+        "Parish priests",
+        "Tribute collectors"
+      ],
+      "explanation": "Frontier defence fell largely to settlers, missionaries, small garrisons and Indigenous allies. The colony's stability rested instead on courts, the Church, local self-government and bargaining.",
+      "chapter": 4,
+      "core": true
+    },
+    {
+      "id": "mature-colony-habsburg-verdict",
+      "prompt": "What is Gillingham's overall verdict on nearly two centuries of Habsburg rule in New Spain?",
+      "answer": "It kept order cheaply through hands-off rule",
+      "distractors": [
+        "It collapsed into repeated civil wars",
+        "It relied on a large garrison army",
+        "It ruined silver mining by overtaxing it"
+      ],
+      "explanation": "They held a vast society far across the ocean in check, kept European rivals out of its richest regions and shipped home unprecedented quantities of silver, while spending little on soldiers. He calls the restraint behind it \"enlightened minimalism\".",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-audiencia",
+      "prompt": "What was the Real Audiencia of Mexico?",
+      "answer": "A royal court and council under the viceroy",
+      "distractors": [
+        "The town council of Mexico City",
+        "The merchants' guild of Mexico City",
+        "The Inquisition's tribunal in Mexico"
+      ],
+      "explanation": "Its members, the oidores (\"hearers\"), combined judicial, legislative and some executive powers and reported to the viceroy. Other audiencias sat in cities such as Guadalajara.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-visitadores",
+      "prompt": "What were the royal officials called who were sent from Spain to audit viceroys and their administrations, often at the end of a term?",
+      "answer": "Visitadores",
+      "distractors": [
+        "Oidores",
+        "Corregidores",
+        "Alcaldes mayores"
+      ],
+      "explanation": "Viceroys knew a visitador would question their profiteering, so they rushed to send their own version of events to Madrid first. The threat of an audit was one of the checks that kept venal officials within bounds.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-checks",
+      "prompt": "How does Gillingham sum up the principle behind New Spain's overlapping, mutually watchful offices, from the viceroy down to the town councils?",
+      "answer": "Checks and balances, or divide and rule",
+      "distractors": [
+        "Command through a standing army",
+        "Direct rule by the king in person",
+        "Government by elected assemblies"
+      ],
+      "explanation": "Each authority kept an eye on the others: viceroys were hemmed in by audiencias, clergy and auditors, and local councils by royal appointees. Even the officials' titles, visitadores, corregidores and oidores, speak of inspecting, correcting and hearing.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-council-indies",
+      "prompt": "Which body in Spain combined executive, legislative and judicial authority over the American kingdoms?",
+      "answer": "The Council of the Indies",
+      "distractors": [
+        "The Casa de Contratación",
+        "The Cortes of Castile",
+        "The Consulado of Seville"
+      ],
+      "explanation": "Its lawyers and clerics digested the viceroys' dispatches and prepared briefs for the king. Members came from the gentry and minor nobility, a deliberate choice to keep great lords out of government.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-casa-contratacion",
+      "prompt": "Which institution on the Seville waterfront licensed and registered every passenger and cargo bound for the Indies?",
+      "answer": "The Casa de Contratación",
+      "distractors": [
+        "The Council of the Indies",
+        "The Mesta",
+        "The Consulado de México"
+      ],
+      "explanation": "It tried to record every traveller, down to a passenger's moles and missing teeth. In practice ships sailed overloaded, and some carried twice as many people as were on the register.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-recopilacion",
+      "prompt": "In what year was a single compiled code of the laws of the Indies finally completed, near the end of Habsburg rule?",
+      "answer": "1680",
+      "distractors": [
+        "1567",
+        "1609",
+        "1713"
+      ],
+      "explanation": "Philip II had wanted one coherent code but did not live to see it; laws and decrees piled up for over a century. The delay reflects the Habsburgs' largely hands-off rule in the Americas.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-two-republics",
+      "prompt": "Colonial law split the king's subjects into two legal communities, each with its own code. What were they called?",
+      "answer": "República de indios and república de españoles",
+      "distractors": [
+        "Reino de Castilla and reino de Aragón",
+        "Pueblos de indios and reales de minas",
+        "Peninsulares and criollos"
+      ],
+      "explanation": "The república de indios covered the hundred-plus Indigenous peoples; the república de españoles covered everyone else, including Africans, Asians and people of mixed descent. Gillingham stresses the gap between this neat ideal and a fluid society.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-philip-iv-news",
+      "prompt": "When Philip IV died in 1665, roughly how long did it take for the news to reach Mexico?",
+      "answer": "About eight months",
+      "distractors": [
+        "About three weeks",
+        "About two years",
+        "About ten days"
+      ],
+      "explanation": "Letters crossed the Atlantic only with the annual fleets and occasional dispatch boats. Such delays forced the Crown to leave much to its officials on the spot.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-audiencia-sale",
+      "prompt": "In 1687 the cash-strapped Crown began selling which posts in New Spain, mostly to creole buyers?",
+      "answer": "Seats on the audiencia",
+      "distractors": [
+        "The archbishopric of Mexico",
+        "Captaincies of the treasure fleet",
+        "Governorships of Indian towns"
+      ],
+      "explanation": "Town-council seats, and from 1633 treasury posts, were already on the market. Buyers expected a return on their investment, which made them open to bribes from the rich and prone to squeeze the poor.",
+      "chapter": 8
+    },
+    {
+      "id": "mature-colony-creole-viceroys",
+      "prompt": "Across three centuries, how many viceroys of New Spain were American-born Spaniards?",
+      "answer": "Only a handful",
+      "distractors": [
+        "About half of them",
+        "Most of them after 1650",
+        "Roughly a third of them"
+      ],
+      "explanation": "Gillingham counts four. Viceroys were almost always aristocrats from Spain, and creoles' exclusion from the top jobs became a lasting grievance.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-creoles",
+      "prompt": "What were Spaniards born in the Americas called, as distinct from peninsulares born in Spain?",
+      "answer": "Creoles",
+      "distractors": [
+        "Castizos",
+        "Gachupines",
+        "Mestizos"
+      ],
+      "explanation": "Creoles (criollos) developed a dual identity, Spanish and Mexican. Though often of the same families as peninsulares, they were looked down on and largely shut out of the highest offices.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-creole-degeneration",
+      "prompt": "Why did some Spaniards from Spain claim that creoles were inferior, despite their Spanish ancestry?",
+      "answer": "The American climate and stars degraded them",
+      "distractors": [
+        "They were descended from convicts",
+        "They had taken Indigenous surnames",
+        "They had lost the Spanish language"
+      ],
+      "explanation": "The supposed degeneration, though acquired, was thought to be inherited. Creole astrologers turned the argument around: it was race, they said, not the American sky, that made Indigenous and African people inferior.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-prelate-viceroy",
+      "prompt": "When a viceroy died or was disgraced, who often stepped in to govern New Spain until a successor arrived?",
+      "answer": "An archbishop or bishop",
+      "distractors": [
+        "The richest merchant of Mexico City",
+        "The admiral of the treasure fleet",
+        "The governor of Tlaxcala"
+      ],
+      "explanation": "Literate, trusted and already powerful, prelates were a safe pair of hands. Bishop Juan de Palafox of Puebla, for example, served briefly as viceroy in the 1640s.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-charles-ii",
+      "prompt": "Which Spanish king, nicknamed \"the Bewitched\", died childless in 1700, ending Habsburg rule?",
+      "answer": "Charles II",
+      "distractors": [
+        "Philip IV",
+        "Philip III",
+        "Philip V"
+      ],
+      "explanation": "Sickly and disabled, Charles II reigned for thirty-five years over a declining Spain. His death set off the War of the Spanish Succession.",
+      "chapter": 4,
+      "core": true
+    },
+    {
+      "id": "mature-colony-philip-v",
+      "prompt": "Who was the first Bourbon king of Spain, whose claim to the throne was secured in the War of the Spanish Succession (1701–14)?",
+      "answer": "Philip V",
+      "distractors": [
+        "Charles III",
+        "Louis XIV",
+        "Ferdinand VI"
+      ],
+      "explanation": "A grandson of Louis XIV of France, Philip brought French ideas of absolutist, rationalising government. In practice change in New Spain was slow until the 1760s.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "mature-colony-purge-1715",
+      "prompt": "Between 1715 and 1727, what did the first Bourbon king's auditors do to the Audiencia of Mexico?",
+      "answer": "Removed over half its judges and prosecutors",
+      "distractors": [
+        "Doubled the number of its judges",
+        "Moved it from Mexico City to Puebla",
+        "Abolished it in favour of intendants"
+      ],
+      "explanation": "They also suspended more than 150 lesser officials, including notaries. Yet the sale of offices went on under the first two Bourbons, and by 1750, when it ended, creole buyers again held most audiencia seats.",
+      "chapter": 8
+    },
+    {
+      "id": "mature-colony-westphalia",
+      "prompt": "Why, for Gillingham, was the Treaty of Westphalia (1648) a conceptual blow to Spain?",
+      "answer": "It enshrined secular state sovereignty",
+      "distractors": [
+        "It gave New Spain to France",
+        "It abolished the Spanish Inquisition",
+        "It ended the annual silver fleets"
+      ],
+      "explanation": "Making sovereign states the basis of international order undercut a theocratic, multiethnic empire. Its commercial clauses also let foreign merchants hollow out Spain's control of Atlantic trade.",
+      "chapter": 4
+    },
+    {
+      "id": "mature-colony-jamaica",
+      "prompt": "Which Caribbean island, seized by the English in 1655, was Spain's first major territorial loss in the Americas?",
+      "answer": "Jamaica",
+      "distractors": [
+        "Trinidad",
+        "Hispaniola",
+        "Puerto Rico"
+      ],
+      "explanation": "It came amid wars against France and the secession of Portugal. Jamaica became a base for English buccaneers who raided Spanish shipping and ports.",
+      "chapter": 4
+    },
+    {
+      "id": "mature-colony-moriscos",
+      "prompt": "Between 1609 and 1614, Spain deported about 300,000 of which people to North Africa?",
+      "answer": "Moriscos",
+      "distractors": [
+        "Conversos",
+        "Gypsies",
+        "Basques"
+      ],
+      "explanation": "The Moriscos were the descendants of Iberian Muslims forcibly converted to Christianity, long suspected of siding with the Ottomans. Spain's control of the western Mediterranean shipping lanes was secure only once they had gone.",
+      "chapter": 4
+    },
+    {
+      "id": "mature-colony-deserters",
+      "prompt": "By one estimate, as many as half of seventeenth-century migrants to the Indies got there how?",
+      "answer": "As sailors or soldiers who then deserted",
+      "distractors": [
+        "As enslaved convicts from Spain",
+        "On licensed family emigration permits",
+        "Hidden aboard foreign smugglers' ships"
+      ],
+      "explanation": "Spain's strict emigration licences were widely evaded by foreigners, Jews, Muslims and the urban poor. In one mining town only half the whites had the proper papers.",
+      "chapter": 4
+    },
+    {
+      "id": "mature-colony-patronato",
+      "prompt": "Under the patronato real, who controlled the Church in the Americas, from bishops' appointments to clerics' passage across the ocean?",
+      "answer": "The Spanish Crown",
+      "distractors": [
+        "The pope's legate in Mexico",
+        "The Jesuit general in Rome",
+        "The archbishop of Seville"
+      ],
+      "explanation": "Ferdinand and Isabella won an exception to papal authority for the whole New World: clerics needed royal permission to cross, Rome had no legate and no direct line to the American clergy, and papal bulls could be set aside. The Church became part of the royal bureaucracy.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-franciscans",
+      "prompt": "Which religious order was the largest throughout the colonial period and dominated central Mexico, the northern frontier and Yucatán?",
+      "answer": "The Franciscans",
+      "distractors": [
+        "The Dominicans",
+        "The Augustinians",
+        "The Jesuits"
+      ],
+      "explanation": "The orders divided the land: Dominicans in the South and parts of the West, Jesuits in the North, Augustinians in scattered pockets. Where their territories met, they fought for souls, tithes and buildings.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-jesuit-sugar",
+      "prompt": "Which religious order ran colonial Mexico's largest sugar plantations in the eighteenth century, making it collectively one of the biggest slaveholders in the Americas?",
+      "answer": "The Jesuits",
+      "distractors": [
+        "The Franciscans",
+        "The Dominicans",
+        "The Augustinians"
+      ],
+      "explanation": "Arriving in 1572, the Jesuits built an empire of colleges funded by haciendas, mills and flocks of sheep in the hundreds of thousands. Education was their main path to influence.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-secular-clergy",
+      "prompt": "By the mid-seventeenth century, which branch of the clergy had gained the upper hand over the friars in controlling bishoprics?",
+      "answer": "Parish (secular) priests",
+      "distractors": [
+        "The Jesuits",
+        "The Augustinians",
+        "Indigenous lay brothers"
+      ],
+      "explanation": "Priests answered only to their bishops, not to a monastic rule, and competed with friars for parishes and the tithe. The landscape shows the shift: country friaries fell into ruin while new churches and cathedrals went up in the cities.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-diezmo",
+      "prompt": "What was the diezmo that friars and parish priests fought over?",
+      "answer": "The tithe, a 10 percent levy",
+      "distractors": [
+        "A fee charged for baptisms",
+        "The Crown's tax on sales",
+        "A levy on pulque taverns"
+      ],
+      "explanation": "Money paid as tithe to a priest was money lost to the friars, who told their flocks the newcomers had no right to collect it. Disputes ran from lawsuits to fistfights, arson and worse.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-inquisition",
+      "prompt": "How does Gillingham characterise the Inquisition in New Spain?",
+      "answer": "A small, overstretched bureaucracy",
+      "distractors": [
+        "A mass terror that burned thousands",
+        "A court run by Indigenous nobles",
+        "An arm of the Jesuit order"
+      ],
+      "explanation": "Nationalist myth painted it as all-powerful and depraved. In reality its Mexico City headquarters was staffed by only two or three officials, and it held fewer than three thousand trials in all.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-inquisition-tribunals",
+      "prompt": "Until 1700, how many tribunals of the Inquisition covered all Spanish possessions north of Panama?",
+      "answer": "One",
+      "distractors": [
+        "Three",
+        "Seven",
+        "Twelve"
+      ],
+      "explanation": "The tribunal in Mexico City had to police a territory stretching from Central America to New Mexico and the Philippines, and whole regions never saw an inquisitor.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-quijote",
+      "prompt": "In 1605 inquisitors in Mexico confiscated the first two copies to arrive of which novel, which soon became a best-seller there anyway?",
+      "answer": "Don Quijote",
+      "distractors": [
+        "Amadís de Gaula",
+        "La Celestina",
+        "Lazarillo de Tormes"
+      ],
+      "explanation": "Inquisitors boarded arriving ships as theological customs officers. What they really cared about, though, were heresies such as Erasmus and Protestant Bibles, not novels.",
+      "chapter": 3
+    },
+    {
+      "id": "mature-colony-sacrament-1692",
+      "prompt": "During the 1692 riot in Mexico City, how did the cathedral's treasurer help persuade the crowd to go home?",
+      "answer": "He walked out carrying the Holy Sacrament",
+      "distractors": [
+        "He paid the crowd in silver pesos",
+        "He read out a royal pardon",
+        "He rang the bells for Mass"
+      ],
+      "explanation": "Gillingham uses the episode to show the Church's soft power. Clerics were essential partners in government and often stopped riots turning into rebellions.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-guadalupe-1649",
+      "prompt": "Whose Nahuatl account of the apparition, published in 1649, helped spread the cult of the Virgin of Guadalupe across New Spain?",
+      "answer": "Luis Lasso de la Vega",
+      "distractors": [
+        "Carlos de Sigüenza y Góngora",
+        "Bernardino de Sahagún",
+        "Juan de Zumárraga"
+      ],
+      "explanation": "The apparition was said to date from 1531, but the cult was largely local to the Valley of Mexico until the publications of 1648–49. A Spanish-language account by Miguel Sánchez appeared a year earlier.",
+      "chapter": 3,
+      "core": true,
+      "feature": "e3-guadalupe"
+    },
+    {
+      "id": "mature-colony-tonantzin",
+      "prompt": "Which Mexica mother goddess, worshipped near Tepeyac, may the cult of the Virgin of Guadalupe have absorbed?",
+      "answer": "Tonantzin",
+      "distractors": [
+        "Xochiquetzal",
+        "Chalchiuhtlicue",
+        "Mayahuel"
+      ],
+      "explanation": "Gillingham suggests the brown Virgin may have been popular early on around Mexico City as a survival of the old religion in a new form. Others see her as largely a creation of Spanish priests and creole patriots.",
+      "chapter": 3
+    },
+    {
+      "id": "mature-colony-guadalupe-motto",
+      "prompt": "What did the motto on images of the Virgin of Guadalupe, \"Non fecit taliter omni nationi\", proclaim?",
+      "answer": "God had favoured Mexico above all nations",
+      "distractors": [
+        "The king ruled by divine right",
+        "The Indies belonged to the pope",
+        "Mexico City would never flood again"
+      ],
+      "explanation": "\"He has not dealt thus with any other nation\" made the Virgin a badge of Mexican distinctiveness. Like casta paintings, Guadalupe images appealed to status-hungry creoles.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-epidemic-1736",
+      "prompt": "An epidemic in Mexico City in 1736–37 killed about how many people, out of a population of under 100,000?",
+      "answer": "About 40,000",
+      "distractors": [
+        "About 4,000",
+        "About 12,000",
+        "About 90,000"
+      ],
+      "explanation": "A contemporary count put the dead at 40,157. In the crisis the city swore the Virgin of Guadalupe as its patron, and New Spain as a whole followed.",
+      "chapter": 2,
+      "feature": "e3-guadalupe"
+    },
+    {
+      "id": "mature-colony-guadalupe-1754",
+      "prompt": "In what year did the pope confirm the Virgin of Guadalupe as patroness of New Spain?",
+      "answer": "1754",
+      "distractors": [
+        "1649",
+        "1709",
+        "1810"
+      ],
+      "explanation": "The confirmation crowned a century of growth in the cult since the 1640s. Guadalupe later became the banner of the insurgents of 1810.",
+      "feature": "e3-guadalupe"
+    },
+    {
+      "id": "mature-colony-cofradias",
+      "prompt": "What were cofradías, often multiracial, which Gillingham calls the most important mass organisations of colonial Mexico?",
+      "answer": "Lay religious confraternities",
+      "distractors": [
+        "Craft guilds of Spanish artisans",
+        "Indigenous town councils",
+        "Merchant guilds of the capital"
+      ],
+      "explanation": "Confraternities organised feasts, burials and communal work, such as repairing roads and bridges. Their mixed membership shows how often ordinary people crossed racial lines.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-tepehuan",
+      "prompt": "How many Jesuit missionaries were killed in the Tepehuán rising in the Durango sierra in the 1610s?",
+      "answer": "Eight",
+      "distractors": [
+        "Two",
+        "Twenty-one",
+        "Forty"
+      ],
+      "explanation": "Inspired by a prophet who promised to restore the old ways, the Tepehuanes attacked missions, mines and ranches across Nueva Vizcaya. Missionaries continued to die violently on the northern frontier through much of the seventeenth century.",
+      "chapter": 3,
+      "feature": "e3-tepehuan-revolt"
+    },
+    {
+      "id": "mature-colony-chilam-balam",
+      "prompt": "Which colonial-era Maya text retold the creation story and foresaw a purified world with the Spanish gone?",
+      "answer": "The Chilam Balam",
+      "distractors": [
+        "The Codex Borgia",
+        "The Florentine Codex",
+        "The Codex Mendoza"
+      ],
+      "explanation": "It wrapped a Maya cosmology in a thin Christian preface. Far from the centre, converts took what they wanted from Christianity and kept much of the old religion.",
+      "chapter": 3
+    },
+    {
+      "id": "mature-colony-casta",
+      "prompt": "In New Spain's racial vocabulary, what was a casta?",
+      "answer": "A person of mixed descent",
+      "distractors": [
+        "A Spaniard born in Spain",
+        "An Indigenous noble",
+        "A Spanish master artisan"
+      ],
+      "explanation": "Race was recorded by priests at baptism and checked again at marriage, in court and when seeking jobs. It was assigned from a mix of ancestry, wealth, occupation, dress and skin colour.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-castizo",
+      "prompt": "In New Spain's racial categories, what was a castizo?",
+      "answer": "Three-quarters Spanish, one-quarter Indigenous",
+      "distractors": [
+        "Half Spanish and half African",
+        "Half Indigenous and half African",
+        "Three-quarters African, one-quarter Spanish"
+      ],
+      "explanation": "Seven categories were in regular use in the records: español, indio, negro, mestizo, mulato, castizo and morisco. The longer lists were largely theory.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-morisco",
+      "prompt": "In New Spain's casta terminology, a morisco was the child of which parents?",
+      "answer": "A Spaniard and a mulatta",
+      "distractors": [
+        "A Spaniard and an Indigenous woman",
+        "An African and an Indigenous woman",
+        "A mestizo and a Spaniard"
+      ],
+      "explanation": "In the Americas the word no longer meant a converted Muslim, as it did in Spain. Any trace of African descent was treated as a \"stain\" with legal consequences.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-pinturas",
+      "prompt": "What were pinturas de castas?",
+      "answer": "Paintings of supposed racial types and their parents",
+      "distractors": [
+        "Maps of Indigenous towns and their lands",
+        "Portraits of viceroys and their vicereines",
+        "Devotional images of the Virgin of Guadalupe"
+      ],
+      "explanation": "Sets of panels showed a couple of different ancestries with their child, labelled by category, clothing and possessions. Over a hundred survive; they sold as souvenirs and curiosities to officials and European collectors.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-pinturas-sixteen",
+      "prompt": "How many supposed racial types did a typical series of pinturas de castas show?",
+      "answer": "Sixteen",
+      "distractors": [
+        "Four",
+        "Seven",
+        "Thirty-two"
+      ],
+      "explanation": "Only about seven categories were in everyday use, so the extra types were fanciful; one painter labelled the eleventh generation \"no te entiendo\", \"I don't understand you\". A revolutionary priest called the whole system beautiful gibberish.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-cabrera",
+      "prompt": "Which eighteenth-century painter from Oaxaca was a master of pinturas de castas and also painted celebrated images of the Virgin of Guadalupe?",
+      "answer": "Miguel Cabrera",
+      "distractors": [
+        "Juan Correa",
+        "Cristóbal de Villalpando",
+        "Baltasar de Echave Orio"
+      ],
+      "explanation": "Cabrera was the most famous court painter of the century, painting viceroys and religious scenes as well as casta series. His career shows how far talent could carry a painter in the colonial capital.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-correa",
+      "prompt": "Which late-seventeenth-century painter, the son of a mulatto father and a Black mother, had more works in Mexico City's cathedral than anyone else?",
+      "answer": "Juan Correa",
+      "distractors": [
+        "Miguel Cabrera",
+        "Cristóbal de Villalpando",
+        "Baltasar de Echave Orio"
+      ],
+      "explanation": "Correa also held office in the painters' guild. Gillingham uses him to show that the most talented could rise far above the limits that race was supposed to set.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-limpieza",
+      "prompt": "What did the Spanish call the \"purity of blood\" that Jewish, Muslim or African ancestry was held to stain?",
+      "answer": "Limpieza de sangre",
+      "distractors": [
+        "Hidalguía",
+        "Gracias al sacar",
+        "Mestizaje"
+      ],
+      "explanation": "Families gathered genealogies and official certificates to prove it, because it governed access to offices, guilds, the priesthood and good marriages. A single scandal could taint descendants for generations.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-breast-milk",
+      "prompt": "Through what, besides blood and semen, did Spaniards believe racial character was passed on?",
+      "answer": "Breast milk",
+      "distractors": [
+        "Sweat",
+        "Spoken language",
+        "A diet of maize"
+      ],
+      "explanation": "Elite creole babies were often nursed by Black, Indigenous or mixed-race women, which critics claimed made them degenerate. The hero of Lizardi's novel The Mangy Parrot blames his bad character on a string of wet nurses.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-honra",
+      "prompt": "In Iberian codes of honour, what distinguished honra from honor?",
+      "answer": "Personal virtue versus family social standing",
+      "distractors": [
+        "Family standing versus personal virtue",
+        "Noble rank versus common birth",
+        "Military merit versus religious merit"
+      ],
+      "explanation": "Both could be lost overnight through a lost virginity or an exposed affair, and with them a family's access to patrons, partners and credit. Elite Spanish women were therefore kept at home or in convents.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-recogidas",
+      "prompt": "Where might a poor Spanish woman who became pregnant out of wedlock be sent in New Spain?",
+      "answer": "A casa de recogidas",
+      "distractors": [
+        "An obraje",
+        "A frontier presidio",
+        "A cofradía hall"
+      ],
+      "explanation": "These Church-run houses confined women judged to have lost their honour. Poorer Spanish women, less closely chaperoned, were far more exposed to such sanctions than the rich.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-erauso",
+      "prompt": "Which runaway nun fought as a soldier on the Chilean frontier, dressed as a man, and ended her days as a muleteer in Mexico?",
+      "answer": "Catalina de Erauso",
+      "distractors": [
+        "Sor Juana Inés de la Cruz",
+        "María de Estrada",
+        "Francisca de los Ángeles"
+      ],
+      "explanation": "Known as the \"Lieutenant Nun\", she left a semi-autobiography and claimed a papal dispensation to keep wearing men's clothes. Gillingham uses her to show the edges of what was possible for women.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-sor-juana",
+      "prompt": "Which nun, born around 1650, wrote poems, plays and a defence of women's learning, and was hailed as the \"phoenix\" of New Spain?",
+      "answer": "Sor Juana Inés de la Cruz",
+      "distractors": [
+        "Catalina de Erauso",
+        "Francisca de los Ángeles",
+        "María de Estrada"
+      ],
+      "explanation": "Her convent cell became a study and her visitors' parlour a literary salon, under the protection of successive vicereines. She also experimented with writing in Nahuatl.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-sor-juana-order",
+      "prompt": "Sor Juana Inés de la Cruz took her vows in 1669 in a convent of which order?",
+      "answer": "The Hieronymites",
+      "distractors": [
+        "The Poor Clares",
+        "The Dominicans",
+        "The Augustinians"
+      ],
+      "explanation": "Before entering the convent she had served at court in the entourage of the vicereine, the Marchioness of Mancera. The convent gave her the independence to study and write.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-sor-juana-paredes",
+      "prompt": "Which vicereine arranged the publication in Madrid, in 1689, of Sor Juana's first book of poems, Inundación castálida?",
+      "answer": "The Countess of Paredes",
+      "distractors": [
+        "The Marchioness of Mancera",
+        "Queen Mariana of Austria",
+        "The Countess of Galve"
+      ],
+      "explanation": "Their close friendship gave Sor Juana a patron beyond Mexico, and her books stayed in print in Spain into the 1720s.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-sor-juana-respuesta",
+      "prompt": "What was Sor Juana's last major work (1691), a defence of a woman's right to study?",
+      "answer": "Response to Sor Filotea",
+      "distractors": [
+        "First Dream",
+        "Divine Narcissus",
+        "Inundación castálida"
+      ],
+      "explanation": "Under pressure from churchmen to give up worldly writing, she soon afterwards stopped publishing and withdrew into convent life. She died in an epidemic in 1695.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-hombres-necios",
+      "prompt": "Sor Juana's satirical poem beginning \"Foolish men\" attacked what?",
+      "answer": "Men's double standard towards women",
+      "distractors": [
+        "The cruelty of encomenderos",
+        "Corruption in the audiencia",
+        "The Inquisition's censorship of books"
+      ],
+      "explanation": "The poem asks who is more to blame, the woman who sins for pay or the man who pays her to sin. Its defiance helped make her a feminist icon.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-siguenza",
+      "prompt": "Which creole scholar, the leading male intellectual of late-seventeenth-century Mexico, described the 1692 rioters as \"la plebe\", the poor of every race?",
+      "answer": "Carlos de Sigüenza y Góngora",
+      "distractors": [
+        "Fernando de Alva Ixtlilxóchitl",
+        "Juan de Palafox y Mendoza",
+        "Antonio de Robles"
+      ],
+      "explanation": "Officials blamed drunken Indians, but Sigüenza saw a multiracial crowd of the poor. He also hailed Sor Juana as a phoenix of learning.",
+      "chapter": 7,
+      "feature": "e3-riot-1692"
+    },
+    {
+      "id": "mature-colony-african-numbers",
+      "prompt": "Up to how many enslaved Africans may have been brought to New Spain by 1640?",
+      "answer": "About 150,000",
+      "distractors": [
+        "About 15,000",
+        "About 1.5 million",
+        "About 600,000"
+      ],
+      "explanation": "Much of the trade was smuggled, so numbers are uncertain. In the early decades as many Africans arrived as Spaniards, to make up for the collapse of the Indigenous population.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-slave-decline",
+      "prompt": "Why did imports of enslaved Africans to New Spain dwindle in the eighteenth century, according to Gillingham?",
+      "answer": "A growing mixed-race population eased labour shortages",
+      "distractors": [
+        "The Crown abolished African slavery in 1700",
+        "British warships blockaded the port of Veracruz",
+        "Silver mines switched to steam-powered machinery"
+      ],
+      "explanation": "The trade peaked in the seventeenth century, when Mexico's labour shortage was worst. Afterwards slavery mattered far more in the sugar economies of Brazil and the Caribbean.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-asian-slaves",
+      "prompt": "Roughly how many enslaved servants from the Philippines and further west did the Manila galleons bring to New Spain?",
+      "answer": "About 8,000",
+      "distractors": [
+        "About 800",
+        "About 80,000",
+        "About 250,000"
+      ],
+      "explanation": "Known in Mexico as chinos, they came from across Asia, including the Indian subcontinent. They added another strand to the most diverse population of its time.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-afro-majority",
+      "prompt": "Besides Indians and mestizos, which groups taken together outnumbered the Spanish in seventeenth-century New Spain?",
+      "answer": "Blacks and mulattos",
+      "distractors": [
+        "Asian immigrants",
+        "Foreign Europeans",
+        "Canary Islanders"
+      ],
+      "explanation": "One early-seventeenth-century estimate gave Mexico City 15,000 Spaniards against more than 50,000 Blacks and mulattos. Spaniards were always a minority.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-siete-partidas",
+      "prompt": "Which thirteenth-century Castilian law code gave enslaved people in New Spain the right to sue, marry and buy their freedom?",
+      "answer": "The Siete Partidas",
+      "distractors": [
+        "The Laws of Burgos",
+        "The New Laws",
+        "The Fuero Juzgo"
+      ],
+      "explanation": "Its principle was that slavery did not cancel a slave's humanity or capacity to be a Christian. In Mexico City over 40 percent of slaves in the first century gained their freedom.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-racial-punishment",
+      "prompt": "A Spaniard caught selling meat with rigged scales was fined 20 pesos. What did a Black, mulatto or mestizo seller face?",
+      "answer": "A hundred lashes",
+      "distractors": [
+        "The same fine",
+        "Exile to the Philippines",
+        "Death by hanging"
+      ],
+      "explanation": "Colonial law set different punishments for different races openly and in writing. The same laws, though, also wrote in rights for slaves and Indians.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-dress-laws",
+      "prompt": "What were Blacks and mulattos in New Spain forbidden to wear?",
+      "answer": "Gold, pearls and embroidered cloaks",
+      "distractors": [
+        "Leather shoes and hats",
+        "Indigenous cotton mantles",
+        "Woollen cloth from the obrajes"
+      ],
+      "explanation": "Officials thought fine clothes would encourage non-Spaniards to forget their place. Free Blacks and mulattos flouted the rules when they could, to the outrage of officials and travellers.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-conspiracy-1612",
+      "prompt": "After rumours of a Black plot to rise at Easter 1612, how many Black and mulatto people were hanged in Mexico City?",
+      "answer": "35",
+      "distractors": [
+        "3",
+        "120",
+        "600"
+      ],
+      "explanation": "The authorities also imposed a racial curfew, guarded the roads out of the city and cancelled Easter. Whether there was any plot is doubtful.",
+      "chapter": 7,
+      "core": true,
+      "feature": "e3-conspiracy-1612"
+    },
+    {
+      "id": "mature-colony-chimalpahin",
+      "prompt": "Which Nahua annalist wrote that his people merely watched, marvelling at how the Spaniards were undone by their fear of a Black rising?",
+      "answer": "Domingo Chimalpahin",
+      "distractors": [
+        "Fernando de Alva Ixtlilxóchitl",
+        "Hernando Alvarado Tezozómoc",
+        "Diego Muñoz Camargo"
+      ],
+      "explanation": "Spanish officials' reports routinely conjured up hordes of rebellious Blacks and mestizos. Indigenous observers found the paranoia ridiculous.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-palenques",
+      "prompt": "What were the permanent settlements of runaway slaves in New Spain called?",
+      "answer": "Palenques",
+      "distractors": [
+        "Pueblos de indios",
+        "Reales de minas",
+        "Presidios"
+      ],
+      "explanation": "Maroon communities grew up in mountains, forests and swamps, especially on the coasts of Guerrero and Veracruz. Unlike Caribbean maroons, they tended to merge with neighbouring Indigenous communities over time.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-maroon-deal",
+      "prompt": "What condition did the Spanish set for letting a maroon community near Puebla survive?",
+      "answer": "That it take in no more runaways",
+      "distractors": [
+        "That it pay double tribute",
+        "That it move to the Philippines",
+        "That its men serve on the galleons"
+      ],
+      "explanation": "The settlement was probably Yanga's, which won recognition as a free town in the early seventeenth century. It was a typical pragmatic bargain of colonial rule.",
+      "chapter": 7,
+      "feature": "e3-yanga"
+    },
+    {
+      "id": "mature-colony-muleteers",
+      "prompt": "With few navigable rivers in New Spain, which trade, in which mulattos were prominent, could make its masters rich?",
+      "answer": "Running mule trains",
+      "distractors": [
+        "Silversmithing",
+        "Boiling sugar",
+        "Diving for pearls"
+      ],
+      "explanation": "Mule trains (recuas) of up to a thousand animals carried goods up from the ports and across the country. Muleteers needed to read and write, know the country, manage men and be ready to fight.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-guilds",
+      "prompt": "Within a couple of generations Spanish artisans in New Spain had founded how many craft guilds, many trying to exclude Indians and castas?",
+      "answer": "Over two hundred",
+      "distractors": [
+        "About ten",
+        "About forty",
+        "Over two thousand"
+      ],
+      "explanation": "The rules were widely broken: Indians, mestizos and even enslaved Africans learned the skilled trades as apprentices, forming an urban lower middle class.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-class-over-race",
+      "prompt": "By the early seventeenth century, what was the primary divide in popular politics, according to Gillingham?",
+      "answer": "Rich versus poor",
+      "distractors": [
+        "Creole versus peninsular",
+        "Black versus Indigenous",
+        "Town versus countryside"
+      ],
+      "explanation": "The poor of all colours mixed in sex, work and worship. A gang of bandits hanged together in Mexico City in 1674 was made up of a Spaniard, a mulatto, a mestizo and an Indian.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-mestizo-priesthood",
+      "prompt": "In the eighteenth century, mestizos were increasingly shut out of which route into the elite?",
+      "answer": "The priesthood",
+      "distractors": [
+        "The army officer corps",
+        "Silver mining",
+        "The merchants' guild"
+      ],
+      "explanation": "Early on mestizos had been treated nearly as Spaniards, with a wide range of jobs open to them. Their fortunes ebbed and flowed with the authorities' racial anxieties.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-decree-1697",
+      "prompt": "A royal decree of 1697 granted the descendants of Indigenous nobility the honours of which group?",
+      "answer": "The hidalgos of Castile",
+      "distractors": [
+        "The grandees of Spain",
+        "The knights of Santiago",
+        "The judges of the audiencia"
+      ],
+      "explanation": "Indigenous noble descent became a legal asset, and some mestizos emphasised it. The only firm legal bar to social mobility was African ancestry.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-ixtlilxochitl",
+      "prompt": "Which Texcocan mestizo historian of the early seventeenth century stressed his descent from Texcoco's royal line?",
+      "answer": "Fernando de Alva Ixtlilxóchitl",
+      "distractors": [
+        "Chimalpahin",
+        "Carlos de Sigüenza y Góngora",
+        "Diego Durán"
+      ],
+      "explanation": "Playing up Indigenous ancestry could bring social advantage. Some Spaniards even claimed to be Indigenous to hold property or marry into elites in Indian towns.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-moctezuma-viceroy",
+      "prompt": "The last viceroy of New Spain appointed under the Habsburgs held a noble title from the family of which pre-conquest ruler?",
+      "answer": "Moctezuma",
+      "distractors": [
+        "Cuauhtémoc",
+        "Nezahualcóyotl",
+        "Xicoténcatl"
+      ],
+      "explanation": "José Sarmiento de Valladares was Count of Moctezuma through his marriage to a descendant of the emperor. The children of the first Spanish–Indigenous noble unions had been absorbed into the Spanish aristocracy.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-continuity-1650",
+      "prompt": "Around when, Gillingham argues, did Indigenous political and cultural continuity in central Mexico begin to fade as Spanish ways took deeper root?",
+      "answer": "After about 1650",
+      "distractors": [
+        "Within a decade of 1521",
+        "Only after Independence",
+        "After the reforms of the 1760s"
+      ],
+      "explanation": "For over a century most villagers lived much as before under renamed institutions. After the mid-seventeenth century Spanish spread, Nahuatl annals became dry ledgers rather than histories, and Indigenous lords began to treat common land as property they could sell.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "mature-colony-pueblo-de-indios",
+      "prompt": "Under Spanish rule, what did a Nahua altepetl usually become, often keeping its boundaries and kin-based government?",
+      "answer": "A pueblo de indios",
+      "distractors": [
+        "A real de minas",
+        "A hacienda",
+        "A presidio"
+      ],
+      "explanation": "Spanish law guaranteed these Indigenous towns autonomy in internal affairs. Their governors often came from the old ruling families, and the town name usually gained a patron saint.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-nahuatl-lingua-franca",
+      "prompt": "Which language did the Spanish promote as a lingua franca for New Spain's north?",
+      "answer": "Nahuatl",
+      "distractors": [
+        "Otomí",
+        "Purépecha",
+        "Latin"
+      ],
+      "explanation": "Away from the centre the Spanish gave up pushing their own language; in Yucatán even creole elites learned Maya. A third of the books printed in sixteenth-century Mexico were in Indigenous languages.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-lawsuits",
+      "prompt": "How did Indigenous plaintiffs usually fare in the courts of New Spain, according to Gillingham?",
+      "answer": "They generally won",
+      "distractors": [
+        "Their suits were usually barred",
+        "They usually lost to Spaniards",
+        "They could sue only other Indians"
+      ],
+      "explanation": "A Spanish judge complained of their litigiousness, but lawsuits preserved free villages, lands and water rights across central and southern Mexico. The threat of being sued checked the worst abuses of officials and landowners.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-juzgado",
+      "prompt": "Which court, founded in the 1590s and lasting until Independence, offered Indigenous litigants free lawyers and simplified hearings?",
+      "answer": "The Juzgado General de Indios",
+      "distractors": [
+        "The Audiencia of Guadalajara",
+        "The Tribunal of the Acordada",
+        "The Holy Office"
+      ],
+      "explanation": "It handled cases between Indians and those with Indigenous defendants. Gillingham counts it among the main reasons villages kept their lands; after its abolition at Independence, dispossession sped up.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-ninos-con-barbas",
+      "prompt": "Classed with widows and orphans as \"miserables\" needing royal protection, Indians were described by which patronising phrase?",
+      "answer": "\"Children with beards\"",
+      "distractors": [
+        "\"Sheep without a shepherd\"",
+        "\"Wards of the Church\"",
+        "\"Gentle savages\""
+      ],
+      "explanation": "The paternalism had real effects: when the Crown learned that Spaniards got lighter sentences for crimes against Indians, it ordered harsher ones instead.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-titulos",
+      "prompt": "What did a ring of Nahua forgers produce and sell during the colonial period?",
+      "answer": "Fake royal land titles",
+      "distractors": [
+        "Counterfeit silver pesos",
+        "False certificates of blood purity",
+        "Forged licences to sell pulque"
+      ],
+      "explanation": "These títulos primordiales were meant to bolster villages' claims in land suits. Like the genuine lawsuits, they show how Indigenous communities used Spanish law to defend their land.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-amparo",
+      "prompt": "Which writ, a rough equivalent of habeas corpus, protected Indians who obtained one against officials' abuses and land grabs?",
+      "answer": "The amparo",
+      "distractors": [
+        "The residencia",
+        "The fuero",
+        "The composición"
+      ],
+      "explanation": "Its name lives on in the juicio de amparo of modern Mexican law. It was one of several legal tools that kept the colonial system from simple dispossession.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-slavery-ban-1672",
+      "prompt": "Indigenous slavery was banned for settled peoples in 1542 but lingered on the frontier. When did the Crown issue renewed bans on it?",
+      "answer": "In the 1670s",
+      "distractors": [
+        "In the 1590s",
+        "In the 1720s",
+        "In the 1760s"
+      ],
+      "explanation": "Captives from \"just wars\" in the north had remained fair game. The renewed bans cut northern slaving from thousands of captives to hundreds and tens, though covert slavery long survived.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-horses-guns",
+      "prompt": "Which change ended the Spaniards' advantage in slave-raiding on the northern frontier in the late seventeenth century?",
+      "answer": "Apache, Ute and Comanche adopted horses and guns",
+      "distractors": [
+        "The Crown built a chain of stone forts",
+        "Jesuits bought all captives to free them",
+        "Epidemics emptied the northern plains"
+      ],
+      "explanation": "Mounted and armed, these peoples became formidable irregular cavalry and slavers themselves. The Pueblo Revolt closed off New Mexico in the same years.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-segregation",
+      "prompt": "Spanish towns such as Aguascalientes, refounded in 1609 with a separate Indian pueblo, were segregated by race. What was this meant to do?",
+      "answer": "Protect each group from the other",
+      "distractors": [
+        "Keep Indians close to the mines",
+        "Make tribute easier to collect",
+        "Prepare Indians for Spanish citizenship"
+      ],
+      "explanation": "Unlike apartheid, the colonial ideal ran both ways: Indians were to be shielded from land grabs, violence and disease, Spaniards from Indian competition. In practice people crossed the lines all the time.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-baratillo",
+      "prompt": "What was the Ordenanzas del Baratillo, a mid-eighteenth-century manuscript satire?",
+      "answer": "Mock rules for a thieves' market run by castas",
+      "distractors": [
+        "A handbook for painters of casta series",
+        "A guild charter for the city's silversmiths",
+        "A Lenten sermon against drinking pulque"
+      ],
+      "explanation": "It turned racial classification upside down, ranking people by how much Spanish blood they had rather than how much \"tainted\" blood. It mocked the racial basis of the colonial order.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-aguascalientes-1669",
+      "prompt": "In 1669 an Aguascalientes judge fined a wealthy widow 500 pesos for what?",
+      "answer": "Torturing an enslaved girl",
+      "distractors": [
+        "Hiding her Indians' tribute",
+        "Selling pulque without a licence",
+        "Sheltering a runaway slave"
+      ],
+      "explanation": "The judge inspected the injuries himself and removed the girl from the house. The case shows that slaves had legal protection, though its outcome is unknown.",
+      "chapter": 7
+    },
+    {
+      "id": "mature-colony-silver-asia",
+      "prompt": "Roughly what share of Mexican silver ended up in Asia, exchanged for silks, spices and porcelain?",
+      "answer": "At least a third",
+      "distractors": [
+        "Under 5 percent",
+        "About a tenth",
+        "Almost none"
+      ],
+      "explanation": "Chinese and Indian producers made goods Europeans wanted but bought little from Europe, so silver flowed east. Mexican silver connected economies across the whole globe.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "mature-colony-peso-1857",
+      "prompt": "Until what year was the Spanish silver peso, the \"piece of eight\", legal tender in the United States?",
+      "answer": "1857",
+      "distractors": [
+        "1776",
+        "1821",
+        "1913"
+      ],
+      "explanation": "The peso was the world's first reserve currency, accepted from Amsterdam to China, and the first US dollars were linked to it. Pesos minted after 1732 had milled edges, making them hard to clip.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-world-silver",
+      "prompt": "Together, the mines of Mexico and the Andes produced roughly what share of the world's silver?",
+      "answer": "Over three-quarters",
+      "distractors": [
+        "About a tenth",
+        "About a quarter",
+        "About half"
+      ],
+      "explanation": "Mexico's output was second only to the Andes. Silver mining became the world's most lucrative extractive industry and the reason for Spain's push north.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-smuggling",
+      "prompt": "By the late seventeenth century, roughly what share of the silver crossing the Atlantic was smuggled?",
+      "answer": "About half",
+      "distractors": [
+        "Almost none",
+        "About a tenth",
+        "Nearly all of it"
+      ],
+      "explanation": "After 1630 much silver was siphoned off before reaching Spain, in Mexico, the Azores, the Canaries or the Bay of Cádiz. Smuggling spread silver around the world faster than the official system could.",
+      "chapter": 5
+    },
+    {
+      "id": "mature-colony-resource-curse",
+      "prompt": "What does Gillingham argue the flood of American silver did to Spain's own economy?",
+      "answer": "It discouraged industry and banking",
+      "distractors": [
+        "Funded an early industrial revolution",
+        "Made Spain Europe's banking centre",
+        "Freed the Crown from foreign lenders"
+      ],
+      "explanation": "Silver bought foreign manufactures and secured foreign loans, so Spain had little reason to build industry, banks or an efficient tax system. Gillingham calls it a resource curse: wealth came without the need to produce anything.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "mature-colony-not-capitalism",
+      "prompt": "Gillingham argues that Mexican silver transformed global trade. What did it not directly cause, in his view?",
+      "answer": "Industrialisation and modern capitalism",
+      "distractors": [
+        "Long-distance trade with Asia",
+        "Price inflation in Spain",
+        "The peso's use as a world currency"
+      ],
+      "explanation": "Industry began in Britain two centuries later, and countries with little colonial trade also industrialised. In New Spain itself, merchants aimed for landed, aristocratic respectability rather than capitalist accumulation.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-maize-population",
+      "prompt": "Helped by American maize and potatoes, by how much did the world's population grow between 1650 and 1750?",
+      "answer": "By nearly half",
+      "distractors": [
+        "By about a tenth",
+        "It quadrupled",
+        "It fell slightly"
+      ],
+      "explanation": "Maize yields far more calories per acre than wheat or rice. The growth was greatest in China and India, the world's biggest markets.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-cacao-money",
+      "prompt": "Long after the silver boom, which pre-Hispanic currency still served as small change in New Spain?",
+      "answer": "Cacao beans",
+      "distractors": [
+        "Cowry shells",
+        "Obsidian blades",
+        "Jade beads"
+      ],
+      "explanation": "Most silver went straight from mine to mint to ship, so Mexico was chronically short of coins. Small change also came in stamped tokens called tlacos.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-mercury",
+      "prompt": "Where did New Spain get most of the mercury it needed to refine silver?",
+      "answer": "Almadén, in Spain",
+      "distractors": [
+        "Huancavelica, in Peru",
+        "The mines of Zacatecas",
+        "Imports from China"
+      ],
+      "explanation": "Huancavelica's output went to the Andean mines, and Chinese mercury was too impure. Mercury supply was the main bottleneck of Mexican silver mining.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-mine-labour",
+      "prompt": "What kind of labour mainly worked New Spain's silver mines?",
+      "answer": "Paid, mobile Indigenous workers",
+      "distractors": [
+        "Mostly enslaved Africans",
+        "Convicts shipped from Spain",
+        "Maya drafted from Yucatán"
+      ],
+      "explanation": "Mine workers, called naborías, came mostly from the central highlands and were supplemented by enslaved Africans. Even at the peak the mines employed only about 15,000 people.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-obrajes",
+      "prompt": "What were obrajes, of which New Spain had over a hundred by 1600?",
+      "answer": "Textile mills using forced labour",
+      "distractors": [
+        "Royal foundries for silver bars",
+        "Courts for Indigenous markets",
+        "Shipyards building the galleons"
+      ],
+      "explanation": "The largest had up to thirty looms and some two hundred workers, closer to factories than anything in Spain. But their workers were coerced, and their cloth stayed in Mexico.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-almaceneros",
+      "prompt": "Who were the almaceneros, the new elite of Mexico City?",
+      "answer": "A small group of import wholesalers",
+      "distractors": [
+        "Silver-mine owners of Zacatecas",
+        "Indigenous market vendors",
+        "Royal treasury officials"
+      ],
+      "explanation": "Between ten and twenty great merchants imported goods from around the world and sold them on across New Spain, so Atlantic trade ended in Mexico City. Their fortunes ran to hundreds of thousands of pesos.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "mature-colony-consulado",
+      "prompt": "Through which corporate body did Mexico City's great import merchants defend their privileges?",
+      "answer": "The consulado",
+      "distractors": [
+        "The cabildo",
+        "The Mesta",
+        "The Acordada"
+      ],
+      "explanation": "The merchants' guild gave them clout over the regional economies of the Americas. They lobbied the Crown to shape the trade fairs to their advantage.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-entail",
+      "prompt": "Why did rich merchants buy haciendas, even though land paid less than trade?",
+      "answer": "An estate could be entailed to a single heir",
+      "distractors": [
+        "Haciendas were exempt from royal taxes",
+        "Noble titles required owning cattle",
+        "The Crown banned merchants from banking"
+      ],
+      "explanation": "Spanish law split inheritances equally among heirs, which could wreck a merchant house in one generation; an entailed estate passed intact. Land also brought the status of a would-be aristocracy.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "mature-colony-aguayo",
+      "prompt": "Which family in Coahuila came to own about 25,000 square miles, among the largest private estates in the modern world?",
+      "answer": "The Marquises of Aguayo",
+      "distractors": [
+        "The Counts of Regla",
+        "The Marquises of the Valley",
+        "The Counts of Valenciana"
+      ],
+      "explanation": "Their lands equalled half of England. In the far north cheap land and cattle allowed estates of a size unknown in the centre and south.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-bajio",
+      "prompt": "In which region, between the sheep-raising highlands and the cattle ranges of the north, did grain-growing haciendas flourish?",
+      "answer": "The Bajío",
+      "distractors": [
+        "The Huasteca",
+        "The Soconusco",
+        "The Mixteca"
+      ],
+      "explanation": "Haciendas specialised by ecology: sheep in the temperate centre, cattle in the north, wheat, barley and maize on the plains of the Bajío, sugar in the hot lowlands.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-composiciones",
+      "prompt": "What were composiciones in colonial land law?",
+      "answer": "Payments that legalised land grabs",
+      "distractors": [
+        "Indigenous town charters",
+        "Forced resettlements of villages",
+        "Grants of Indigenous labour"
+      ],
+      "explanation": "Officially granted farmland by 1620 was modest, but squatters could regularise far larger holdings with a one-off payment to the Crown.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-positos",
+      "prompt": "What were pósitos, set up to restrain hacendados who hoarded grain in hungry years?",
+      "answer": "Public granaries",
+      "distractors": [
+        "Staging posts for mule trains",
+        "Prisons for debtors",
+        "Royal tobacco shops"
+      ],
+      "explanation": "Viceroys also punished price gougers. Regulation and the threat of riot upheld a moral economy in which no one was supposed to starve.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-debt-peonage",
+      "prompt": "Which labour arrangement increasingly replaced the repartimiento draft on haciendas?",
+      "answer": "Debt peonage",
+      "distractors": [
+        "The encomienda",
+        "Indigenous slavery",
+        "The Andean mita"
+      ],
+      "explanation": "Workers were bound to an estate by advances of cash or goods. At worst it approached slavery, but some peons ran up debts as a sign of their bargaining power.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "mature-colony-oil-wine",
+      "prompt": "Which high-value goods did Spain forbid New Spain to produce, protecting exports from home?",
+      "answer": "Olive oil and wine",
+      "distractors": [
+        "Silver and gold",
+        "Sugar and tobacco",
+        "Hides and tallow"
+      ],
+      "explanation": "With costly mule transport, haciendas could not profitably ship most produce far. There were exceptions, such as the Aguayo vineyards near Saltillo.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-galleons-per-year",
+      "prompt": "How many Manila galleons typically crossed the Pacific each year?",
+      "answer": "One or two",
+      "distractors": [
+        "About ten",
+        "About thirty",
+        "Over a hundred"
+      ],
+      "explanation": "Those few ships, with the annual Atlantic fleet, linked Asia, the Americas and Europe and made Mexico City a meeting place of the world.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-mail",
+      "prompt": "Why could a single cycle of royal order, report and follow-up between Madrid and Mexico take years?",
+      "answer": "Mail crossed only with the twice-yearly sailings",
+      "distractors": [
+        "Letters went overland across Asia",
+        "Viceroys were barred from writing to the king",
+        "Every letter had to pass the Inquisition"
+      ],
+      "explanation": "Dispatches went with the silver fleet and a small dispatch boat, the patache de aviso. Cargoes moved reasonably well; information did not.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-veracruz-ulua",
+      "prompt": "Around 1600 Veracruz was moved to a new site to shelter ships behind which island fortress?",
+      "answer": "San Juan de Ulúa",
+      "distractors": [
+        "Isla de Sacrificios",
+        "Isla del Carmen",
+        "Cozumel"
+      ],
+      "explanation": "The old site at the mouth of the Antigua River was exposed, and coastal wrecks fell after the move. Veracruz handled some 40 percent of all trade with the Indies.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-cadiz",
+      "prompt": "Which port took over from Seville, fifty miles up the silting Guadalquivir, as Spain's gateway to the Indies (the fleets from about 1680, the Casa de Contratación in 1717)?",
+      "answer": "Cádiz",
+      "distractors": [
+        "Málaga",
+        "Barcelona",
+        "Sanlúcar de Barrameda"
+      ],
+      "explanation": "Cádiz sits on a large sheltered bay. It was also a smuggler's paradise, where silver was spirited over the city walls to foreign ships.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-piet-heyn",
+      "prompt": "Which Dutch commander captured the Spanish treasure fleet off Cuba in 1628, a feat almost never achieved?",
+      "answer": "Piet Heyn",
+      "distractors": [
+        "Francis Drake",
+        "Henry Morgan",
+        "Laurens de Graaf"
+      ],
+      "explanation": "The heavily escorted silver convoys were very rarely taken; pirates did better raiding ports. Heyn's prize made him a Dutch hero.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-campeche",
+      "kind": "where",
+      "prompt": "Where was Campeche, the Mexican port most often raided by pirates, attacked about a dozen times between 1557 and 1708?",
+      "answer": "Campeche, on the Gulf coast of Yucatán",
+      "explanation": "Buccaneers were drawn by Campeche's trade, including dyewood. From 1686 the city was enclosed in stone walls and bastions, much of which still stands.",
+      "chapter": 6,
+      "feature": "e3-campeche-pirates"
+    },
+    {
+      "id": "mature-colony-puebla",
+      "kind": "where",
+      "prompt": "Where was Puebla, the second city of New Spain, which opened the colony's second printing press in 1640?",
+      "answer": "Puebla, between Mexico City and Veracruz",
+      "explanation": "Puebla was a textile and pottery centre on the main road to the coast. Its press gave Mexico two of the four print shops in the whole hemisphere.",
+      "chapter": 6,
+      "feature": "e3-puebla"
+    },
+    {
+      "id": "mature-colony-california-port",
+      "prompt": "Why did Philip V want a port on the California coast for the Manila galleons, finally founded in 1730?",
+      "answer": "To fight scurvy with fresh water and food",
+      "distractors": [
+        "To guard against Russian traders",
+        "To ship silver from California mines",
+        "To launch missions to Japan"
+      ],
+      "explanation": "Galleons reached California after months at sea with crews ravaged by scurvy. The Jesuit mission of San José del Cabo, near the tip of the peninsula, gave them a landfall.",
+      "chapter": 6,
+      "feature": "e3-san-jose-del-cabo"
+    },
+    {
+      "id": "mature-colony-california-island",
+      "prompt": "As late as 1674, a chart of New Spain's coasts still showed California as what?",
+      "answer": "An island",
+      "distractors": [
+        "Joined to Asia",
+        "An Asian cape",
+        "Part of Florida"
+      ],
+      "explanation": "The same chart badly misshaped Yucatán. Large parts of New Spain stayed unmapped until long after Independence.",
+      "chapter": 6
+    },
+    {
+      "id": "mature-colony-desague-labour",
+      "prompt": "After the flood of 1607, who did the dangerous work of digging a tunnel to drain the Valley of Mexico?",
+      "answer": "Drafted Indigenous labourers",
+      "distractors": [
+        "Enslaved Africans",
+        "Convicts from Spain",
+        "Soldiers of the garrison"
+      ],
+      "explanation": "Thousands of workers, by some accounts tens of thousands, were taken from their fields at a key moment in the farming year, and many died. Fear of a reaction may lie behind the repression of 1612.",
+      "chapter": 7,
+      "feature": "e3-desague"
+    },
+    {
+      "id": "mature-colony-riot-1692-cause",
+      "prompt": "What set off Mexico City's great riot of 8 June 1692?",
+      "answer": "Hunger and a shortage of cheap maize",
+      "distractors": [
+        "The expulsion of the Jesuits",
+        "A new tax on silver",
+        "News of the king's death"
+      ],
+      "explanation": "Bad harvests, cuts to the public grain supply, higher taxes and corruption angered the poor. The crowd at the granary went on to burn the viceroy's palace, the town hall and the market stalls.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e3-riot-1692"
+    },
+    {
+      "id": "mature-colony-riot-slogan",
+      "prompt": "Which slogan did crowds shout in the 1692 riot in Mexico City and in many other colonial riots?",
+      "answer": "Long live the king, death to bad government",
+      "distractors": [
+        "Long live Mexico, death to the viceroy",
+        "Land and liberty",
+        "Religion and fueros"
+      ],
+      "explanation": "Rioters claimed loyalty to the monarch while attacking his bad servants. It was the popular counterpart of the officials' \"I obey but I do not comply\".",
+      "chapter": 8,
+      "core": true,
+      "feature": "e3-riot-1692"
+    },
+    {
+      "id": "mature-colony-pulque-ban",
+      "prompt": "After the 1692 riot, which popular drink did the authorities ban for a time?",
+      "answer": "Pulque",
+      "distractors": [
+        "Chocolate",
+        "Spanish wine",
+        "Coffee"
+      ],
+      "explanation": "They also ordered Indians to live in their own barrios, go barefoot and without cloaks, and not gather in groups.",
+      "chapter": 7,
+      "feature": "e3-riot-1692"
+    },
+    {
+      "id": "mature-colony-lombardo",
+      "prompt": "Which Irish adventurer was arrested in 1642 for plotting to make himself king of an independent Mexico?",
+      "answer": "Guillén Lombardo",
+      "distractors": [
+        "Thomas Gage",
+        "Juan de Palafox y Mendoza",
+        "Martín Cortés"
+      ],
+      "explanation": "William Lamport, as he was born, promised equality to creoles, Indians and Blacks, but found no followers and spent seventeen years in the Inquisition's cells. For Gillingham his failure shows how widely viceregal rule was accepted.",
+      "chapter": 8,
+      "feature": "e3-lombardo-1642"
+    },
+    {
+      "id": "mature-colony-yaqui-1740",
+      "prompt": "Which people of the northwest rose in 1740 against Jesuit control of mission land and forced labour in the mines?",
+      "answer": "The Yaqui",
+      "distractors": [
+        "The Tarahumara",
+        "The Seri",
+        "The Tepehuanes"
+      ],
+      "explanation": "After famine struck the mission towns, the rebels drove missionaries and settlers out of the river valleys before being defeated. Gillingham ranks it with the Pueblo Revolt as one of the two great frontier wars of the colony.",
+      "chapter": 8,
+      "feature": "e3-yaqui-revolt-1740"
+    },
+    {
+      "id": "mature-colony-tlaxcalan-colonists",
+      "prompt": "Which Indigenous allies of the Spanish founded towns in Coahuila and sent militias to defend the northern frontier in the seventeenth and eighteenth centuries?",
+      "answer": "The Tlaxcalans",
+      "distractors": [
+        "The Purépecha",
+        "The Zapotecs",
+        "The Maya"
+      ],
+      "explanation": "Tlaxcalan colonists settled across the north, from San Luis Potosí to Coahuila and later Texas. Indigenous settlers and soldiers made Spanish expansion possible.",
+      "chapter": 1
+    },
+    {
+      "id": "mature-colony-balbuena",
+      "prompt": "Which poet praised Mexico City as the \"centre of perfection\" in Grandeza mexicana (1604)?",
+      "answer": "Bernardo de Balbuena",
+      "distractors": [
+        "Francisco Cervantes de Salazar",
+        "Carlos de Sigüenza y Góngora",
+        "Juan Ruiz de Alarcón"
+      ],
+      "explanation": "Balbuena's poem celebrated the rebuilt capital as one of the world's great cities. Another seventeenth-century chronicler simply called it the greatest city in the world.",
+      "chapter": 5
+    }
+  ]
+}

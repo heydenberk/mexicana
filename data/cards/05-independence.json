@@ -1,0 +1,1380 @@
+{
+  "era": "independence",
+  "cards": [
+    {
+      "id": "independence-1",
+      "kind": "where",
+      "prompt": "Where did the parish priest Miguel Hidalgo call his parishioners to rise on 16 September 1810?",
+      "answer": "Dolores (now Dolores Hidalgo), Guanajuato",
+      "explanation": "Hidalgo freed the town's prisoners, arrested the local Spaniards and called his parishioners to rise against \"bad government\". Within days thousands of Indigenous, mestizo and mulatto farmworkers, miners and townspeople had joined, making it a mass rural insurrection rather than the officers' coup the conspirators had planned.",
+      "feature": "e5-dolores",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-2",
+      "prompt": "After the insurgents beat the royalists at Monte de las Cruces in October 1810, with Mexico City in sight, what did Hidalgo do?",
+      "answer": "Turned back without attacking the capital",
+      "distractors": [
+        "Stormed the capital and set up a government",
+        "Besieged the capital for more than two months",
+        "Marched east to take the port of Veracruz"
+      ],
+      "explanation": "The insurgents drove back some 2,500 royalists under Torcuato Trujillo but lost heavily. With the capital almost undefended, Hidalgo sent envoys to the viceroy and then turned back, a decision still debated; Calleja routed the retreating army at Aculco on 7 November.",
+      "feature": "e5-monte-de-las-cruces",
+      "chapter": 9
+    },
+    {
+      "id": "independence-3",
+      "prompt": "Who captured Hidalgo, Allende and the other insurgent leaders at the wells of Acatita de Baján in March 1811?",
+      "answer": "Ignacio Elizondo",
+      "distractors": [
+        "Félix María Calleja",
+        "Joaquín de Arredondo",
+        "Agustín de Iturbide"
+      ],
+      "explanation": "Elizondo, a militia officer who had joined the insurgency and then turned against it, waited at the wells in the Coahuila desert and took the column as it arrived group by group. The leaders had fled north after their defeat at Puente de Calderón, meaning to reach the United States to buy arms.",
+      "feature": "e5-bajan",
+      "chapter": 9
+    },
+    {
+      "id": "independence-4",
+      "kind": "where",
+      "prompt": "In which northern city were Hidalgo and the other captured insurgent leaders tried by a military court and shot in 1811?",
+      "answer": "Chihuahua city",
+      "explanation": "Chihuahua was the seat of the commandant general of the Provincias Internas, and the leaders were tried there by a military court. Allende, Aldama and Jiménez were shot on 26 June 1811 and Hidalgo, stripped of his priesthood, on 30 July; their heads were hung from the corners of the Alhóndiga de Granaditas in Guanajuato.",
+      "feature": "e5-chihuahua-executions",
+      "chapter": 9
+    },
+    {
+      "id": "independence-5",
+      "prompt": "Which provincial capital did Morelos storm in November 1812, gaining its treasury and its cochineal trade?",
+      "answer": "Oaxaca",
+      "distractors": [
+        "Valladolid",
+        "Puebla",
+        "Guadalajara"
+      ],
+      "explanation": "Unlike Hidalgo's mass rising, Morelos had built a smaller, disciplined army, and Oaxaca was the high point of the insurgency: for most of 1813 the insurgents held much of the south, from the Pacific to the edge of the Valley of Mexico.",
+      "feature": "e5-oaxaca",
+      "chapter": 9
+    },
+    {
+      "id": "independence-6",
+      "prompt": "What was the programme Morelos presented to the insurgent congress he convened in September 1813?",
+      "answer": "The Sentimientos de la Nación",
+      "distractors": [
+        "The Plan of Iguala",
+        "The Constitution of Apatzingán",
+        "The Constitution of Cádiz"
+      ],
+      "explanation": "It called for independence from Spain and any other nation, sovereignty of the people, Catholicism as the sole religion, the abolition of slavery and caste distinctions, and laws that would \"moderate opulence and poverty\". On 6 November 1813 the congress formally declared the independence of \"América Septentrional\".",
+      "feature": "e5-chilpancingo",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-7",
+      "prompt": "In which year was Morelos captured at Temalaca and shot at San Cristóbal Ecatepec?",
+      "answer": "1815",
+      "distractors": [
+        "1811",
+        "1813",
+        "1817"
+      ],
+      "explanation": "Morelos was caught on 5 November 1815 after turning to fight so that the deputies of the insurgent congress could get away. Tried by a military court and by the Inquisition, he was shot on 22 December, and the insurgency broke into scattered regional guerrillas.",
+      "feature": "e5-ecatepec",
+      "chapter": 9
+    },
+    {
+      "id": "independence-8",
+      "prompt": "After the royalist amnesties of 1816–17, which insurgent chief kept up a guerrilla war in the Sierra Madre del Sur?",
+      "answer": "Vicente Guerrero",
+      "distractors": [
+        "Guadalupe Victoria",
+        "Mariano Matamoros",
+        "Francisco Xavier Mina"
+      ],
+      "explanation": "Guerrero, a mule driver from Tixtla, held out in the mountains and the hot Tierra Caliente of the Balsas, where royalist columns could not hold the country. His survival gave Iturbide, sent south to finish him off, a reason and a partner for the negotiations that led to the Plan of Iguala.",
+      "feature": "e5-guerrero-south",
+      "chapter": 9
+    },
+    {
+      "id": "independence-9",
+      "prompt": "What were the Three Guarantees of Iturbide's Plan of Iguala?",
+      "answer": "The Catholic religion, independence and union",
+      "distractors": [
+        "Independence, a republic and racial equality",
+        "Religion, the king and the Cádiz constitution",
+        "Union, a federation and a free press"
+      ],
+      "explanation": "The plan proposed an independent Mexican empire under Ferdinand VII or another Bourbon prince, with union between Americans and Europeans. The guarantees appealed to almost every group, and within months most royalist garrisons had joined Iturbide's Army of the Three Guarantees.",
+      "feature": "e5-iguala",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-10",
+      "kind": "where",
+      "prompt": "Where did Iturbide and Juan O'Donojú, the last head of New Spain sent from Madrid, sign the treaty of August 1821 recognising Mexican independence?",
+      "answer": "Córdoba, Veracruz, below Orizaba",
+      "explanation": "O'Donojú, formally jefe político superior rather than viceroy, had landed at Veracruz to find almost the whole country in Iturbide's hands, and the treaty recognised Mexico as a sovereign empire on the terms of the Plan of Iguala. The Spanish Cortes rejected it in 1822, and Spain did not recognise Mexican independence until 1836.",
+      "feature": "e5-cordoba",
+      "chapter": 9
+    },
+    {
+      "id": "independence-grito-date",
+      "prompt": "On what date did Hidalgo ring the church bells of Dolores and call his parishioners to rise, the Grito de Dolores?",
+      "answer": "16 September 1810",
+      "distractors": [
+        "15 September 1808",
+        "28 September 1810",
+        "24 February 1821"
+      ],
+      "explanation": "It was a Sunday, so the town was full of peasants, farmhands and drifters in for mass and market. The date is now Mexico's Independence Day, although the rising was meant to start later and was brought forward when the plot was discovered.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-dolores"
+    },
+    {
+      "id": "independence-hidalgo-who",
+      "prompt": "Which creole parish priest, once a prize-winning theologian and teacher at the seminary of Michoacán, launched the rising of 1810?",
+      "answer": "Miguel Hidalgo y Costilla",
+      "distractors": [
+        "José María Morelos",
+        "Manuel Abad y Queipo",
+        "Mariano Matamoros"
+      ],
+      "explanation": "Hidalgo was the son of a hacendado and had taught for ten years at the College of San Nicolás in Valladolid before taking the better-paid parish of Dolores. Gillingham presents him as a man of the Mexican Enlightenment rather than the dissolute atheist of his enemies' accounts.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-dolores"
+    },
+    {
+      "id": "independence-hidalgo-age",
+      "prompt": "How old was Miguel Hidalgo when he launched the rising of 1810?",
+      "answer": "57",
+      "distractors": [
+        "34",
+        "45",
+        "68"
+      ],
+      "explanation": "Hidalgo was an established, middle-aged churchman with friends among the region's powerful, including the intendant of Guanajuato and the bishop of Valladolid, not a young firebrand.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-hidalgo-enlightenment",
+      "prompt": "Which French satire on clerical hypocrisy did Hidalgo translate for the amateur theatricals he hosted at his rectory in Dolores?",
+      "answer": "Molière's Tartuffe",
+      "distractors": [
+        "Voltaire's Candide",
+        "Rousseau's Émile",
+        "Beaumarchais's The Marriage of Figaro"
+      ],
+      "explanation": "Enemies used the plays and dances at his rectory to paint him as a libertine and atheist. Hidalgo replied that scorning priestly hypocrisy made him a moralist, and Gillingham finds no trace of Voltaire or the encyclopedists in his library.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-hidalgo-improver",
+      "prompt": "Which kind of project did Hidalgo promote among his parishioners at Dolores before 1810?",
+      "answer": "New local industries such as a silk farm",
+      "distractors": [
+        "A school of mining engineering",
+        "A printing press and newspaper",
+        "A smallpox vaccination campaign"
+      ],
+      "explanation": "In 1809 the Diario de México held him up as a model of the wise parish priest who promoted the industry of the Indians. He embodied the developmentalism of the Mexican Enlightenment.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-hidalgo-debts",
+      "prompt": "Which wartime royal measure had put a lien on Hidalgo's family hacienda, pushing him toward bankruptcy before 1810?",
+      "answer": "The Crown's calling-in of Church loans",
+      "distractors": [
+        "The expulsion of the Jesuits",
+        "The royal tobacco monopoly",
+        "The creation of the intendancies"
+      ],
+      "explanation": "To pay for its European wars the Crown demanded immediate repayment of the Church mortgages that kept landowners and merchants afloat. The strain helped destroy Hidalgo's younger brother Manuel, and many other creoles were squeezed in the same way.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-hidalgo-french-fear",
+      "prompt": "Hidalgo feared that the peninsular regime set up in Mexico City by the coup of 1808 was about to hand New Spain over to whom?",
+      "answer": "Napoleon's France",
+      "distractors": [
+        "Great Britain",
+        "The United States",
+        "Portugal"
+      ],
+      "explanation": "In 1808 Napoleon had put his brother Joseph on the Spanish throne and Ferdinand VII was a prisoner in France. Many insurgents believed the rich peninsulares were betraying the faith and the kingdom to the French \"heretics\".",
+      "chapter": 9
+    },
+    {
+      "id": "independence-famine-1809",
+      "prompt": "As harvests failed in the autumn of 1809, what did Guanajuato's intendant Riaño warn the viceroy was coming?",
+      "answer": "The worst famine in living memory",
+      "distractors": [
+        "An imminent French invasion",
+        "A creole conspiracy in Querétaro",
+        "A strike in the silver mines"
+      ],
+      "explanation": "Riaño saw that scarce mercury, empty treasuries and dear maize would leave thousands of labouring families with no income. The depression of 1808–10 left many of the men who joined Hidalgo jobless or homeless.",
+      "chapter": 8
+    },
+    {
+      "id": "independence-venegas",
+      "prompt": "Which newly appointed viceroy had been in Mexico City only days when the Dolores rising broke out in September 1810?",
+      "answer": "Francisco Javier Venegas",
+      "distractors": [
+        "José de Iturrigaray",
+        "Pedro Garibay",
+        "Juan Ruiz de Apodaca"
+      ],
+      "explanation": "Venegas had been appointed by the new government in Spain to end the run of stopgap rulers that followed the coup of 1808. The rising began before he could ease discontent or crack down on the conspirators.",
+      "chapter": 8,
+      "feature": "e5-dolores"
+    },
+    {
+      "id": "independence-academia",
+      "prompt": "In what kind of dissident circle did Hidalgo, Ignacio Allende and the corregidor Miguel Domínguez plot and gather arms in 1810?",
+      "answer": "A literary academy",
+      "distractors": [
+        "A Masonic lodge",
+        "A religious confraternity",
+        "A merchants' guild"
+      ],
+      "explanation": "The Academia Literaria de Querétaro was a talking shop that turned into a conspiracy, recruiting militia captains and a Crown official. Its plan was an officers' coup leading a disciplined multiracial army.",
+      "chapter": 9,
+      "feature": "e5-queretaro-conspiracy"
+    },
+    {
+      "id": "independence-corregidora",
+      "prompt": "When the Querétaro plot was discovered in September 1810, who sent the warning that made the conspirators rise at once?",
+      "answer": "Josefa Ortiz de Domínguez",
+      "distractors": [
+        "Leona Vicario",
+        "Gertrudis Bocanegra",
+        "María Ignacia Rodríguez de Velasco"
+      ],
+      "explanation": "The wife of the corregidor Miguel Domínguez got word to Juan Aldama, who rode through the night to Dolores. Rather than wait to be arrested, Hidalgo and his partners rose on the morning of 16 September.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-queretaro-conspiracy"
+    },
+    {
+      "id": "independence-grito-formula",
+      "prompt": "Hidalgo's Grito de Dolores did not call for independence. Which traditional formula did it follow instead?",
+      "answer": "Death to bad government, long live the king",
+      "distractors": [
+        "Independence, religion and union",
+        "Death to the king, long live the nation",
+        "Land and liberty for the villages"
+      ],
+      "explanation": "Combining rebellion against bad officials with loyalty to the monarch was an old Spanish formula, heartfelt or bet-hedging. Gillingham calls the Grito relatively centrist: the insurgents did not start out as radical independentistas.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-dolores"
+    },
+    {
+      "id": "independence-pay",
+      "prompt": "What daily pay did Hidalgo offer the men who joined his rising on horseback?",
+      "answer": "One peso a day",
+      "distractors": [
+        "One real a day",
+        "Half a peso a day",
+        "Two pesos a day"
+      ],
+      "explanation": "Foot soldiers were offered half a peso. It was respectable pay in a region hit by depression and dear maize, and helps explain how fast the rising grew.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-guadalupe",
+      "prompt": "Whose image did Hidalgo's insurgents carry on their banners and wear in their hats?",
+      "answer": "The Virgin of Guadalupe",
+      "distractors": [
+        "The Virgin of los Remedios",
+        "Saint James the Moor-slayer",
+        "Saint Michael the Archangel"
+      ],
+      "explanation": "The Grito itself included a cheer for the Virgin of Guadalupe, and the insurgents took her image as their banner on the road from Dolores. The symbol tied the rising to popular religion and a Mexican patriotism.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-san-miguel"
+    },
+    {
+      "id": "independence-region",
+      "prompt": "According to Gillingham, what was the great common denominator of the men in Hidalgo's insurgent army?",
+      "answer": "Their region, the Bajío",
+      "distractors": [
+        "Their Indigenous ethnicity",
+        "Their work as village peasants",
+        "Their youth, mostly under twenty"
+      ],
+      "explanation": "Conservatives saw an Indian army, nationalists a mestizo one and social historians a peasant one. Arrest records show a mix shaped by the Bajío's mining and commercial farming and the fragile, crowded society they had created.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-insurgent-age",
+      "prompt": "What was the average age of the men in Hidalgo's insurgent army?",
+      "answer": "About thirty",
+      "distractors": [
+        "About sixteen",
+        "About twenty",
+        "About forty-five"
+      ],
+      "explanation": "Many were unmarried, but this was no army of teenage adventurers. Some had lost work and homes in the depression of 1808–10; others came to settle local scores, loot haciendas that had profiteered in the famine, or seize an opportunity.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-insurgent-indians",
+      "prompt": "According to Gillingham, what were most of the Indigenous men who joined Hidalgo's army in the Bajío?",
+      "answer": "Migrant workers, not old village communities",
+      "distractors": [
+        "Old village communities under their caciques",
+        "Maya peasants brought from Yucatán",
+        "Yaqui warriors from the Sonora missions"
+      ],
+      "explanation": "Gillingham describes many of them as Nahua and Tlaxcalteca migrants rather than ancient communities in arms. With mestizos, mulattos and a white minority, creoles included, they made an ethnically mixed, and in that sense very Mexican, rebellion.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-dragoons",
+      "prompt": "Which mounted royal militia regiment went over to Hidalgo's rising wholesale in September 1810?",
+      "answer": "The Queen's Provincial Dragoons",
+      "distractors": [
+        "The Regimiento de Comercio",
+        "The Dragoons of Mexico",
+        "The Regiment of the Crown"
+      ],
+      "explanation": "Allende's heavy cavalry joined at San Miguel, and the Celaya infantry also came over, giving the rising a core of trained men. The Regimiento de Comercio, by contrast, had been the merchants' instrument in the coup of 1808.",
+      "chapter": 9,
+      "feature": "e5-san-miguel"
+    },
+    {
+      "id": "independence-calleja-army",
+      "prompt": "Which Spanish brigadier general raised the royalist Army of the Centre to fight Hidalgo in 1810?",
+      "answer": "Félix María Calleja",
+      "distractors": [
+        "Torcuato Trujillo",
+        "Pedro Garibay",
+        "Juan Ruiz de Apodaca"
+      ],
+      "explanation": "Calleja took weeks to gather and equip his troops, so Hidalgo's first ten days met almost no resistance. Once concentrated, Calleja's imperfect but professional army beat the insurgents again and again.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-aculco"
+    },
+    {
+      "id": "independence-alhondiga-what",
+      "prompt": "What was the Alhóndiga de Granaditas, where Spaniards sheltered from Hidalgo's insurgents in 1810?",
+      "answer": "A fortified public granary",
+      "distractors": [
+        "The city's royal mint",
+        "A former Jesuit college",
+        "The royal tobacco factory"
+      ],
+      "explanation": "Riaño had built it to stockpile food against famine, so the people attacking the city were the ones it was meant to protect. The insurgents stormed it and massacred most of those inside.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-alhondiga-date",
+      "prompt": "On what date did Hidalgo's insurgents storm the Alhóndiga de Granaditas?",
+      "answer": "28 September 1810",
+      "distractors": [
+        "16 September 1810",
+        "30 October 1810",
+        "17 January 1811"
+      ],
+      "explanation": "It came twelve days after the Grito. The intendant Riaño refused Hidalgo's two letters asking him to surrender, and was killed in the assault.",
+      "chapter": 9,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-riano",
+      "prompt": "Which Spanish intendant, an old friend of Hidalgo, was killed when the insurgents stormed the Alhóndiga de Granaditas in 1810?",
+      "answer": "Juan Antonio de Riaño",
+      "distractors": [
+        "Manuel Abad y Queipo",
+        "Torcuato Trujillo",
+        "Manuel de Flon"
+      ],
+      "explanation": "Riaño was an enlightened official who had built the granary against famine and foreseen the crisis of 1809–10. Hidalgo had dined with him that January; in September he wrote twice asking him to surrender.",
+      "chapter": 9,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-alhondiga-deaths",
+      "prompt": "Roughly how many Spaniards were killed when the insurgents stormed the Alhóndiga and sacked the city?",
+      "answer": "About 300",
+      "distractors": [
+        "About 30",
+        "About 3,000",
+        "About 10,000"
+      ],
+      "explanation": "The killing and looting began with rich Spanish immigrants but spread to anyone white or monied. Gillingham notes that it was small beside the later losses in battle, counterinsurgency and epidemic.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-alaman",
+      "prompt": "Which future leader of Mexican conservatism, a young creole who survived the sack of his home city in 1810, saw the rising as a race and class war?",
+      "answer": "Lucas Alamán",
+      "distractors": [
+        "Carlos María de Bustamante",
+        "José María Luis Mora",
+        "Lorenzo de Zavala"
+      ],
+      "explanation": "Alamán became the century's most prominent conservative politician and historian, convinced that Hidalgo had raised the propertyless against the propertied. Gillingham thinks his diagnosis wrong: the rising had no plan to redistribute land or abolish the monarchy.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-creoles-sidelines",
+      "prompt": "What was the main political effect of the massacre at the Alhóndiga on creoles who might have rebelled?",
+      "answer": "Most stayed on the sidelines",
+      "distractors": [
+        "They flocked to Hidalgo's army",
+        "They declared a republic in the capital",
+        "They forced the viceroy to negotiate"
+      ],
+      "explanation": "Gillingham calls it a turning point. The violence against anyone white or wealthy, and fears of a Haitian-style race war, kept the creole elite from joining what had begun as their own conspiracy.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-haiti-fear",
+      "prompt": "An army of mulattos and Black men mustering on the Pacific coast in 1810 revived the memory of which revolution?",
+      "answer": "The Haitian slave revolution",
+      "distractors": [
+        "The Tupac Amaru rising in Peru",
+        "The Comunero revolt in New Granada",
+        "The Terror of the French Revolution"
+      ],
+      "explanation": "Haiti's former slaves and free people of colour had driven out their French masters at huge cost in the 1790s and 1800s. To propertied Mexicans it was the nightmare outcome of a rising of the castas.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-army-size",
+      "prompt": "What strength did Hidalgo's army claim when it reached the rim of the Valley of Mexico on 30 October 1810?",
+      "answer": "About 80,000 men",
+      "distractors": [
+        "About 8,000 men",
+        "About 25,000 men",
+        "About 200,000 men"
+      ],
+      "explanation": "The army had grown as it moved south, gathering villagers and militia deserters, but it was poorly armed and barely drilled. Its size frightened creoles far more than it threatened the royalist army.",
+      "chapter": 9,
+      "feature": "e5-monte-de-las-cruces"
+    },
+    {
+      "id": "independence-weapons",
+      "prompt": "What were most of Hidalgo's insurgents armed with?",
+      "answer": "Machetes, slings, bows and farm tools",
+      "distractors": [
+        "Muskets from the royal arsenals",
+        "Rifles smuggled from the United States",
+        "Carbines seized from royal garrisons"
+      ],
+      "explanation": "An early observer saw them half-naked with only a handful of shotguns and lances. Their officers hardly trained or equipped them, and royalists at one stage even seized kitchen knives.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-serene-highness",
+      "prompt": "What grand title did Hidalgo take at the head of his army?",
+      "answer": "His Most Serene Highness",
+      "distractors": [
+        "Emperor of Anáhuac",
+        "Servant of the Nation",
+        "Protector of the Indies"
+      ],
+      "explanation": "Gillingham calls it a tin-pot title. Hidalgo handed out promotions so freely that he had to invent new ranks, and his officer corps was bloated and largely incompetent.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-slavery",
+      "prompt": "Hidalgo's rising was otherwise reformist rather than revolutionary. Which radical step did it decree?",
+      "answer": "The abolition of slavery",
+      "distractors": [
+        "A redistribution of hacienda land",
+        "The abolition of the monarchy",
+        "The confiscation of Church property"
+      ],
+      "explanation": "Hidalgo had no plan to share out land or wealth and brought no new ideology; what changed hands was loot taken by an army feeding itself off the country. Some generals and opportunists grew rich, but no social class did.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-guadalajara"
+    },
+    {
+      "id": "independence-terror",
+      "prompt": "Gillingham argues that the killing of some 400 Spaniards at Valladolid and Guadalajara was what kind of violence?",
+      "answer": "A terror ordered from the top",
+      "distractors": [
+        "Lynchings demanded by the crowd",
+        "Royalist reprisals blamed on rebels",
+        "Deaths from typhus in the jails"
+      ],
+      "explanation": "The executions of gachupines were ordered by the leadership, not demanded by a clamouring mob, and Hidalgo tried to cover them up. They weighed against him when he was tried.",
+      "chapter": 9,
+      "feature": "e5-guadalajara"
+    },
+    {
+      "id": "independence-gachupines",
+      "prompt": "What insulting name did the insurgents give to Spanish-born immigrants in Mexico?",
+      "answer": "Gachupines",
+      "distractors": [
+        "Criollos",
+        "Léperos",
+        "Castizos"
+      ],
+      "explanation": "Rich peninsular Spaniards were the first targets of the rising. The coup of 1808, made by peninsulares, had already pinned the blame for illegitimate government on this single minority.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-calderon",
+      "prompt": "In January 1811, where did Calleja rout Hidalgo's army near Guadalajara, the decisive turning point of the first rising?",
+      "answer": "Puente de Calderón",
+      "distractors": [
+        "Monte de las Cruces",
+        "Aculco",
+        "Acatita de Baján"
+      ],
+      "explanation": "The defeat broke up the great insurgent army and led Ignacio Allende to take over command from Hidalgo. The surviving leaders fled north.",
+      "chapter": 9,
+      "feature": "e5-calderon"
+    },
+    {
+      "id": "independence-allende",
+      "prompt": "Which creole militia captain from San Miguel took over command of the insurgency from Hidalgo after the defeat of January 1811?",
+      "answer": "Ignacio Allende",
+      "distractors": [
+        "Juan Aldama",
+        "Mariano Abasolo",
+        "Ignacio López Rayón"
+      ],
+      "explanation": "Allende, a militia officer, had clashed with Hidalgo over his erratic leadership. He was captured with Hidalgo in March 1811 and shot at Chihuahua.",
+      "chapter": 9,
+      "feature": "e5-hidalgo-north"
+    },
+    {
+      "id": "independence-duration",
+      "prompt": "How long did Hidalgo's rising last before its leaders were captured in the north?",
+      "answer": "About six months",
+      "distractors": [
+        "About six weeks",
+        "About two years",
+        "About five years"
+      ],
+      "explanation": "From September 1810 to March 1811 it occupied major cities but never seriously threatened the structure of power. The war itself went on until 1821.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-heads",
+      "prompt": "After their execution in 1811, where were the heads of Hidalgo, Allende, Aldama and Jiménez hung in cages?",
+      "answer": "The corners of the Alhóndiga de Granaditas",
+      "distractors": [
+        "The gate of the Jesuit college in Chihuahua",
+        "The viceregal palace in Mexico City",
+        "The bridge of Calderón"
+      ],
+      "explanation": "The display at the scene of the 1810 massacre was meant as a warning. The heads stayed there until independence in 1821.",
+      "chapter": 9,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-morelos-who",
+      "prompt": "Which priest and former muleteer, once a student of Hidalgo, raised the insurgent army of the south from 1810?",
+      "answer": "José María Morelos",
+      "distractors": [
+        "Ignacio López Rayón",
+        "Mariano Matamoros",
+        "Vicente Guerrero"
+      ],
+      "explanation": "Gillingham thinks him a better war leader than Hidalgo: he had a priest's authority and also a muleteer's knowledge of the country and its people. He became the great charismatic leader of the insurgency.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-morelos-first"
+    },
+    {
+      "id": "independence-morelos-army",
+      "prompt": "How did Morelos's army differ from Hidalgo's?",
+      "answer": "Smaller, drilled and conventional",
+      "distractors": [
+        "Larger and armed with farm tools",
+        "Made up of Spanish deserters",
+        "Led by foreign volunteer officers"
+      ],
+      "explanation": "Morelos read Frederick the Great and built clear hierarchies and logistics. His raw material was the mountain men, slaves and mulattos of the south.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-morelos-first"
+    },
+    {
+      "id": "independence-morelos-recruits",
+      "prompt": "How did Morelos bring village recruits into his army?",
+      "answer": "Under their own local leaders",
+      "distractors": [
+        "By forced levy under Spanish officers",
+        "As slaves bought from haciendas",
+        "Through a paid lottery"
+      ],
+      "explanation": "Local notables, from ranchers and priests to militia captains and Indigenous nobles, drilled and commanded men they already knew. It gave his army a cohesion Hidalgo's never had.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-morelos-race",
+      "prompt": "What punishment did Morelos lay down for racially motivated violence in his army?",
+      "answer": "Death",
+      "distractors": [
+        "Loss of rank",
+        "Flogging",
+        "Expulsion from the army"
+      ],
+      "explanation": "After the killings of Spaniards under Hidalgo, Morelos tried to stop the war becoming a race war. In his army, Gillingham notes, it was whites rather than Black soldiers who risked racial violence.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-pattern",
+      "prompt": "In Gillingham's view, what was the basic military pattern of the War of Independence?",
+      "answer": "Rebels couldn't hold cities, nor royalists the countryside",
+      "distractors": [
+        "Rebels held the cities, royalists the countryside",
+        "Each side won only in its home province",
+        "Royalists starved out every rebel town"
+      ],
+      "explanation": "Morelos's two-month defence of Cuautla in 1812 is his example. Morelos also took Oaxaca, Orizaba and Acapulco but kept none of them for long, while the royalists never stamped out the guerrillas in the countryside.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-cuautla"
+    },
+    {
+      "id": "independence-acapulco",
+      "prompt": "Which Pacific port, whose fort held out for months, did Morelos take in 1813?",
+      "answer": "Acapulco",
+      "distractors": [
+        "San Blas",
+        "Mazatlán",
+        "Huatulco"
+      ],
+      "explanation": "The port of the Manila galleon had been one of Morelos's first targets in 1810. Taking its fort cost months and kept him away from the centre while the royalists recovered.",
+      "chapter": 9,
+      "feature": "e5-acapulco-1813"
+    },
+    {
+      "id": "independence-valladolid-1813",
+      "prompt": "Where did a major defeat in December 1813 break Morelos's army?",
+      "answer": "Valladolid, in Michoacán",
+      "distractors": [
+        "Cuautla, south of the capital",
+        "Oaxaca, in the south",
+        "Puebla, on the Veracruz road"
+      ],
+      "explanation": "The royalists who beat him there included Agustín de Iturbide. Morelos's survivors turned to guerrilla warfare, which they waged well enough to dominate large parts of provincial Mexico.",
+      "chapter": 9,
+      "feature": "e5-valladolid-1813"
+    },
+    {
+      "id": "independence-spain-revenue",
+      "prompt": "According to Gillingham, what did Spain do with New Spain's entire revenue for 1811, at the height of the rebellion?",
+      "answer": "Sent it home to fight France",
+      "distractors": [
+        "Spent it on Calleja's army",
+        "Lent it to the Mexico City merchants",
+        "Used it to rebuild the mines"
+      ],
+      "explanation": "Rather than funding an army big enough to end the insurgency, Spain used Mexican taxes to survive its own war in Europe. Even after Napoleon's fall it remained ruined.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-rayon",
+      "prompt": "Which former secretary of Hidalgo set up the insurgents' Supreme Junta at Zitácuaro in 1811?",
+      "answer": "Ignacio López Rayón",
+      "distractors": [
+        "José María Morelos",
+        "Andrés Quintana Roo",
+        "Carlos María de Bustamante"
+      ],
+      "explanation": "The junta tried to bring civilian order to the guerrilla bands. It had its own officials, taxes, identity documents and coinage in the areas the rebels held.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-zitacuaro"
+    },
+    {
+      "id": "independence-rayon-sovereignty",
+      "prompt": "In Rayón's formula for the insurgent junta of 1811, where did sovereignty reside?",
+      "answer": "With the king in Spain",
+      "distractors": [
+        "With the people of América alone",
+        "With the Cortes of Cádiz",
+        "With the Mexico City council"
+      ],
+      "explanation": "Rayón held that sovereignty came from the people and was exercised by an American congress, yet still lay with the king. Gillingham judges the junta ambitious in its institutions but muddled about its constitution.",
+      "chapter": 9,
+      "feature": "e5-zitacuaro"
+    },
+    {
+      "id": "independence-anahuac",
+      "prompt": "What name did Morelos give the insurgent congress he convened in 1813, which he said would re-establish an ancient empire?",
+      "answer": "The Congress of Anáhuac",
+      "distractors": [
+        "The Supreme American Junta",
+        "The Junta of Jaujilla",
+        "The Sovereign Mexican Cortes"
+      ],
+      "explanation": "Anáhuac was a Nahuatl name for the Mexica world, and the deputies invoked the pre-Hispanic emperors in their speeches. Morelos called the congress because Rayón's junta had become divided and ineffective.",
+      "chapter": 9,
+      "feature": "e5-chilpancingo"
+    },
+    {
+      "id": "independence-declaration-1813",
+      "prompt": "In which month and year did Morelos's insurgent congress formally declare independence from Spain?",
+      "answer": "November 1813",
+      "distractors": [
+        "September 1810",
+        "October 1814",
+        "February 1821"
+      ],
+      "explanation": "The act said that Mexico had recovered its usurped sovereignty and that dependence on the Spanish throne was broken for ever. It was the first formal declaration of Mexican independence, eight years before independence was won.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-chilpancingo"
+    },
+    {
+      "id": "independence-constitution-1814",
+      "prompt": "What kind of state did the insurgents' constitution of 1814 set up?",
+      "answer": "A colour-blind democracy with three branches",
+      "distractors": [
+        "A constitutional monarchy under Ferdinand VII",
+        "A military dictatorship under Morelos",
+        "A federation of sovereign provinces"
+      ],
+      "explanation": "It abolished racial distinctions in citizenship and divided power between legislature, executive and judiciary. It never ruled much real territory, but it was Mexico's first constitution.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-apatzingan"
+    },
+    {
+      "id": "independence-america-mexicana",
+      "prompt": "What name did the insurgents' constitution of 1814 give the country they were inventing?",
+      "answer": "América Mexicana",
+      "distractors": [
+        "Estados Unidos Mexicanos",
+        "Imperio Mexicano",
+        "Nueva Galicia"
+      ],
+      "explanation": "The constitution was a decree for the liberty of América Mexicana; the declaration of 1813 had spoken of América Septentrional, and some preferred Anáhuac. Rebels called themselves novohispanos, mexicanos or, like independence rebels across Spanish America, americanos.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-strong-legislature",
+      "prompt": "What did both the insurgent and the Cádiz constitutions put at the centre of government?",
+      "answer": "A strong legislature and a weak executive",
+      "distractors": [
+        "A strong executive and a weak legislature",
+        "A king advised by an appointed council",
+        "A federation of sovereign states"
+      ],
+      "explanation": "Neither design worked in wartime. Morelos, as generalísimo, had the army and treasury, but deputies who followed him on campaign could question and overrule him, and escorting them led to his capture in 1815.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-presses",
+      "prompt": "How did Morelos keep the insurgent message circulating even as he lost the cities?",
+      "answer": "With two portable printing presses",
+      "distractors": [
+        "Through a network of village criers",
+        "With smuggled London newspapers",
+        "Through sermons by friendly bishops"
+      ],
+      "explanation": "Gillingham credits him with a durable propaganda operation, alongside his gift for getting on with people, his don de gente.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-quintana-roo",
+      "prompt": "Which lawyer from Yucatán was among the very different insurgent leaders whom Morelos held together?",
+      "answer": "Andrés Quintana Roo",
+      "distractors": [
+        "Miguel Ramos Arizpe",
+        "José María Luis Mora",
+        "Valentín Gómez Farías"
+      ],
+      "explanation": "Morelos's coalition stretched from the Mérida lawyer Quintana Roo to the Black muleteer Vicente Guerrero. After his death the fighting passed to lesser chiefs, each in his own territory.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-successors",
+      "prompt": "After Morelos's death in 1815, what ambition did the insurgent leaders who succeeded him abandon?",
+      "answer": "Taking national power in Mexico City",
+      "distractors": [
+        "Abolishing slavery",
+        "Independence from Spain",
+        "Holding the southern mountains"
+      ],
+      "explanation": "Morelos had pushed scouts to the edge of the capital; the chiefs who followed him kept their distance. They met tougher resistance and aimed lower, though some, like Guerrero, kept his democratic ideals.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-calleja-viceroy",
+      "prompt": "How did the king reward Félix María Calleja for his campaigns against the insurgents?",
+      "answer": "He made him viceroy",
+      "distractors": [
+        "He made him governor of Cuba",
+        "He made him captain general of Guatemala",
+        "He gave him command in Peru"
+      ],
+      "explanation": "Calleja was viceroy from 1813; when his term ended in 1816 he declared the insurgency finished. The southern mountains proved him wrong.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-apodaca",
+      "prompt": "Which viceroy combined pardons with a new offensive from 1816, bringing the insurgents to their lowest point by 1817?",
+      "answer": "Juan Ruiz de Apodaca",
+      "distractors": [
+        "Francisco Javier Venegas",
+        "José de Iturrigaray",
+        "Juan O'Donojú"
+      ],
+      "explanation": "The violence decreased, but the mountains of the south proved unconquerable. In 1820 Apodaca sent Iturbide to finish off Guerrero there, with unexpected results.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-guerrero-south"
+    },
+    {
+      "id": "independence-lizardi",
+      "prompt": "Which satirist, who wrote as \"El Pensador Mexicano\", mocked Calleja's boast that the insurgency was over?",
+      "answer": "José Joaquín Fernández de Lizardi",
+      "distractors": [
+        "Carlos María de Bustamante",
+        "Servando Teresa de Mier",
+        "Andrés Quintana Roo"
+      ],
+      "explanation": "His verse compared the insurgents to fleas: however many Calleja killed, a thousand more would come. He was the period's sharpest satirist.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-periquillo",
+      "prompt": "Which novel did José Joaquín Fernández de Lizardi publish in 1816?",
+      "answer": "El Periquillo Sarniento",
+      "distractors": [
+        "Los bandidos de Río Frío",
+        "Los de abajo",
+        "El Zarco"
+      ],
+      "explanation": "The Mangy Parrot, a picaresque tale of a swindler, is usually called the first Mexican, and often the first Latin American, novel. Gillingham uses it to show the poor of late colonial Mexico City.",
+      "chapter": 8
+    },
+    {
+      "id": "independence-deaths",
+      "prompt": "By Gillingham's upper estimate, how many people died in Mexico between 1810 and 1821?",
+      "answer": "About 600,000",
+      "distractors": [
+        "About 60,000",
+        "About 15,000",
+        "About 2 million"
+      ],
+      "explanation": "That was as many as one Mexican in ten; other estimates are lower. Most victims were not killed in battle but by the epidemics and famine that followed the armies.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-disease",
+      "prompt": "What killed the most people during the War of Independence?",
+      "answer": "Disease and hunger",
+      "distractors": [
+        "Pitched battles",
+        "Royalist executions",
+        "Insurgent massacres of Spaniards"
+      ],
+      "explanation": "Typhus and yellow fever spread across New Spain in 1812–14, carried long distances by the marching columns. Death, drought and pillaging armies then brought famine.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-typhus",
+      "prompt": "Which disease, spread from the siege of Cuautla, killed some 40,000 people in the Valley of Mexico alone, according to Gillingham?",
+      "answer": "Typhus",
+      "distractors": [
+        "Smallpox",
+        "Cholera",
+        "Measles"
+      ],
+      "explanation": "Gillingham traces it to the armies at the siege of Cuautla. It killed half the people of some villages and then reached Zacatecas, Michoacán and Puebla, where four new cemeteries had to be opened.",
+      "chapter": 9,
+      "feature": "e5-cuautla"
+    },
+    {
+      "id": "independence-tithing",
+      "prompt": "What collective punishment did Calleja inflict on villages judged to have helped the insurgents?",
+      "answer": "Shooting one man in ten at random",
+      "distractors": [
+        "Burning the village church",
+        "Deporting the villagers to Cuba",
+        "Doubling the Indian tribute"
+      ],
+      "explanation": "Calleja met the guerrillas' sea of popular support with exemplary violence, and his enemies called him a new Cortés. Attritional counterinsurgency killed far more than the early massacres.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-poorer",
+      "prompt": "According to the estimates Gillingham cites, how did the Wars of Independence change Mexicans' wealth compared with the world average?",
+      "answer": "They went in richer and came out poorer",
+      "distractors": [
+        "They went in poorer and came out richer",
+        "They stayed close to the world average",
+        "They overtook the United States"
+      ],
+      "explanation": "For all colonial poverty, Mexicans in 1810 were richer than the global average. The war destroyed mines, farms and trade, capital fled, and the new state inherited lasting poverty and instability.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-mines",
+      "prompt": "Which industry, the heart of the colonial economy, did the war leave ravaged, abandoned and flooded?",
+      "answer": "Silver mining",
+      "distractors": [
+        "Sugar planting",
+        "Cochineal dyeing",
+        "Textile weaving"
+      ],
+      "explanation": "Rebels occupied haciendas, ate the livestock and wrecked the mines, and regional treasuries collected far less. In the 1820s British investors poured money into draining the flooded mines.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-indigenous-1810",
+      "prompt": "By one estimate, roughly what share of New Spain's population was Indigenous in 1810?",
+      "answer": "About 60 percent",
+      "distractors": [
+        "About 10 percent",
+        "About 25 percent",
+        "About 90 percent"
+      ],
+      "explanation": "Some 3.3 million Indigenous people lived in roughly 4,500 pueblos de indios. Over the next two centuries the Indigenous share fell sharply through higher mortality and intermarriage.",
+      "chapter": 20
+    },
+    {
+      "id": "independence-royalist-indians",
+      "prompt": "Gillingham notes that many Indigenous people were royalists in the War of Independence. Which in particular?",
+      "answer": "The Nahua of the central highlands",
+      "distractors": [
+        "The migrant Indians of the Bajío",
+        "The villagers of the Costa Grande",
+        "The peoples of the Tierra Caliente"
+      ],
+      "explanation": "The war was not a simple Indigenous rising. Village politics was divided between patriarchs and young men and between rival towns, and loyalties followed local quarrels.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-cadiz-opened",
+      "prompt": "When did Spanish liberals open the Cortes at Cádiz that would write the constitution of 1812?",
+      "answer": "September 1810",
+      "distractors": [
+        "March 1808",
+        "May 1814",
+        "January 1820"
+      ],
+      "explanation": "The Cortes met within days of the Grito, though they could not know it, on an island in the bay while French troops besieged the city. Deputies from the Americas, New Spain among them, sat beside the Spaniards.",
+      "chapter": 9,
+      "feature": "e5-cadiz-constitution"
+    },
+    {
+      "id": "independence-cadiz-suffrage",
+      "prompt": "Which group did the Constitution of Cádiz of 1812 leave out of the vote?",
+      "answer": "People of African descent",
+      "distractors": [
+        "Indigenous people",
+        "The illiterate poor",
+        "Creoles born in America"
+      ],
+      "explanation": "Because it gave the vote to Indigenous men, the poor and those who could not read, it was among the most open constitutions of its century. Morelos's insurgents went further and enfranchised Black Mexicans too.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-cadiz-constitution"
+    },
+    {
+      "id": "independence-cadiz-indians",
+      "prompt": "At Cádiz, who argued that Indigenous people should be excluded from the vote, in openly racist terms?",
+      "answer": "The Spanish merchants of Mexico",
+      "distractors": [
+        "The American deputies",
+        "Morelos's insurgent congress",
+        "The Mexican bishops"
+      ],
+      "explanation": "They lost the argument, and both the Spanish and the insurgent constitutions enfranchised Indigenous men. At his own congress Morelos insisted that Indians had the right to vote even if they did not seem competent.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-ramos-arizpe",
+      "prompt": "Which deputy from New Spain told the Cortes of Cádiz that people of African descent included distinguished priests and judges?",
+      "answer": "Miguel Ramos Arizpe",
+      "distractors": [
+        "Carlos María de Bustamante",
+        "Andrés Quintana Roo",
+        "Ignacio López Rayón"
+      ],
+      "explanation": "Mexican reformers wanted the castas enfranchised, partly from principle and partly because counting them would give the Americas many more deputies. He later became a minister of justice.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-cadiz-elections",
+      "prompt": "What were elections under the Constitution of Cádiz like in New Spain?",
+      "answer": "Fiestas, with masses, bells and fireworks",
+      "distractors": [
+        "Secret ballots with printed party lists",
+        "Quiet votes by town councillors only",
+        "Contests fought by rival armies"
+      ],
+      "explanation": "Polling opened with a Mass and closed with a Te Deum, and many people voted. But the constitution soon fell: Ferdinand VII abolished it on his restoration.",
+      "chapter": 9,
+      "feature": "e5-cadiz-constitution"
+    },
+    {
+      "id": "independence-cadiz-abolished",
+      "prompt": "In which year did the restored Ferdinand VII close the Cortes and abolish the Constitution of Cádiz?",
+      "answer": "1814",
+      "distractors": [
+        "1812",
+        "1817",
+        "1820"
+      ],
+      "explanation": "The liberal experiment in New Spain was short. Its revival by a liberal revolt in Spain six years later helped push Mexican conservatives toward independence.",
+      "chapter": 9,
+      "feature": "e5-cadiz-constitution"
+    },
+    {
+      "id": "independence-municipio-threshold",
+      "prompt": "Under the Constitution of Cádiz, how many people did a town or group of villages need to form its own elected municipal council?",
+      "answer": "About 1,000",
+      "distractors": [
+        "About 100",
+        "About 10,000",
+        "About 25,000"
+      ],
+      "explanation": "Hundreds of new municipios appeared, mostly in Indigenous heartlands. Villagers valued them for the freedom to run their own festivals, taxes, schools and, above all, land.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "independence-municipios-oaxaca",
+      "prompt": "Which region was home to about a third of the new municipalities created under the Constitution of Cádiz by 1821?",
+      "answer": "Oaxaca",
+      "distractors": [
+        "Yucatán",
+        "Michoacán",
+        "Nuevo Santander"
+      ],
+      "explanation": "Oaxaca's many Indigenous towns seized the chance of self-government. In one case its Indigenous voters elected a council with four non-white members.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-1820-revolt",
+      "prompt": "What event in Spain in 1820 set Mexican creoles across the political spectrum conspiring for a negotiated end to the war?",
+      "answer": "Restoration of the Cádiz constitution",
+      "distractors": [
+        "Napoleon's return from Elba",
+        "The death of King Ferdinand VII",
+        "A French invasion of Spain"
+      ],
+      "explanation": "A liberal army revolt forced Ferdinand VII to restore the constitution. Once again the decisive shock came from Spain. Conservatives, priests and officers who had fought for the king now dreaded rule by a faraway liberal parliament.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-cadiz-constitution"
+    },
+    {
+      "id": "independence-guadalupes",
+      "prompt": "During the War of Independence, who were the Guadalupes of Mexico City?",
+      "answer": "A secret network of insurgent sympathisers",
+      "distractors": [
+        "Indigenous militias of the Valley of Mexico",
+        "Royalist volunteer regiments in Puebla",
+        "A confraternity that financed Calleja"
+      ],
+      "explanation": "They were Mexico City lawyers, writers and other professionals who had secretly helped the rebels for years. By 1820 priests and conservatives too were looking for a negotiated way out of the war.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-war-weariness",
+      "prompt": "Why did the Spanish troops paid for by peninsular merchants in Mexico weaken the royalist cause?",
+      "answer": "Favouring them alienated creole officers",
+      "distractors": [
+        "They deserted to the insurgents",
+        "They spread yellow fever in the capital",
+        "They refused to leave Veracruz"
+      ],
+      "explanation": "The merchants did not trust Mexican troops or generals. Meanwhile senior commanders reported demoralised soldiers, and creoles in South America had already shown how readily they could change sides.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-soldiers-decide",
+      "prompt": "According to Gillingham, which group was always going to decide how the war ended in 1821?",
+      "answer": "The army officers",
+      "distractors": [
+        "The Church hierarchy",
+        "The Mexico City merchants",
+        "The Cortes in Madrid"
+      ],
+      "explanation": "A decade of war had left provincial commanders in charge of local government and much of the economy. Their change of sides, not a final battle, ended Spanish rule.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-iturbide-who",
+      "prompt": "Which creole royalist officer from Valladolid, son of a rich Spanish landowner, made his name hunting down the insurgents in Michoacán and the Bajío?",
+      "answer": "Agustín de Iturbide",
+      "distractors": [
+        "Félix María Calleja",
+        "Manuel de la Concha",
+        "José de la Cruz"
+      ],
+      "explanation": "He had joined the militia at fourteen and done little until Hidalgo's rebels reached Michoacán, where he excelled at counterinsurgency. In 1821 he turned that army to winning independence.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-iturbide-1821"
+    },
+    {
+      "id": "independence-iturbide-methods",
+      "prompt": "Which of these was among Iturbide's counterinsurgency methods, by Gillingham's account?",
+      "answer": "Jailing insurgents' womenfolk",
+      "distractors": [
+        "Arming Indigenous villages",
+        "Offering land to deserters",
+        "Pardoning captured priests"
+      ],
+      "explanation": "He also treated the countryside as a free-fire zone and handed recovered loot to his own men. He typified the officers who mixed ruthless soldiering with business on the side.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-iturbide-removed",
+      "prompt": "What brought down Iturbide as commander of the royalist Army of the North in 1816?",
+      "answer": "Complaints from Guanajuato's priests",
+      "distractors": [
+        "A defeat by Guerrero's guerrillas",
+        "A wound at the siege of Cuautla",
+        "His arrest for plotting with insurgents"
+      ],
+      "explanation": "His brutality and suspiciously profitable trading drew the complaints. He spent 1816–20 out of the fight, indebted and embittered on a mortgaged hacienda.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-iturbide-sent-south",
+      "prompt": "In November 1820, what mission did Viceroy Apodaca give Iturbide with command of the Army of the South?",
+      "answer": "Crushing Vicente Guerrero's rebellion",
+      "distractors": [
+        "Retaking the fortress of Acapulco",
+        "Escorting the silver to Veracruz",
+        "Guarding the Cortes elections"
+      ],
+      "explanation": "Apodaca's intelligence had missed what Iturbide was doing: he had already sounded out officers, clergy and Mexican deputies to the Cortes about a different way to end the war.",
+      "chapter": 9,
+      "feature": "e5-guerrero-south"
+    },
+    {
+      "id": "independence-iguala-date",
+      "prompt": "On what date did Iturbide proclaim his plan for an independent Mexico at Iguala?",
+      "answer": "24 February 1821",
+      "distractors": [
+        "16 September 1810",
+        "24 August 1821",
+        "27 September 1821"
+      ],
+      "explanation": "The plan was quickly printed and distributed across Mexico. Within two weeks the old insurgent Vicente Guerrero had signed up to it.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-iguala"
+    },
+    {
+      "id": "independence-iguala-monarchy",
+      "prompt": "What form of government did the Plan of Iguala propose for independent Mexico?",
+      "answer": "A constitutional monarchy",
+      "distractors": [
+        "A federal republic",
+        "A three-man executive",
+        "A military junta"
+      ],
+      "explanation": "The plan offered an independent Catholic state that included everyone from casta rebels to wealthy Spaniards. Its vagueness made it hard to oppose.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-iguala"
+    },
+    {
+      "id": "independence-union",
+      "prompt": "In the Plan of Iguala, what did the guarantee of \"union\" promise?",
+      "answer": "Conciliation of Americans and Spaniards",
+      "distractors": [
+        "Union with Central America",
+        "Union of all provinces in a federation",
+        "Union of Mexico with the Spanish crown"
+      ],
+      "explanation": "It reassured the Spaniards who had most to lose. Of the three guarantees, Gillingham notes, union was the one later betrayed, when the Spanish were expelled in 1827 and 1829.",
+      "chapter": 9,
+      "feature": "e5-iguala"
+    },
+    {
+      "id": "independence-trigarante",
+      "prompt": "What was the army that fought for the Plan of Iguala in 1821 called?",
+      "answer": "The Ejército Trigarante",
+      "distractors": [
+        "The Army of the Centre",
+        "The Army of Anáhuac",
+        "The Liberating Army of the North"
+      ],
+      "explanation": "The Army of the Three Guarantees joined Iturbide's royalists with Guerrero's insurgents. Most of its work was negotiating the surrender of garrisons rather than fighting.",
+      "chapter": 9,
+      "feature": "e5-iguala"
+    },
+    {
+      "id": "independence-guerrero-division",
+      "prompt": "What post did the insurgent Vicente Guerrero take after signing up to the Plan of Iguala?",
+      "answer": "Command of the army's first division",
+      "distractors": [
+        "Regent of the new empire",
+        "Governor of the province of Mexico",
+        "Captain of the Acapulco fortress"
+      ],
+      "explanation": "The alliance of the last great insurgent with the royalist who had been sent to destroy him made independence possible. By tradition the two sealed it with an embrace at Acatempan.",
+      "chapter": 9,
+      "feature": "e5-acatempan"
+    },
+    {
+      "id": "independence-santa-anna",
+      "prompt": "Which royalist officer in Veracruz was among the first to go over to the Plan of Iguala, in March 1821?",
+      "answer": "Antonio López de Santa Anna",
+      "distractors": [
+        "Ciriaco del Llano",
+        "Manuel de la Concha",
+        "José Joaquín de Arredondo"
+      ],
+      "explanation": "Garrisons followed one after another; conservative Puebla held out until July. Santa Anna would become the master of the pronunciamiento for the next three decades.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-apodaca-deposed",
+      "prompt": "How did Viceroy Apodaca's rule end in July 1821?",
+      "answer": "The Mexico City garrison ousted him",
+      "distractors": [
+        "Guerrero captured him at Acapulco",
+        "He died in the typhus epidemic",
+        "He signed the Treaty of Córdoba"
+      ],
+      "explanation": "By then almost the whole country had gone over to Iturbide. Juan O'Donojú, the liberal sent from Spain to take over, opened peace talks soon after he landed.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-cordoba-regency",
+      "prompt": "Until a European prince could be found for the throne, who did the Treaty of Córdoba say would govern Mexico?",
+      "answer": "A regency",
+      "distractors": [
+        "The viceroy",
+        "A congress of the provinces",
+        "The archbishop of Mexico"
+      ],
+      "explanation": "Gillingham calls it independence by the backdoor: no European prince was likely to accept. A break with Spain was treated as settled before any successor state existed.",
+      "chapter": 9,
+      "feature": "e5-cordoba"
+    },
+    {
+      "id": "independence-empire-name",
+      "prompt": "What was the new state created under the Plan of Iguala and the Treaty of Córdoba called?",
+      "answer": "The Mexican Empire",
+      "distractors": [
+        "The United Mexican States",
+        "América Mexicana",
+        "The Kingdom of New Spain"
+      ],
+      "explanation": "It sounded like a centuries-old throwback, and for a few months it satisfied most of those concerned. The republic came only after Iturbide's fall in 1823.",
+      "chapter": 9,
+      "feature": "e5-cordoba"
+    },
+    {
+      "id": "independence-first-pronunciamiento",
+      "prompt": "Gillingham calls the Plan of Iguala Mexico's first what?",
+      "answer": "Pronunciamiento",
+      "distractors": [
+        "Cabildo abierto",
+        "Real cédula",
+        "Grito"
+      ],
+      "explanation": "A pronunciamiento was a low-cost, ritualised Spanish style of coup: a public declaration of rebellion, more threatened than violent, followed by bargaining. It set a dangerous precedent for the decades after independence.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-iguala"
+    },
+    {
+      "id": "independence-iguala-deaths",
+      "prompt": "By Gillingham's count, roughly how many people died in the seven months between the Plan of Iguala and Iturbide's regency?",
+      "answer": "About 200",
+      "distractors": [
+        "About 5,000",
+        "About 20,000",
+        "About 60,000"
+      ],
+      "explanation": "After a decade in which perhaps one Mexican in ten died, independence itself was almost bloodless. The royalist army simply changed sides, garrison by garrison.",
+      "chapter": 9
+    },
+    {
+      "id": "independence-peace-deal",
+      "prompt": "How does Gillingham characterise the settlement of 1821 that ended Spanish rule?",
+      "answer": "A revolution presented as continuity",
+      "distractors": [
+        "A social revolution from below",
+        "A Jacobin break with the colonial past",
+        "A conquest imposed by foreign powers"
+      ],
+      "explanation": "Gillingham stresses its calculated vagueness and reassurance, which drew an almost bloodless independence out of a vicious civil war. He counts it among history's great peace deals: it ended the first global empire.",
+      "chapter": 9,
+      "feature": "e5-cordoba"
+    },
+    {
+      "id": "independence-entry-date",
+      "prompt": "On what date did Iturbide lead his army into Mexico City, completing the independence campaign?",
+      "answer": "27 September 1821",
+      "distractors": [
+        "16 September 1821",
+        "24 August 1821",
+        "12 December 1821"
+      ],
+      "explanation": "It was Iturbide's 38th birthday, and his army included Guerrero's former insurgents. The next day a governing junta signed the act of independence.",
+      "chapter": 11,
+      "feature": "e5-trigarante-entry"
+    },
+    {
+      "id": "independence-granaditas-where",
+      "kind": "where",
+      "prompt": "In which city did Hidalgo's insurgents storm the Alhóndiga de Granaditas and massacre the Spaniards sheltering inside in September 1810?",
+      "answer": "Guanajuato",
+      "explanation": "Guanajuato was the richest silver city of the Bajío and the seat of an intendancy. Its sack convinced many creoles, Lucas Alamán among them, that the rising was a war of the poor on the propertied.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e5-granaditas"
+    },
+    {
+      "id": "independence-cuautla-where",
+      "kind": "where",
+      "prompt": "Which small city south of the capital did Morelos fortify and hold against Calleja's besieging army for about two months in 1812?",
+      "answer": "Cuautla",
+      "explanation": "Starved and short of water, the defenders broke out on 2 May 1812. The siege made Morelos famous and ground down the royalist army; Gillingham traces the typhus epidemic that followed to the besieging armies.",
+      "chapter": 9,
+      "feature": "e5-cuautla"
+    },
+    {
+      "id": "independence-chilpancingo-where",
+      "kind": "where",
+      "prompt": "Where, in the mountains of the south, did Morelos convene the insurgent congress that declared independence in 1813?",
+      "answer": "Chilpancingo",
+      "explanation": "Chilpancingo, now the capital of Guerrero, lay in the southern country where Morelos's support was strongest. There he presented his programme, the Sentimientos de la Nación.",
+      "chapter": 9,
+      "feature": "e5-chilpancingo"
+    },
+    {
+      "id": "independence-apatzingan-where",
+      "kind": "where",
+      "prompt": "Where, in the Tierra Caliente of Michoacán, did the hunted insurgent congress promulgate its constitution in October 1814?",
+      "answer": "Apatzingán",
+      "explanation": "The congress moved from town to town to escape royalist troops. Its constitution never governed much territory but is remembered as the first Mexican constitution.",
+      "chapter": 9,
+      "feature": "e5-apatzingan"
+    }
+  ]
+}

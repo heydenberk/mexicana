@@ -1,4 +1,4 @@
-// Validates data/eras.json, every era GeoJSON and the quiz banks in data/quiz/ against the data model.
+// Validates data/eras.json, every era GeoJSON and the card decks in data/cards/ against the data model.
 // Runs before every build (npm run build) and on its own with `npm run validate`.
 import { existsSync, readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
@@ -97,76 +97,86 @@ for (const { f, where } of allFeatures) {
   for (const id of f.properties?.exclude ?? []) if (!ids.has(id)) err(where, `exclude refers to unknown id "${id}"`);
 }
 
-// ---------------------------------------------------------------- quiz banks: data/quiz/NN-name.json, one per era file
-const QUESTIONS_PER_ERA = 10;
-const QUESTION_KEYS = {
-  choice: ['id', 'kind', 'prompt', 'options', 'explanation', 'feature'],
-  where: ['id', 'kind', 'prompt', 'explanation', 'feature', 'tolerance_km'],
+// ---------------------------------------------------------------- card decks: data/cards/NN-name.json, one per era file
+// The flashcards study every card; each quiz draws a sample of them.
+const QUIZ_LENGTH = 10;
+const CARD_KEYS = {
+  fact: ['id', 'kind', 'prompt', 'answer', 'distractors', 'explanation', 'chapter', 'feature', 'core'],
+  where: ['id', 'kind', 'prompt', 'answer', 'explanation', 'chapter', 'feature', 'core', 'tolerance_km'],
 };
+const LAST_CHAPTER = 22; // 0 is the Introduction, 22 the Epilogue
 const featureById = new Map(allFeatures.map(({ f }) => [f.properties?.id, f]));
-const questionIds = new Set();
-let questionCount = 0;
-const quizFiles = existsSync('data/quiz') ? readdirSync('data/quiz').filter((f) => f.endsWith('.json')) : [];
+const cardIds = new Set();
+let cardCount = 0;
+const deckFiles = existsSync('data/cards') ? readdirSync('data/cards').filter((f) => f.endsWith('.json')) : [];
 for (const era of eras.filter((e) => e.file)) {
   const file = era.file.replace(/\.geojson$/, '.json');
-  const path = join('data/quiz', file);
-  if (!quizFiles.includes(file)) {
-    warn(path, `missing, so the quiz has no questions on ${era.title}`);
+  const path = join('data/cards', file);
+  if (!deckFiles.includes(file)) {
+    warn(path, `missing, so there are no cards or quiz on ${era.title}`);
     continue;
   }
-  let bank;
+  let deck;
   try {
-    bank = JSON.parse(readFileSync(path, 'utf8'));
+    deck = JSON.parse(readFileSync(path, 'utf8'));
   } catch (e) {
     err(path, `invalid JSON: ${e.message}`);
     continue;
   }
-  if (bank.era !== era.id) err(path, `era "${bank.era}" should be "${era.id}"`);
-  if (!Array.isArray(bank.questions)) {
-    err(path, 'needs a "questions" list');
+  if (deck.era !== era.id) err(path, `era "${deck.era}" should be "${era.id}"`);
+  if (!Array.isArray(deck.cards)) {
+    err(path, 'needs a "cards" list');
     continue;
   }
-  if (bank.questions.length !== QUESTIONS_PER_ERA) err(path, `has ${bank.questions.length} questions; each era has ${QUESTIONS_PER_ERA}`);
-  bank.questions.forEach((q, i) => {
-    questionCount++;
-    const where = `${file} #${i + 1} ${q.id ?? ''}`.trim();
-    if (!QUESTION_KEYS[q.kind]) {
-      err(where, `kind "${q.kind}" must be "choice" or "where"`);
+  if (deck.cards.length < QUIZ_LENGTH) err(path, `has ${deck.cards.length} cards; a quiz needs at least ${QUIZ_LENGTH}`);
+  deck.cards.forEach((c, i) => {
+    cardCount++;
+    const where = `${file} #${i + 1} ${c.id ?? ''}`.trim();
+    const kind = c.kind ?? 'fact';
+    if (!CARD_KEYS[kind]) {
+      err(where, `kind "${c.kind}" must be "where" or left out`);
       return;
     }
-    for (const k of ['id', 'prompt', 'explanation', 'feature']) if (typeof q[k] !== 'string' || !q[k].trim()) err(where, `missing "${k}"`);
-    for (const k of Object.keys(q)) if (!QUESTION_KEYS[q.kind].includes(k)) warn(where, `unknown property "${k}"`);
-    if (q.id) {
-      if (questionIds.has(q.id)) err(where, 'duplicate question id');
-      questionIds.add(q.id);
+    for (const k of ['id', 'prompt', 'answer', 'explanation']) if (typeof c[k] !== 'string' || !c[k].trim()) err(where, `missing "${k}"`);
+    for (const k of Object.keys(c)) if (!CARD_KEYS[kind].includes(k)) warn(where, `unknown property "${k}"`);
+    if (c.id) {
+      if (cardIds.has(c.id)) err(where, 'duplicate card id');
+      cardIds.add(c.id);
+      if (!c.id.startsWith(`${era.id}-`)) err(where, `id should start with "${era.id}-"`);
     }
-    const f = featureById.get(q.feature);
-    if (q.feature && !f) err(where, `feature "${q.feature}" not found`);
-    else if (f && f.properties.era !== era.id) err(where, `feature "${q.feature}" belongs to era ${f.properties.era}`);
-    if (q.kind === 'choice') {
-      const opts = q.options;
-      if (!Array.isArray(opts) || opts.length !== 4) err(where, 'needs exactly 4 options (the first is the right answer)');
+    if (/click the map/i.test(c.prompt ?? '')) err(where, 'the prompt should not say "click the map"; the quiz says it');
+    if (typeof c.answer === 'string' && c.answer.length > 120) warn(where, 'answer is long for a flashcard');
+    if (c.chapter !== undefined && !(Number.isInteger(c.chapter) && c.chapter >= 0 && c.chapter <= LAST_CHAPTER)) err(where, `"chapter" must be a whole number from 0 (Introduction) to ${LAST_CHAPTER} (Epilogue)`);
+    if (c.core !== undefined && typeof c.core !== 'boolean') err(where, '"core" must be true or false');
+    const f = c.feature === undefined ? undefined : featureById.get(c.feature);
+    if (kind === 'where' && c.feature === undefined) err(where, 'a map card needs a "feature"');
+    if (c.feature !== undefined && !f) err(where, `feature "${c.feature}" not found`);
+    else if (f && f.properties.era !== era.id) err(where, `feature "${c.feature}" belongs to era ${f.properties.era}`);
+    if (kind === 'fact') {
+      const opts = c.distractors;
+      if (!Array.isArray(opts) || opts.length !== 3) err(where, 'needs exactly 3 "distractors" (wrong answers for the quiz)');
       else {
-        if (opts.some((o) => typeof o !== 'string' || !o.trim())) err(where, 'every option must be non-empty text');
-        if (new Set(opts.map((o) => String(o).trim().toLowerCase())).size !== opts.length) err(where, 'options must all differ');
+        if (opts.some((o) => typeof o !== 'string' || !o.trim())) err(where, 'every distractor must be non-empty text');
+        const all = [c.answer, ...opts].map((o) => String(o).trim().toLowerCase());
+        if (new Set(all).size !== all.length) err(where, 'the answer and distractors must all differ');
       }
     } else {
-      if (q.tolerance_km !== undefined && !(Number.isFinite(q.tolerance_km) && q.tolerance_km > 0)) err(where, '"tolerance_km" must be a positive number');
-      if (f && f.geometry?.type !== 'Point') err(where, `a map question needs a Point feature; "${q.feature}" is a ${f.geometry?.type}`);
+      if (c.tolerance_km !== undefined && !(Number.isFinite(c.tolerance_km) && c.tolerance_km > 0)) err(where, '"tolerance_km" must be a positive number');
+      if (f && f.geometry?.type !== 'Point') err(where, `a map card needs a Point feature; "${c.feature}" is a ${f.geometry?.type}`);
       else if (f) {
-        if (f.properties.confidence === 'schematic') err(where, `"${q.feature}" is schematic, so it has no exact place to find`);
+        if (f.properties.confidence === 'schematic') err(where, `"${c.feature}" is schematic, so it has no exact place to find`);
         const [x, y] = f.geometry.coordinates;
         const [w, s, e, n] = era.bbox;
-        if (x < w || x > e || y < s || y > n) err(where, `"${q.feature}" lies outside the era's map (bbox in eras.json)`);
+        if (x < w || x > e || y < s || y > n) err(where, `"${c.feature}" lies outside the era's map (bbox in eras.json)`);
       }
     }
   });
 }
-for (const file of quizFiles) {
-  if (!eras.some((e) => e.file?.replace(/\.geojson$/, '.json') === file)) warn(join('data/quiz', file), 'does not match an era file, so it is not used');
+for (const file of deckFiles) {
+  if (!eras.some((e) => e.file?.replace(/\.geojson$/, '.json') === file)) warn(join('data/cards', file), 'does not match an era file, so it is not used');
 }
 
 for (const w of warnings) console.warn(`warning  ${w}`);
 for (const e of errors) console.error(`error    ${e}`);
-console.log(`\n${allFeatures.length} features and ${questionCount} quiz questions checked: ${errors.length} errors, ${warnings.length} warnings`);
+console.log(`\n${allFeatures.length} features and ${cardCount} cards checked: ${errors.length} errors, ${warnings.length} warnings`);
 process.exit(errors.length ? 1 : 0);

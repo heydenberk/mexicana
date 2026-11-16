@@ -1,0 +1,1089 @@
+{
+  "era": "present",
+  "cards": [
+    {
+      "id": "present-1",
+      "prompt": "Who won the presidential election of 2 July 2000, ending 71 years of rule by the PRI and its predecessors?",
+      "answer": "Vicente Fox",
+      "distractors": [
+        "Felipe Calderón",
+        "Andrés Manuel López Obrador",
+        "Ernesto Zedillo"
+      ],
+      "explanation": "Fox, a former Coca-Cola executive and governor of Guanajuato, won for the PAN with about 43 per cent of the vote. President Zedillo recognised the result on election night, after the count by the independent Federal Electoral Institute.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e12-election-2000"
+    },
+    {
+      "id": "present-2",
+      "prompt": "Ten days after taking office in December 2006, Felipe Calderón sent more than 5,000 soldiers and marines into which state, beginning the drug war?",
+      "answer": "Michoacán",
+      "distractors": [
+        "Chihuahua",
+        "Tamaulipas",
+        "Baja California"
+      ],
+      "explanation": "In Calderón's home state the Familia Michoacana had announced itself that September by throwing five severed heads onto the dance floor of a bar in Uruapan. Similar operations followed elsewhere, and as captures and killings splintered the cartels, recorded homicides rose from about 8,900 in 2007 to about 27,200 in 2011.",
+      "chapter": 21,
+      "core": true,
+      "feature": "e12-operacion-michoacan"
+    },
+    {
+      "id": "present-3",
+      "prompt": "In August 2010 marines found the bodies of 72 migrants at a ranch near San Fernando, Tamaulipas. Which criminal group had killed them?",
+      "answer": "The Zetas",
+      "distractors": [
+        "Guerreros Unidos",
+        "The Caballeros Templarios",
+        "The Familia Michoacana"
+      ],
+      "explanation": "The migrants, mostly from Central and South America, had been seized on their way north and shot, and in 2011 clandestine graves around the town yielded 193 more bodies. The killings exposed the dangers of the route along the Gulf coast to the Rio Grande.",
+      "chapter": 21,
+      "feature": "e12-san-fernando"
+    },
+    {
+      "id": "present-4",
+      "prompt": "What, more than drug trafficking itself, drove armed civilians in Michoacán's Tierra Caliente to form the autodefensas in 2013?",
+      "answer": "Cartel extortion of growers and cattlemen",
+      "distractors": [
+        "The disappearance of the Ayotzinapa students",
+        "The war between the Sinaloa and Juárez cartels",
+        "The cancellation of the Texcoco airport"
+      ],
+      "explanation": "On 24 February 2013 armed civilians in Tepalcatepec and La Ruana rose against the Caballeros Templarios, who extorted lime growers, avocado farmers and cattlemen and controlled local government. Tancítaro's avocado growers estimated that organised crime took about US$770 million from their trade in 2009–13.",
+      "chapter": 21,
+      "feature": "e12-autodefensas"
+    },
+    {
+      "id": "present-5",
+      "kind": "where",
+      "prompt": "On the night of 26–27 September 2014, 43 students of the Ayotzinapa rural teachers' college were taken and disappeared in Iguala, Guerrero. Where is Iguala?",
+      "answer": "Iguala, in northern Guerrero",
+      "explanation": "The students were attacked by municipal police working with the Guerreros Unidos gang, with state, federal and army forces aware of what was happening. The attorney general's \"historical truth\" that they were burned at the Cocula rubbish dump was refuted by the Inter-American Commission's experts, and in 2022 the federal truth commission called it a crime of state.",
+      "chapter": 21,
+      "core": true,
+      "feature": "e12-ayotzinapa-iguala"
+    },
+    {
+      "id": "present-6",
+      "kind": "where",
+      "prompt": "On 19 October 2018 thousands of Hondurans in a migrant caravan filled the bridge over the Suchiate River between Tecún Umán, Guatemala, and Ciudad Hidalgo, Chiapas. Where is the crossing?",
+      "answer": "The Suchiate river at Ciudad Hidalgo, on the Guatemalan border",
+      "explanation": "Mexican police held the caravan back on the bridge, but most of its members crossed the river over the next days. From 2019, under US pressure, Mexico deployed the National Guard along the river, and Tapachula became a city of migrants waiting for papers.",
+      "feature": "e12-suchiate"
+    },
+    {
+      "id": "present-7",
+      "kind": "where",
+      "prompt": "On 17 October 2019 cartel gunmen besieged Culiacán, Sinaloa, after soldiers detained Ovidio Guzmán, a son of El Chapo. Where is Culiacán?",
+      "answer": "Culiacán, Sinaloa",
+      "explanation": "Hundreds of gunmen blockaded and shot across the city and took soldiers hostage, and López Obrador ordered Ovidio released to avoid a massacre. He was arrested again near Culiacán in January 2023 and extradited to the United States that September.",
+      "chapter": 21,
+      "feature": "e12-culiacanazo"
+    },
+    {
+      "id": "present-8",
+      "prompt": "Which project did López Obrador's government build at the port of Dos Bocas, on the coast of his home state of Tabasco?",
+      "answer": "The Olmeca refinery",
+      "distractors": [
+        "The Felipe Ángeles airport",
+        "The Lake Texcoco Ecological Park",
+        "The expanded port of Salina Cruz"
+      ],
+      "explanation": "Meant to cut Mexico's dependence on imported petrol, the 340,000-barrel-a-day refinery was inaugurated unfinished on 1 July 2022, with costs far above the original US$8 billion estimate. With the Tren Maya and the Interoceanic Corridor, it was part of the shift of public investment to the south-east.",
+      "feature": "e12-dos-bocas"
+    },
+    {
+      "id": "present-9",
+      "prompt": "Before her election in 2024, what office had Mexico's first woman president held from 2018 to 2023?",
+      "answer": "Head of government of Mexico City",
+      "distractors": [
+        "Governor of Guanajuato",
+        "Mayor of Uruapan",
+        "Secretary-general of the PRI"
+      ],
+      "explanation": "Claudia Sheinbaum, a climate scientist, won for Morena with about 60 per cent of the vote, and her coalition won a two-thirds majority in the Chamber of Deputies. She took the oath in the Chamber of Deputies at San Lázaro on 1 October 2024.",
+      "feature": "e12-sheinbaum"
+    },
+    {
+      "id": "present-10",
+      "prompt": "What did the constitutional reform published on 15 September 2024 do?",
+      "answer": "Replaced appointed judges with elected ones",
+      "distractors": [
+        "Created the National Guard to take over policing",
+        "Turned the Federal District into Mexico City",
+        "Made the electoral institute independent"
+      ],
+      "explanation": "Pushed through by López Obrador in his last weeks in office, it led to the first judicial election on 1 June 2025, when turnout was about 13 per cent. Critics saw the end of judicial independence; supporters a blow against a corrupt, privileged judiciary.",
+      "feature": "e12-judicial-reform"
+    },
+    {
+      "id": "present-pan",
+      "prompt": "For which party did the opposition win the presidency in 2000, a victory it repeated in 2006?",
+      "answer": "The PAN (Partido Acción Nacional)",
+      "distractors": [
+        "The PRD (Partido de la Revolución Democrática)",
+        "The PRI (Partido Revolucionario Institucional)",
+        "The PT (Partido del Trabajo)"
+      ],
+      "explanation": "The PAN, the long-standing opposition of the Right, held the presidency for two terms, under Fox (2000–06) and Calderón (2006–12). Its win in 2000 ended the one-party state.",
+      "chapter": 21,
+      "feature": "e12-election-2000"
+    },
+    {
+      "id": "present-zedillo-concedes",
+      "prompt": "On election night in July 2000, why, according to Gillingham, did President Ernesto Zedillo go on television to recognise the opposition's victory without waiting for the PRI's candidate to concede?",
+      "answer": "To head off any last-minute PRI fraud",
+      "distractors": [
+        "To claim credit for Fox's campaign",
+        "To announce a recount of the vote",
+        "To hand power early to the army"
+      ],
+      "explanation": "Zedillo, a convinced democrat who had kept out of the campaign, pressed the PRI candidate to accept defeat and, when he hesitated, made the announcement himself. Gillingham stresses that the PRI made no final attempt to cling on through violence, bribery or rigging.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e12-election-2000"
+    },
+    {
+      "id": "present-labastida",
+      "prompt": "Who was the PRI's candidate in the presidential election of 2000, the first the party lost?",
+      "answer": "Francisco Labastida",
+      "distractors": [
+        "Roberto Madrazo",
+        "Luis Donaldo Colosio",
+        "Manuel Bartlett"
+      ],
+      "explanation": "A former interior secretary, Labastida beat the populist Roberto Madrazo in the PRI's primary. He had also governed Sinaloa, which gave Fox an opening to attack him over narco links.",
+      "chapter": 19
+    },
+    {
+      "id": "present-cardenas-2000",
+      "prompt": "Who was the left-wing PRD's candidate in the presidential election of 2000?",
+      "answer": "Cuauhtémoc Cárdenas",
+      "distractors": [
+        "Andrés Manuel López Obrador",
+        "Porfirio Muñoz Ledo",
+        "Rosario Robles"
+      ],
+      "explanation": "Porfirio Muñoz Ledo, who had wanted to challenge Cárdenas for the nomination, left the PRD and ended up endorsing Fox. Cárdenas, making his third run for the presidency, came third.",
+      "chapter": 19
+    },
+    {
+      "id": "present-angel",
+      "prompt": "Where in Mexico City did the winner of the 2000 presidential election address a cheering crowd at 2 a.m. on election night?",
+      "answer": "The Ángel de la Independencia",
+      "distractors": [
+        "The Monumento a la Revolución",
+        "The Basilica of Guadalupe",
+        "The Palacio de Bellas Artes"
+      ],
+      "explanation": "Fox told the crowd that they would celebrate today and work tomorrow. Most Mexicans agreed that the election had been democratic and that the country was better off without the PRI, though some barrio dwellers soon said little had changed.",
+      "chapter": 21
+    },
+    {
+      "id": "present-three-fronts",
+      "prompt": "Gillingham describes the War on Drugs as a war on three fronts: the army against cartels, cartels against cartels, and what?",
+      "answer": "Cartels against civilians",
+      "distractors": [
+        "The army against guerrillas",
+        "The police against the army",
+        "The United States against Mexico"
+      ],
+      "explanation": "He argues that the conflict resembled a civil war more than a police campaign: many armed groups fought one another for control of territory and communities, and even over ideas.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-civilians",
+      "prompt": "According to Gillingham, who made up the majority of those killed in the War on Drugs, as in the civil wars of the Revolution?",
+      "answer": "Civilians",
+      "distractors": [
+        "Soldiers and marines",
+        "Cartel gunmen",
+        "Federal police officers"
+      ],
+      "explanation": "Non-combatants were caught between the cartels and the security forces. Gillingham compares the war's toll on provincial Mexico, with its massacres and child gunmen, to the 1910s.",
+      "chapter": 21
+    },
+    {
+      "id": "present-determinant",
+      "prompt": "According to Gillingham, what, more than elections or economic reforms, was the main force shaping Mexico's new democracy after 2000?",
+      "answer": "Drugs and the war on them",
+      "distractors": [
+        "Free trade under NAFTA",
+        "The new electoral institutions",
+        "The revival of oil revenues"
+      ],
+      "explanation": "By the early 2020s Mexico had been at war for nearly fifteen years. The two decades after the PRI's fall looked very different from the hopeful morning of July 2000.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-irony",
+      "prompt": "Why does Gillingham call it ironic that drugs came to dominate democratic Mexico?",
+      "answer": "Few Mexicans themselves used drugs",
+      "distractors": [
+        "Mexico grew none of the drugs",
+        "The cartels backed democracy",
+        "The PRI had legalised marijuana"
+      ],
+      "explanation": "When the war began in 2006 Mexico was in the bottom fifth of cocaine-using countries, and its combined illegal drug use was about a third of the world average. Drug use had never been a public health problem there.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-cocaine-tried",
+      "prompt": "When the drug war began in 2006, nearly one American in six had tried cocaine. About how many Mexicans had?",
+      "answer": "About one in forty",
+      "distractors": [
+        "About one in five",
+        "About one in ten",
+        "About one in two"
+      ],
+      "explanation": "Only about one Mexican in a thousand had an opiate problem. The demand that the war was fought over lay north of the border.",
+      "chapter": 21
+    },
+    {
+      "id": "present-us-demand",
+      "prompt": "What does Gillingham identify as the main reason for the War on Drugs in Mexico?",
+      "answer": "Drug consumption in the United States",
+      "distractors": [
+        "Rising addiction in Mexico",
+        "Guerrillas funding themselves with drugs",
+        "Colombian pressure on Mexico"
+      ],
+      "explanation": "US cocaine use rose year by year after 2011 as the drug got purer and cheaper, and so did methamphetamine and heroin use. Gillingham calls the business that of getting recreational drugs to American consumers.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-us-users",
+      "prompt": "Between 2010 and 2020, by about how much did the number of Americans using illegal drugs rise?",
+      "answer": "About 50 per cent",
+      "distractors": [
+        "About 5 per cent",
+        "About 200 per cent",
+        "About 500 per cent"
+      ],
+      "explanation": "Over the same decade, overdose deaths from cocaine and heroin in the United States more than quadrupled, partly because of undisclosed fentanyl in the supply.",
+      "chapter": 21
+    },
+    {
+      "id": "present-fentanyl",
+      "prompt": "Which synthetic opioid, Gillingham notes, had by the end of the 2010s almost replaced heroin in parts of the United States such as New England?",
+      "answer": "Fentanyl",
+      "distractors": [
+        "Oxycodone",
+        "Methadone",
+        "Tramadol"
+      ],
+      "explanation": "Gillingham presents it as one more case of the drug market adapting: the long war on heroin opened the door to a cheaper, deadlier substitute.",
+      "chapter": 21
+    },
+    {
+      "id": "present-deaths",
+      "prompt": "By Gillingham's count, how many Mexicans did the War on Drugs kill between 2006 and 2020?",
+      "answer": "More than 200,000",
+      "distractors": [
+        "About 20,000",
+        "About 60,000",
+        "More than 1 million"
+      ],
+      "explanation": "The UN counted about 200,000 more people driven from their homes, and asylum claims suggest many more. For comparison, the Revolution of the 1910s killed about 1.4 million.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-disappeared",
+      "prompt": "Between 2006 and 2020, about how many Mexicans disappeared or were disappeared, according to Gillingham?",
+      "answer": "About 100,000",
+      "distractors": [
+        "About 1,000",
+        "About 10,000",
+        "About 1 million"
+      ],
+      "explanation": "Most of the disappeared were never found. Searching for them fell largely to their families, and clandestine graves became a feature of the war.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-cristiada",
+      "prompt": "Gillingham writes that Calderón's drug war left more Mexicans dead or displaced than which of these?",
+      "answer": "The Cristero War",
+      "distractors": [
+        "The Revolution of 1910–20",
+        "The conquest epidemics of the 1520s",
+        "The cocoliztli epidemic of 1545"
+      ],
+      "explanation": "He also lists the war against France, the war against the United States and the last colonial smallpox epidemic. The Revolution, by contrast, killed about 1.4 million.",
+      "chapter": 21
+    },
+    {
+      "id": "present-journalists",
+      "prompt": "About how many journalists were murdered in Mexico between 2006 and 2020?",
+      "answer": "More than 100",
+      "distractors": [
+        "About 10",
+        "About 25",
+        "More than 1,000"
+      ],
+      "explanation": "Mexico became one of the most dangerous places in the world for reporters; by 2020 Iraq was safer. Even so, journalists and leaks supplied most of what could be known about the war.",
+      "chapter": 21
+    },
+    {
+      "id": "present-valdez-riodoce",
+      "prompt": "Javier Valdez, the prize-winning Sinaloan reporter killed in 2017, had co-founded which Culiacán weekly that covered the Sinaloa Cartel?",
+      "answer": "Ríodoce",
+      "distractors": [
+        "Proceso",
+        "Zeta",
+        "Nexos"
+      ],
+      "explanation": "Valdez, also La Jornada's Sinaloa correspondent, was dragged from his car and shot near the paper's office in May 2017. Prosecutors linked the killing to his reporting on the feud between factions of the Sinaloa Cartel, but rival theories pointed to politicians.",
+      "chapter": 21,
+      "feature": "e12-javier-valdez"
+    },
+    {
+      "id": "present-archives",
+      "prompt": "Why does Gillingham say it was still early to write the history of the drug war?",
+      "answer": "The official archives were still closed",
+      "distractors": [
+        "Few people had died in it yet",
+        "The cartels had burned the evidence",
+        "Historians were barred from Sinaloa"
+      ],
+      "explanation": "A thirty-year lag in opening even routine records left everything since the 1980s unavailable, intelligence files were redacted and reshuffled, and the army denied that routine reports even existed. What was known came from leaks, journalists and researchers.",
+      "chapter": 21
+    },
+    {
+      "id": "present-chapo-escape",
+      "prompt": "Which drug lord escaped from the Puente Grande maximum-security prison in January 2001, the second month of Fox's presidency?",
+      "answer": "Joaquín \"El Chapo\" Guzmán",
+      "distractors": [
+        "Ismael \"El Mayo\" Zambada",
+        "Rafael Caro Quintero",
+        "Osiel Cárdenas Guillén"
+      ],
+      "explanation": "The most widely accepted story is that he was wheeled out in a laundry cart; others say he walked out of the front door. He went on to build the Sinaloa Cartel into the strongest of the organisations.",
+      "chapter": 21,
+      "feature": "e12-puente-grande"
+    },
+    {
+      "id": "present-fox-extradition",
+      "prompt": "Apart from largely continuing the policies of the 1990s, what new approach did Vicente Fox take against the drug trade?",
+      "answer": "Extraditing many more narcos to the United States",
+      "distractors": [
+        "Sending the army into Michoacán",
+        "Closing the border to Mexican trucks",
+        "Replacing the police with a National Guard"
+      ],
+      "explanation": "Fox had promised to solve the drug problem, but the flow of drugs did not fall and he was widely called incompetent. Yet Gillingham says that by the standards of what came next his policy looked like masterly inactivity.",
+      "chapter": 21
+    },
+    {
+      "id": "present-garcia-luna",
+      "prompt": "Which top security official of the Fox and Calderón governments was arrested in Texas in 2019 for taking millions in bribes from the Sinaloa Cartel?",
+      "answer": "Genaro García Luna",
+      "distractors": [
+        "Jesús Murillo Karam",
+        "Salvador Cienfuegos",
+        "Tomás Ángeles Dauahare"
+      ],
+      "explanation": "Fox's top drug policeman became Calderón's secretary of public security (2006–12), the man in charge of the war. Proceso had published about a hundred articles on his narco links since 2005, and in October 2024 a New York court sentenced him to more than 38 years.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-calderon-margin",
+      "prompt": "By roughly what margin did Felipe Calderón officially defeat Andrés Manuel López Obrador in the presidential election of 2006?",
+      "answer": "About half a percentage point",
+      "distractors": [
+        "About 5 percentage points",
+        "About 10 percentage points",
+        "About 20 percentage points"
+      ],
+      "explanation": "The gap was about a quarter of a million votes. After a partial recount the electoral tribunal confirmed Calderón's victory, but López Obrador never accepted it.",
+      "chapter": 21,
+      "feature": "e12-election-2006"
+    },
+    {
+      "id": "present-amlo-2006",
+      "prompt": "How did the leftist candidate Andrés Manuel López Obrador respond to his narrow defeat in the 2006 presidential election?",
+      "answer": "He declared a parallel government",
+      "distractors": [
+        "He conceded on election night",
+        "He joined Calderón's cabinet",
+        "He went into exile in Cuba"
+      ],
+      "explanation": "His supporters camped in the Zócalo and along Paseo de la Reforma for seven weeks, and in November 2006 he was sworn in by his followers as the \"legitimate president\". The bitterness of the dispute is the background to Calderón's decision to launch the drug war.",
+      "chapter": 21,
+      "core": true,
+      "feature": "e12-election-2006"
+    },
+    {
+      "id": "present-khaki",
+      "prompt": "According to Gillingham, what was Felipe Calderón really seeking when he declared war on the cartels in December 2006?",
+      "answer": "Legitimacy after a disputed election",
+      "distractors": [
+        "More US aid for the army",
+        "Revenge for a murdered relative",
+        "Control of Michoacán's avocado trade"
+      ],
+      "explanation": "Gillingham sees it as a search for military, \"khaki\" legitimacy: no reason of state justified militarising the countryside, and he condemns the choice of a war that could not be won as reckless and immoral.",
+      "chapter": 21,
+      "core": true,
+      "feature": "e12-operacion-michoacan"
+    },
+    {
+      "id": "present-zetas-origin",
+      "prompt": "The Zetas, founded in the late 1990s with former Mexican special forces soldiers, began as the armed wing of which cartel before rebelling in 2010?",
+      "answer": "The Gulf Cartel",
+      "distractors": [
+        "The Sinaloa Cartel",
+        "The Juárez Cartel",
+        "The Tijuana Cartel"
+      ],
+      "explanation": "After breaking away in 2010 the Zetas seized plazas for themselves and became notorious for atrocities, such as the massacre of migrants at San Fernando, Tamaulipas.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-cjng",
+      "prompt": "By the end of the 2010s, which organisation had taken much of Mexico from the Zetas?",
+      "answer": "The Jalisco New Generation Cartel",
+      "distractors": [
+        "The Familia Michoacana",
+        "The Beltrán Leyva Organisation",
+        "The Caballeros Templarios"
+      ],
+      "explanation": "Gillingham sees the CJNG as a post-Zetas generation, just as terrorist and less concerned than older organisations with diplomacy or a Robin Hood image.",
+      "chapter": 21
+    },
+    {
+      "id": "present-gulf-sinaloa",
+      "prompt": "Which cartel's war with the Sinaloa Cartel, from about 2005, spread the fighting along the whole US border?",
+      "answer": "The Gulf Cartel",
+      "distractors": [
+        "The Tijuana Cartel",
+        "The Juárez Cartel",
+        "The Familia Michoacana"
+      ],
+      "explanation": "Earlier wars had been local: Sinaloa against the Arellano Félix brothers in Tijuana, then a three-way fight over Juárez after the Lord of the Skies vanished in 1997.",
+      "chapter": 21
+    },
+    {
+      "id": "present-beltran-leyva",
+      "prompt": "During the drug war, which former allies on the Pacific coast did the Sinaloa Cartel turn against, while also moving east against Juárez?",
+      "answer": "The Beltrán Leyva brothers",
+      "distractors": [
+        "The Caballeros Templarios",
+        "The Zetas",
+        "The Familia Michoacana"
+      ],
+      "explanation": "The old organisations split and, except for Sinaloa, declined or gave way to new combinations of gangs. Soldiers fighting all of them were ineffective or bought off.",
+      "chapter": 21
+    },
+    {
+      "id": "present-dangerous-regions",
+      "prompt": "Which regions does Gillingham identify as the most dangerous during the drug war?",
+      "answer": "Those with no single dominant cartel",
+      "distractors": [
+        "Those under the Sinaloa Cartel",
+        "Those with the most army bases",
+        "The big cities of central Mexico"
+      ],
+      "explanation": "In the twentieth century, politicians and cartels policed the boundaries of the plazas, and stability was better business than war. Where several groups competed after 2000, violence soared.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-rolling-stone",
+      "prompt": "In 2016 Joaquín \"El Chapo\" Guzmán, co-founder of the Sinaloa Cartel, gave an interview to which publication?",
+      "answer": "Rolling Stone",
+      "distractors": [
+        "Proceso",
+        "Time",
+        "The New Yorker"
+      ],
+      "explanation": "The Sinaloans had the best public relations of the narcos. In 2010 the other co-founder, Ismael \"El Mayo\" Zambada, had given a candid interview to Proceso, Mexico's main news magazine.",
+      "chapter": 21
+    },
+    {
+      "id": "present-culiacanazo-release",
+      "prompt": "In October 2019 cartel gunmen drove the security forces out of Culiacán after the army arrested Ovidio Guzmán. How did the stand-off end?",
+      "answer": "The government released Ovidio Guzmán",
+      "distractors": [
+        "The army retook the city by force",
+        "The cartel handed over its gunmen",
+        "Ovidio was flown to the United States"
+      ],
+      "explanation": "The gunmen used blockades of burning cars, machine guns and sniper rifles. When the government arrested Ovidio again in January 2023, it came with helicopter gunships.",
+      "chapter": 21,
+      "feature": "e12-culiacanazo"
+    },
+    {
+      "id": "present-ieds",
+      "prompt": "In Michoacán, how did narcos control the roads so tightly that the army began resupplying its bases by helicopter?",
+      "answer": "With roadblocks and improvised explosives",
+      "distractors": [
+        "By bribing the toll-road operators",
+        "By blowing up the railway bridges",
+        "With tanks bought in the United States"
+      ],
+      "explanation": "Some explosives even flew: commercial drones carried C-4 and ball bearings. Michoacán was a centre of violence and of rapid turnover between cartels.",
+      "chapter": 21
+    },
+    {
+      "id": "present-diversification",
+      "prompt": "By the mid-2010s, many smaller criminal gangs earned more from what than from producing or smuggling drugs?",
+      "answer": "Extortion and kidnapping",
+      "distractors": [
+        "Legal avocado and lime exports",
+        "Growing coca for Andean cartels",
+        "Selling weapons to the army"
+      ],
+      "explanation": "Paramilitary criminals expanded into robbery, kidnapping, extortion, human trafficking, forced sex work and illegal logging and mining. It was safer and steadier than long-distance shipping of drugs.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-derecho-de-piso",
+      "prompt": "What was the derecho de piso that criminal gangs charged across provincial Mexico?",
+      "answer": "An extorted fee for the right to operate",
+      "distractors": [
+        "A toll paid by cartels to governors",
+        "A bribe paid to customs officers",
+        "A rent charged for ejido land"
+      ],
+      "explanation": "Those who could not pay faced threats, beatings, kidnapping and murder. Most paid, which then exposed them to reprisals from rival gangs, as the CJNG warned when it moved into Ciudad Hidalgo, Michoacán.",
+      "chapter": 21
+    },
+    {
+      "id": "present-small-business",
+      "prompt": "According to Gillingham, which group became the most frequent target of criminal gangs in provincial Mexico?",
+      "answer": "Small businessmen",
+      "distractors": [
+        "Large landowners",
+        "Foreign tourists",
+        "Catholic priests"
+      ],
+      "explanation": "Gillingham calls civilians' position a catch-22: cartel wars brought armed conflict, but a victor's rough peace brought forced recruitment, theft and extortion by its local gangs.",
+      "chapter": 21
+    },
+    {
+      "id": "present-migrants-prey",
+      "prompt": "Besides charging them to cross their territory, what did gangs force many Central American migrants crossing Mexico to do?",
+      "answer": "Work as drug mules or sex workers",
+      "distractors": [
+        "Enlist in the National Guard",
+        "Join the autodefensas",
+        "Guard ranches on the US border"
+      ],
+      "explanation": "Migrants were easy prey, liable to arrest as soon as they entered Mexico or were deported from the US, and they were readily disappeared.",
+      "chapter": 21,
+      "feature": "e12-san-fernando"
+    },
+    {
+      "id": "present-performative",
+      "prompt": "Beyond sadism and revenge, what strategic purpose did cartels' staged, gruesome killings serve, according to Gillingham?",
+      "answer": "Terror deterred rivals and controlled civilians",
+      "distractors": [
+        "They fulfilled religious vows",
+        "They provoked US military intervention",
+        "They met quotas set by kingpins"
+      ],
+      "explanation": "Performative murder spreads more fear than simple killing, a logic seen from Colombia to Afghanistan. Social media magnified its terrorist effect in Mexico.",
+      "chapter": 21
+    },
+    {
+      "id": "present-minors",
+      "prompt": "By 2011, roughly how many minors were estimated to be working for drug gangs in Mexico?",
+      "answer": "About 35,000",
+      "distractors": [
+        "About 3,500",
+        "About 350,000",
+        "About 1,000"
+      ],
+      "explanation": "Gillingham calls it a comparatively conservative estimate. Street children and kidnapped children taken young could be desensitised to violence; one child hitman started at eleven.",
+      "chapter": 21
+    },
+    {
+      "id": "present-avocado-revenue",
+      "prompt": "In the late 2010s, roughly how much were Mexico's avocado exports, most of them from Michoacán, worth each year?",
+      "answer": "More than $2 billion",
+      "distractors": [
+        "About $20 million",
+        "About $200 million",
+        "More than $20 billion"
+      ],
+      "explanation": "The fight to control that wealth killed ranchers, labourers, members of cooperatives and self-defence fighters. Gillingham sees cartels moving into the trade as a rational economic choice.",
+      "chapter": 21,
+      "feature": "e12-avocado-michoacan"
+    },
+    {
+      "id": "present-avocado-boom",
+      "prompt": "Which two changes of the 1990s set off the avocado boom in Michoacán?",
+      "answer": "Ejido privatisation and NAFTA",
+      "distractors": [
+        "The oil boom and the peso crisis",
+        "Land reform and the Bracero Program",
+        "The Green Revolution and import substitution"
+      ],
+      "explanation": "Avocados replaced maize, coffee, marijuana and poppies; ranches and large estates grew, and small farmers became labourers. Gillingham sees the drug gangs detonating a social conflict that was already there.",
+      "chapter": 21,
+      "feature": "e12-avocado-michoacan"
+    },
+    {
+      "id": "present-autodefensas-heirs",
+      "prompt": "Gillingham sees Michoacán's autodefensas, the community vigilante groups formed against the cartels, as heirs to which earlier armed groups?",
+      "answer": "The Revolution's agrarian militias",
+      "distractors": [
+        "The rurales of the Porfiriato",
+        "The Zapatista army of 1994",
+        "The insurgent bands of 1810"
+      ],
+      "explanation": "Like the revolutionary defensas sociales they were partly effective, became caught up in violence between communities, and saw many of their leaders killed.",
+      "chapter": 21,
+      "feature": "e12-autodefensas"
+    },
+    {
+      "id": "present-ayotzinapa-commemoration",
+      "prompt": "In 2014 students of the Ayotzinapa rural teachers' college took buses in Iguala to travel to Mexico City to commemorate what?",
+      "answer": "The 1968 Tlatelolco massacre",
+      "distractors": [
+        "The 1971 Corpus Christi massacre",
+        "The 1994 Zapatista rising",
+        "The 1910 outbreak of the Revolution"
+      ],
+      "explanation": "The commemoration was the annual march of 2 October. Forty-three of the students were disappeared that night; Gillingham notes that by 2014 even students seemed to count as legitimate targets.",
+      "chapter": 21,
+      "feature": "e12-ayotzinapa-iguala"
+    },
+    {
+      "id": "present-guerreros-unidos",
+      "prompt": "Which drug gang, dominant in Iguala, mistook the Ayotzinapa students' trip for an attack by its rivals Los Rojos?",
+      "answer": "Guerreros Unidos",
+      "distractors": [
+        "The Familia Michoacana",
+        "The Zetas",
+        "The Caballeros Templarios"
+      ],
+      "explanation": "Municipal police seized the students and handed them to the gang, whose leader ordered them killed. Despite years of searching, the remains of only three of the 43 have been identified.",
+      "chapter": 21,
+      "feature": "e12-ayotzinapa-iguala"
+    },
+    {
+      "id": "present-murillo-karam",
+      "prompt": "Which attorney general produced a version of the Ayotzinapa disappearances that rested on tortured witnesses and left the army out, and was arrested eight years later?",
+      "answer": "Jesús Murillo Karam",
+      "distractors": [
+        "Genaro García Luna",
+        "Salvador Cienfuegos",
+        "Manuel Bartlett"
+      ],
+      "explanation": "His account was discredited, and in 2022 the federal truth commission called the case a crime of state. Murillo Karam was arrested that year for his part in the affair.",
+      "chapter": 21,
+      "feature": "e12-ayotzinapa-iguala"
+    },
+    {
+      "id": "present-ayotzinapa-army",
+      "prompt": "According to the 2022 truth commission, which Gillingham follows, who killed six Ayotzinapa students who had survived the first murders?",
+      "answer": "The colonel of an army infantry battalion",
+      "distractors": [
+        "Federal police at the Cocula dump",
+        "Guerrero state police in Chilpancingo",
+        "Marines sent from Acapulco"
+      ],
+      "explanation": "The truth commission said the six were handed to the colonel of the 27th Infantry Battalion, based in Iguala, who had them killed days later. Some of the evidence behind its report was later questioned, and the case remains open.",
+      "chapter": 21,
+      "feature": "e12-ayotzinapa-iguala"
+    },
+    {
+      "id": "present-ayotzinapa-normal",
+      "prompt": "Which two guerrilla leaders of the 1960s and 1970s studied as rural teachers at the Ayotzinapa normal school in Guerrero?",
+      "answer": "Lucio Cabañas and Genaro Vázquez",
+      "distractors": [
+        "Rubén Jaramillo and Arturo Gámiz",
+        "Subcomandante Marcos and Comandanta Ramona",
+        "Francisco Villa and Emiliano Zapata"
+      ],
+      "explanation": "The revolutionary college had turned thousands of poor country people into maestros rurales. Its radical tradition made its students targets long before 2014.",
+      "chapter": 21,
+      "feature": "e12-ayotzinapa-normal"
+    },
+    {
+      "id": "present-national-guard",
+      "prompt": "In 2019, which new force replaced the Federal Police?",
+      "answer": "The National Guard (Guardia Nacional)",
+      "distractors": [
+        "The Federal Preventive Police",
+        "The Federal Investigation Agency",
+        "The Rural Police (Rurales)"
+      ],
+      "explanation": "Gillingham treats it as part of the army's takeover of civilian policing, which deepened impunity. Its ranks were dominated by former soldiers and marines, and a constitutional reform of 2024 placed it formally under the defence ministry.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-guard-ex-military",
+      "prompt": "According to Gillingham, roughly what share of the members of the National Guard created in 2019 were former military?",
+      "answer": "About 80 per cent",
+      "distractors": [
+        "About 10 per cent",
+        "About 30 per cent",
+        "About half"
+      ],
+      "explanation": "The national intelligence agency, supposedly civilian, was also taken over by a general in 2018, who put army officers in charge of key departments.",
+      "chapter": 21
+    },
+    {
+      "id": "present-army-projects",
+      "prompt": "Which institution was handed major government projects such as the new Mexico City airport terminal and the tourist train in the south-east?",
+      "answer": "The Secretaría de la Defensa Nacional",
+      "distractors": [
+        "The Secretaría de Hacienda",
+        "The Secretaría de Educación Pública",
+        "The Secretaría de Energía"
+      ],
+      "explanation": "Gillingham says the projects benefited army personnel from the ranks up, another return to revolutionary days when soldiers became empire builders.",
+      "chapter": 21,
+      "feature": "e12-tren-maya"
+    },
+    {
+      "id": "present-cienfuegos",
+      "prompt": "In 2020 the United States arrested which former Mexican secretary of defence on drug charges, only to release him?",
+      "answer": "General Salvador Cienfuegos",
+      "distractors": [
+        "General Tomás Ángeles Dauahare",
+        "General Jesús Gutiérrez Rebollo",
+        "General Luis Cresencio Sandoval"
+      ],
+      "explanation": "Some generals were credibly tied to particular cartels, and a few were prosecuted: a former undersecretary of defence, Tomás Ángeles Dauahare, was arrested in 2012. Few such cases ended in convictions.",
+      "chapter": 21
+    },
+    {
+      "id": "present-cienfuegos-leverage",
+      "prompt": "How did Mexico force the United States to reverse its 2020 arrest of the former defence secretary Salvador Cienfuegos?",
+      "answer": "By threatening to end security cooperation",
+      "distractors": [
+        "By expelling the US ambassador",
+        "By suspending oil exports to the US",
+        "By closing the border to all trade"
+      ],
+      "explanation": "Gillingham calls the episode a major diplomatic gaffe. Cienfuegos was sent home and, like most of his colleagues, left alone.",
+      "chapter": 21
+    },
+    {
+      "id": "present-kingpin",
+      "prompt": "What was the kingpin strategy that the US Drug Enforcement Administration promoted in Mexico?",
+      "answer": "Capturing or killing the top narcos",
+      "distractors": [
+        "Spraying herbicide on poppy fields",
+        "Searching every vehicle at the border",
+        "Legalising and taxing marijuana"
+      ],
+      "explanation": "It assumed that cartels were pyramid-shaped corporations that would collapse once their leaders went. By 2006 most of the big dealers of the 1980s and 1990s were jailed or dead, yet the drug flow had rebounded or grown.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-kingpin-backfire",
+      "prompt": "Unlike in Colombia, what did taking out cartel leaders do to violence in Mexico, according to Gillingham?",
+      "answer": "It increased violence as gangs splintered",
+      "distractors": [
+        "It cut violence by half",
+        "It moved the violence to Colombia",
+        "It ended the wars between cartels"
+      ],
+      "explanation": "A leaked 2011 US Customs and Border Protection report found that removing key figures had no discernible effect on drug flows, and El Chapo's arrest did not stop cocaine shipments rising. In Mexico more cells, more local gangs and more autonomy meant more killing.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "present-cartel-misnomer",
+      "prompt": "Why does Gillingham call the word \"cartel\" misleading for Mexico's drug-trafficking organisations?",
+      "answer": "They were loose franchise networks",
+      "distractors": [
+        "They were run directly by the state",
+        "They were mostly Colombian-owned",
+        "They traded only in marijuana"
+      ],
+      "explanation": "They were not centralised firms. Regional associates paid a cut to the top and were otherwise left alone, and many shippers were independent subcontractors. Some analysts prefer the term drug trafficking organisation (DTO).",
+      "chapter": 21
+    },
+    {
+      "id": "present-balloon",
+      "prompt": "In drug-policy jargon, what is the balloon effect?",
+      "answer": "Squeezed in one place, the trade moves elsewhere",
+      "distractors": [
+        "Seizures inflating street prices",
+        "Falling prices raising demand",
+        "Profits growing with each new border wall"
+      ],
+      "explanation": "Squeezing producers, shippers or consumers shifts production, routes or consumption somewhere else. When Colombia's coca cultivation fell in 2008, Bolivia and Peru grew more.",
+      "chapter": 21
+    },
+    {
+      "id": "present-dea-empire",
+      "prompt": "Gillingham says the DEA was not very good at drug control. What was it exceptionally good at?",
+      "answer": "Growing its own budget and power",
+      "distractors": [
+        "Training Mexican police",
+        "Gathering intelligence on cartels",
+        "Reducing US drug use"
+      ],
+      "explanation": "Disruptions to the drug supply proved short-lived, but the DEA's budget grew enormously from the 1970s. He argues that this drug-enforcement empire helped create and sustain a Mexican criminal one.",
+      "chapter": 21
+    },
+    {
+      "id": "present-street-prices",
+      "prompt": "How, according to Gillingham, did US drug agencies make their seizures look more damaging to traffickers than they were?",
+      "answer": "By valuing them at street prices",
+      "distractors": [
+        "By counting legal medicines as drugs",
+        "By converting pesos at old rates",
+        "By counting tobacco as a narcotic"
+      ],
+      "explanation": "Wholesale prices were far lower. The trick made the organisations look far richer than they were. Whatever the data, Gillingham writes, the conclusion was always that drug enforcement needed more money.",
+      "chapter": 21
+    },
+    {
+      "id": "present-juarez-femicides",
+      "prompt": "From the 1990s into the 2000s, roughly how many young women, many of them maquiladora workers, were murdered or disappeared in Ciudad Juárez?",
+      "answer": "Several hundred",
+      "distractors": [
+        "A few dozen",
+        "Several thousand",
+        "Tens of thousands"
+      ],
+      "explanation": "Gillingham counts at least 700 who disappeared; human rights groups counted some 370 murdered by 2003. The killings brought the word femicidio, the killing of women because they are women, into wide use.",
+      "chapter": 21,
+      "feature": "e12-campo-algodonero"
+    },
+    {
+      "id": "present-femicide-one-party",
+      "prompt": "Why does Gillingham argue that the Juárez femicides would have been less likely under the old one-party state?",
+      "answer": "It could restrain violent players",
+      "distractors": [
+        "It kept women out of factory work",
+        "It executed convicted murderers",
+        "It banned the maquiladoras"
+      ],
+      "explanation": "As referee, the PRI state could threaten narcos out of such killings or use them to end the killings. With its unwritten rules gone, the north became a war of all against all.",
+      "chapter": 21,
+      "feature": "e12-campo-algodonero"
+    },
+    {
+      "id": "present-femicide-rupture",
+      "prompt": "In the Epilogue, how does Gillingham characterise modern Mexico's atrocious level of femicide?",
+      "answer": "A break with the past, not a continuation",
+      "distractors": [
+        "A legacy of Mexica human sacrifice",
+        "An inheritance of colonial law",
+        "A product of revolutionary machismo"
+      ],
+      "explanation": "He argues that Mexican history is a story of patriarchy sustained by violence, like that of nearly everywhere else, and points to Mexico's many distinguished women and its election of a woman president in 2024.",
+      "chapter": 22
+    },
+    {
+      "id": "present-sheinbaum",
+      "prompt": "Who became Mexico's first woman president, elected in 2024?",
+      "answer": "Claudia Sheinbaum",
+      "distractors": [
+        "Xóchitl Gálvez",
+        "Josefina Vázquez Mota",
+        "Rosario Robles"
+      ],
+      "explanation": "Gillingham cites the election as evidence against the stereotype of a uniquely macho Mexico.",
+      "chapter": 22,
+      "core": true,
+      "feature": "e12-sheinbaum"
+    },
+    {
+      "id": "present-three-empires",
+      "prompt": "Gillingham says contemporary Mexico is subject to three empires: domestic criminal bosses, American drug warriors and their politicians, and whom?",
+      "answer": "American drug consumers",
+      "distractors": [
+        "US multinational corporations",
+        "The Catholic Church",
+        "Chinese manufacturers"
+      ],
+      "explanation": "Mexican history could be told as a series of empires, from the Mexica to the Americans, but he argues that more often it is a story of lives lived in the face of empire.",
+      "chapter": 22,
+      "core": true
+    },
+    {
+      "id": "present-left-alone",
+      "prompt": "Rather than a single story of empires, what does Gillingham say more often characterises Mexican history?",
+      "answer": "People managing to be left alone by empires",
+      "distractors": [
+        "Constant rebellion against foreign rule",
+        "Steady loss of land to the United States",
+        "Rule by a small white elite"
+      ],
+      "explanation": "Spain rarely imposed more than tenuous control over New Spain, and the United States had to put up with a revolution on its doorstep.",
+      "chapter": 22
+    },
+    {
+      "id": "present-violence-unremarkable",
+      "prompt": "How does Gillingham judge the idea that intense violence is a constant of Mexican history?",
+      "answer": "Unremarkable beside US or European history",
+      "distractors": [
+        "Uniquely high ever since the conquest",
+        "Rooted in Mexica religious sacrifice",
+        "Worse than anywhere else in the Americas"
+      ],
+      "explanation": "He sets the Wars of Independence beside Napoleon's wars and the Revolution beside the Western Front, and notes that the postwar United States saw more of its progressive leaders assassinated than Mexico did.",
+      "chapter": 22,
+      "core": true
+    },
+    {
+      "id": "present-gun-control",
+      "prompt": "How does Gillingham describe Mexico's gun laws since the Revolution?",
+      "answer": "Among the world's most restrictive",
+      "distractors": [
+        "Modelled on the US Second Amendment",
+        "Among the most permissive in the Americas",
+        "Unchanged since colonial times"
+      ],
+      "explanation": "He uses them, and the rarity of mass shootings, to question the image of an especially violent Mexico. Most of the guns in narco hands have come from the United States.",
+      "chapter": 22
+    },
+    {
+      "id": "present-sackler",
+      "prompt": "Gillingham argues that which family knowingly killed more Americans with prescription opioids than the Sinaloa Cartel did with heroin?",
+      "answer": "The Sackler family",
+      "distractors": [
+        "The Rockefeller family",
+        "The Walton family",
+        "The du Pont family"
+      ],
+      "explanation": "He bases the claim on US overdose data from 1999 to 2012 and the Sacklers' share of the prescription opioid market. It is part of his case against seeing violence as peculiarly Mexican.",
+      "chapter": 22
+    },
+    {
+      "id": "present-day-of-dead-parade",
+      "prompt": "What inspired Mexico City's Day of the Dead parade?",
+      "answer": "A James Bond film",
+      "distractors": [
+        "An Aztec festival of the dead",
+        "The 1968 Olympic opening ceremony",
+        "The Pixar film Coco"
+      ],
+      "explanation": "The parade was invented for the film Spectre and staged for real from 2016. Gillingham uses it to show that not every famous Mexican celebration of death is ancient, or even Mexican.",
+      "chapter": 22
+    },
+    {
+      "id": "present-solid-south",
+      "prompt": "Gillingham compares Mexico's twentieth-century one-party state, with real competition only in party primaries, to what in the United States?",
+      "answer": "The Democratic one-party South",
+      "distractors": [
+        "The New England town meeting",
+        "The two-party Congress",
+        "The Electoral College"
+      ],
+      "explanation": "Until the 1960s the American South voted almost entirely Democratic. Gillingham argues that the stock conservative view of Mexican politics, whether Díaz's or Donald Trump's, is lopsided.",
+      "chapter": 22
+    },
+    {
+      "id": "present-iconography",
+      "prompt": "What does Gillingham say the familiar iconography of skulls, murals, narcos and Frida Kahlo does to Mexico?",
+      "answer": "Exoticises it",
+      "distractors": [
+        "Hides its Indigenous past",
+        "Exaggerates its wealth",
+        "Makes it look too European"
+      ],
+      "explanation": "The clichés hide a cosmopolitan country. He warns that Mexico has been over-studied as an exotic case and told as tragedy or moral kitsch. Empire, race, violence, political fragility and gender matter, but its history shows they are poor default lenses for understanding a country.",
+      "chapter": 22
+    },
+    {
+      "id": "present-global-society",
+      "prompt": "In the book's closing words, Gillingham calls the peoples of Mexico the makers of what?",
+      "answer": "The first truly global society",
+      "distractors": [
+        "The last great empire of the Americas",
+        "The first modern revolution",
+        "The oldest republic in Latin America"
+      ],
+      "explanation": "He suggests looking first at the everyday universality of much of Mexico's past, and only then at its uniqueness.",
+      "chapter": 22,
+      "core": true
+    },
+    {
+      "id": "present-population-2000",
+      "prompt": "About how many people lived in Mexico in 2000?",
+      "answer": "About 100 million",
+      "distractors": [
+        "About 13.6 million",
+        "About 50 million",
+        "About 160 million"
+      ],
+      "explanation": "In 1900 Mexico had 13.6 million people, most of them rural. In the twentieth century it became a big, urban society with low birth and death rates.",
+      "chapter": 20
+    },
+    {
+      "id": "present-urban-share",
+      "prompt": "In 1900 three in four Mexicans lived in the countryside. By the census of 2000, roughly what share of Mexicans lived in towns and cities?",
+      "answer": "About three-quarters",
+      "distractors": [
+        "About a third",
+        "About half",
+        "Nine in ten"
+      ],
+      "explanation": "The century turned the balance round: towns first outnumbered the countryside between 1940 and 1960, and Mexico City alone grew from about 344,000 people in 1900 to a conurbation of around 20 million. Gillingham counts this rural-to-urban shift, with the fall in birth and death rates, as the greatest single change in modern Mexican history.",
+      "chapter": 20
+    },
+    {
+      "id": "present-conurbation",
+      "prompt": "By about 2000, the Mexico City conurbation, spreading from the Federal District into the State of Mexico, held roughly how many people?",
+      "answer": "About 20 million",
+      "distractors": [
+        "About 2 million",
+        "About 5 million",
+        "About 50 million"
+      ],
+      "explanation": "The Federal District alone housed 8.6 million, against about 344,000 people in Mexico City in 1900. In 2016 the Federal District became the Ciudad de México.",
+      "chapter": 20,
+      "feature": "e12-cdmx-2016"
+    },
+    {
+      "id": "present-migrants-us",
+      "prompt": "By 2000, roughly how many permanent and seasonal Mexican migrants lived in the United States?",
+      "answer": "About 10–12 million",
+      "distractors": [
+        "About 1–2 million",
+        "About 3–4 million",
+        "About 25–30 million"
+      ],
+      "explanation": "Gillingham cites conservative estimates of nearly twelve million; the US census counted about 9 million Mexican-born residents. About as many Mexicans lived in the United States as had lived in all of Mexico in 1900.",
+      "chapter": 20,
+      "core": true
+    },
+    {
+      "id": "present-remittances",
+      "prompt": "In the early 2000s, migrants' remittances became Mexico's second-largest source of foreign exchange after what?",
+      "answer": "Oil exports",
+      "distractors": [
+        "Tourism",
+        "Silver exports",
+        "Coffee exports"
+      ],
+      "explanation": "By then they brought in more dollars than tourism, and much of the money was invested in migrants' home towns. Migration was also an outlet for the strains of the population boom.",
+      "chapter": 20
+    },
+    {
+      "id": "present-afro-census",
+      "prompt": "In which year did Mexico's national census first count its population of African descent, the country's third main root?",
+      "answer": "2020",
+      "distractors": [
+        "1921",
+        "1970",
+        "2000"
+      ],
+      "explanation": "After a trial count in the 2015 intercensal survey, the 2020 census asked people whether they considered themselves Afro-Mexican or of African descent. Gillingham notes that the African root had until then been ignored entirely.",
+      "chapter": 20
+    }
+  ]
+}

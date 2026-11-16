@@ -1,0 +1,1858 @@
+{
+  "era": "consolidation",
+  "cards": [
+    {
+      "id": "consolidation-1",
+      "prompt": "The Bucareli agreements of 1923 won the Obregón government recognition from the United States. What did that recognition make possible within months?",
+      "answer": "US arms sales against the de la Huerta rebellion",
+      "distractors": [
+        "US Marines to guard the Tampico oilfields",
+        "A Church–state settlement ending the Cristero War",
+        "The expropriation of the foreign oil companies"
+      ],
+      "explanation": "At Bucareli the commissioners agreed that Article 27 would not be applied retroactively to oil lands where companies had performed \"positive acts\" before 1917. The United States recognised Obregón on 31 August 1923, in time to sell him arms against the de la Huerta rising that broke out at the end of the year.",
+      "chapter": 15,
+      "feature": "e10-bucareli"
+    },
+    {
+      "id": "consolidation-2",
+      "prompt": "What set off the Cristero War in 1926?",
+      "answer": "Enforcement of the constitution's anticlerical articles",
+      "distractors": [
+        "The assassination of President-elect Álvaro Obregón",
+        "The founding of the National Revolutionary Party",
+        "Cárdenas's expulsion of Calles to the United States"
+      ],
+      "explanation": "When the \"Calles Law\" put the anticlerical articles into force from 31 July 1926, the bishops suspended public worship and armed risings followed. The rebellion was strongest among the rancheros and villagers of west-central Mexico, from Los Altos de Jalisco to Colima and western Michoacán.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-cristero-region"
+    },
+    {
+      "id": "consolidation-3",
+      "kind": "where",
+      "prompt": "The first armed clash of the Cristero War was fought at the Sanctuary of Our Lady of Guadalupe in Guadalajara in August 1926. Where is Guadalajara?",
+      "answer": "Guadalajara, Jalisco",
+      "explanation": "Days after worship was suspended, about 400 armed Catholics shut themselves inside the sanctuary and fought federal troops until their ammunition ran out. The Cristeros went on to hold much of the countryside around it, but Guadalajara itself stayed in government hands.",
+      "feature": "e10-guadalajara-1926"
+    },
+    {
+      "id": "consolidation-4",
+      "prompt": "Who shot President-elect Álvaro Obregón at La Bombilla restaurant in July 1928?",
+      "answer": "José de León Toral",
+      "distractors": [
+        "Jesús Salas Barraza",
+        "Ramón Mercader",
+        "Enrique Gorostieta"
+      ],
+      "explanation": "De León Toral, a young Catholic militant, struck two weeks after Obregón was elected to a second term. To avoid civil war among Obregón's generals, Calles announced the passage to a \"nation of institutions\" and organised a revolutionary party.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-obregon-bombilla"
+    },
+    {
+      "id": "consolidation-5",
+      "prompt": "In what year was the National Revolutionary Party (PNR), the forerunner of the PRI, founded at a convention in Querétaro?",
+      "answer": "1929",
+      "distractors": [
+        "1917",
+        "1938",
+        "1946"
+      ],
+      "explanation": "The PNR brought together the regional parties and machines of the revolutionary generals so that succession disputes were settled inside the party rather than by revolt. Cárdenas reorganised it in 1938 as the Party of the Mexican Revolution (PRM), and it became the PRI in 1946.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-pnr-1929"
+    },
+    {
+      "id": "consolidation-6",
+      "prompt": "Whom did Cárdenas have arrested at his hacienda and flown to the United States in April 1936?",
+      "answer": "Plutarco Elías Calles",
+      "distractors": [
+        "Saturnino Cedillo",
+        "Tomás Garrido Canabal",
+        "Vicente Lombardo Toledano"
+      ],
+      "explanation": "The former Jefe Máximo had publicly criticised Cárdenas's labour policy in 1935 and was trying to rebuild his following; he was flown out with the labour boss Luis Morones and two other allies. His exile ended the Maximato and left Cárdenas free to pursue the land and oil reforms of 1936–38.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-calles-exiled-1936"
+    },
+    {
+      "id": "consolidation-7",
+      "prompt": "Which crop did the irrigated estates of La Laguna, around Torreón, produce when Cárdenas expropriated them in 1936?",
+      "answer": "Cotton",
+      "distractors": [
+        "Henequen",
+        "Rice",
+        "Sugar cane"
+      ],
+      "explanation": "La Laguna, watered by the Nazas and Aguanaval rivers, was the most valuable commercial agriculture in the north. After a farmworkers' strike, about 450,000 hectares were distributed to some 300 collectively run ejidos, the showcase of Cardenista agrarian reform.",
+      "chapter": 16,
+      "feature": "e10-laguna-ejidos"
+    },
+    {
+      "id": "consolidation-8",
+      "kind": "where",
+      "prompt": "On 27 January 1937 Mexican peasants occupied lands of the US-owned Colorado River Land Company in the Mexicali Valley. Where is the Mexicali Valley?",
+      "answer": "The Mexicali Valley, Baja California",
+      "explanation": "The company leased the irrigated valley to tenants, many of them Chinese, Japanese and American, to grow cotton. That spring the government expropriated much of it for ejidos and colonists, part of a policy of populating the border territory with Mexicans.",
+      "feature": "e10-mexicali-1937"
+    },
+    {
+      "id": "consolidation-9",
+      "prompt": "What led Cárdenas to expropriate the foreign oil companies in March 1938?",
+      "answer": "Their defiance of a labour award to their workers",
+      "distractors": [
+        "A strike at the Vidriera glassworks in Monterrey",
+        "Saturnino Cedillo's rebellion in San Luis Potosí",
+        "The creation of Pemex to run the oil industry"
+      ],
+      "explanation": "The Supreme Court had upheld the award on 1 March; on the night of 18 March Cárdenas announced by radio the expropriation of seventeen companies, including Shell's El Águila and Standard Oil's Huasteca Petroleum. Petróleos Mexicanos (Pemex) was created afterwards, on 7 June 1938.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-oil-expropriation"
+    },
+    {
+      "id": "consolidation-10",
+      "kind": "where",
+      "prompt": "Tampico was the capital of Mexico's oil industry and its main export port in the 1920s and 1930s. Where is Tampico?",
+      "answer": "Tampico, Tamaulipas",
+      "explanation": "El Águila had its refinery at Doña Cecilia (now Ciudad Madero) and Huasteca Petroleum at Mata Redonda across the river. Tampico's oil workers were the core of the union whose wage dispute led to the 1938 expropriation, and the refineries passed to Pemex.",
+      "chapter": 16,
+      "feature": "e10-tampico-refineries"
+    },
+    {
+      "id": "consolidation-political-revolution",
+      "prompt": "Gillingham argues that the 1920s brought Mexico a genuine revolution of one kind but not yet a social one. What kind?",
+      "answer": "A political revolution",
+      "distractors": [
+        "An industrial revolution",
+        "A green revolution",
+        "A military revolution"
+      ],
+      "explanation": "New men of humble, provincial and sometimes Indigenous origins took power, and the hated jefes políticos were gone. But factories, oil wells and great estates largely stayed in the same hands until the reforms of the 1930s.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-only-american-revolution",
+      "prompt": "Gillingham's chapter on the 1930s makes a bold claim about the Mexican Revolution's place in the history of the Americas. What is it?",
+      "answer": "The only real American revolution",
+      "distractors": [
+        "The last of the Atlantic revolutions",
+        "The first Latin American revolution",
+        "A revolution betrayed from the start"
+      ],
+      "explanation": "On the mainland only Mexico changed who owned the land and labour; comparable change came only offshore, in Haiti and Cuba. The US revolution, by contrast, left property relations and slavery alone.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-land-lag",
+      "prompt": "The 1917 constitution promised land reform. Roughly how long did Mexico wait for mass redistribution to arrive?",
+      "answer": "Nearly two decades",
+      "distractors": [
+        "About two years",
+        "About five years",
+        "About half a century"
+      ],
+      "explanation": "The Bolsheviks decreed land reform the day after taking power in 1917, and the Chinese communists redistributed land even before 1949. In Mexico the great redistribution came only under Cárdenas, from 1935.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-owners-kept",
+      "prompt": "Which family kept its vast estates in northern Mexico through the 1920s and early 1930s, a sign of how little ownership changed at first?",
+      "answer": "The Terrazas",
+      "distractors": [
+        "The Sánchez Navarros",
+        "The Garza Sadas",
+        "The Limantours"
+      ],
+      "explanation": "Like the Mérida henequen planters, the Morelos sugar barons and the British and American oil companies, the Terrazas of Chihuahua held on to their property while the Sonorans rebuilt a capitalist economy.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-sonoran-economics",
+      "prompt": "What did Obregón and Calles think post-war Mexico needed from the state in the 1920s?",
+      "answer": "Support for capitalist reconstruction",
+      "distractors": [
+        "Collectivisation of the haciendas",
+        "Nationalisation of oil and mines",
+        "Import-substitution industrialisation"
+      ],
+      "explanation": "The Sonorans wanted an active state, but one that helped private enterprise rather than replacing it. In a fragile country just out of civil war, giving oil or commercial agriculture to the people looked to them like a dangerous gamble.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-no-agraristas",
+      "prompt": "Which Sonoran leader said of his home state, \"We have no agraristas here, thank God\"?",
+      "answer": "Álvaro Obregón",
+      "distractors": [
+        "Plutarco Elías Calles",
+        "Adolfo de la Huerta",
+        "Abelardo Rodríguez"
+      ],
+      "explanation": "Neither Obregón nor Calles believed in mass land reform; Calles warned that it would wreck economic reconstruction. So the United States hardly needed to pressure them out of it.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-banco-de-mexico",
+      "prompt": "Which central bank did the Sonoran governments of the 1920s found to steady the economy?",
+      "answer": "The Banco de México",
+      "distractors": [
+        "The Banco Nacional de México",
+        "Nacional Financiera",
+        "The Banco Ejidal"
+      ],
+      "explanation": "Alongside it came an agricultural credit bank and commissions for irrigation and roads. The priorities were orthodox: a stable peso at two to the dollar, a balanced budget and service on the foreign debt.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-coahuila-1927",
+      "prompt": "In 1927 the federal government spent 38 million pesos on dams and canals for Coahuila's haciendas. What did the state's agraristas get?",
+      "answer": "Ten ejidos, all on marginal land",
+      "distractors": [
+        "Most of the newly irrigated land",
+        "Some 300 collective cotton ejidos",
+        "Cash compensation instead of land"
+      ],
+      "explanation": "Coahuila grew nearly half of Mexico's cotton and had elected an agrarista governor in 1925, but he was not allowed to do much for his followers. It shows how the Sonorans kept redistribution to a minimum.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-haciendas-1930",
+      "prompt": "In 1930, roughly what share of Mexico's private land was still covered by its biggest haciendas, fewer than 2,000 estates?",
+      "answer": "More than half",
+      "distractors": [
+        "About a tenth",
+        "About a quarter",
+        "Almost none"
+      ],
+      "explanation": "The Sonoran presidents obstructed land reform, so the great estates survived the revolution largely intact. Their break-up had to wait for Cárdenas.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-monte",
+      "prompt": "Before Cárdenas, most land granted to ejidos was of which kind?",
+      "answer": "Monte: pasture, scrub and hillside",
+      "distractors": [
+        "Riego: irrigated farmland",
+        "Temporal: rain-watered fields",
+        "Former church and town lands"
+      ],
+      "explanation": "Before 1934 some 86 percent of ejido land was monte and only 2 percent irrigated. A few acres of such land could not support a family, let alone bring it into commercial farming.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-twenty-families",
+      "prompt": "Before 1934, what rule shut more than half of Mexico's rural communities out of applying for an ejido?",
+      "answer": "They needed at least twenty families",
+      "distractors": [
+        "They had to be Indigenous villages",
+        "They needed a resident priest",
+        "They had to own irrigation works"
+      ],
+      "explanation": "Most commercial haciendas had smaller resident workforces, and owners could swap permanent workers for seasonal ones or split titles among relatives. Cárdenas got round the rule by merging communities.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-dotacion",
+      "prompt": "In Mexican agrarian law, what was a dotación, as opposed to a restitución?",
+      "answer": "A grant of land as a government gift",
+      "distractors": [
+        "A grant of land to veterans of the revolution",
+        "A sale of hacienda land on credit",
+        "A lease of state land to colonists"
+      ],
+      "explanation": "Villages that could prove centuries-old ownership lost to modernising landlords got restitution of stolen property; the rest received a dotación. Either way the land formed an ejido.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-usufruct",
+      "prompt": "On what terms did ejidatarios hold the land of their ejido?",
+      "answer": "The right to use it, not own it",
+      "distractors": [
+        "Freehold title to their plots",
+        "A lease from the old hacienda",
+        "Sharecropping for the state"
+      ],
+      "explanation": "The grant was usufruct, and each ejido was run by its own elected council, the comisariado ejidal. Because ownership stayed with the nation, some ejidos later lost their land: fourteen around Acapulco did when tourism boomed.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-guardias-blancas",
+      "prompt": "What were the guardias blancas that landowners formed in the 1920s and 1930s?",
+      "answer": "Paramilitaries who killed peasant leaders",
+      "distractors": [
+        "Village militias armed by the government",
+        "Catholic youth leagues",
+        "Federal rural police"
+      ],
+      "explanation": "Hacendados armed their retainers and the unemployed veterans of the revolution, and murders of agrarian leaders went largely unpunished. Informal power usually worked against peasant land claims.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-primo-tapia",
+      "prompt": "The agrarian leader Primo Tapia was murdered by federal soldiers in 1926. Which village, a byword for agrarian struggle, did he come from?",
+      "answer": "Naranja, Michoacán",
+      "distractors": [
+        "Anenecuilco, Morelos",
+        "Jiquilpan, Michoacán",
+        "San José de Gracia, Michoacán"
+      ],
+      "explanation": "Tapia, a Purépecha who had worked in the United States, organised villages that had lost their land and lake to the draining of the Zacapu marsh. The Abbot of Pátzcuaro had put a price on his head.",
+      "chapter": 16,
+      "feature": "e10-primo-tapia-naranja"
+    },
+    {
+      "id": "consolidation-colonia-militar",
+      "prompt": "When a land grant could not be avoided, what did the Sonoran presidents often award instead of a legal ejido?",
+      "answer": "A colonia militar for ex-soldiers",
+      "distractors": [
+        "A restitution to the old village",
+        "A private sale on easy credit",
+        "A Church-run cooperative"
+      ],
+      "explanation": "These discretionary collective grants to veterans bypassed the legal ejido process. Militiamen who had fought rebels for the government were among the few who got good land in the 1920s.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-obregon-elected",
+      "prompt": "In what year was Álvaro Obregón first elected president?",
+      "answer": "1920",
+      "distractors": [
+        "1914",
+        "1917",
+        "1924"
+      ],
+      "explanation": "After the Agua Prieta rising and Carranza's murder, Obregón was elected in September 1920. Peace deals made by the interim president, Adolfo de la Huerta, had brought even Pancho Villa in from the cold.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-one-hand",
+      "prompt": "Which presidential hopeful of 1919–20 told a journalist that all Mexican politicians were thieves, but that he could not steal as much or as fast as the others?",
+      "answer": "Álvaro Obregón",
+      "distractors": [
+        "Plutarco Elías Calles",
+        "Joaquín Amaro",
+        "Adolfo de la Huerta"
+      ],
+      "explanation": "Obregón had lost an arm in battle in 1915, so he had only one hand to steal with. The bluff, clownish image, and his letterhead calling him a farmer, hid a shrewd politician who promised both to protect estates and to redistribute them.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-escudero",
+      "prompt": "Juan Escudero, leader of an anarchist workers' party, was mayor of which port before soldiers killed him in 1923?",
+      "answer": "Acapulco",
+      "distractors": [
+        "Veracruz",
+        "Tampico",
+        "Mazatlán"
+      ],
+      "explanation": "Shot and paralysed by federal troops in 1922, he learned to type with his feet and went back to work, before being shot dead the next year. His killing was one of a wave of political murders in 1923–24.",
+      "chapter": 15,
+      "feature": "e10-escudero-acapulco"
+    },
+    {
+      "id": "consolidation-carrillo-puerto",
+      "prompt": "Which socialist leader of Yucatán was shot by soldiers in the Mérida cemetery at the start of 1924?",
+      "answer": "Felipe Carrillo Puerto",
+      "distractors": [
+        "Tomás Garrido Canabal",
+        "Adalberto Tejeda",
+        "Francisco Mújica"
+      ],
+      "explanation": "He led the powerful Partido Socialista del Sureste and had organised the Maya henequen workers. He was killed when the local garrison joined the de la Huerta rebellion.",
+      "chapter": 15,
+      "feature": "e10-carrillo-puerto"
+    },
+    {
+      "id": "consolidation-bucareli-terms",
+      "prompt": "What did the United States obtain in the Bucareli agreements of 1923 in return for recognising Obregón's government?",
+      "answer": "Damage claims and safety for US oil firms",
+      "distractors": [
+        "A naval base on Mexico's Gulf coast",
+        "Control of Mexico's northern customs houses",
+        "The return of churches seized from Catholics"
+      ],
+      "explanation": "Without recognition Mexico could get no foreign loans and could not stop arms reaching rebels. American investors were to be paid for revolutionary damage and the oil companies spared expropriation.",
+      "chapter": 15,
+      "feature": "e10-bucareli"
+    },
+    {
+      "id": "consolidation-bucareli-window",
+      "prompt": "Why, in Gillingham's account, did the Bucareli accords leave the door open to later expropriations?",
+      "answer": "Obregón never changed the constitution",
+      "distractors": [
+        "Mexico's Senate rejected them in 1924",
+        "They expired when Obregón left office",
+        "Calles repudiated them in 1925"
+      ],
+      "explanation": "The accords were not a treaty, so only the reparations had standing in international law. The claims were valued at declared tax values, and in 1934 Mexico settled for a lump sum of under 3 percent of the claims agreed.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-succession-1924",
+      "prompt": "Whom did Obregón back as his successor for 1924, passing over the popular Adolfo de la Huerta?",
+      "answer": "Plutarco Elías Calles",
+      "distractors": [
+        "Francisco Serrano",
+        "Joaquín Amaro",
+        "Arnulfo Gómez"
+      ],
+      "explanation": "Calles, the unpopular interior minister, looked the better puppet. Legend says Obregón explained the choice by listing Calles's failures in life and concluding he needed the presidency to survive.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "consolidation-calles-sonora",
+      "prompt": "As governor of Sonora in 1915, the puritanical Plutarco Elías Calles banned gambling, bullfighting and what else?",
+      "answer": "Alcohol",
+      "distractors": [
+        "Political parties",
+        "Foreign priests",
+        "Strikes"
+      ],
+      "explanation": "Calles had been a barman, hotel manager, teacher and police chief, and grew up in a family broken by drink. His mix of puritanism and bureaucratic level-headedness made him a gifted strategist.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-delahuerta-why",
+      "prompt": "What chiefly drove the generals who rose behind Adolfo de la Huerta in 1923?",
+      "answer": "Anger at Obregón's choice of Calles",
+      "distractors": [
+        "The enforcement of anticlerical laws",
+        "Land reform on their haciendas",
+        "The founding of the official party"
+      ],
+      "explanation": "Obregón's effective appointment of his successor closed their own road to power. They spoke the language of democracy and no re-election, and most of Sonora's veteran Maderistas joined them.",
+      "chapter": 15,
+      "feature": "e10-delahuerta-veracruz"
+    },
+    {
+      "id": "consolidation-delahuerta-scale",
+      "prompt": "How much of the federal army joined the de la Huerta rebellion of 1923–24?",
+      "answer": "About half",
+      "distractors": [
+        "About a tenth",
+        "About a quarter",
+        "Nearly all of it"
+      ],
+      "explanation": "Some 102 generals rebelled, and by January 1924 the rebels held Veracruz, Guadalajara and Mérida. But they never fought as one force, and Obregón, armed by the United States, beat them by the spring.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-delahuerta-veracruz"
+    },
+    {
+      "id": "consolidation-delahuerta-allies",
+      "prompt": "Which two agrarian leaders' armed peasants helped Obregón put down the de la Huerta rebellion?",
+      "answer": "Saturnino Cedillo and Adalberto Tejeda",
+      "distractors": [
+        "Enrique Estrada and Guadalupe Sánchez",
+        "Enrique Gorostieta and Victoriano Ramírez",
+        "Pascual Orozco and Emilio Vázquez Gómez"
+      ],
+      "explanation": "Calles's work with peasant and labour organisations paid off: their members were armed as militias. Keeping many of them in arms afterwards gave the government a counterweight to the army.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-army-budget",
+      "prompt": "The army took two-thirds of the federal budget in 1919. By 1926, after the de la Huerta rebellion, what was its share?",
+      "answer": "About a quarter",
+      "distractors": [
+        "About half",
+        "About a tenth",
+        "About three-quarters"
+      ],
+      "explanation": "Obregón used the rebellion to tame the army: he had fifty-four generals shot, purged many more, split commands into smaller ones and moved troops into the reserves.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "consolidation-amaro",
+      "prompt": "Which general, known to his peers as \"el Indio\", brought the revolutionary army to heel as minister of war?",
+      "answer": "Joaquín Amaro",
+      "distractors": [
+        "Francisco Serrano",
+        "Juan Andreu Almazán",
+        "Saturnino Cedillo"
+      ],
+      "explanation": "Amaro modernised the army from 1925 and, a fierce anticlerical, blamed the clergy for Mexico's ills. His rise showed the new ethnic and class diversity of the post-1920 elite.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-reelection",
+      "prompt": "How was the constitution changed in the late 1920s to let Obregón return to the presidency?",
+      "answer": "Re-election was allowed after a gap",
+      "distractors": [
+        "Congress was made to elect the president",
+        "His first term was extended by law",
+        "The vice-presidency was restored"
+      ],
+      "explanation": "The Maderista principle of no re-election was bent to allow non-consecutive terms, and the term itself was stretched from four years to six. Obregón won the 1928 election unopposed.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-serrano-gomez",
+      "prompt": "Which two generals who stood against Obregón's re-election were executed in 1927?",
+      "answer": "Francisco Serrano and Arnulfo Gómez",
+      "distractors": [
+        "Enrique Estrada and Guadalupe Sánchez",
+        "José Gonzalo Escobar and Fausto Topete",
+        "Saturnino Cedillo and Joaquín Amaro"
+      ],
+      "explanation": "Everyone knew their rebellion was coming, and it was crushed before it was declared. Serrano and his companions were killed at Huitzilac, on the Cuernavaca–Mexico City road, on 3 October; Gómez was caught and shot a month later.",
+      "chapter": 15,
+      "feature": "e10-huitzilac-1927"
+    },
+    {
+      "id": "consolidation-escobar",
+      "prompt": "Luis Cabrera mocked the Escobar rising of March 1929 as the \"Railroad and Banking Rebellion\". Why?",
+      "answer": "Rebels robbed banks and fled north by rail",
+      "distractors": [
+        "It was financed by US railway bankers",
+        "It began as a railwaymen's strike",
+        "Rebels seized the nationalised railways"
+      ],
+      "explanation": "Under the Plan of Hermosillo, General José Gonzalo Escobar carried more than a quarter of the army with him, yet the rising fell apart in about six weeks. It was the revolutionary army's last big rebellion.",
+      "chapter": 15,
+      "feature": "e10-escobar-1929"
+    },
+    {
+      "id": "consolidation-article-130",
+      "prompt": "Which article of the 1917 constitution banned Catholic parties and foreign priests and gave the state control over church buildings?",
+      "answer": "Article 130",
+      "distractors": [
+        "Article 27",
+        "Article 123",
+        "Article 3"
+      ],
+      "explanation": "It also let state legislatures fix how many priests they needed, and priests needed licences to minister. Earlier presidents had left these articles dormant; Calles enforced them.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-icam",
+      "prompt": "What was the Iglesia Católica Apostólica Mexicana, set up in 1925 with the backing of Calles and his union allies?",
+      "answer": "A schismatic national church",
+      "distractors": [
+        "A Catholic workers' union",
+        "A Catholic self-defence league",
+        "A Protestant mission church"
+      ],
+      "explanation": "Union gunmen helped a rogue priest, José Joaquín Pérez, seize Mexico City parishes and declare himself patriarch. It won some followers but enraged many more, and set off the escalation toward war.",
+      "chapter": 15,
+      "feature": "e10-icam-1925"
+    },
+    {
+      "id": "consolidation-calles-law",
+      "prompt": "What did the Calles Law of 1926 require of priests before they could exercise their ministry?",
+      "answer": "Registration with the civil authorities",
+      "distractors": [
+        "An oath to the revolutionary party",
+        "A licence from the Vatican",
+        "A university degree in theology"
+      ],
+      "explanation": "Dozens of Mexico City priests were jailed for ministering without registering. The bishops answered by suspending public worship from 31 July 1926.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-liga-boycott",
+      "prompt": "How did the Catholic League for the Defence of Religious Liberty first fight Calles's laws in 1926?",
+      "answer": "A boycott of all but essentials",
+      "distractors": [
+        "A strike by Catholic factory workers",
+        "A mass petition to the US Congress",
+        "A march on the National Palace"
+      ],
+      "explanation": "The Liga told Catholics to buy only bare essentials, hoping to bring the economy down. A middle-class body of young urban lawyers, it declared war only in January 1927, after the rural risings had begun.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-viva-cristo-rey",
+      "prompt": "What was the battle cry of the Catholic rebels who fought the Calles government in 1926–29?",
+      "answer": "¡Viva Cristo Rey!",
+      "distractors": [
+        "¡Religión y fueros!",
+        "¡Tierra y Libertad!",
+        "¡Sufragio efectivo, no reelección!"
+      ],
+      "explanation": "\"Long live Christ the King\" gave the Cristeros their name and their war its name, the Cristiada. They were strongest in the most devout states, which the revolution had largely passed by.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-cristero-region"
+    },
+    {
+      "id": "consolidation-cristero-priests",
+      "prompt": "Whom did Gillingham see as the Cristeros' key leaders on the ground, the equivalent of revolutionary cadres?",
+      "answer": "Rural parish priests",
+      "distractors": [
+        "Hacienda owners",
+        "Village schoolteachers",
+        "Railway workers"
+      ],
+      "explanation": "The ranchers of San José de Gracia went to war when their priest told them to, and priests like José Reyes Vega led armies. In 1927 the government ordered the arrest of all priests in the war zones.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-catholic-union",
+      "prompt": "Besides anticlerical conviction, what worldly threat to his power did Calles see in the Church?",
+      "answer": "A Catholic union rivalling his labour base",
+      "distractors": [
+        "Bishops financing the de la Huerta rebels",
+        "Church banks lending to his enemies",
+        "Catholic control of the army"
+      ],
+      "explanation": "Organised labour was Calles's main base, and the National Catholic Labour Confederation had some eighty thousand members. Calles also remembered the Catholic backlash that had helped bring down Madero.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-reconcentracion",
+      "prompt": "What counter-insurgency measure of Joaquín Amaro drove many peasants into the Cristero ranks?",
+      "answer": "Forced relocation of villages",
+      "distractors": [
+        "Conscription into the federal army",
+        "A tax on church attendance",
+        "Burning of the maize harvest"
+      ],
+      "explanation": "Reconcentración herded rural people into towns to deny the rebels support. Like the hangings, torture and burnt villages of the guerrilla war, it made more Cristeros than it stopped.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-agraristas",
+      "prompt": "Who served as the government's militia against the Cristeros in the countryside?",
+      "answer": "Agrarista peasant militias",
+      "distractors": [
+        "Union gunmen of the CROM",
+        "Tabasco's Red Shirts",
+        "Former Villista cavalry"
+      ],
+      "explanation": "Some thirty thousand militiamen fought for the government. Land drove both sides: Cristeros sometimes hanged captured agraristas with a bag of earth round the neck and a sign mocking their hunger for land.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-gorostieta",
+      "prompt": "Which former federal general, an unlikely Catholic champion, commanded the Cristero armies in their great offensive of 1929?",
+      "answer": "Enrique Gorostieta",
+      "distractors": [
+        "José Reyes Vega",
+        "Victoriano Ramírez",
+        "Fausto Topete"
+      ],
+      "explanation": "A career officer of doubtful faith, Gorostieta turned the Cristero bands into something like a regular army, and in 1929 they took most of the West. Federal troops killed him in June 1929, three weeks before the settlement.",
+      "chapter": 15,
+      "feature": "e10-gorostieta"
+    },
+    {
+      "id": "consolidation-cristero-1929",
+      "prompt": "Why did 1929 go so well for the Cristeros?",
+      "answer": "The Escobar rising drew troops north",
+      "distractors": [
+        "The United States armed the rebels",
+        "The pope blessed the rebellion",
+        "The federal army mutinied in Jalisco"
+      ],
+      "explanation": "Some thirty-five thousand troops were sent against Escobar. The counter-offensive that followed pushed military spending above 30 percent of the budget just as the Depression cut revenue.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-cristero-dead",
+      "prompt": "By Gillingham's upper estimate, roughly how many people did the Cristero War of 1926–29 kill?",
+      "answer": "About 100,000",
+      "distractors": [
+        "About 10,000",
+        "About 25,000",
+        "About a million"
+      ],
+      "explanation": "Gillingham says \"as many as\" 100,000; Jean Meyer counts some 90,000 combatants killed on both sides. Far more fled, leaving ghost towns, and many priests and nuns went into exile in the United States.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-cristero-region"
+    },
+    {
+      "id": "consolidation-morrow",
+      "prompt": "Which US ambassador helped broker the 1929 settlement between the Mexican government and the bishops?",
+      "answer": "Dwight Morrow",
+      "distractors": [
+        "Josephus Daniels",
+        "Henry Lane Wilson",
+        "Joel Poinsett"
+      ],
+      "explanation": "Washington brokered and approved the deal. The Vatican had already told the Mexican bishops to give the Cristeros neither moral nor material support.",
+      "chapter": 15,
+      "feature": "e10-arreglos"
+    },
+    {
+      "id": "consolidation-arreglos",
+      "prompt": "How was the Cristero War ended in June 1929?",
+      "answer": "A Church–state deal over the rebels' heads",
+      "distractors": [
+        "A Cristero victory in the battle for Guadalajara",
+        "A repeal of the anticlerical articles",
+        "A concordat between Mexico and Rome"
+      ],
+      "explanation": "The arreglos (\"arrangements\", not a treaty) traded demobilisation for tolerance: worship resumed, the government eased enforcement and dropped the schismatic church, but the laws stayed. Many Cristeros who laid down their arms were later murdered.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e10-arreglos"
+    },
+    {
+      "id": "consolidation-obregon-suspects",
+      "prompt": "Whom did many of Obregón's followers suspect of being really behind his assassination in 1928?",
+      "answer": "Calles and his labour allies",
+      "distractors": [
+        "The US embassy and its agents",
+        "Vasconcelos and his followers",
+        "Escobar and the northern generals"
+      ],
+      "explanation": "One of Obregón's generals handed Calles the murder weapon and asked if he recognised it, and talked of a coup. The labour boss Luis Morones was also accused, which ended his power.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-nation-of-institutions",
+      "prompt": "In 1928, after Obregón's murder, Calles told Congress that Mexico must move from being a country of a single man to what?",
+      "answer": "A nation of institutions and laws",
+      "distractors": [
+        "A federation of free and sovereign states",
+        "A socialist workers' republic",
+        "A democracy of Christian citizens"
+      ],
+      "explanation": "He disclaimed any wish to be the new caudillo and persuaded leading generals not to run. The message reached bars and village shops by radio.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "consolidation-portes-gil",
+      "prompt": "Which civilian did Calles install as interim president after Obregón's assassination?",
+      "answer": "Emilio Portes Gil",
+      "distractors": [
+        "Pascual Ortiz Rubio",
+        "Abelardo Rodríguez",
+        "Adolfo de la Huerta"
+      ],
+      "explanation": "Choosing a popular, competent civilian helped ward off a coup by Obregón's generals. It was Portes Gil who signed the 1929 arreglos with the bishops.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "consolidation-jefe-maximo",
+      "prompt": "What title did Calles carry as the power behind the presidents of 1928–34?",
+      "answer": "Jefe Máximo",
+      "distractors": [
+        "Primer Jefe",
+        "Jefe Político",
+        "Supremo Gobierno"
+      ],
+      "explanation": "The period is called the Maximato. Calles respected the ban on re-election while making and unmaking three presidents and keeping land redistribution to a minimum.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "consolidation-ortiz-rubio",
+      "prompt": "Who was the PNR's first presidential candidate, elected in 1929?",
+      "answer": "Pascual Ortiz Rubio",
+      "distractors": [
+        "Emilio Portes Gil",
+        "Abelardo Rodríguez",
+        "José Vasconcelos"
+      ],
+      "explanation": "A former civilian revolutionary who had spent years as an ambassador abroad, he was Calles's puppet. He survived an assassination attempt on his inauguration day and resigned in 1932.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-abelardo-rodriguez",
+      "prompt": "Which general and northern businessman was the last of the Maximato presidents, in 1932–34?",
+      "answer": "Abelardo Rodríguez",
+      "distractors": [
+        "Pascual Ortiz Rubio",
+        "Emilio Portes Gil",
+        "Manuel Pérez Treviño"
+      ],
+      "explanation": "He was a revolutionary businessman after Calles's own heart. In 1934 Calles picked a fourth president, the quiet young general Lázaro Cárdenas, expecting the pattern to continue.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-vasconcelos-1929",
+      "prompt": "Which candidate drew huge crowds of young people and women against the new official party in the 1929 presidential election?",
+      "answer": "José Vasconcelos",
+      "distractors": [
+        "Adolfo de la Huerta",
+        "Arnulfo Gómez",
+        "Luis Cabrera"
+      ],
+      "explanation": "Claiming Madero's mantle and promising votes for women, he drew some hundred thousand to a Mexico City rally. He also threatened revolt and was in touch with the Cristero leaders, which gave the government another reason to make peace.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-oil-share-1920",
+      "prompt": "By 1920, roughly what share of the world's oil was Mexico selling?",
+      "answer": "About a quarter",
+      "distractors": [
+        "About a twentieth",
+        "About a tenth",
+        "About half"
+      ],
+      "explanation": "The First World War sent demand soaring, with Mexican oil fuelling Britain's Royal Navy, and in the early 1920s oil taxes kept the government afloat. Mexico was then the world's second-largest producer.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-golden-lane"
+    },
+    {
+      "id": "consolidation-oil-decline",
+      "prompt": "Why did Mexico's oil boom fade in the mid-1920s?",
+      "answer": "Old Gulf fields dried up as rivals rose",
+      "distractors": [
+        "The government nationalised the wells",
+        "Strikes closed the refineries",
+        "US tariffs shut out Mexican crude"
+      ],
+      "explanation": "After 1923 the ageing Gulf Coast fields declined just as Venezuela, Persia and the US expanded, and in 1926 prices collapsed. Salt water flooded most wells of the Golden Lane.",
+      "chapter": 16,
+      "feature": "e10-golden-lane"
+    },
+    {
+      "id": "consolidation-depression-1932",
+      "prompt": "In 1932, the worst year of the Depression for Mexico, roughly how far had exports fallen?",
+      "answer": "By about two-thirds",
+      "distractors": [
+        "By about a tenth",
+        "By about a quarter",
+        "Not at all"
+      ],
+      "explanation": "Oil prices fell first, then those of minerals; the economy and government revenue shrank, and the number of unemployed in the towns tripled. The government even stopped paying interest to foreign bondholders.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-repatriation",
+      "prompt": "During the Depression of the early 1930s, how many Mexicans returned or were deported from the United States?",
+      "answer": "Hundreds of thousands",
+      "distractors": [
+        "A few thousand",
+        "Tens of thousands",
+        "Around five million"
+      ],
+      "explanation": "Gillingham gives about 400,000 (423,000 in a later chapter); other estimates run from about 350,000 upwards. Some went home willingly with consular help; others were rounded up, and the Mexican government tried, often badly, to resettle them on the land.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-la-county",
+      "prompt": "Which US county became notorious in the early 1930s for rounding up people who looked Mexican, US citizens included, and shipping them south?",
+      "answer": "Los Angeles County",
+      "distractors": [
+        "Maricopa County",
+        "Bexar County",
+        "El Paso County"
+      ],
+      "explanation": "Mexicans had made Los Angeles home to the largest Mexican community in the US. With the Depression and the arrival of Dust Bowl migrants, they were no longer wanted as cheap labour.",
+      "chapter": 20
+    },
+    {
+      "id": "consolidation-pani",
+      "prompt": "Which finance minister's counter-cyclical policies helped Mexico spend its way out of the Depression in the early 1930s?",
+      "answer": "Alberto J. Pani",
+      "distractors": [
+        "Luis Montes de Oca",
+        "José Yves Limantour",
+        "Antonio Ortiz Mena"
+      ],
+      "explanation": "He expanded the money supply, let the peso fall and raised spending: Keynesian policy before Keynes published his General Theory. Between 1932 and 1934 the economy grew 19 percent and industry 47 percent.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-beer",
+      "prompt": "Helped by US Prohibition, which Mexican manufacturing industry grew explosively in the 1920s?",
+      "answer": "Brewing",
+      "distractors": [
+        "Textiles",
+        "Cement",
+        "Tobacco"
+      ],
+      "explanation": "By the mid-1920s brewers paid more than a quarter of Mexico's taxes on manufacturing, and by 1930 beer was the country's second most profitable manufacturing industry. US bans also opened a new smuggling trade north in marijuana and opium.",
+      "chapter": 21
+    },
+    {
+      "id": "consolidation-marijuana-law",
+      "prompt": "Mexico's 1920 law banning marijuana described it as one of the substances that do what?",
+      "answer": "Degenerate the race",
+      "distractors": [
+        "Corrupt public morals",
+        "Endanger public health",
+        "Destroy the family"
+      ],
+      "explanation": "Some revolutionaries shared the American belief that the damage drugs did could be passed on to children. Mexico went on to ban the growing of opium poppies in 1926.",
+      "chapter": 21
+    },
+    {
+      "id": "consolidation-morphine-clinics",
+      "prompt": "What drug policy did the Cardenista government adopt in 1939?",
+      "answer": "Cheap state morphine clinics for addicts",
+      "distractors": [
+        "Army eradication of poppy fields",
+        "The death penalty for traffickers",
+        "Legal sale of marijuana in pharmacies"
+      ],
+      "explanation": "Doctors persuaded politicians to treat addiction as a medical problem, cutting dealers' profits. In 1940 Mexico defended the approach at the League of Nations, where US delegates shouted it down.",
+      "chapter": 21
+    },
+    {
+      "id": "consolidation-life-expectancy",
+      "prompt": "What was Mexico's national life expectancy in 1930?",
+      "answer": "About 37 years",
+      "distractors": [
+        "About 25 years",
+        "About 50 years",
+        "About 59 years"
+      ],
+      "explanation": "Governments from Obregón to Cárdenas invested in cheap public health for the poor, from rural medics to clean water. By 1960 life expectancy had reached fifty-nine.",
+      "chapter": 20
+    },
+    {
+      "id": "consolidation-medicina-social",
+      "prompt": "What did the Cárdenas government call its programme of permanent clinics for ejidos and rural Mexicans?",
+      "answer": "Medicina social, \"socialised medicine\"",
+      "distractors": [
+        "Seguro social, \"social insurance\"",
+        "Misiones culturales, \"cultural missions\"",
+        "Solidaridad, \"solidarity\""
+      ],
+      "explanation": "Health spending rose from 3.7 to 6 percent of the federal budget, and ejidatarios got health units at their ejido offices. The network later helped spread malaria control and birth control.",
+      "chapter": 20
+    },
+    {
+      "id": "consolidation-vasconcelos-sep",
+      "prompt": "Whom did Obregón put in charge of the new federal Ministry of Public Education (SEP) in 1921?",
+      "answer": "José Vasconcelos",
+      "distractors": [
+        "Narciso Bassols",
+        "Manuel Gamio",
+        "Moisés Sáenz"
+      ],
+      "explanation": "Obregón gave him a bigger budget than he had asked for. Vasconcelos called his campaign for schools, libraries and free breakfasts a crusade, and he commissioned the first great murals.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-vasconcelos-sep"
+    },
+    {
+      "id": "consolidation-vasconcelos-classics",
+      "prompt": "What did the new federal Education Ministry of the early 1920s print for ordinary Mexicans in runs of 25,000 copies?",
+      "answer": "Classics such as Homer",
+      "distractors": [
+        "Revolutionary comic books",
+        "Bilingual primers in Nahuatl",
+        "Catechisms of the revolution"
+      ],
+      "explanation": "José Vasconcelos, a conservative at heart, wanted schooling to reach as many people as fast as possible. Teams of barely trained teachers, some of them teenagers, went out to the villages.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-literacy",
+      "prompt": "In 1921 about 28 percent of Mexicans could read. What was the figure by 1934?",
+      "answer": "About 38 percent",
+      "distractors": [
+        "About 31 percent",
+        "About 55 percent",
+        "About 70 percent"
+      ],
+      "explanation": "Radical ideas spread through teachers' magazines, travelling libraries and parents' meetings. Education was the one revolutionary cause that built real consensus.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-community-schools",
+      "prompt": "Who paid for most of the new rural schools of 1920s Guerrero?",
+      "answer": "The local communities themselves",
+      "distractors": [
+        "The federal Education Ministry",
+        "The Catholic Church",
+        "US charitable foundations"
+      ],
+      "explanation": "Over three years Guerrero's villages put up 276 schoolhouses, spending more than a million pesos, against the ministry's contribution of 20,500. Because families paid, they had a say in what was taught.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-ayotzinapa",
+      "prompt": "In which state was the rural teachers' college of Ayotzinapa founded in 1926?",
+      "answer": "Guerrero",
+      "distractors": [
+        "Michoacán",
+        "Oaxaca",
+        "Morelos"
+      ],
+      "explanation": "Rural normal schools trained the teachers of the revolutionary education campaign. Ayotzinapa became a centre of student radicalism; the Communist Party recruited there in the 1930s.",
+      "chapter": 16,
+      "feature": "e10-ayotzinapa-1926"
+    },
+    {
+      "id": "consolidation-rivera",
+      "prompt": "Which painter led the team that painted Mexico's history as centuries of racial and class struggle on the walls of the National Palace?",
+      "answer": "Diego Rivera",
+      "distractors": [
+        "José Clemente Orozco",
+        "David Alfaro Siqueiros",
+        "Rufino Tamayo"
+      ],
+      "explanation": "Rivera, who had spent the revolution as a Cubist in Paris, became its best-known painter. The muralists worked fast and for workers' wages, which Obregón told Congress was a cheap way of redecorating.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-pollock",
+      "prompt": "Which American painter studied with Siqueiros and called a mural by Orozco the greatest work of art in North America?",
+      "answer": "Jackson Pollock",
+      "distractors": [
+        "Edward Hopper",
+        "Georgia O'Keeffe",
+        "Thomas Hart Benton"
+      ],
+      "explanation": "In the 1920s and 1930s Mexico City was a great cosmopolitan capital of the arts, its pull rivalled in the Americas only by New York's. Mexican artists changed the way Americans painted.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-bassols",
+      "prompt": "Which Marxist lawyer, made education minister under the Maximato, steered the federal schools toward a militantly secular, left-wing programme in the early 1930s?",
+      "answer": "Narciso Bassols",
+      "distractors": [
+        "José Vasconcelos",
+        "Vicente Lombardo Toledano",
+        "Moisés Sáenz"
+      ],
+      "explanation": "He was appointed during the Maximato with the backing of Calles, conservative in many ways but a believer in secular education. Education, unlike land, united the revolutionaries.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-psychological-revolution",
+      "prompt": "In his 1934 \"Grito de Guadalajara\", Calles said the revolution must enter a new phase and conquer what?",
+      "answer": "The minds of children and the young",
+      "distractors": [
+        "The Church's remaining property",
+        "The foreign-owned oil fields",
+        "The great northern haciendas"
+      ],
+      "explanation": "He called it the period of \"psychological revolution\": the young had to belong to the revolution. The speech fed straight into socialist education.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-article-3-1934",
+      "prompt": "According to the 1934 revision of Article 3 of the constitution, what was Mexican education to be?",
+      "answer": "Socialist",
+      "distractors": [
+        "Bilingual",
+        "Catholic",
+        "Federal only"
+      ],
+      "explanation": "Besides excluding religious doctrine, schools were to fight \"fanaticism and prejudice\" and teach a rational view of the universe. Many state governments refused to apply it.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-archbishop",
+      "prompt": "How did the Archbishop of Mexico threaten Catholic parents who accepted the government's new school programme of the mid-1930s?",
+      "answer": "With denial of the sacraments",
+      "distractors": [
+        "With fines paid to the parish",
+        "With a ban on church weddings for their children",
+        "With public naming from the pulpit"
+      ],
+      "explanation": "He also declared the rural teachers who taught it heretics to be excommunicated. Some Catholic states saw teachers' strikes, and one governor fired fifty teachers merely for asking about the programme.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-teachers-murdered",
+      "prompt": "In 1938 the Education Ministry reported that a rural teacher was being murdered how often?",
+      "answer": "Once every ten days",
+      "distractors": [
+        "Once every ten weeks",
+        "Once every ten months",
+        "Once every two days"
+      ],
+      "explanation": "Teachers were among the few Mexicans licensed to carry guns. The Segunda, a scattered second Cristero rising, was largely fuelled by hatred of socialist teachers, some of whom were tortured and lynched.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-segunda",
+      "prompt": "What was the Segunda, the scattered second Cristero rising of the mid-1930s, chiefly a reaction against?",
+      "answer": "Socialist education",
+      "distractors": [
+        "The oil expropriation",
+        "The expulsion of Calles",
+        "The founding of the CTM"
+      ],
+      "explanation": "It was a movement of many small, diffuse Catholic guerrilla bands rather than an army. Catholic resistance, from keeping children home to killing teachers, largely defeated socialist education, which was dropped in the early 1940s.",
+      "chapter": 16,
+      "feature": "e10-cristero-region"
+    },
+    {
+      "id": "consolidation-schools-built",
+      "prompt": "Roughly how many new primary schools opened in the first years of Cárdenas's presidency?",
+      "answer": "About 3,500",
+      "distractors": [
+        "About 350",
+        "About 35,000",
+        "About 1,000"
+      ],
+      "explanation": "Federal spending on education rose 14 percent in three years, and on paper, at least, rural teachers multiplied. Schools reached places the system had barely touched.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-cornmills",
+      "prompt": "Which small machine, spread by Cardenista teachers, freed village women from hours of grinding maize on the metate?",
+      "answer": "The motorised community cornmill",
+      "distractors": [
+        "The hand-cranked sewing machine",
+        "The kerosene stove",
+        "The cast-iron tortilla press"
+      ],
+      "explanation": "Women who had risen before dawn to grind corn could sleep two hours longer. Many mills later broke down and were never replaced.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-basketball",
+      "prompt": "In some villages, Gillingham notes, what was the only concrete result of revolutionary reform?",
+      "answer": "A basketball court",
+      "distractors": [
+        "A one-room schoolhouse",
+        "A community cornmill",
+        "A village health clinic"
+      ],
+      "explanation": "Military engineers laid concrete courts, and Sunday games rivalled mass as entertainment. The cultural revolution meant to accompany land reform proved distinctly partial.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-indigenismo",
+      "prompt": "What was the indigenismo promoted by the revolutionary state?",
+      "answer": "Praising Indigenous culture while assimilating Indians",
+      "distractors": [
+        "A movement for Indigenous self-government and autonomy",
+        "A Catholic mission to convert remote Indigenous villages",
+        "The return of all land to the Indigenous villages"
+      ],
+      "explanation": "It celebrated the Indigenous past and crafts while treating present-day Indians as backward people to be developed and absorbed. It showed more respect than elsewhere in the Americas, but critics called it ethnocide.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-gamio",
+      "prompt": "Which anthropologist, a central thinker of revolutionary nationalism, argued that true Mexicans must share one language, culture and religion?",
+      "answer": "Manuel Gamio",
+      "distractors": [
+        "Alfonso Caso",
+        "Franz Boas",
+        "José Vasconcelos"
+      ],
+      "explanation": "Gamio held that to be truly Mexican everyone had to feel at one with the peasant. Unpublished papers show that he and much of the ruling class also imagined national unity in eugenic, biological terms.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-raza-cosmica",
+      "prompt": "What did José Vasconcelos call the hybrid \"fifth race\" he believed Latin America would produce?",
+      "answer": "La raza cósmica",
+      "distractors": [
+        "La raza de bronce",
+        "El hombre nuevo",
+        "La patria criolla"
+      ],
+      "explanation": "Vasconcelos took a more pluralist view than Gamio, praising ethnic mixture, but reached the same end: Indians were a bridge to a mestizo nation. Indigenismo was part of mestizaje, not its opposite.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-mexicanize",
+      "prompt": "Cárdenas famously defined the aim of his Indigenous policy. What did he say should be done?",
+      "answer": "Mexicanise the Indian",
+      "distractors": [
+        "Indianise Mexico",
+        "Keep the Indian Indian",
+        "Leave Indian villages alone"
+      ],
+      "explanation": "He also wanted to foster Indigenous autonomy and preserve cultures, trying to square development with assimilation. Rural education remained the main remedy.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-daai",
+      "prompt": "What federal agency did Cárdenas create to promote Indigenous languages and hold annual regional congresses of Indigenous peoples?",
+      "answer": "The Department of Indigenous Affairs",
+      "distractors": [
+        "The National Indigenist Institute",
+        "The Ministry of Agriculture and Development",
+        "The Ministry of Public Education"
+      ],
+      "explanation": "The Departamento Autónomo de Asuntos Indígenas asked Indigenous people what they needed, and states set up departments of their own. Where Indigenous people were most numerous, as in highland Michoacán, Chiapas and Oaxaca, these offices drove real change.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-yaqui",
+      "prompt": "What did the Yaqui of Sonora win from Cárdenas in 1937?",
+      "answer": "Recognition of much of their homeland",
+      "distractors": [
+        "Seats in the federal Congress",
+        "A separate Yaqui state in the federation",
+        "Freedom from all federal taxes"
+      ],
+      "explanation": "After a century of wars and deportations they gained partial autonomy, backed by expropriations of US-owned land in the Yaqui River Valley. The rest of the irrigated valley went to collective ejidos.",
+      "chapter": 16,
+      "feature": "e10-yaqui-1937"
+    },
+    {
+      "id": "consolidation-article-34",
+      "prompt": "Cárdenas twice backed amending which article of the constitution to give women the vote, though the reform never took effect?",
+      "answer": "Article 34",
+      "distractors": [
+        "Article 3",
+        "Article 27",
+        "Article 130"
+      ],
+      "explanation": "Suffrage was Cárdenas's great broken promise to women; in 1940 Congress declared itself opposed. Women got the municipal vote in 1947 and voted for president only in 1958.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-womens-front",
+      "prompt": "In 1935 a front for women's rights, including the vote, joined Cardenistas, Catholics, communists and feminists. Roughly how many members did it bring together?",
+      "answer": "About fifty thousand",
+      "distractors": [
+        "About five hundred",
+        "About five thousand",
+        "About half a million"
+      ],
+      "explanation": "It also campaigned for cheaper utilities and books for children. The party promised that \"working women\" would soon vote in municipal elections, then failed to deliver.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-anti-alcohol",
+      "prompt": "Why did the Cardenista anti-alcohol campaigns mobilise so many women?",
+      "answer": "Drunken men meant beaten women",
+      "distractors": [
+        "Women ran most of the cantinas",
+        "Pulque taxes paid for girls' schools",
+        "The Church demanded temperance"
+      ],
+      "explanation": "Government cartoons showed drunken men threatening their families. But the campaigns were abandoned without funding, often leaving women exposed, and drinking rose.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-rent-strike",
+      "prompt": "Which group was at the centre of the great Veracruz tenants' strike of the 1920s, which won rent control and public housing?",
+      "answer": "Prostitutes",
+      "distractors": [
+        "Dockworkers",
+        "Schoolteachers",
+        "Railwaymen"
+      ],
+      "explanation": "Women organised everywhere from coffee to sex work, fought strikebreakers in mill towns and led riots. Yet Cardenistas and communists stayed deaf to unpaid domestic labour.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-jiquilpan",
+      "prompt": "Lázaro Cárdenas grew up in which small town in northwest Michoacán?",
+      "answer": "Jiquilpan",
+      "distractors": [
+        "Pátzcuaro",
+        "Zamora",
+        "Uruapan"
+      ],
+      "explanation": "One of eight children whose father died young, he had three years of primary school and joined the revolution in 1913, aged eighteen. Within two years he was commanding a cavalry regiment in Sonora.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-six-year-plan",
+      "prompt": "Which party programme did Cárdenas push leftward before the 1934 election?",
+      "answer": "The Six-Year Plan",
+      "distractors": [
+        "The Plan of Agua Prieta",
+        "The Plan of Ayala",
+        "The Fourteen Points"
+      ],
+      "explanation": "The final draft set no limit to land reform short of meeting all the \"agricultural necessities\" of rural Mexicans. Meanwhile he flattered Calles and quietly recruited peasant militias.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-campaign-1934",
+      "prompt": "What made Cárdenas's 1934 election campaign legendary?",
+      "answer": "He toured villages no politician had visited",
+      "distractors": [
+        "He never left Mexico City during the campaign",
+        "He campaigned only by radio and newspapers",
+        "He promised to keep all of Calles's ministers"
+      ],
+      "explanation": "Travelling by plane, train, car and horse, he asked villagers what they needed and took notes. He also cut deals with brutal caciques, building the broadest coalition since Obregón's.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-marathon-radicalism",
+      "prompt": "In June 1935 Calles publicly condemned Cárdenas's \"marathon\" of what?",
+      "answer": "Radicalism",
+      "distractors": [
+        "Corruption",
+        "Demagogy",
+        "Fanaticism"
+      ],
+      "explanation": "Cárdenas had been encouraging strikes and land redistribution. Backed by the army, the new labour movement and regional bosses, he purged the Callistas from the cabinet, and in 1936 sent Calles into exile.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-supreme-court",
+      "prompt": "How did Cárdenas change the terms of Supreme Court justices?",
+      "answer": "Six-year terms instead of life tenure",
+      "distractors": [
+        "Election by popular vote every four years",
+        "Appointment by the state governors",
+        "Terms tied to membership of the PNR"
+      ],
+      "explanation": "He replaced the old justices with his own men, as he also purged governors, generals and congressmen. Gillingham wryly notes that Franklin Roosevelt tried to pack the US Supreme Court soon afterwards.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-dignity",
+      "prompt": "How did Cardenista law change the grounds for expropriating haciendas?",
+      "answer": "Every countryman had a right to enough land",
+      "distractors": [
+        "Only proven historic theft justified it",
+        "Only foreign-owned land could be taken",
+        "Only idle land could be taken"
+      ],
+      "explanation": "Villages no longer had to prove they had been dispossessed. Teams of engineers, lawyers, agronomists, students and soldiers descended on the estates and divided them quickly.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-henequen",
+      "prompt": "In 1937 Cárdenas turned the plantations around Mérida into ejidos for their Maya workers. Which crop did they grow?",
+      "answer": "Henequen",
+      "distractors": [
+        "Sugar cane",
+        "Coffee",
+        "Cotton"
+      ],
+      "explanation": "Henequen fibre made binder twine and had made the Yucatán planters rich on near-slave labour. The plantations became collective farms within weeks.",
+      "chapter": 16,
+      "feature": "e10-henequen-zone"
+    },
+    {
+      "id": "consolidation-yucatan-failure",
+      "prompt": "Why does Gillingham call Yucatán the great failure of Cardenista land reform?",
+      "answer": "Too little good land; old elites kept power",
+      "distractors": [
+        "The Maya refused to join collective ejidos",
+        "US pressure protected the henequen planters",
+        "A hurricane wrecked the new plantations"
+      ],
+      "explanation": "There was productive land for barely half the would-be ejidatarios, and new agave takes seven years to harvest. Cárdenas appeased the old political elites and left ejidatarios poor under conservative bosses.",
+      "chapter": 16,
+      "feature": "e10-henequen-zone"
+    },
+    {
+      "id": "consolidation-cusi-rice",
+      "prompt": "Which crop did the Cusi family's irrigated estates at Nueva Italia and Lombardía, in Michoacán, produce before their 1938 expropriation?",
+      "answer": "Rice",
+      "distractors": [
+        "Cotton",
+        "Henequen",
+        "Wheat"
+      ],
+      "explanation": "They were among four great agribusiness targets, with the cotton of La Laguna, the henequen of Yucatán and the sugar of Morelos and Puebla. The estates became collective ejidos.",
+      "chapter": 16,
+      "feature": "e10-nueva-italia"
+    },
+    {
+      "id": "consolidation-zacatepec",
+      "prompt": "Where did Cárdenas found the Emiliano Zapata sugar mill, which ground the cane of the surrounding ejidos?",
+      "answer": "Zacatepec, Morelos",
+      "distractors": [
+        "Cuautla, Morelos",
+        "Anenecuilco, Morelos",
+        "Atencingo, Puebla"
+      ],
+      "explanation": "The sugar ejido there had a budget twice that of the Morelos state government. Later its government-appointed managers ruled thousands of ejidatarios much like a hacienda.",
+      "chapter": 16,
+      "feature": "e10-zacatepec-1938"
+    },
+    {
+      "id": "consolidation-banco-ejidal",
+      "prompt": "Which new bank lent the collective farmers of La Laguna 30 million pesos in their first year?",
+      "answer": "The Banco Ejidal",
+      "distractors": [
+        "The Banco de México",
+        "Nacional Financiera",
+        "The Banco de Londres y México"
+      ],
+      "explanation": "Generous start-up credit set Cardenista reform apart from the 1920s, when ejidos got little land and almost no loans. Vanishing credit later became one of the ejido's chronic problems.",
+      "chapter": 16,
+      "feature": "e10-laguna-ejidos"
+    },
+    {
+      "id": "consolidation-acres-1935-40",
+      "prompt": "Roughly how much land did the Mexican government redistribute between 1935 and 1940?",
+      "answer": "About 46 million acres",
+      "distractors": [
+        "About 4 million acres",
+        "About 1 million acres",
+        "About 200 million acres"
+      ],
+      "explanation": "That is some 18 million hectares, by Gillingham's reckoning nearly half of Mexico's cultivable land, and almost a quarter of it was irrigated or rain-watered arable. He calls it the largest land reform anywhere in the Americas.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-beneficiaries",
+      "prompt": "About how many poor Mexicans became landholders under the Cárdenas land reform?",
+      "answer": "About 800,000",
+      "distractors": [
+        "About 80,000",
+        "About 3 million",
+        "About 8 million"
+      ],
+      "explanation": "They received land as ejidatarios, with generous government credit. The reform cleared out much of the old landowning class and many grasping generals, and foreign owners were not spared.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-fear-shift",
+      "prompt": "An observer wrote that under Cárdenas fear passed from the have-nots to the haves. What effect of reform does Gillingham stress with this?",
+      "answer": "Its psychological impact",
+      "distractors": [
+        "Its economic efficiency",
+        "Its effect on exports",
+        "Its religious impact"
+      ],
+      "explanation": "For the first time a Mexican government openly favoured the rural poor over the rich. Cárdenas reinforced the message by spending thirty-five days in La Laguna overseeing the distribution.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-ejidos-called-haciendas",
+      "prompt": "What did some disillusioned ejidatarios end up calling their collective ejidos?",
+      "answer": "Haciendas",
+      "distractors": [
+        "Cooperatives",
+        "Colonias",
+        "Repúblicas"
+      ],
+      "explanation": "On collective henequen and sugar ejidos members became salaried labour on land that was theirs in theory, sometimes unpaid for months. Administrators dug in as dynasties and took over plots.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-crom",
+      "prompt": "Which union confederation dominated organised labour in the 1920s, trading loyalty to the government for wages and benefits?",
+      "answer": "The CROM",
+      "distractors": [
+        "The CTM",
+        "The CGT",
+        "The CGOCM"
+      ],
+      "explanation": "It won its members higher wages, shorter hours, health care and pensions, at the price of subordination to the government, corruption and violence. It broke strikes and fought the anarchist CGT.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-morones",
+      "prompt": "Which labour boss, an electrician by trade, flaunted Packards and diamond rings while running the CROM?",
+      "answer": "Luis N. Morones",
+      "distractors": [
+        "Vicente Lombardo Toledano",
+        "Luis León",
+        "Hernán Laborde"
+      ],
+      "explanation": "Under Calles, Morones ranked among the most powerful men in Mexico. He fell in 1928, when he was accused of organising Obregón's murder.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-eight-hours",
+      "prompt": "How did shorter working hours won by 1920s unions change workers' everyday lives?",
+      "answer": "They brought leisure and paid weekends",
+      "distractors": [
+        "They cut real wages by about a third",
+        "They ended child labour overnight",
+        "They forced workers into second jobs"
+      ],
+      "explanation": "Workers played baseball, formed bands, staged plays and read; mill shifts ended at 1 p.m. on Saturdays. Even Mexico City prisoners unionised and won a jazz band.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-lombardo",
+      "prompt": "Which Marxist university lecturer led the CGOCM and then founded the CTM?",
+      "answer": "Vicente Lombardo Toledano",
+      "distractors": [
+        "Luis Napoleón Morones",
+        "Narciso Bassols",
+        "Hernán Laborde"
+      ],
+      "explanation": "His CGOCM succeeded the CROM as the state's preferred union. In 1936 his state-backed CTM recreated a single dominant labour confederation.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-ctm-1936"
+    },
+    {
+      "id": "consolidation-strikes-1935",
+      "prompt": "There were 13 strikes in Mexico in 1933. Roughly how many were there in 1935?",
+      "answer": "About 640",
+      "distractors": [
+        "About 25",
+        "About 65",
+        "About 6,400"
+      ],
+      "explanation": "Cárdenas declined to break strikes and passed a law threatening strikebound firms with expropriation. Simply letting a radicalising workforce loose produced major change.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-monterrey",
+      "kind": "where",
+      "prompt": "In 1936 Cárdenas told the industrialists of Mexico's conservative business capital that bosses tired of social struggle could hand their firms to the workers or the state. Where is that city?",
+      "answer": "Monterrey, Nuevo León",
+      "explanation": "His \"Fourteen Points\" speech came after a glassworks strike and an employers' lockout. Weeks later the CTM was founded, with the government's open support.",
+      "chapter": 16,
+      "feature": "e10-monterrey-1936"
+    },
+    {
+      "id": "consolidation-pcm",
+      "prompt": "What did Cárdenas do for the Mexican Communist Party, which had dwindled to some 1,400 members?",
+      "answer": "Legalised it and freed its prisoners",
+      "distractors": [
+        "Banned it and jailed its leaders",
+        "Merged it into the official party, the PNR",
+        "Expelled its leaders to the USSR"
+      ],
+      "explanation": "With fascism on the rise in Europe, the party revived to about seventeen thousand members, recruiting from Ayotzinapa students to Torreón metalworkers.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-ctm-aim",
+      "prompt": "What did the CTM's founding charter of 1936 set as the confederation's aim?",
+      "answer": "Abolishing capitalism in Mexico",
+      "distractors": [
+        "Restoring the CROM's closed shop",
+        "Staying independent of all parties",
+        "An eight-hour day in industry"
+      ],
+      "explanation": "The CTM grouped more than three thousand unions and some 70 percent of the urban workforce. In 1938 it became the labour sector of the official party.",
+      "chapter": 16,
+      "feature": "e10-ctm-1936"
+    },
+    {
+      "id": "consolidation-real-wages",
+      "prompt": "What happened to Mexican workers' real wages during the strike wave of the later 1930s?",
+      "answer": "They rose to their highest level ever",
+      "distractors": [
+        "They fell by about half in real terms",
+        "They were frozen by presidential decree",
+        "They rose only for the oil workers"
+      ],
+      "explanation": "Sympathy strikes spread across sectors and regions; even domestic workers unionised and won raises. After 1940 real wages fell steadily.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-railways",
+      "prompt": "Which industry did Cárdenas nationalise in June 1937, pushed by its new national union?",
+      "answer": "The railways",
+      "distractors": [
+        "Electricity",
+        "Mining",
+        "Banking"
+      ],
+      "explanation": "It was not good business, since the lines had been losing money for their owners, but it gave Mexicans the prime jobs. In 1938 the union was given the management of the lines.",
+      "chapter": 16,
+      "feature": "e10-railways-1937"
+    },
+    {
+      "id": "consolidation-stprm",
+      "prompt": "Which union presented the oil companies with a demand for a single new collective contract in November 1936?",
+      "answer": "The oil workers' union (STPRM)",
+      "distractors": [
+        "The railwaymen's union (STFRM)",
+        "The electricians' union (SME)",
+        "The teachers' union (SNTE)"
+      ],
+      "explanation": "Its contract had 240 clauses. Oil workers had been talking of nationalisation even before Cárdenas took office, after big strikes such as the one at Poza Rica in 1934.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-mexicanization",
+      "prompt": "Besides higher pay and a forty-hour week, what did the oil workers demand in their 1936 contract?",
+      "answer": "Mexicans in place of foreign managers",
+      "distractors": [
+        "Nationalisation of all the oil-bearing land",
+        "Profit-sharing with the state",
+        "Separate unions at each field"
+      ],
+      "explanation": "\"Mexicanisation\" of the administration was a direct challenge to the companies. When they refused an arbitration award in 1937 they legally exposed themselves to expropriation.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-mujica",
+      "prompt": "Which left-wing general, Cárdenas's mentor, encouraged oil union leaders in secret meetings before the expropriation?",
+      "answer": "Francisco Mújica",
+      "distractors": [
+        "Saturnino Cedillo",
+        "Joaquín Amaro",
+        "Manuel Ávila Camacho"
+      ],
+      "explanation": "Mújica's family had taken care of the young Cárdenas after his father's death. Much of the cabinet and the CTM wanted a compromise, but neither the companies nor the union would give way, which left Cárdenas little choice.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-oil-donations",
+      "prompt": "How did ordinary Mexicans show support for the 1938 oil expropriation?",
+      "answer": "By donating rings, savings and livestock",
+      "distractors": [
+        "By boycotting American and British goods",
+        "By a nationwide general strike of support",
+        "By voting for Pemex in a plebiscite"
+      ],
+      "explanation": "Women handed over wedding rings, children emptied piggy banks and peasants brought maize and poultry to collection points. Even the Church and the Right publicly backed the measure.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-oil-expropriation"
+    },
+    {
+      "id": "consolidation-britain-breaks",
+      "prompt": "With which great power were Mexico's diplomatic relations broken off in 1938 in the quarrel over the oil expropriation?",
+      "answer": "Britain",
+      "distractors": [
+        "The United States",
+        "Germany",
+        "France"
+      ],
+      "explanation": "The British-owned El Águila was the biggest company seized, and relations broke down after a sharp British note that May; they were restored only in 1941. The United States, which mattered far more, did little, though it stopped buying Mexican silver at high prices.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-anschluss",
+      "prompt": "Which European crisis, the week before, helped distract the great powers from Mexico's oil expropriation in March 1938?",
+      "answer": "Germany's annexation of Austria",
+      "distractors": [
+        "Germany's invasion of Poland",
+        "The Munich crisis over Czechoslovakia",
+        "Italy's conquest of Ethiopia"
+      ],
+      "explanation": "Cárdenas noted the distraction in his diary. The government newspaper put the nation's support for the expropriation alongside Mexico's refusal to recognise the annexation.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-oil-costs",
+      "prompt": "What economic costs followed the 1938 oil expropriation?",
+      "answer": "Falling output, a sliding peso and inflation",
+      "distractors": [
+        "A US naval blockade of Tampico and Veracruz",
+        "A default on all of Mexico's foreign debt",
+        "Famine in the oil districts of Veracruz"
+      ],
+      "explanation": "Oil production fell and inflation accelerated, adding strain to an economy already under pressure. Yet the industry did not collapse, as many had predicted, when young Mexicans took it over.",
+      "chapter": 16,
+      "feature": "e10-oil-expropriation"
+    },
+    {
+      "id": "consolidation-poza-rica",
+      "kind": "where",
+      "prompt": "Poza Rica had replaced the exhausted Golden Lane as Mexico's leading oil field by the time of the 1938 expropriation. Where is it?",
+      "answer": "Poza Rica, northern Veracruz",
+      "explanation": "El Águila bought a further concession there after a huge strike in 1934, betting on its traditional exemptions from Mexican law. The field became Pemex's main source of oil for decades.",
+      "chapter": 16,
+      "feature": "e10-poza-rica"
+    },
+    {
+      "id": "consolidation-cedillo",
+      "prompt": "Which agrarian strongman of San Luis Potosí led the only open armed revolt against Cárdenas, in 1938?",
+      "answer": "Saturnino Cedillo",
+      "distractors": [
+        "Juan Andreu Almazán",
+        "Adalberto Tejeda",
+        "Gonzalo N. Santos"
+      ],
+      "explanation": "Cedillo, the last of the old agrarian warlords, had been pushed out of the cabinet. His revolt in the sierra of his home state collapsed quickly, and he was killed in January 1939.",
+      "chapter": 16,
+      "core": true,
+      "feature": "e10-cedillo"
+    },
+    {
+      "id": "consolidation-estrada-doctrine",
+      "prompt": "What did the Estrada Doctrine, named after a Mexican foreign minister, reject?",
+      "answer": "Using recognition to sway other governments",
+      "distractors": [
+        "Any foreign investment in Mexican oil",
+        "Membership of the League of Nations",
+        "Granting asylum to foreign revolutionaries"
+      ],
+      "explanation": "Withholding recognition, and with it access to credit, had been Washington's lever over Mexico itself. The doctrine was part of a revolutionary foreign policy of non-intervention.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-nicaragua",
+      "prompt": "Where did the Calles government send arms to those fighting US Marines in the 1920s?",
+      "answer": "Nicaragua",
+      "distractors": [
+        "Haiti",
+        "Cuba",
+        "Guatemala"
+      ],
+      "explanation": "Revolutionary Mexico tried to stand up to US power in the hemisphere: Carranza declared the Monroe Doctrine dead and Obregón cut Washington's control over the Pan-American Union.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-spain",
+      "prompt": "Which side did Cárdenas send arms and volunteers to in the Spanish Civil War?",
+      "answer": "The Spanish Republic",
+      "distractors": [
+        "Franco's Nationalists",
+        "Neither; Mexico stayed neutral",
+        "The Basque government alone"
+      ],
+      "explanation": "He broke with the Western democracies' neutrality, making Mexico an early leader against fascism. By 1940 admirers called Mexico \"the lighthouse of America\".",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-spanish-exiles",
+      "prompt": "From 1939 Mexico took in tens of thousands of refugees, and Mexico City later became the seat of their government in exile. Where did they come from?",
+      "answer": "Spain",
+      "distractors": [
+        "Germany",
+        "Austria",
+        "Poland"
+      ],
+      "explanation": "As Franco won the civil war, Cárdenas opened Mexico to the defeated Republicans: about 20,000–25,000 by most counts (Gillingham says thirty thousand), many of them teachers, scientists, writers and skilled workers who shaped Mexican universities and publishing. Mexico's Catholic Right detested them.",
+      "chapter": 16,
+      "feature": "e10-sinaia"
+    },
+    {
+      "id": "consolidation-trotsky",
+      "prompt": "Which exiled Bolshevik leader did Cárdenas grant asylum and police protection in 1937?",
+      "answer": "Leon Trotsky",
+      "distractors": [
+        "Nikolai Bukharin",
+        "Grigory Zinoviev",
+        "Karl Radek"
+      ],
+      "explanation": "Trotsky lived in Coyoacán, first with Diego Rivera and Frida Kahlo, and was murdered by a Stalinist agent in 1940. For the Right his presence confirmed that Bolsheviks sat at the heart of government.",
+      "chapter": 16,
+      "feature": "e10-trotsky"
+    },
+    {
+      "id": "consolidation-retreat",
+      "prompt": "Why, according to Gillingham, did Cárdenas retreat from radicalism after 1938?",
+      "answer": "Fear of a Spanish-style civil war",
+      "distractors": [
+        "Pressure from the Soviet Union",
+        "Defeat in the 1938 elections",
+        "An ultimatum from the US government"
+      ],
+      "explanation": "Rumours of tanks for the left and German guns for the right, though false, showed how polarised Mexico had become. Keeping generals, landowners and Catholics from rebellion came first.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-successor",
+      "prompt": "In choosing a successor for 1940, Cárdenas passed over his own leftist mentor. Whom did he pick instead?",
+      "answer": "Manuel Ávila Camacho",
+      "distractors": [
+        "Juan Andreu Almazán",
+        "Miguel Alemán",
+        "Emilio Portes Gil"
+      ],
+      "explanation": "Cárdenas overlooked Francisco Mújica for Ávila Camacho, a bland, right-leaning general from Puebla. The choice opened the way for a conservative comeback in the 1940s.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-prm-structure",
+      "prompt": "How was the Party of the Mexican Revolution (PRM), which replaced the PNR in 1938, organised?",
+      "answer": "In sectors for each social group",
+      "distractors": [
+        "As a federation of state parties",
+        "In cells, like a communist party",
+        "Around individual members only"
+      ],
+      "explanation": "Peasants, unionised workers, the \"popular\" sector and, until 1940, the army joined through their sectors rather than as individual citizens. The party went on to monopolise national power for some sixty years.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-popular-sector",
+      "prompt": "Which sector of the PRM grouped everyone who was neither a unionised worker nor an organised peasant, and became the most powerful?",
+      "answer": "The popular sector",
+      "distractors": [
+        "The labour sector",
+        "The peasant sector",
+        "The military sector"
+      ],
+      "explanation": "Gillingham calls it misnamed. Its weight shows how the party could swing ideologically while remaining a single party running a deeply unequal capitalist society.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-thermidor",
+      "prompt": "Many saw the rightward turn after the 1930s reforms as Mexico's \"Thermidor\". What does the term recall?",
+      "answer": "The fall of Robespierre's Jacobins",
+      "distractors": [
+        "Napoleon's coup of Brumaire",
+        "The Bolsheviks' seizure of power",
+        "The restoration of the Bourbons"
+      ],
+      "explanation": "In Thermidor (July) 1794 the radicals of the French Revolution were overthrown and reform was halted. Gillingham accepts the comparison only in part: France ended in military dictatorship and war, while Mexico's civilian single party brought violence down and never fell to the generals.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-human-cost",
+      "prompt": "How did the human cost of Mexico's 1930s reforms compare with top-down revolutions elsewhere, in Gillingham's view?",
+      "answer": "Far lower: no gulags or famines",
+      "distractors": [
+        "Similar to the Soviet collectivisation",
+        "Higher than China's land reform",
+        "Impossible to estimate"
+      ],
+      "explanation": "Mexico had no labour camps, no famines made by policy and no mass killings on racial lines. Its gains were partial and could be reversed, but by the standards of the century they were bought cheaply.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-bolivia",
+      "prompt": "Which other mainland American country does Gillingham say came closest to Mexico's social revolution, in the 1950s?",
+      "answer": "Bolivia",
+      "distractors": [
+        "Argentina",
+        "Brazil",
+        "Colombia"
+      ],
+      "explanation": "Bolivia's Movimiento Nacional Revolucionario legislated land reform and universal suffrage, but redistribution was slow and incomplete. Otherwise only Haiti and Cuba saw comparable change.",
+      "chapter": 16
+    },
+    {
+      "id": "consolidation-what-endured",
+      "prompt": "Despite its flaws, what change of the 1930s does Gillingham say could not be undone?",
+      "answer": "Peasant ownership of the land",
+      "distractors": [
+        "Socialist education",
+        "Unions independent of the state",
+        "Women's right to vote"
+      ],
+      "explanation": "With it came a lasting shift in mentalité: country people came to think differently about what was possible and gained a vocabulary for demanding it. Much else, from teacher colleges to ejido credit, was soon rolled back.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "consolidation-never-made-it",
+      "prompt": "Peasants often complained that \"the revolution never made it here\". What did Gillingham argue the phrase implied?",
+      "answer": "That others like them had gained from it",
+      "distractors": [
+        "That the revolution had been a myth",
+        "That only the cities had gained from it",
+        "That the Church had blocked its reforms"
+      ],
+      "explanation": "The belief that someone like them had got something, and the freedom to write letters to the president about it, set Mexicans apart from other Americans for the rest of the century.",
+      "chapter": 15
+    },
+    {
+      "id": "consolidation-parral",
+      "kind": "where",
+      "prompt": "Pancho Villa, living on a Durango hacienda since his surrender, was ambushed and shot dead in his car in July 1923 in the town of Parral. Where is Parral?",
+      "answer": "Parral, southern Chihuahua",
+      "explanation": "Calles, and Obregón with him, were widely suspected of arranging the killing, since Villa might have backed a rival in the coming presidential succession. Within a decade assassins had killed nearly every leading national figure of the 1910s.",
+      "chapter": 15,
+      "feature": "e10-villa-parral"
+    },
+    {
+      "id": "consolidation-yaqui-valley",
+      "kind": "where",
+      "prompt": "In 1937 Cárdenas handed the irrigated estates of the Yaqui Valley, around the town now called Ciudad Obregón, to collective ejidos. Where is the Yaqui Valley?",
+      "answer": "The Yaqui Valley, southern Sonora",
+      "explanation": "He also recognised a large territory for the Yaqui people, after a century of war and deportation. Much of the land taken had been US-owned.",
+      "chapter": 16,
+      "feature": "e10-yaqui-1937"
+    }
+  ]
+}

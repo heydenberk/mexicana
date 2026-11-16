@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { distanceKm, formatKm, prepareQuestions, shuffled, type QuizBank } from './quiz';
+import { distanceKm, formatKm, sampleQuiz, shuffled, toQuestion, type Card, type Deck } from './quiz';
 
 /** A deterministic stand-in for Math.random (mulberry32). */
 function seeded(seed: number): () => number {
@@ -13,13 +13,8 @@ function seeded(seed: number): () => number {
   };
 }
 
-const bank: QuizBank = {
-  era: 'x',
-  questions: [
-    { id: 'x-1', kind: 'choice', prompt: 'Who?', options: ['Right', 'Wrong 1', 'Wrong 2', 'Wrong 3'], explanation: '', feature: 'f1' },
-    { id: 'x-2', kind: 'where', prompt: 'Where?', explanation: '', feature: 'f2' },
-  ],
-};
+const fact = (id: string): Card => ({ id, prompt: `${id}?`, answer: 'Right', distractors: ['Wrong 1', 'Wrong 2', 'Wrong 3'], explanation: '' });
+const place = (id: string): Card => ({ id, kind: 'where', prompt: `Where is ${id}?`, answer: id, explanation: '', feature: `f-${id}` });
 
 describe('shuffled', () => {
   it('keeps every item and leaves the input alone', () => {
@@ -30,12 +25,12 @@ describe('shuffled', () => {
   });
 });
 
-describe('prepareQuestions', () => {
+describe('toQuestion', () => {
   it('tracks the right answer through the shuffle', () => {
     for (let seed = 1; seed < 30; seed++) {
-      const [q] = prepareQuestions(bank, seeded(seed));
+      const q = toQuestion(fact('x'), seeded(seed));
       if (q.kind !== 'choice') throw new Error('expected a choice question');
-      expect(q.options[q.answer]).toBe('Right');
+      expect(q.options[q.correct]).toBe('Right');
       expect([...q.options].sort()).toEqual(['Right', 'Wrong 1', 'Wrong 2', 'Wrong 3']);
     }
   });
@@ -43,16 +38,41 @@ describe('prepareQuestions', () => {
   it('puts the right answer in different places', () => {
     const places = new Set<number>();
     for (let seed = 1; seed < 30; seed++) {
-      const [q] = prepareQuestions(bank, seeded(seed));
-      if (q.kind === 'choice') places.add(q.answer);
+      const q = toQuestion(fact('x'), seeded(seed));
+      if (q.kind === 'choice') places.add(q.correct);
     }
     expect(places.size).toBeGreaterThan(1);
   });
 
-  it('keeps the question order and passes map questions through', () => {
-    const qs = prepareQuestions(bank, seeded(3));
-    expect(qs.map((q) => q.id)).toEqual(['x-1', 'x-2']);
-    expect(qs[1]).toEqual(bank.questions[1]);
+  it('passes map cards through', () => {
+    expect(toQuestion(place('p'))).toEqual(place('p'));
+  });
+});
+
+describe('sampleQuiz', () => {
+  const deck: Deck = {
+    era: 'x',
+    cards: [...Array.from({ length: 30 }, (_, i) => fact(`x-${i}`)), ...Array.from({ length: 6 }, (_, i) => place(`p-${i}`))],
+  };
+
+  it('draws ten questions, three of them on the map, in deck order', () => {
+    const qs = sampleQuiz(deck, seeded(5));
+    expect(qs).toHaveLength(10);
+    expect(qs.filter((q) => q.kind === 'where')).toHaveLength(3);
+    const positions = qs.map((q) => deck.cards.findIndex((c) => c.id === q.id));
+    expect(positions).toEqual([...positions].sort((a, b) => a - b));
+    expect(new Set(qs.map((q) => q.id)).size).toBe(10);
+  });
+
+  it('draws different questions on different runs', () => {
+    const a = sampleQuiz(deck, seeded(1)).map((q) => q.id).join();
+    const b = sampleQuiz(deck, seeded(2)).map((q) => q.id).join();
+    expect(a).not.toBe(b);
+  });
+
+  it('fills a quiz from a small deck with whatever it has', () => {
+    const small: Deck = { era: 'x', cards: [fact('a'), fact('b'), place('c'), place('d'), place('e'), place('f')] };
+    expect(sampleQuiz(small, seeded(3))).toHaveLength(6);
   });
 });
 

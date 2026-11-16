@@ -1,0 +1,1623 @@
+{
+  "era": "reform",
+  "cards": [
+    {
+      "id": "reform-1",
+      "prompt": "The Plan of Ayutla of 1854 was proclaimed with the backing of which cacique of the Guerrero coast?",
+      "answer": "Juan Álvarez",
+      "distractors": [
+        "Santiago Vidaurri",
+        "Félix Zuloaga",
+        "Manuel Lozada"
+      ],
+      "explanation": "Proclaimed by Colonel Florencio Villarreal with Álvarez's backing and amended at Acapulco by Ignacio Comonfort, the plan called for the removal of Santa Anna and a congress to write a new constitution. Santa Anna gave up power and went into exile in August 1855.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-plan-ayutla"
+    },
+    {
+      "id": "reform-2",
+      "prompt": "What did the Ley Lerdo of June 1856 do?",
+      "answer": "Forced corporations to sell their real estate",
+      "distractors": [
+        "Curbed the special courts of the clergy and army",
+        "Limited the fees that parishes could charge",
+        "Made marriage a civil contract"
+      ],
+      "explanation": "It targeted the Church, but it also applied to the communal lands of Indian villages, which were broken up in many regions over the following decades. The special courts were curbed by the Ley Juárez (1855) and parish fees limited by the Ley Iglesias (1857); civil marriage came with the Reform laws issued at Veracruz in 1859.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-reform-laws-1855"
+    },
+    {
+      "id": "reform-3",
+      "prompt": "Driven to the Pacific coast in 1858, how did Juárez's government reach the liberal stronghold of Veracruz?",
+      "answer": "By sea via Panama, Havana and New Orleans",
+      "distractors": [
+        "Overland through Morelia, Toluca and Puebla",
+        "By sea around Cape Horn and up the Gulf",
+        "Overland by Zacatecas, Saltillo and Tampico"
+      ],
+      "explanation": "From Manzanillo Juárez sailed to Panama, crossed the isthmus by the new Panama Railroad and continued by Havana and New Orleans to Veracruz. With the conservatives holding the roads of the centre, a detour of several thousand kilometres through foreign ports was the only way through.",
+      "feature": "e7-juarez-voyage-1858"
+    },
+    {
+      "id": "reform-4",
+      "kind": "where",
+      "prompt": "Where is Veracruz, the port from which Juárez governed for almost three years during the Reform War?",
+      "answer": "Veracruz, on the Gulf coast",
+      "explanation": "The port gave the liberals the customs revenues of the country's main harbour, a link to the outside world and the protection of the coastal fevers, which repeatedly wore down conservative armies coming down from the highlands. Miramón besieged it in 1859 and again in 1860 and failed both times.",
+      "chapter": 11,
+      "feature": "e7-veracruz-capital"
+    },
+    {
+      "id": "reform-5",
+      "prompt": "What became of the McLane–Ocampo Treaty of 1859, which offered the United States transit rights across the Isthmus of Tehuantepec?",
+      "answer": "The US Senate rejected it in 1860",
+      "distractors": [
+        "US troops guarded the isthmus transit from 1860",
+        "Ocampo refused to sign it at Veracruz",
+        "The transit opened after the liberal victory"
+      ],
+      "explanation": "Signed at Veracruz by Melchor Ocampo and the US envoy Robert McLane, it granted perpetual transit across Tehuantepec and along two northern routes, with the right to protect them with troops, for four million pesos, half paid in cash and half kept back to settle US claims. The Senate rejected it on 31 May 1860, so the transit was never used.",
+      "chapter": 11,
+      "feature": "e7-mclane-ocampo"
+    },
+    {
+      "id": "reform-6",
+      "prompt": "Whose army threw back the French at Puebla on 5 May 1862?",
+      "answer": "Ignacio Zaragoza",
+      "distractors": [
+        "Jesús González Ortega",
+        "Mariano Escobedo",
+        "Santos Degollado"
+      ],
+      "explanation": "Lorencez sent his columns up the Cerro de Guadalupe against the forts of Loreto and Guadalupe, and Zaragoza's army, with Porfirio Díaz's brigade on the flank, threw them back. The defeat cost Napoleon III a year: a reinforced French army under Forey took Puebla only in May 1863, after González Ortega had defended it for two months.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-puebla-1862"
+    },
+    {
+      "id": "reform-7",
+      "kind": "where",
+      "prompt": "During the US Civil War, Confederate cotton crossed Texas to Matamoros to be shipped out past the Union blockade. Where is Matamoros?",
+      "answer": "Matamoros, at the mouth of the Rio Grande",
+      "explanation": "The Union blockaded the Confederacy's ports but not the Mexican bank of the Rio Grande, so cotton went out through the beach anchorage of Bagdad at the river's mouth and arms came back the same way. The trade made the northeastern border towns valuable to both empire and republic.",
+      "feature": "e7-matamoros-trade"
+    },
+    {
+      "id": "reform-8",
+      "prompt": "Carrying the republic north in a coach ahead of the French, where did Juárez set up his government in August 1865?",
+      "answer": "Paso del Norte",
+      "distractors": [
+        "Monterrey",
+        "San Luis Potosí",
+        "Saltillo"
+      ],
+      "explanation": "After San Luis Potosí (1863), Saltillo and Monterrey (1864) and Chihuahua, Juárez reached Paso del Norte on the US border on 14 August 1865. By staying on Mexican soil he denied the empire the claim that the republic had ceased to exist.",
+      "chapter": 11,
+      "feature": "e7-juarez-north"
+    },
+    {
+      "id": "reform-9",
+      "kind": "where",
+      "prompt": "Maximilian's empire ended at Querétaro in 1867. Where is the city of Querétaro?",
+      "answer": "Querétaro, north-west of Mexico City",
+      "explanation": "Besieged by Escobedo's republican armies from early March, the city fell on 15 May, when Colonel Miguel López let republican troops into the Convent of La Cruz, the emperor's headquarters. Maximilian, Miramón and Mejía were captured and later shot on the Cerro de las Campanas.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-queretaro-siege"
+    },
+    {
+      "id": "reform-10",
+      "prompt": "At Tecoac in November 1876, whose division arrived in time to save Porfirio Díaz from defeat?",
+      "answer": "Manuel González",
+      "distractors": [
+        "Ignacio Alatorre",
+        "Mariano Escobedo",
+        "Ramón Corona"
+      ],
+      "explanation": "Díaz was nearly beaten by the government army under Ignacio Alatorre when González's division arrived and the Lerdist army broke. Lerdo fled the capital, and Díaz entered Mexico City later in November, opening the era of his rule known as the Porfiriato (1876–1911).",
+      "feature": "e7-tecoac-1876"
+    },
+    {
+      "id": "reform-santa-anna-fall",
+      "prompt": "In what year did Santa Anna, brought down by the Revolution of Ayutla, resign and sail into exile?",
+      "answer": "1855",
+      "distractors": [
+        "1853",
+        "1857",
+        "1854"
+      ],
+      "explanation": "The rising that began in Guerrero in March 1854 spread across the country, and in August 1855 Santa Anna gave up. His fall opened the way for a new generation of liberals and a congress to write a constitution; he was allowed home only in 1874, an old man without power.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-plan-ayutla"
+    },
+    {
+      "id": "reform-ayutla-demand",
+      "prompt": "What did the Plan of Ayutla of 1854 call for once Santa Anna was removed?",
+      "answer": "A congress to write a new constitution",
+      "distractors": [
+        "The return of the Spanish monarchy",
+        "The sale of Church lands to tenants",
+        "A confederation of sovereign states"
+      ],
+      "explanation": "The plan was vague enough, and Santa Anna's dictatorship unpopular enough, to unite moderates, radical liberals and peasants behind it. The congress it promised produced the Constitution of 1857.",
+      "chapter": 11,
+      "feature": "e7-plan-ayutla"
+    },
+    {
+      "id": "reform-anthem",
+      "prompt": "Santa Anna's last government commissioned Mexico's national anthem, first sung in 1854. Where did the composer of its music come from?",
+      "answer": "Catalonia",
+      "distractors": [
+        "Italy",
+        "Andalusia",
+        "France"
+      ],
+      "explanation": "The composer, Jaime Nunó, was Catalan; Gillingham notes the irony and says the anthem's mix of operatic bombast and bloodthirsty lyrics suited Santa Anna's tastes. It was one of three lasting legacies of his final turn in office.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-liberal-soldiers",
+      "prompt": "Who were most of the soldiers who carried the liberals to power after the Revolution of Ayutla?",
+      "answer": "Indigenous and Afro-Mexican peasants of the south",
+      "distractors": [
+        "Regular army conscripts from the Bajío",
+        "Creole militiamen from Mexico City",
+        "Volunteers recruited in the United States"
+      ],
+      "explanation": "They came from the coasts and mountains of the south, and in the civil war they were joined by northerners and highlanders from Puebla and Michoacán. Their generals were often men much like them.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-generals-north",
+      "prompt": "Where did nearly half of the young liberal generals of the Reform era come from?",
+      "answer": "The North",
+      "distractors": [
+        "Mexico City",
+        "Yucatán",
+        "The Bajío"
+      ],
+      "explanation": "They were provincials who rose through the ranks because they could fight and recruit; only one came from Mexico City. Few had much schooling, unlike the civilian liberals.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-don-de-gente",
+      "prompt": "What was the \"don de gente\" that helped self-made liberal generals rise in the Reform wars?",
+      "answer": "A gift for talking people into following them",
+      "distractors": [
+        "Training at the national military college",
+        "Wealth enough to arm their own troops",
+        "Family ties to the old creole elite"
+      ],
+      "explanation": "With few regular soldiers, the ability to persuade civilians to sign up was essential. Gillingham calls it an egalitarian charisma.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-liberal-lawyers",
+      "prompt": "What profession did about two-thirds of the civilian liberal leaders of the Reform share?",
+      "answer": "Lawyers",
+      "distractors": [
+        "Physicians",
+        "Priests",
+        "Merchants"
+      ],
+      "explanation": "Most were urban, middle-class and educated in seminaries and lay institutes. Almost all of them also wrote, as journalists, poets, historians or novelists.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-liberal-papers",
+      "prompt": "Which two newspapers were the main institutions of liberal thought in the Reform era?",
+      "answer": "El Siglo XIX and El Monitor Republicano",
+      "distractors": [
+        "La Sociedad and El Pájaro Verde",
+        "La Voz de la Religión and La Cruz",
+        "El Imparcial and El Mundo Ilustrado"
+      ],
+      "explanation": "The liberals were wordsmiths who wrote constantly for a newly sophisticated press, from short-lived propaganda sheets to these two great dailies.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-riva-palacio",
+      "prompt": "Which liberal general and politician also wrote a stream of popular plays and novels that mixed romance with liberal nationalism?",
+      "answer": "Vicente Riva Palacio",
+      "distractors": [
+        "Ignacio Zaragoza",
+        "Mariano Escobedo",
+        "Jesús González Ortega"
+      ],
+      "explanation": "His novels sold out fast in the provinces and priests condemned them as lewd. Historical novels such as Martín Garatuza (1868) cast Mexico as a mestizo nation born of Indigenous and Spanish parents.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-juarez-zapotec",
+      "prompt": "Benito Juárez's parents belonged to which Indigenous people of Oaxaca?",
+      "answer": "Zapotec",
+      "distractors": [
+        "Mixtec",
+        "Mixe",
+        "Chinantec"
+      ],
+      "explanation": "Juárez, who began life poor, was Mexico's only Indigenous president. Porfirio Díaz, the other great Oaxacan of the age, had a Mixtec mother.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-oaxaca-institute",
+      "prompt": "After leaving the seminary, which secular Oaxaca school did both Juárez and Díaz attend?",
+      "answer": "The Institute of Arts and Sciences",
+      "distractors": [
+        "The Royal and Pontifical University",
+        "The Colegio de San Ildefonso",
+        "The National Military College"
+      ],
+      "explanation": "Both were drawn by its law teaching and its egalitarian manners; Díaz later recalled that at the seminary one could not even greet the professors.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-juarez-justice",
+      "prompt": "What post did Juárez hold in the liberal government formed after Santa Anna's fall, when he issued the law that bears his name?",
+      "answer": "Minister of justice",
+      "distractors": [
+        "Minister of finance",
+        "Minister of war",
+        "Governor of the Federal District"
+      ],
+      "explanation": "Juárez, a former governor of Oaxaca, had been in exile under Santa Anna's last dictatorship. After serving as minister of justice he became head of the Supreme Court, which put him next in line for the presidency.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-ixtlan",
+      "prompt": "In 1855 Porfirio Díaz raised a National Guard of Zapotec and Mixtec highlanders in which Oaxaca district?",
+      "answer": "Ixtlán",
+      "distractors": [
+        "Tuxtepec",
+        "Juchitán",
+        "Miahuatlán"
+      ],
+      "explanation": "Díaz talked liberalism with the villagers and persuaded them to join the cause; Mixtecs and Zapotecs accepted citizenship readily when it came from one of their own. The militia made him a commander and, in time, the political boss of Oaxaca.",
+      "chapter": 12
+    },
+    {
+      "id": "reform-fueros",
+      "prompt": "What were the fueros that the liberals of the Reform set out to curb?",
+      "answer": "Legal exemptions for clergy and soldiers",
+      "distractors": [
+        "Tithes owed to the Church on harvests",
+        "Communal lands of Indigenous villages",
+        "Licences to trade with Spain"
+      ],
+      "explanation": "A colonial survival, they made priests and soldiers answerable only to their own courts, so civil authorities could not touch them. Liberals saw them as incompatible with equality before the law.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-ley-juarez",
+      "prompt": "What did the Ley Juárez of 1855 do to the special courts of the clergy and army?",
+      "answer": "Took civil cases away from them",
+      "distractors": [
+        "Abolished them altogether",
+        "Extended them to the National Guard",
+        "Placed them under the bishops"
+      ],
+      "explanation": "The courts survived for offences within their own bodies, but clergy and soldiers became subject to ordinary courts for everything else, ending their automatic impunity. It was the first of the Reform laws.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-reform-laws-1855"
+    },
+    {
+      "id": "reform-clergy-vote",
+      "prompt": "Which group was barred from voting for the congress that wrote the Constitution of 1857?",
+      "answer": "The clergy",
+      "distractors": [
+        "Army officers",
+        "Indigenous villagers",
+        "Foreign-born residents"
+      ],
+      "explanation": "The exclusion caused resignations and split the provisional government, a first taste of how divisive the Reform would be.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-desamortizacion",
+      "prompt": "What Spanish term, usually translated as \"disentailment\", names the liberals' forced privatisation of corporate property, Church and village lands alike, from 1856?",
+      "answer": "Desamortización",
+      "distractors": [
+        "Nacionalización",
+        "Composición de tierras",
+        "Repartimiento"
+      ],
+      "explanation": "Disentailment was meant to create a nation of property owners. In practice it threatened Indigenous communal lands and offered a legal route to land grabs.",
+      "chapter": 11,
+      "feature": "e7-reform-laws-1855"
+    },
+    {
+      "id": "reform-ley-iglesias",
+      "prompt": "Which 1857 Reform law set an income line below which priests could not charge the poor parish fees?",
+      "answer": "The Ley Iglesias",
+      "distractors": [
+        "The Ley Juárez",
+        "The Ley Lerdo",
+        "The Ley Lafragua"
+      ],
+      "explanation": "Catholic liberals were offended by clergy charging for baptisms, marriages and burials, which many Mexicans went into debt to pay for. The law also set punishments for priests who broke it.",
+      "chapter": 11,
+      "feature": "e7-reform-laws-1855"
+    },
+    {
+      "id": "reform-civil-registry",
+      "prompt": "What did the civil registry law of 1857 take away from the Church?",
+      "answer": "Its monopoly on recording births and marriages",
+      "distractors": [
+        "Its right to try clergy in civil cases",
+        "Its power to set its own parish fees",
+        "Its right to own rural real estate"
+      ],
+      "explanation": "Together with a law putting cemeteries under government control, it began the secularisation of the life cycle from birth to burial. The registry was set up again in the Veracruz laws of 1859.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-liberals-catholic",
+      "prompt": "What did the Reform liberals oppose about religion, as Gillingham describes them?",
+      "answer": "The Church's power as an institution",
+      "distractors": [
+        "Catholic belief itself",
+        "Popular devotion to saints",
+        "The use of Latin in the Mass"
+      ],
+      "explanation": "With rare exceptions they were not atheists: they fought under banners of the Virgin of Guadalupe and called themselves true followers of Christ. Like the Bourbon reformers before them, they wanted the state above the Church.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-ramirez",
+      "prompt": "Which leading liberal of the Reform was the notable exception to the rule that liberals were believing Catholics?",
+      "answer": "Ignacio Ramírez",
+      "distractors": [
+        "Guillermo Prieto",
+        "Ignacio Comonfort",
+        "Santos Degollado"
+      ],
+      "explanation": "Ramírez, known as \"El Nigromante\", was an avowed atheist. Prieto, by contrast, protested indignantly when accused of being an unbeliever.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-guadalupe-banners",
+      "prompt": "Under whose banners did liberal soldiers commonly fight during the Reform wars?",
+      "answer": "The Virgin of Guadalupe",
+      "distractors": [
+        "Saint James the Moor-slayer",
+        "The Sacred Heart of Jesus",
+        "The Virgin of Los Remedios"
+      ],
+      "explanation": "The banners show how far liberal anticlericalism was from irreligion. Some Purépecha villagers even believed Juárez interceded with God for them.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-puros",
+      "prompt": "In the liberal camp of the 1850s, who were the \"puros\"?",
+      "answer": "The radical liberals",
+      "distractors": [
+        "The moderate liberals",
+        "The conservative monarchists",
+        "The pro-Church bishops"
+      ],
+      "explanation": "The moderados thought the radicals' programme utopian and provocative; the puros thought the moderados timid. Both found the Constitution of 1857 hard to govern with.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-constitution-date",
+      "prompt": "On what date was the Constitution of 1857 inaugurated?",
+      "answer": "5 February 1857",
+      "distractors": [
+        "16 September 1857",
+        "17 December 1857",
+        "5 May 1857"
+      ],
+      "explanation": "Written by the congress called under the Plan of Ayutla, it absorbed and extended the first Reform laws. It remained the formal constitution until 1917.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-constitution-1857"
+    },
+    {
+      "id": "reform-constitution-rights",
+      "prompt": "What stood at the centre of the Constitution of 1857?",
+      "answer": "A long bill of the rights of man",
+      "distractors": [
+        "A declaration that Mexico was Catholic",
+        "A strong presidency with an absolute veto",
+        "A Congress of two chambers"
+      ],
+      "explanation": "The rights filled the first twenty-nine articles. To protect them it set up a federal republic with wide autonomy for states and municipalities, designed above all to prevent despotism.",
+      "chapter": 11,
+      "feature": "e7-constitution-1857"
+    },
+    {
+      "id": "reform-constitution-chamber",
+      "prompt": "What kind of legislature did the Constitution of 1857 create?",
+      "answer": "A single-chamber Congress",
+      "distractors": [
+        "A Congress and a Senate",
+        "A council of state",
+        "A Congress of three estates"
+      ],
+      "explanation": "Abolishing the senate was part of the constitution's logic of keeping power in the hands of the people's representatives and out of a strong executive. The Senate was restored in 1874.",
+      "chapter": 11,
+      "feature": "e7-constitution-1857"
+    },
+    {
+      "id": "reform-constitution-religion",
+      "prompt": "What did the Constitution of 1857 leave out that every earlier Mexican constitution had included?",
+      "answer": "A declaration that Mexico was Catholic",
+      "distractors": [
+        "A division of the country into states",
+        "A list of the rights of citizens",
+        "An elected president"
+      ],
+      "explanation": "It ended the Church's institutional privileges without naming any state religion. That secularism made the Church the constitution's most determined enemy.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-constitution-1857"
+    },
+    {
+      "id": "reform-death-penalty",
+      "prompt": "What did the Constitution of 1857 promise to do with the death penalty?",
+      "answer": "Abolish it, starting with political crimes",
+      "distractors": [
+        "Make it mandatory for all murders",
+        "Extend it to rebels and political crimes",
+        "Leave it to the Church courts to apply"
+      ],
+      "explanation": "It abolished the death penalty for political offences at once and promised to end it for other crimes once a prison system existed, an unusually progressive commitment for the time.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-weak-president",
+      "prompt": "What practical flaw did both puros and moderados soon see in the Constitution of 1857?",
+      "answer": "It left the president very weak",
+      "distractors": [
+        "It gave the states too little autonomy",
+        "It made the Senate all-powerful",
+        "It let the Church veto laws"
+      ],
+      "explanation": "A finance minister complained that an office clerk had more power than the head of the executive. Liberal governments ended up ruling by suspending its guarantees.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-oath-absolution",
+      "prompt": "How did the Church treat officials who swore the oath to the Constitution of 1857?",
+      "answer": "Refused them absolution",
+      "distractors": [
+        "Offered them special indulgences",
+        "Appointed them lay judges",
+        "Exempted them from tithes"
+      ],
+      "explanation": "Only a retraction restored them to the sacraments. The government fired officials who refused to swear, so local leaders lost either their jobs or, in the Church's eyes, their souls. Pius IX had already condemned the Reform legislation.",
+      "chapter": 11,
+      "feature": "e7-constitution-1857"
+    },
+    {
+      "id": "reform-constitution-reception",
+      "prompt": "How was the Constitution of 1857 received when it was issued, in Gillingham's account?",
+      "answer": "Almost everyone disliked it",
+      "distractors": [
+        "Liberals and conservatives both welcomed it",
+        "Only the Church approved of it",
+        "The army alone opposed it"
+      ],
+      "explanation": "The Church and conservatives rejected it outright, radicals found it too tame and moderates too utopian. Only after the defeat of the French was it enshrined as the sacred text of liberal nationalism.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-religion-fueros",
+      "prompt": "Under what slogan did the conservative risings of 1855–57 against the liberal government march?",
+      "answer": "Religión y fueros",
+      "distractors": [
+        "Orden y progreso",
+        "Tierra y libertad",
+        "Patria y libertad"
+      ],
+      "explanation": "Guerrillas took to the sierras even before the constitution passed. The slogan joined defence of the faith to defence of clerical and military privilege.",
+      "chapter": 11,
+      "feature": "e7-zacapoaxtla-puebla-1856"
+    },
+    {
+      "id": "reform-puebla-1856",
+      "prompt": "Which city did conservative rebels seize twice in 1856, before the new constitution had even been passed?",
+      "answer": "Puebla",
+      "distractors": [
+        "Guadalajara",
+        "Querétaro",
+        "San Luis Potosí"
+      ],
+      "explanation": "The first rising began at Zacapoaxtla in the Sierra de Puebla; Comonfort retook the city in March and seized diocesan property to pay for the campaign. Conservative officers took it again in October.",
+      "chapter": 11,
+      "feature": "e7-zacapoaxtla-puebla-1856"
+    },
+    {
+      "id": "reform-cofradias",
+      "prompt": "Why did the forced sale of communal lands threaten more than farming for many Indigenous villages?",
+      "answer": "The lands also paid for fiestas and credit",
+      "distractors": [
+        "The sales also banned Indigenous languages",
+        "The sales also drafted villagers as soldiers",
+        "The sales also abolished village councils"
+      ],
+      "explanation": "Collective holdings, many of them run by cofradías, funded saints' days, loans and a measure of cultural autonomy. That made many villages natural opponents of the liberals.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-cofradia-def",
+      "prompt": "What was a cofradía, an institution whose collective property the Reform put at risk?",
+      "answer": "A lay religious brotherhood",
+      "distractors": [
+        "A Church court for the clergy",
+        "A village common pasture",
+        "A tax on parish fees"
+      ],
+      "explanation": "Cofradías organised the cults of saints and paid for village fiestas, often from land and livestock they held in common.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-two-tools",
+      "prompt": "Faced with rejection of their reforms, on which two tools did the liberals rely, according to Gillingham?",
+      "answer": "Authoritarianism and nationalism",
+      "distractors": [
+        "Democracy and federalism",
+        "Clericalism and monarchy",
+        "Free trade and immigration"
+      ],
+      "explanation": "They suspended the constitution, rigged elections, curbed the press and used force, while trying to build consent through a new patriotism of monuments, ceremonies, schools and literature.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-barreda",
+      "prompt": "Which thinker defined the liberal priority as \"liberty, order, and progress\"?",
+      "answer": "Gabino Barreda",
+      "distractors": [
+        "Lucas Alamán",
+        "José María Luis Mora",
+        "Francisco Zarco"
+      ],
+      "explanation": "The motto shows how ready liberals were to trade some liberty for order and progress, while refusing any concession to the bishops.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-hundred-nations",
+      "prompt": "In 1856 Ignacio Ramírez warned that beneath Mexico's thin veil of mixed race lay what?",
+      "answer": "A hundred separate nations",
+      "distractors": [
+        "A single Aztec nation",
+        "A Spanish nation in disguise",
+        "Two hostile castes"
+      ],
+      "explanation": "Liberals saw turning loyalty to the home region into loyalty to Mexico as an uphill but vital struggle, to be won through schools, monuments and ceremonies.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-zuloaga",
+      "prompt": "Which general proclaimed the Plan of Tacubaya in December 1857, calling for Congress to be closed and the constitution replaced?",
+      "answer": "Félix Zuloaga",
+      "distractors": [
+        "Miguel Miramón",
+        "Leonardo Márquez",
+        "Luis Osollo"
+      ],
+      "explanation": "The capital's garrison backed him and jailed key politicians, including Juárez. The coup was meant to forestall civil war but instead started it.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-plan-tacubaya"
+    },
+    {
+      "id": "reform-comonfort-coup",
+      "prompt": "Which president backed the December 1857 coup against the constitution he had sworn to uphold?",
+      "answer": "Ignacio Comonfort",
+      "distractors": [
+        "Juan Álvarez",
+        "Benito Juárez",
+        "Mariano Arista"
+      ],
+      "explanation": "Comonfort and other liberals accepted the coup to head off an ideological war. When the conservatives turned on him he released Juárez and went into exile.",
+      "chapter": 11,
+      "feature": "e7-plan-tacubaya"
+    },
+    {
+      "id": "reform-juarez-succession",
+      "prompt": "When the president left the country after the Tacubaya coup, on what legal ground did Benito Juárez claim the presidency in 1858?",
+      "answer": "He was head of the Supreme Court",
+      "distractors": [
+        "He had been elected by the states of the Bajío",
+        "He had won a special election",
+        "Congress had chosen him at Querétaro"
+      ],
+      "explanation": "The constitution named the head of the Supreme Court as successor to an absent president. With only a couple of ministers, including Melchor Ocampo, Juárez set up a government on the run.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-juarez-guanajuato"
+    },
+    {
+      "id": "reform-juarez-president-year",
+      "prompt": "In which year did Benito Juárez become president of Mexico?",
+      "answer": "1858",
+      "distractors": [
+        "1855",
+        "1857",
+        "1856"
+      ],
+      "explanation": "He held the office, through two wars and several elections, until his death in 1872.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-guanajuato",
+      "prompt": "In which city did Juárez first set up his constitutional government after escaping the Tacubaya coup?",
+      "answer": "Guanajuato",
+      "distractors": [
+        "Querétaro",
+        "Morelia",
+        "San Luis Potosí"
+      ],
+      "explanation": "Liberal states of the Bajío and the west protected it, but within weeks the conservative army forced the government to move on to Guadalajara.",
+      "chapter": 11,
+      "feature": "e7-juarez-guanajuato"
+    },
+    {
+      "id": "reform-prieto-guadalajara",
+      "prompt": "Who talked mutinous soldiers out of shooting Juárez at Guadalajara in March 1858?",
+      "answer": "Guillermo Prieto",
+      "distractors": [
+        "Melchor Ocampo",
+        "Santos Degollado",
+        "Manuel Ruiz"
+      ],
+      "explanation": "The poet and minister stepped in front of Juárez and talked the soldiers down. The government then fled to the Pacific and made its way by sea to Veracruz.",
+      "chapter": 11,
+      "feature": "e7-guadalajara-1858"
+    },
+    {
+      "id": "reform-war-name",
+      "prompt": "By what name is the civil war of 1858–60 between liberals and conservatives known?",
+      "answer": "The War of the Reform",
+      "distractors": [
+        "The Pastry War",
+        "The Caste War",
+        "The Cristero War"
+      ],
+      "explanation": "Also called the Three Years' War, it was a popular conflict, not a mere pronunciamiento, and killed tens or perhaps hundreds of thousands.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-war-geography",
+      "prompt": "What did the conservatives hold at the start of the War of the Reform?",
+      "answer": "The capital and most of the army",
+      "distractors": [
+        "Veracruz and the Gulf customs",
+        "Nuevo León and the northeast",
+        "Oaxaca and the south"
+      ],
+      "explanation": "The liberals held an arc of states around them from the south through the west to the border, and lost most of the big cities in the first months. State militias such as Zuazua's in Nuevo León and Díaz's in Oaxaca kept them in the fight.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-miramon",
+      "prompt": "Which young conservative general, \"the genius of war\" to his side, made himself president in 1859 and fought on for two more years?",
+      "answer": "Miguel Miramón",
+      "distractors": [
+        "Félix Zuloaga",
+        "Tomás Mejía",
+        "Leonardo Márquez"
+      ],
+      "explanation": "Peace-seeking generals had overthrown Zuloaga and proposed a compromise, but Miramón, still in his twenties, believed he could win on the battlefield.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-veracruz-1859",
+      "prompt": "When Miramón marched on Veracruz in March 1859, what did he find on the way?",
+      "answer": "Fields and granaries burnt",
+      "distractors": [
+        "A US fleet in the harbour",
+        "The city already abandoned",
+        "French troops in the forts"
+      ],
+      "explanation": "Scorched-earth tactics and the coming fever season, with a liberal force threatening Mexico City behind him, forced him to abandon the siege.",
+      "chapter": 11,
+      "feature": "e7-veracruz-siege-1859"
+    },
+    {
+      "id": "reform-tacubaya-massacre",
+      "prompt": "Which conservative general had prisoners and civilians, including doctors, executed at Tacubaya in April 1859?",
+      "answer": "Leonardo Márquez",
+      "distractors": [
+        "Miguel Miramón",
+        "Tomás Mejía",
+        "Félix Zuloaga"
+      ],
+      "explanation": "The killings earned him the name \"Tiger of Tacubaya\". Both sides committed massacres; the war was fought against civilians as well as armies.",
+      "chapter": 11,
+      "feature": "e7-tacubaya-1859"
+    },
+    {
+      "id": "reform-vendetta",
+      "prompt": "In Gillingham's account, what turned the War of the Reform into a neighbour-against-neighbour war of vendetta?",
+      "answer": "Old village feuds and land disputes",
+      "distractors": [
+        "A race war of creoles against Indians",
+        "Foreign mercenaries on both sides",
+        "The private armies of rival bishops"
+      ],
+      "explanation": "Villages already hated neighbouring villages and predatory haciendas; rivalry to be head town and the legal land grabs that disentailment allowed made it worse.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-national-guard",
+      "prompt": "What could National Guardsmen of the Sierra de Puebla do that most conservative conscripts could not?",
+      "answer": "Elect their own officers",
+      "distractors": [
+        "Keep Church lands tax-free",
+        "Draw a pension in silver",
+        "Desert without punishment"
+      ],
+      "explanation": "Liberals also used coercion, calling up men from sixteen to sixty, but they offered local autonomy and the chance to take over Church lands.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-conservative-offer",
+      "prompt": "What did the conservatives offer that won them support in many Indigenous villages of the centre?",
+      "answer": "Church backing and secure communal land",
+      "distractors": [
+        "Land taken from the haciendas",
+        "Freedom from all taxes",
+        "Local autonomy and Church lands"
+      ],
+      "explanation": "Liberals, by contrast, offered local autonomy and the chance to acquire Church property. Many villagers changed sides as the fortunes of war changed.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-lozada",
+      "prompt": "Which mestizo chief led Cora and Huichol villagers of the Nayarit sierra and kept Tepic all but independent until the 1870s?",
+      "answer": "Manuel Lozada",
+      "distractors": [
+        "Juan Álvarez",
+        "Tomás Mejía",
+        "Santiago Vidaurri"
+      ],
+      "explanation": "Like other strong Indigenous polities of the Sierra Madre Occidental he sided with the conservatives and later the empire, but fought above all for his people's land and autonomy. He was defeated in 1873 and shot.",
+      "chapter": 11,
+      "feature": "e7-lozada"
+    },
+    {
+      "id": "reform-yaqui",
+      "prompt": "Which people of Sonora fought the state's liberal government during the Reform era?",
+      "answer": "The Yaqui",
+      "distractors": [
+        "The Tarahumara",
+        "The Purépecha",
+        "The Otomí"
+      ],
+      "explanation": "Cohesive Indigenous peoples often lined up with one national side but fought for their own autonomy. In the Sierra Madre Occidental many turned conservative.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-degollado",
+      "prompt": "Which first commander of the liberal army did Juárez remove for seeking a negotiated peace with Miramón?",
+      "answer": "Santos Degollado",
+      "distractors": [
+        "Jesús González Ortega",
+        "Ignacio Zaragoza",
+        "Manuel Doblado"
+      ],
+      "explanation": "Degollado hoped for a British-brokered settlement, but Juárez would not change the Constitution of 1857 and Miramón would not accept it. He fought on and was killed by conservative guerrillas in 1861.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-us-recognise-zuloaga",
+      "prompt": "Which government did the United States and the European powers first recognise when the War of the Reform began?",
+      "answer": "Zuloaga's conservative government",
+      "distractors": [
+        "Juárez's government at Guanajuato",
+        "Comonfort's government in exile",
+        "Vidaurri's government in the north"
+      ],
+      "explanation": "The United States broke relations in 1858 after the conservatives rejected an offer to buy Baja California and much of Sonora and Chihuahua, and recognised Juárez's government at Veracruz in 1859.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-anton-lizardo",
+      "prompt": "What happened to the two warships Miramón brought from Cuba to attack Veracruz in March 1860?",
+      "answer": "US Navy ships seized them",
+      "distractors": [
+        "They ran aground off Tampico",
+        "Their crews went over to Juárez",
+        "A norther sank them at sea"
+      ],
+      "explanation": "Juárez told the United States they were pirates, and US ships took them at Antón Lizardo. Without the sea Miramón could not take the port.",
+      "chapter": 11,
+      "feature": "e7-anton-lizardo-1860"
+    },
+    {
+      "id": "reform-mclane-benefit",
+      "prompt": "In Gillingham's view, what did the McLane–Ocampo Treaty of 1859 win Juárez in the months after it was signed?",
+      "answer": "US support that secured Veracruz",
+      "distractors": [
+        "A US loan that paid his army",
+        "Recognition from Britain and France",
+        "The return of territory lost in 1848"
+      ],
+      "explanation": "Gillingham calls the treaty a capitulation that would have made Mexico a near-protectorate. But before the US Senate rejected it, it brought the naval help that may have stopped Juárez losing the war.",
+      "chapter": 11,
+      "feature": "e7-mclane-ocampo"
+    },
+    {
+      "id": "reform-war-finance",
+      "prompt": "What gave the liberals the financial edge as both sides went bankrupt in the War of the Reform?",
+      "answer": "The ports and Church property",
+      "distractors": [
+        "Loans from British banks",
+        "A large Spanish loan",
+        "Taxes on Mexico City merchants"
+      ],
+      "explanation": "The conservatives relied on the Church and Mexico City business, who grew less generous as Miramón failed. The liberals held the customs houses and could sell Church property.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-reform-laws-1859",
+      "prompt": "What did Juárez's government at Veracruz do to the Church's property in July 1859?",
+      "answer": "Nationalised it",
+      "distractors": [
+        "Forced its sale to tenants",
+        "Exempted it from taxes",
+        "Returned it to the dioceses"
+      ],
+      "explanation": "The state took it without compensation. The Veracruz laws also made marriage civil, secularised cemeteries and separated Church and state. They aimed both to ruin the conservatives' main backer and to pay for the war.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-reform-laws-1859"
+    },
+    {
+      "id": "reform-freedom-worship",
+      "prompt": "Which right did a Reform law of December 1860 establish?",
+      "answer": "Freedom of worship",
+      "distractors": [
+        "Freedom of the press",
+        "Universal male suffrage",
+        "Trial by jury"
+      ],
+      "explanation": "It completed the laws issued from Veracruz. The 1857 constitution had already dropped Catholicism as the state religion.",
+      "chapter": 11,
+      "feature": "e7-reform-laws-1859"
+    },
+    {
+      "id": "reform-calpulalpan",
+      "prompt": "Which liberal general defeated Miramón's last army in December 1860 and took Mexico City?",
+      "answer": "Jesús González Ortega",
+      "distractors": [
+        "Santos Degollado",
+        "Porfirio Díaz",
+        "Mariano Escobedo"
+      ],
+      "explanation": "The defeat at Calpulalpan ended the War of the Reform. Victory brought only a short respite, because the Juárez government could not pay its debts.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-calpulalpan-1860"
+    },
+    {
+      "id": "reform-jecker",
+      "prompt": "Which Swiss banker's loan to the conservatives did Juárez repudiate, a debt in which members of the French government had a stake?",
+      "answer": "Jean-Baptiste Jecker",
+      "distractors": [
+        "Ewen Mackintosh",
+        "James de Rothschild",
+        "Juan Antonio Béistegui"
+      ],
+      "explanation": "The conservatives had taken on a nominal debt of fifteen million pesos for a small fraction of that in cash. Juárez recognised Mexico's other debts but not this one.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-debt-suspension",
+      "prompt": "What did Juárez's government do in July 1861 that gave the Europeans their pretext for intervention?",
+      "answer": "Suspended payments on the foreign debt",
+      "distractors": [
+        "Nationalised foreign-owned mines",
+        "Closed the ports to European ships",
+        "Raised tariffs on European cloth"
+      ],
+      "explanation": "After the civil war Mexico owed foreigners more than 80 million pesos and could not pay. The suspension was announced as temporary.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-debt-suspension-1861"
+    },
+    {
+      "id": "reform-convention-london",
+      "prompt": "Which three powers agreed in the Convention of London of October 1861 to seize Mexico's Gulf customs houses?",
+      "answer": "Britain, France and Spain",
+      "distractors": [
+        "Britain, France and Prussia",
+        "France, Spain and Austria",
+        "Britain, Spain and the United States"
+      ],
+      "explanation": "The plan was to take the customs at Veracruz and Tampico and divert the duties to debt service. The allied fleet reached Veracruz at the turn of 1861–62.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-debt-suspension-1861"
+    },
+    {
+      "id": "reform-london-clause",
+      "prompt": "What did the Convention of London forbid the allied expedition to do?",
+      "answer": "Interfere in Mexico's internal politics",
+      "distractors": [
+        "Land troops at Veracruz",
+        "Collect Mexican customs duties",
+        "Negotiate with Juárez's government"
+      ],
+      "explanation": "Britain's Palmerston was cool to French plans for a monarchy. Napoleon III agreed to the clause, added another giving commanders discretion, and secretly ordered his forces to take Mexico City.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-us-civil-war",
+      "prompt": "Why could the European powers intervene in Mexico in 1861 without fearing the Monroe Doctrine?",
+      "answer": "The US was absorbed in its Civil War",
+      "distractors": [
+        "The US had signed the Convention of London",
+        "Mexico had renounced US protection",
+        "The US Navy was blockading Cuba"
+      ],
+      "explanation": "The war began in April 1861, and the Union lost the first major battle at Bull Run in July. The Confederacy courted the Juárez government.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-napoleon-aim",
+      "prompt": "What did Napoleon III intend in Mexico beyond collecting debts?",
+      "answer": "To install a European monarch",
+      "distractors": [
+        "To annex Yucatán to France",
+        "To restore Spanish rule",
+        "To buy the Isthmus of Tehuantepec"
+      ],
+      "explanation": "He envisaged a Catholic, \"Latin\" monarchy that would check the expansion of the United States. Mexican monarchists in Europe had been lobbying his court for years.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-eugenie",
+      "prompt": "Which Spanish-born empress encouraged Mexican monarchist exiles and helped pick Maximilian as their candidate?",
+      "answer": "Empress Eugénie",
+      "distractors": [
+        "Empress Carlota",
+        "Queen Isabella II",
+        "Empress Elisabeth"
+      ],
+      "explanation": "In September 1861 she, Napoleon III and the Mexican diplomat José Manuel Hidalgo settled on Maximilian, an underemployed Habsburg archduke.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-maximilian-brother",
+      "prompt": "Archduke Maximilian was the younger brother of which emperor?",
+      "answer": "Franz Joseph of Austria",
+      "distractors": [
+        "Napoleon III of France",
+        "Pedro II of Brazil",
+        "Alexander II of Russia"
+      ],
+      "explanation": "As a Habsburg he could claim a dynastic tie to Mexico, which his family had ruled for nearly two centuries as kings of Spain.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-allies-withdraw",
+      "prompt": "Which two powers pulled their troops out of Mexico in 1862, leaving the French to advance alone?",
+      "answer": "Britain and Spain",
+      "distractors": [
+        "Spain and the United States",
+        "Britain and Austria",
+        "Spain and Belgium"
+      ],
+      "explanation": "They left once it was clear the French meant to overthrow Juárez and Juárez had offered to resume payments. The French then set up a conservative émigré as their puppet and moved inland.",
+      "chapter": 11,
+      "feature": "e7-orizaba-1862"
+    },
+    {
+      "id": "reform-fever-coast",
+      "prompt": "Why did invading armies landing at Veracruz need to climb to the highlands quickly?",
+      "answer": "Tropical disease in the lowlands",
+      "distractors": [
+        "Mexican warships controlled the coast",
+        "The port had no fresh water",
+        "Treaties banned troops in the port"
+      ],
+      "explanation": "The French had studied the US campaign of 1847 and knew the danger, but still lost many men. The allies' agreement at La Soledad let them move up out of the fever zone.",
+      "chapter": 11,
+      "feature": "e7-la-soledad"
+    },
+    {
+      "id": "reform-puebla-1862-why",
+      "prompt": "Why did the French lose the battle of Puebla on 5 May 1862?",
+      "answer": "An overconfident frontal assault on the forts",
+      "distractors": [
+        "Their commander was killed early on",
+        "Their Spanish allies deserted mid-battle",
+        "A night attack surprised their camp"
+      ],
+      "explanation": "The Mexicans had fortified the hills and dug trenches and rooftop parapets in the city. Mexico City celebrated the victory, the start of the Cinco de Mayo tradition.",
+      "chapter": 11,
+      "feature": "e7-puebla-1862"
+    },
+    {
+      "id": "reform-forey",
+      "prompt": "Which general led the reinforced French army that took Puebla and Mexico City in 1863?",
+      "answer": "Élie Frédéric Forey",
+      "distractors": [
+        "Charles de Lorencez",
+        "Charles-Louis Dupin",
+        "Juan Prim"
+      ],
+      "explanation": "With an army raised to about twenty-eight thousand men, he took Puebla by siege rather than assault. Juárez's government left the capital for San Luis Potosí.",
+      "chapter": 11,
+      "feature": "e7-french-route"
+    },
+    {
+      "id": "reform-puebla-1863",
+      "prompt": "Who defended Puebla for two months against the French siege of 1863?",
+      "answer": "Jesús González Ortega",
+      "distractors": [
+        "Ignacio Zaragoza",
+        "Ignacio Comonfort",
+        "Manuel Doblado"
+      ],
+      "explanation": "The French inched forward behind siegeworks and took the city in May, letting the rank and file go free. Comonfort's relief army was routed at San Lorenzo.",
+      "chapter": 11,
+      "feature": "e7-puebla-siege-1863"
+    },
+    {
+      "id": "reform-french-mexico-city",
+      "prompt": "On what date did the French army march into Mexico City?",
+      "answer": "10 June 1863",
+      "distractors": [
+        "5 May 1862",
+        "12 June 1864",
+        "17 May 1863"
+      ],
+      "explanation": "An assembly of notables chosen under French auspices then declared a hereditary monarchy and offered the crown to Maximilian.",
+      "chapter": 11,
+      "feature": "e7-french-occupy-mexico"
+    },
+    {
+      "id": "reform-maximilian-year",
+      "prompt": "In which year did Maximilian arrive in Mexico City as emperor?",
+      "answer": "1864",
+      "distractors": [
+        "1862",
+        "1863",
+        "1866"
+      ],
+      "explanation": "He accepted the crown in April and entered the capital on 12 June 1864. His only royal backers were Napoleon III and the King of the Belgians, both recent arrivals among Europe's monarchs.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-maximilian-lands"
+    },
+    {
+      "id": "reform-leopold",
+      "prompt": "Which king backed Maximilian's empire alongside Napoleon III, as the father of Empress Carlota?",
+      "answer": "Leopold I of Belgium",
+      "distractors": [
+        "Victor Emmanuel II of Italy",
+        "William I of Prussia",
+        "Ferdinand VII of Spain"
+      ],
+      "explanation": "Leopold had accepted the newly invented Belgian throne in 1831. Carlota was a full partner in the imperial project.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-miramar",
+      "prompt": "Under which 1864 agreement did Maximilian take on Mexico's old debts and the costs of the French intervention?",
+      "answer": "The Convention of Miramar",
+      "distractors": [
+        "The Convention of London",
+        "The Treaty of La Soledad",
+        "The Treaty of Córdoba"
+      ],
+      "explanation": "Most of the loan raised for him never left Paris, and his government needed far more each year than it could collect. A liberal later said France buried Maximilian when he signed it.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-mejia",
+      "prompt": "Which conservative general who fought for the empire was an Otomí cacique, showing that the imperial army was no white elite?",
+      "answer": "Tomás Mejía",
+      "distractors": [
+        "Leonardo Márquez",
+        "Miguel Miramón",
+        "Manuel Lozada"
+      ],
+      "explanation": "Mejía, Márquez and Miramón brought experienced troops to the French side. Many officers without men to command served in the ranks.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-vidaurri",
+      "prompt": "Which northern liberal strongman abandoned Juárez to become one of Maximilian's main advisers?",
+      "answer": "Santiago Vidaurri",
+      "distractors": [
+        "Mariano Escobedo",
+        "Juan Zuazua",
+        "Manuel Doblado"
+      ],
+      "explanation": "He had ruled Nuevo León and Coahuila almost as his own state and quarrelled with Juárez over the border customs. Several other moderate liberals took posts in the imperial cabinet.",
+      "chapter": 11,
+      "feature": "e7-nuevo-leon-coahuila"
+    },
+    {
+      "id": "reform-imperialists",
+      "prompt": "How does Gillingham characterise most of the Mexicans who served Maximilian's empire?",
+      "answer": "State-builders, many of them moderate liberals",
+      "distractors": [
+        "Reactionaries bent on restoring the Inquisition",
+        "Foreign adventurers with no Mexican roots",
+        "Nobles of the old viceregal court"
+      ],
+      "explanation": "Many preferred a progressive Catholic monarch to domination by the Protestant United States. There was more common ground between imperialists and Juárez's followers than either admitted.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-judicial-system",
+      "prompt": "Which creation of the imperial regime survived its defeat, adopted almost wholesale by its liberal enemies?",
+      "answer": "Its modern judicial system",
+      "distractors": [
+        "Its Imperial Guard",
+        "Its system of noble titles",
+        "Its Order of Guadalupe"
+      ],
+      "explanation": "Imperial lawyers and bureaucrats were seriously trying to make a modern state, holding to the Roman ideal of equality under rational law.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-maximilian-church-lands",
+      "prompt": "What did Maximilian do about the Reform laws that privatised Church and village lands, to conservatives' dismay?",
+      "answer": "Confirmed them",
+      "distractors": [
+        "Reversed them",
+        "Suspended them",
+        "Referred them to Rome"
+      ],
+      "explanation": "The emperor turned out to be one of the most liberal men in his own regime. He reaffirmed the privatisations in his official newspaper, alongside a list of new imperial decorations.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-maximilian-lands"
+    },
+    {
+      "id": "reform-maximilian-grito",
+      "prompt": "Which independence ritual did Maximilian perform himself, hailing Hidalgo as the hero of a united mestizo nation?",
+      "answer": "The Grito of 16 September",
+      "distractors": [
+        "Iturbide's entry of 27 September",
+        "The Paseo del Pendón",
+        "The Cinco de Mayo parade"
+      ],
+      "explanation": "He set out to outdo the Mexicans in Mexicanness: he prayed at the Basilica of Guadalupe before entering the capital and unveiled a monument to Morelos.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-nahuatl",
+      "prompt": "Besides Spanish, in which language did Maximilian publish decrees?",
+      "answer": "Nahuatl",
+      "distractors": [
+        "Otomí",
+        "Zapotec",
+        "Maya"
+      ],
+      "explanation": "He called the Indians the best people in the country, a more demonstrative indigenismo than Juárez ever showed.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-junta-protectora",
+      "prompt": "What was Maximilian's Junta Protectora de las Clases Menesterosas set up to do?",
+      "answer": "Hear complaints of land grabs",
+      "distractors": [
+        "Recruit Indigenous soldiers",
+        "Collect the tribute of villages",
+        "Sell Church buildings at auction"
+      ],
+      "explanation": "It did not stop the privatisation of village lands, but it could delay it and gave communities recourse against violent land-grabbers. Some got land back.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-labour-law",
+      "prompt": "What did Maximilian's labour legislation aim to end on haciendas and in workshops?",
+      "answer": "Debt peonage and whipping",
+      "distractors": [
+        "Wages paid in cash",
+        "The Sunday rest",
+        "Sharecropping contracts"
+      ],
+      "explanation": "Employers were also supposed to school workers' children instead of putting them to work. The laws had force only where the empire ruled.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-dupin",
+      "prompt": "How did the French counter-guerrilla corps under Colonel Dupin deal with towns that defied it?",
+      "answer": "Threatened to wipe them off the map",
+      "distractors": [
+        "Paid them to change sides",
+        "Deported their men to Algeria",
+        "Fined them in silver"
+      ],
+      "explanation": "Dupin warned one defiant town to remember what had already happened to another. Imperial forces in Michoacán burned Zitácuaro three times.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-black-decree",
+      "prompt": "What did Maximilian's Black Decree of October 1865 do?",
+      "answer": "Ordered guerrillas and their helpers shot",
+      "distractors": [
+        "Confiscated the lands of exiled liberals",
+        "Banned the celebration of the Grito",
+        "Restored the Church's property"
+      ],
+      "explanation": "It made anyone in an armed band, or who gave guerrillas money, food, shelter or information, liable to court-martial and shooting. It weighed against Maximilian at his own trial.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-black-decree"
+    },
+    {
+      "id": "reform-empire-territory",
+      "prompt": "What territory did Maximilian's empire reliably control?",
+      "answer": "The central valleys, main cities and roads",
+      "distractors": [
+        "All of Mexico except Paso del Norte",
+        "The north and the border ports",
+        "The Gulf coast and Yucatán only"
+      ],
+      "explanation": "Like earlier empires it held the core and the corridors between, but never the countryside, where guerrillas and National Guardsmen held out.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-republic-survives",
+      "prompt": "What kept the republic alive after the French destroyed most of its regular regiments by early 1865?",
+      "answer": "Guerrillas and mountain National Guards",
+      "distractors": [
+        "A US army sent across the Rio Grande",
+        "British loans to Juárez",
+        "Spanish troops changing sides"
+      ],
+      "explanation": "The militias of the mountains became the base of a resurgent republican army once the French began to leave.",
+      "chapter": 11,
+      "feature": "e7-republic-1865"
+    },
+    {
+      "id": "reform-romero",
+      "prompt": "Who was Juárez's minister in Washington, lobbying the US to help drive out the French?",
+      "answer": "Matías Romero",
+      "distractors": [
+        "Melchor Ocampo",
+        "Sebastián Lerdo de Tejada",
+        "Manuel Doblado"
+      ],
+      "explanation": "He even interested General Ulysses Grant in leading an army into Mexico, before the State Department headed them off.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-french-withdrawal",
+      "prompt": "Which two pressures led Napoleon III to withdraw his army from Mexico?",
+      "answer": "US pressure and the rise of Prussia",
+      "distractors": [
+        "A Mexican blockade and cholera",
+        "British threats and a Spanish revolt",
+        "A papal protest and Austrian debts"
+      ],
+      "explanation": "Once its Civil War was over the United States demanded a French withdrawal and threatened Austria with war if it sent troops. A war-weary French public added to the pressure.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-french-evacuation"
+    },
+    {
+      "id": "reform-last-french",
+      "prompt": "When did the last French troops sail from Veracruz?",
+      "answer": "March 1867",
+      "distractors": [
+        "June 1866",
+        "December 1865",
+        "July 1867"
+      ],
+      "explanation": "Napoleon III had planned a phased retreat but pulled his whole force out at once. By then the republicans had taken back almost all of Mexico.",
+      "chapter": 11,
+      "feature": "e7-french-evacuation"
+    },
+    {
+      "id": "reform-carlota",
+      "prompt": "What became of Empress Carlota's journey to Europe in 1866 to seek help for the empire?",
+      "answer": "She was rebuffed everywhere and broke down",
+      "distractors": [
+        "She won a new French army for Mexico",
+        "She was crowned regent in Vienna",
+        "She raised a loan from the Pope"
+      ],
+      "explanation": "Maximilian ignored urging to abdicate and follow her. Instead he went north to Querétaro to fight on with his Mexican army.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-escobedo",
+      "prompt": "Which republican general besieged Maximilian at Querétaro in 1867?",
+      "answer": "Mariano Escobedo",
+      "distractors": [
+        "Porfirio Díaz",
+        "Ignacio Zaragoza",
+        "Jesús González Ortega"
+      ],
+      "explanation": "His far larger army had American weapons. The defenders melted down bells and the theatre roof for ammunition, and the city fell on 15 May.",
+      "chapter": 11,
+      "feature": "e7-queretaro-siege"
+    },
+    {
+      "id": "reform-execution-date",
+      "prompt": "On what date was Maximilian executed on the Cerro de las Campanas?",
+      "answer": "19 June 1867",
+      "distractors": [
+        "15 May 1867",
+        "21 June 1867",
+        "15 July 1867"
+      ],
+      "explanation": "He was shot after a court-martial, dying with dignity and crying \"Viva México\". Juárez ignored appeals for clemency from Europe's monarchs and the US secretary of state.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-cerro-campanas"
+    },
+    {
+      "id": "reform-shot-with",
+      "prompt": "Which two generals were executed with Maximilian?",
+      "answer": "Miramón and Mejía",
+      "distractors": [
+        "Márquez and Mejía",
+        "Miramón and Márquez",
+        "Mejía and Vidaurri"
+      ],
+      "explanation": "Both had been leading conservative commanders since the War of the Reform. Márquez escaped abroad.",
+      "chapter": 11,
+      "feature": "e7-cerro-campanas"
+    },
+    {
+      "id": "reform-second-independence",
+      "prompt": "How does Gillingham interpret Juárez's decision to execute a European prince?",
+      "answer": "As a second declaration of independence",
+      "distractors": [
+        "As a betrayal of liberal principles",
+        "As a concession to the United States",
+        "As revenge for the Black Decree alone"
+      ],
+      "explanation": "Killing a Habsburg was something simply not done, and Juárez knew it. The execution warned the powers against imposing rulers on Mexico.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-cerro-campanas"
+    },
+    {
+      "id": "reform-diaz-mexico-city",
+      "prompt": "Which republican general took Mexico City on 21 June 1867, ending the war against the empire?",
+      "answer": "Porfirio Díaz",
+      "distractors": [
+        "Mariano Escobedo",
+        "Ramón Corona",
+        "Vicente Riva Palacio"
+      ],
+      "explanation": "Díaz had stormed Puebla in April and then besieged the capital. The war made him a national figure.",
+      "chapter": 11,
+      "feature": "e7-puebla-1867"
+    },
+    {
+      "id": "reform-amnesty",
+      "prompt": "In what year did Juárez declare a general amnesty for those who had served the empire?",
+      "answer": "1870",
+      "distractors": [
+        "1867",
+        "1872",
+        "1876"
+      ],
+      "explanation": "Conservatives were purged as a political group but reconciled as individuals. Díaz quietly paid for a small monument to Maximilian.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-patriotic-liberal",
+      "prompt": "What did victory over the French mean for Mexican nationalism, in Gillingham's account?",
+      "answer": "To be patriotic was to be liberal",
+      "distractors": [
+        "Liberals and conservatives shared power",
+        "Patriotism became Catholic again",
+        "The army became the nation's symbol"
+      ],
+      "explanation": "Unlike the war against the United States, the war against the French was a clear victory, celebrated in Cinco de Mayo ceremonies and veterans' brass bands. The constitution of 1857 became revealed truth.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-church-after-1867",
+      "prompt": "After 1867, what happened to the Church's social power, as distinct from its political role?",
+      "answer": "It remained largely intact",
+      "distractors": [
+        "It was destroyed by the Reform",
+        "It passed to Protestant missions",
+        "It moved to the northern frontier"
+      ],
+      "explanation": "The Church was cut out of politics, but church-building went on in the Centre-West and Catholic laywomen remained models of piety.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-rurales",
+      "prompt": "Which mounted police force did Juárez found in 1861 to impose order on the countryside, often recruiting former bandits?",
+      "answer": "The rurales",
+      "distractors": [
+        "The National Guard",
+        "The Acordada",
+        "The federal army"
+      ],
+      "explanation": "They were allowed to carry out summary justice. The force lasted until 1914 and became a symbol of the Porfirian order.",
+      "chapter": 13
+    },
+    {
+      "id": "reform-ley-fuga",
+      "prompt": "What was the \"ley fuga\", the law of flight, practised by the rurales and other authorities?",
+      "answer": "Shooting prisoners said to be escaping",
+      "distractors": [
+        "Exile for convicted rebels",
+        "Seizing the land of deserters",
+        "Pardoning bandits who surrendered"
+      ],
+      "explanation": "It was a cover for extrajudicial execution. Liberals who preached the rule of law were prepared to use it to secure order.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-jefes-politicos",
+      "prompt": "Who were the jefes políticos through whom Juárez ruled after 1867?",
+      "answer": "Appointed officials over districts",
+      "distractors": [
+        "Elected mayors of villages",
+        "Army commanders of military zones",
+        "Federal tax collectors in the ports"
+      ],
+      "explanation": "Each ran several municipalities. They undercut the democracy of the free municipality and leaned on the rurales. Juárez also tried to neutralise Congress and centralise government.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-extraordinary-powers",
+      "prompt": "For roughly how much of their decade in power after 1867 did Juárez and his successor govern with constitutional guarantees suspended?",
+      "answer": "Nearly half of it",
+      "distractors": [
+        "A few weeks",
+        "The whole decade",
+        "About one year"
+      ],
+      "explanation": "They faced repeated revolts by disenchanted veterans. Juárez's own election wins were clean, but those of many other officials were not.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-authoritarian-liberal",
+      "prompt": "What does Gillingham call Juárez, for centralising power and re-electing himself?",
+      "answer": "The first authoritarian liberal",
+      "distractors": [
+        "The last colonial reformer",
+        "The father of federalism",
+        "A conservative in disguise"
+      ],
+      "explanation": "Honest, Indigenous and the hero of two wars, he had unparalleled power. Gillingham suggests that had he lived he might have re-elected himself into discredit.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-chalco",
+      "prompt": "In which district on the southeastern edge of the Valley of Mexico did a revolt against the haciendas break out in 1868?",
+      "answer": "Chalco",
+      "distractors": [
+        "Cuernavaca",
+        "Tlalpan",
+        "Toluca"
+      ],
+      "explanation": "Its leader, Julio López, raised villagers and tenants against haciendas that had taken their land, water and woods. He was caught and shot, and later socialists and anarchists claimed the rising as a founding episode.",
+      "chapter": 11,
+      "feature": "e7-chalco-1868"
+    },
+    {
+      "id": "reform-peasant-losers",
+      "prompt": "Who, in Gillingham's view, were the great losers of liberal reform?",
+      "answer": "The peasants who fought for it",
+      "distractors": [
+        "The creole hacendados",
+        "The foreign investors",
+        "The regular army officers"
+      ],
+      "explanation": "Their lands faced unprecedented threats from hacendados and land companies, they paid a disproportionate share of taxes, and on the peripheries many remained in debt peonage.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-diaz-1871",
+      "prompt": "Who rebelled, claiming fraud, after losing the presidential election of 1871 to Juárez?",
+      "answer": "Porfirio Díaz",
+      "distractors": [
+        "Sebastián Lerdo de Tejada",
+        "Mariano Escobedo",
+        "Jesús González Ortega"
+      ],
+      "explanation": "The rising, launched from Díaz's hacienda of La Noria, failed, and it collapsed after Juárez died and Lerdo offered an amnesty.",
+      "chapter": 11,
+      "feature": "e7-plan-noria"
+    },
+    {
+      "id": "reform-juarez-death",
+      "prompt": "How did Benito Juárez's presidency end in 1872?",
+      "answer": "He died of a heart attack in office",
+      "distractors": [
+        "He was overthrown by Díaz",
+        "He resigned after losing an election",
+        "He was assassinated in the palace"
+      ],
+      "explanation": "He had been head of the executive for fourteen years and had just been re-elected again.",
+      "chapter": 11
+    },
+    {
+      "id": "reform-lerdo",
+      "prompt": "Who succeeded Juárez as president in 1872?",
+      "answer": "Sebastián Lerdo de Tejada",
+      "distractors": [
+        "Porfirio Díaz",
+        "José María Iglesias",
+        "Miguel Lerdo de Tejada"
+      ],
+      "explanation": "Lerdo carried on Juárez's style of government and, like him, ruled for long stretches with extraordinary powers. His bid for re-election provoked Díaz's rising of 1876.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "reform-religious-rising",
+      "prompt": "Where did a Catholic rising of the mid-1870s recruit thousands and take three years to put down?",
+      "answer": "Michoacán and parts of Guanajuato",
+      "distractors": [
+        "Yucatán and parts of Campeche",
+        "Sonora and parts of Sinaloa",
+        "Oaxaca and parts of Guerrero"
+      ],
+      "explanation": "The rebels, called religioneros, drew support from the towns as well as the countryside. The rising showed that the conflict between the liberal state and Catholic Mexico was not over.",
+      "chapter": 13
+    },
+    {
+      "id": "reform-tuxtepec",
+      "prompt": "What single democratic proposal headed Díaz's Plan of Tuxtepec of 1876?",
+      "answer": "No re-election of presidents or governors",
+      "distractors": [
+        "Votes for women in federal elections",
+        "Direct popular election of judges",
+        "The return of Church lands to the bishops"
+      ],
+      "explanation": "The plan paired a long list of Lerdo's supposed crimes with this slogan. Díaz later re-elected himself seven times.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e7-plan-tuxtepec"
+    },
+    {
+      "id": "reform-last-pronunciamiento",
+      "prompt": "What does Gillingham say was distinctive about Díaz's successful rising of 1876?",
+      "answer": "It was the last pronunciamiento",
+      "distractors": [
+        "It was the first led by a civilian",
+        "It was backed by a US army",
+        "It was decided by a plebiscite"
+      ],
+      "explanation": "Every president since independence had depended on the generals. Once in power, Díaz made sure no one could repeat what he had done.",
+      "chapter": 11,
+      "feature": "e7-plan-tuxtepec"
+    },
+    {
+      "id": "reform-puebla-where",
+      "kind": "where",
+      "prompt": "Where is Puebla, the city on the road from Veracruz where the French were thrown back in 1862 and besieged in 1863?",
+      "answer": "Puebla, south-east of Mexico City",
+      "explanation": "Puebla was the gateway to the Valley of Mexico. Whoever took it controlled the main road from the coast to the capital.",
+      "chapter": 11,
+      "feature": "e7-puebla-1862"
+    },
+    {
+      "id": "reform-ayutla-where",
+      "kind": "where",
+      "prompt": "Where is Ayutla, where the plan against Santa Anna's dictatorship was proclaimed in 1854?",
+      "answer": "Ayutla, in southern Guerrero",
+      "explanation": "The plan came out of the Guerrero coast ruled by Juan Álvarez, a region of Indigenous and Afro-Mexican peasants who formed the core of the liberal armies.",
+      "chapter": 11,
+      "feature": "e7-plan-ayutla"
+    }
+  ]
+}

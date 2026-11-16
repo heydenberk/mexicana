@@ -1,0 +1,1779 @@
+{
+  "era": "conquest",
+  "cards": [
+    {
+      "id": "conquest-1",
+      "prompt": "Malintzin (Doña Marina), who became the expedition's indispensable interpreter, was among twenty women presented to the Spaniards after which battle?",
+      "answer": "The battle of Centla",
+      "distractors": [
+        "The battle of Otumba",
+        "The battle of Xochimilco",
+        "The battles with Tlaxcala"
+      ],
+      "explanation": "Centla, fought in March 1519 against the Chontal Maya of Potonchán near the mouth of the Grijalva, was Cortés's first major battle in Mexico. Malintzin spoke Nahuatl and a Maya language, and with Jerónimo de Aguilar, a castaway who had learned Maya in captivity, she formed the chain of interpreters through which Cortés dealt with Moctezuma's envoys.",
+      "feature": "e1-centla",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-2",
+      "kind": "where",
+      "prompt": "Where was Cempoala, the Totonac capital whose ruler became Cortés's first major ally and from which the march inland set out in August 1519?",
+      "answer": "Cempoala, near the Gulf coast of Veracruz",
+      "explanation": "Cempoala lay near the Gulf coast and had been subject to the Triple Alliance since the mid-fifteenth century. The Totonacs broke with Moctezuma when his tribute collectors were seized at nearby Quiahuiztlan, and Cempoala supplied porters and warriors for the march inland.",
+      "feature": "e1-cempoala",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-3",
+      "prompt": "Before marching inland in 1519, what did Cortés do with the ships that had brought his expedition?",
+      "answer": "Had them run aground and dismantled",
+      "distractors": [
+        "Had them burned off the coast",
+        "Sent them back to Cuba with his treasure",
+        "Kept them at anchor off San Juan de Ulúa"
+      ],
+      "explanation": "He did it so that no faction could sail back to Cuba, after binding the Totonacs to his side at Quiahuiztlan and moving the first Spanish town on the mainland to a sheltered spot below it. The popular story that he \"burned his ships\" is a later embellishment.",
+      "feature": "e1-villa-rica",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-4",
+      "prompt": "Tlaxcala fought Cortés in September 1519 and then supplied the bulk of the army that took Tenochtitlan. What had been its relationship with the Triple Alliance?",
+      "answer": "Surrounded and cut off from trade, but never conquered",
+      "distractors": [
+        "A tribute-paying subject since the mid-fifteenth century",
+        "One of the three cities that made up the alliance",
+        "A province held down by an Aztec garrison"
+      ],
+      "explanation": "Tlaxcala, a confederation of four altepetl, was an unconquered enclave inside the empire. Its leaders judged the Spaniards useful against their old enemy, and Tlaxcala leveraged the alliance for privileges throughout the colonial period.",
+      "feature": "e1-tlaxcala-state",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-5",
+      "kind": "where",
+      "prompt": "Where was Tzintzuntzan, capital of the Tarascan (Purépecha) state, the great western rival that the Triple Alliance never managed to defeat?",
+      "answer": "Tzintzuntzan, on Lake Pátzcuaro (Michoacán)",
+      "explanation": "Tzintzuntzan stood on the shore of Lake Pátzcuaro, and both the Tarascans and the Aztecs fortified the frontier along the Lerma–Balsas line. In 1520 the Tarascan ruler declined to help the Mexica against the Spaniards, and the state submitted peacefully in 1522.",
+      "feature": "e1-tzintzuntzan",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-6",
+      "prompt": "When the Spaniards fled Tenochtitlan by night in mid-1520, along which route did they try to escape?",
+      "answer": "Along the western causeway to Tlacopan",
+      "distractors": [
+        "Along the southern causeway to Iztapalapa",
+        "Along the northern causeway to Tepeyac",
+        "By canoe across the lake to Texcoco"
+      ],
+      "explanation": "Led by Cuitláhuac, Moctezuma's brother and successor, the Mexica attacked the fleeing column from canoes at the causeway's open canal cuts. The Spaniards lost perhaps half their number, many more Tlaxcalan allies and much of their treasure, and the survivors regrouped at Popotla and Tlacopan.",
+      "feature": "e1-noche-triste",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-7",
+      "kind": "where",
+      "prompt": "Where was the battle of Otumba, fought in July 1520 when a Mexica-led army intercepted the Spaniards a week after they had fled Tenochtitlan?",
+      "answer": "Otumba, north-east of the Valley of Mexico",
+      "explanation": "After the Noche Triste the survivors circled north around the lakes and were caught, exhausted, on the plain near Otumba. According to Spanish accounts, a cavalry charge that killed the enemy commander and seized his standard broke the attack.",
+      "feature": "e1-otumba"
+    },
+    {
+      "id": "conquest-8",
+      "prompt": "Which Mexica leader, Moctezuma's brother and successor, was killed by smallpox while the Spaniards rebuilt their forces after fleeing Tenochtitlan in 1520?",
+      "answer": "Cuitláhuac",
+      "distractors": [
+        "Cuauhtémoc",
+        "Ixtlilxochitl",
+        "Axayacatl"
+      ],
+      "explanation": "Smallpox arrived in 1520 and killed Cuitláhuac and many thousands of others in the city, a large share of its defenders, before the siege began. Meanwhile the Spaniards, with Tlaxcalan help, subdued Tepeaca and detached towns east and south of the basin from Tenochtitlan.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-9",
+      "prompt": "Which lakeshore city, split by a succession dispute, became the Spaniards' base from the end of 1520 and the launch site of their brigantines?",
+      "answer": "Texcoco",
+      "distractors": [
+        "Iztapalapa",
+        "Xochimilco",
+        "Coyoacán"
+      ],
+      "explanation": "Texcoco was the second city of the Triple Alliance, and its prince Ixtlilxochitl became a key ally. Thirteen brigantines, prefabricated in Tlaxcala and carried over the mountains by thousands of porters, were launched here through a canal dug to the lake, giving the Spaniards control of the water.",
+      "feature": "e1-texcoco",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-10",
+      "prompt": "In the last days of the siege of Tenochtitlan in 1521, after nearly three months of fighting, famine and epidemic, where were the last Mexica defenders pushed back to?",
+      "answer": "Tlatelolco",
+      "distractors": [
+        "Coyoacán",
+        "Iztapalapa",
+        "Tepeyac"
+      ],
+      "explanation": "Tlatelolco was the city's northern twin and the site of its great market. The Mexica ruler Cuauhtémoc was captured there on 13 August 1521, either fleeing by canoe or coming out to surrender, ending organised resistance; the Plaza de las Tres Culturas now marks the site.",
+      "feature": "e1-tlatelolco-fall",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-civil-war",
+      "prompt": "Gillingham argues that what we call the conquest of Mexico was less a foreign conquest than what?",
+      "answer": "A civil war among Indigenous peoples",
+      "distractors": [
+        "A holy war between two rival priesthoods",
+        "A slave revolt against the Mexica nobility",
+        "A trade war over the cacao routes"
+      ],
+      "explanation": "The Spanish accounts mention in passing thousands, then tens and finally hundreds of thousands of Indigenous warriors fighting alongside a few hundred Spaniards. Gillingham concludes that it was the peoples of central Mexico, not the Spaniards, who destroyed the Mexica empire.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-allies-1521",
+      "prompt": "By the end of June 1521, according to Gillingham, roughly how many Indigenous troops were fighting the Mexica alongside the Spaniards?",
+      "answer": "Over 100,000",
+      "distractors": [
+        "About 6,000",
+        "About 20,000",
+        "Over a million"
+      ],
+      "explanation": "The coalition began with the Tlaxcalans and grew as the Mexica's former subjects and neighbours deserted them, until it took in almost all the peoples of central Mexico. The Spaniards themselves numbered only in the hundreds.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-rule-by-fear",
+      "prompt": "Moctezuma told Cortés that his people did not like to be ruled with love. How did he say they preferred to be ruled?",
+      "answer": "With fear",
+      "distractors": [
+        "With generosity",
+        "With law",
+        "With piety"
+      ],
+      "explanation": "The Mexica had built their empire with terror, including the sacrifice of tribute victims from conquered peoples. Gillingham argues that once the balance of fear shifted toward the Spanish-led coalition, the empire's subjects shifted their loyalty with it.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-why-rebel",
+      "prompt": "Why, according to Gillingham, were so many of the Mexica's subject peoples ready to rebel when the Spaniards landed in 1519?",
+      "answer": "They loathed a recent and brutal tribute empire",
+      "distractors": [
+        "Friars had already converted them to Christianity",
+        "Moctezuma had disarmed their warriors",
+        "A drought had emptied the Mexica granaries"
+      ],
+      "explanation": "The empire was young, built from recently subdued and resentful city-states and held together by tribute and showy violence. Cortés exploited those grievances from his first alliance with the Totonacs onward.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-triple-alliance"
+    },
+    {
+      "id": "conquest-mafia-state",
+      "prompt": "Borrowing a concept from Charles Tilly, what does Gillingham call the Mexica empire, which demanded tribute and privileges in exchange for peace?",
+      "answer": "A mafia state",
+      "distractors": [
+        "A theatre state",
+        "A hydraulic despotism",
+        "A segmentary state"
+      ],
+      "explanation": "Gillingham stresses that its European contemporaries worked in much the same way. Like them, the Mexica built their power with ruthlessness and spectacular violence, which left many of their subjects eager for revenge.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-triple-alliance"
+    },
+    {
+      "id": "conquest-end-of-beginning",
+      "prompt": "Gillingham says that 1521 was not the end of the conquest of Mexico. What does he call it instead?",
+      "answer": "The end of the beginning",
+      "distractors": [
+        "The beginning of the end",
+        "The middle of the story",
+        "The first of three conquests"
+      ],
+      "explanation": "Taking the Valley of Mexico was quick, but bringing the rest of what became Mexico under Spanish rule took nearly a century and was never complete: Nayarit stayed independent until 1722, and parts of the Maya south and the north held out far longer.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-tech-least",
+      "prompt": "Of the Mexica's disadvantages in the war of 1519–21, which does Gillingham rank as the least important?",
+      "answer": "The gap in military technology",
+      "distractors": [
+        "Their loss of allies and subjects",
+        "The Spaniards' control of the lake",
+        "The smallpox epidemic"
+      ],
+      "explanation": "Arquebuses were slow and inaccurate, the cannon were few and light, and steel armour was soon swapped for cotton. What decided the war was the Indigenous coalition, the brigantines' blockade, which needed that coalition's manpower, and disease.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-guerrero",
+      "prompt": "Which Spanish castaway among the Maya of Yucatán married into Maya society and led Maya warriors against the Spaniards for the rest of his life?",
+      "answer": "Gonzalo Guerrero",
+      "distractors": [
+        "Jerónimo de Aguilar",
+        "Francisco de Montejo",
+        "Juan de Grijalva"
+      ],
+      "explanation": "He became a war adviser to the lord of Chetumal, married into his family, and in 1519 refused to rejoin his countrymen. He was found dead among Maya fighters in Honduras in the mid-1530s.",
+      "chapter": 0,
+      "core": true
+    },
+    {
+      "id": "conquest-first-mexicans",
+      "prompt": "Why does Gillingham open his history of Mexico with the three children of a shipwrecked Spanish sailor and his Maya wife?",
+      "answer": "They might be seen as the first Mexicans",
+      "distractors": [
+        "They guided Cortés to Tenochtitlan",
+        "They were the first Maya baptised as Christians",
+        "They founded the first Spanish town"
+      ],
+      "explanation": "For Gillingham the history of Mexico, the country and people that grew out of such encounters, begins with the 1511 shipwreck. Guerrero's family stands for the hybrid society that the meeting of two worlds would produce.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-shipwreck-year",
+      "prompt": "In what year was the Spanish ship wrecked that left the first Spanish castaways, including Jerónimo de Aguilar, among the Maya of Yucatán?",
+      "answer": "1511",
+      "distractors": [
+        "1492",
+        "1502",
+        "1517"
+      ],
+      "explanation": "Of the survivors who reached the coast, the Maya sacrificed some and others died of hardship; only Guerrero and Aguilar lived. That was the first lasting contact between Spaniards and the peoples of what became Mexico.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-aguilar-role",
+      "prompt": "What did Jerónimo de Aguilar, the shipwrecked Spaniard recovered on Cozumel in 1519, become for Cortés's expedition?",
+      "answer": "Its first interpreter",
+      "distractors": [
+        "Its chaplain",
+        "Its pilot",
+        "Its chronicler"
+      ],
+      "explanation": "Aguilar had spent eight years among the Maya and spoke a Maya language, though his Spanish had decayed. Unlike Guerrero, he chose to rejoin his countrymen, and he put across the expedition's first diplomacy and threats.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-cozumel"
+    },
+    {
+      "id": "conquest-settlers",
+      "prompt": "What, for Gillingham, set the Spaniards in Mexico apart from earlier long-distance voyagers such as the Vikings or Zheng He?",
+      "answer": "They came as settlers, to found towns and stay",
+      "distractors": [
+        "They came only to trade, not to fight",
+        "They were the first to cross an ocean",
+        "They brought far larger fleets"
+      ],
+      "explanation": "Individuals might dream of going home rich, but collectively the Spaniards were colonists from their first landing. That is why the meeting of the two long-separated worlds had such lasting consequences.",
+      "chapter": 0,
+      "core": true
+    },
+    {
+      "id": "conquest-parallel-empires",
+      "prompt": "What did Gillingham argue the Spanish and Aztec empires had in common in 1519?",
+      "answer": "Both were recent patchworks of different societies",
+      "distractors": [
+        "Both used iron tools and the wheel",
+        "Both were ruled by elected assemblies",
+        "Both had been founded by seafaring traders"
+      ],
+      "explanation": "Modern Spain was born only at the end of the fifteenth century, and the Mexica had dominated the Valley of Mexico for only a few generations. Both were militarised theocracies that came out of a long march south from a harsh north.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-warrior-saint",
+      "prompt": "Gillingham notes that the Mexica and the Spaniards each had a warrior saint to intercede with the divine. Who was the Spaniards'?",
+      "answer": "Saint James",
+      "distractors": [
+        "Saint George",
+        "Saint Francis",
+        "Saint Dominic"
+      ],
+      "explanation": "The Mexica counterpart was the war god Huitzilopochtli. The Spaniards went into battle shouting \"Santiago!\" (Saint James), and their victories persuaded many that their god and saint were the stronger.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-barbarian-parallel",
+      "prompt": "Gillingham compares the Mexica view of the Chichimeca of the northern drylands with the Spanish view of which people?",
+      "answer": "The Berbers",
+      "distractors": [
+        "The Basques",
+        "The French",
+        "The Ottoman Turks"
+      ],
+      "explanation": "The Berbers were the peoples of North Africa's mountains and deserts. Both empires saw themselves as caught between barbarians of the mountains and deserts and civilised neighbours too strong to crush: the Maya for the Mexica, the French and Ottomans for the Spaniards.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-granada",
+      "prompt": "Spain was united only at the end of the fifteenth century, when Castile absorbed its junior partners and seized which last Muslim stronghold?",
+      "answer": "Granada",
+      "distractors": [
+        "Córdoba",
+        "Seville",
+        "Toledo"
+      ],
+      "explanation": "Granada fell in 1492. Gillingham notes that Castilian grammar was formalised only then, and that the name España first appeared on a map decades after the conquest of Mexico.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-lacked",
+      "prompt": "Gillingham notes that the Mexica had public toilets and sophisticated hydraulic engineering. Which technologies did they lack?",
+      "answer": "Steel and the wheel",
+      "distractors": [
+        "Writing and a calendar",
+        "Markets and canals",
+        "Bows and slings"
+      ],
+      "explanation": "Iberians had iron, wheels, pulleys and the Roman arch; the Mexica had none of them. Yet the Mexica built a capital beyond anything the provincial Spaniards had seen.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-hybrid",
+      "prompt": "According to Gillingham, which group was about as numerous as the Iberians among the newcomers to Mexico in its first century?",
+      "answer": "West Africans",
+      "distractors": [
+        "Italians",
+        "Germans",
+        "Filipinos"
+      ],
+      "explanation": "He argues that in its first centuries Mexico was more globally hybrid than anywhere before, a meeting of hundreds of Indigenous peoples with Iberians, Africans and Asians, despite the authorities' efforts to keep them apart.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-mestizaje",
+      "prompt": "How does Gillingham characterise the claim that to be Mexican is to be mestizo?",
+      "answer": "A modern nationalist claim",
+      "distractors": [
+        "A colonial legal category",
+        "An Aztec origin myth",
+        "A Spanish royal decree"
+      ],
+      "explanation": "He argues that the ideology of mestizaje propped up intolerance and even ethnocide, while its promoters sometimes quietly sought to whiten the population. Yet mixing itself was a real sociological fact: Mexico was for centuries the world's great melting pot.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-mexico-profundo",
+      "prompt": "What name did some thinkers give to the unacknowledged Indigenous civilisation they believed persisted among Mexico's rural and urban poor?",
+      "answer": "México profundo",
+      "distractors": [
+        "México bárbaro",
+        "La raza cósmica",
+        "El México bronco"
+      ],
+      "explanation": "The phrase, from Guillermo Bonfil Batalla's 1987 book, describes a \"deep Mexico\" that clung to pre-Hispanic ways. Gillingham sets it against the nationalist story of a single mestizo nation.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-book-structure",
+      "prompt": "How does Gillingham structure his history of Mexico?",
+      "answer": "Narrative chapters alternate with other perspectives",
+      "distractors": [
+        "Strictly chronological, one reign per chapter",
+        "Region by region, one state per chapter",
+        "A series of biographies of rulers"
+      ],
+      "explanation": "He circles each period from several viewpoints, like layers of a palimpsest, while trying to keep a clear ranking of why things happened when they did.",
+      "chapter": 0
+    },
+    {
+      "id": "conquest-eagle-cactus",
+      "prompt": "According to the Mexica's own foundation story, what sign showed them where to settle in the lake of the Valley of Mexico?",
+      "answer": "An eagle eating a snake on a cactus",
+      "distractors": [
+        "A jaguar sleeping on a rock",
+        "A hummingbird drinking at a spring",
+        "A heron nesting in the reeds"
+      ],
+      "explanation": "Gillingham calls it a tale of manifest destiny. In reality their island began as a swampy refuge from stronger, hostile neighbours, and the emblem now sits on the Mexican flag.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-tenochtitlan"
+    },
+    {
+      "id": "conquest-azcapotzalco",
+      "prompt": "Until 1428 the Mexica were subordinate to which neighbouring city-state?",
+      "answer": "Azcapotzalco",
+      "distractors": [
+        "Texcoco",
+        "Cholula",
+        "Tlaxcala"
+      ],
+      "explanation": "The Mexica began as mercenaries and only took firm control of the valley in the second half of the fifteenth century, a few decades before the Spaniards came. They nonetheless told the Spaniards they had been there for millennia.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-mexica-arrival",
+      "prompt": "When did the Mexica, migrating from the arid north-west, arrive in the Valley of Mexico and settle its swamps?",
+      "answer": "In the thirteenth century",
+      "distractors": [
+        "In the tenth century",
+        "In the eleventh century",
+        "In the fifteenth century"
+      ],
+      "explanation": "By then the good lakeshore land was taken, so they settled the wetlands. Over the next three centuries they moved mud and rock to build an island city, with causeways and floating gardens.",
+      "chapter": 1,
+      "feature": "e1-lake-texcoco"
+    },
+    {
+      "id": "conquest-chinampas",
+      "prompt": "What were the chinampas that helped feed Tenochtitlan?",
+      "answer": "Raised garden plots in the lake",
+      "distractors": [
+        "Stone causeways across the lake",
+        "Granaries for tribute maize",
+        "Canoe harbours along the shore"
+      ],
+      "explanation": "Often called floating gardens, they were built up from lake mud and vegetation. They depended on the fresh water held around the city by the Mexica's dikes, and they survived the conquest to feed colonial Mexico City.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-lake-texcoco"
+    },
+    {
+      "id": "conquest-causeways",
+      "prompt": "Besides linking the island city to the shore, what did the causeways and dikes of Tenochtitlan do?",
+      "answer": "Kept salt water from fresh and held back floods",
+      "distractors": [
+        "Carried wheeled carts to the markets",
+        "Marked the boundaries of tribute provinces",
+        "Served as the city's main burial grounds"
+      ],
+      "explanation": "The valley's lakes were partly salty, and the city flooded in the rainy season. The Mexica managed both problems with dikes, sluices and causeways, engineering on a vast scale.",
+      "chapter": 1,
+      "feature": "e1-causeways"
+    },
+    {
+      "id": "conquest-dike",
+      "prompt": "The great dike that separated the salty eastern lake from the fresher water around Tenochtitlan was named after which ruler of Texcoco?",
+      "answer": "Nezahualcóyotl",
+      "distractors": [
+        "Nezahualpilli",
+        "Cacamatzin",
+        "Ixtlilxochitl"
+      ],
+      "explanation": "Built with huge gangs of labour from timber piles and stone, it kept salt water away from the city. The conquistadors broke through it during the war, and afterwards the Spaniards let the waterworks decay.",
+      "chapter": 5,
+      "feature": "e1-dike-nezahualcoyotl"
+    },
+    {
+      "id": "conquest-volcanoes",
+      "prompt": "Which two volcanoes rise on the south-eastern rim of the Valley of Mexico?",
+      "answer": "Popocatépetl and Iztaccíhuatl",
+      "distractors": [
+        "Orizaba and La Malinche",
+        "Nevado de Toluca and Ajusco",
+        "Colima and Paricutín"
+      ],
+      "explanation": "In November 1519 Cortés's army crossed the pass between them and saw the lake cities for the first time. During the siege the Spaniards hauled sulphur down from Popocatépetl to make gunpowder.",
+      "chapter": 1,
+      "feature": "e1-paso-de-cortes"
+    },
+    {
+      "id": "conquest-altepetl",
+      "prompt": "What was an altepetl in pre-Hispanic central Mexico?",
+      "answer": "A Nahua city-state",
+      "distractors": [
+        "A floating garden plot",
+        "A stepped temple pyramid",
+        "A long-distance trade caravan"
+      ],
+      "explanation": "Each altepetl had its own rulers, patron gods, history and market. Larger polities such as Tlaxcala or the Triple Alliance were built out of them, and after the conquest the Spaniards folded them into Spanish-style town councils.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-tlaxcala-government",
+      "prompt": "How was Tlaxcala governed when the Spaniards arrived in 1519?",
+      "answer": "Four altepetl joined under a deliberative assembly",
+      "distractors": [
+        "A single kingdom under one hereditary king",
+        "A Mexica governor with a garrison",
+        "A council of priests from Cholula"
+      ],
+      "explanation": "Hatred of the Mexica held the four city-states together. Its rugged land and strong army had kept it independent, though surrounded by the empire.",
+      "chapter": 1,
+      "feature": "e1-tlaxcala-state"
+    },
+    {
+      "id": "conquest-tlatoani",
+      "prompt": "What did tlatoani, the Nahuatl title of the Mexica ruler, literally mean?",
+      "answer": "He who speaks",
+      "distractors": [
+        "He who fights",
+        "Son of the sun",
+        "Lord of the lake"
+      ],
+      "explanation": "The tlatoani held great, divinely sanctioned power that was normally unquestioned. Gillingham's glossary renders the title simply as emperor.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-moctezuma-name",
+      "prompt": "What did the name of the Mexica ruler Moctezuma II literally mean?",
+      "answer": "One who is angered",
+      "distractors": [
+        "One who speaks",
+        "One who conquers",
+        "One who is generous"
+      ],
+      "explanation": "Gillingham says he lived up to the name. He began his reign by executing his predecessor's officials, and Indigenous informants later remembered him as extraordinarily cruel.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-moctezuma-protocol",
+      "prompt": "Which rule of court protocol did Moctezuma II impose on his subjects?",
+      "answer": "No one might look directly at his face",
+      "distractors": [
+        "No one might speak Nahuatl before him",
+        "No one might cross the lake by night",
+        "No one might own an obsidian mirror"
+      ],
+      "explanation": "Those in his presence had to go barefoot and wear the coarsest clothing, and everyone bowed as he passed. Gillingham uses this to show that he was a forceful, absolutist ruler, not the hand-wringing figure of later legend.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-unconquered-tarascans",
+      "prompt": "In the disastrous Mexica invasion of the Purépecha (Tarascan) state of Michoacán in the late 1470s, roughly how many imperial troops are said to have died?",
+      "answer": "About twenty thousand",
+      "distractors": [
+        "About two hundred",
+        "About two thousand",
+        "About two hundred thousand"
+      ],
+      "explanation": "Gillingham gives the figure from Ross Hassig's study of Aztec warfare. The defeat left the Purépecha as the great western rival the Triple Alliance never conquered, and both sides fortified the frontier; strong states combined with mountains made direct conquest unappealing.",
+      "chapter": 1,
+      "feature": "e1-tarascan-state"
+    },
+    {
+      "id": "conquest-great-chichimeca",
+      "prompt": "What did the Mexica call the northern drylands beyond their empire, home to mobile peoples such as the Pames, Zacatecos and Guachichiles?",
+      "answer": "Great Chichimeca",
+      "distractors": [
+        "Aztlan",
+        "Anáhuac",
+        "Tlillan Tlapallan"
+      ],
+      "explanation": "Chichimeca was the Nahua word for barbarians. Poor resources and dangerous, decentralised peoples deterred Mexica expeditions, and the same peoples later fought the Spaniards to a standstill for decades.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-maya-goal",
+      "prompt": "In 1519, according to Gillingham, what was the Mexica empire's ultimate strategic goal?",
+      "answer": "The conquest of the Maya lands",
+      "distractors": [
+        "The conquest of Michoacán",
+        "The conquest of the northern drylands",
+        "The conquest of the Caribbean islands"
+      ],
+      "explanation": "The Maya city-states were politically divided but rich, and held trade routes into Central America. They kept the Mexica out with a chain of garrisons beyond which only Mexica merchants could pass.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-maya-trade",
+      "prompt": "According to Gillingham, what did the Maya city-states of the south control that made them so rich a prize in 1519?",
+      "answer": "The trade routes into Central America",
+      "distractors": [
+        "The richest silver mines in Mesoamerica",
+        "The only maize surplus in Mesoamerica",
+        "The obsidian quarries of the highlands"
+      ],
+      "explanation": "Jade, feathers, shells, dyes, cacao and gold were valuable, light and easy to carry. Gillingham likens this trade to the European spice trade.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-pochteca",
+      "prompt": "Who were the pochteca of the Mexica world?",
+      "answer": "Long-distance merchants",
+      "distractors": [
+        "Temple priests",
+        "Tribute collectors",
+        "Elite eagle warriors"
+      ],
+      "explanation": "They alone could pass beyond the Mexica garrisons on the Maya frontier, trading in luxuries such as feathers, jade and cacao.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-teotihuacan-tikal",
+      "prompt": "In the fourth century CE, which central Mexican power installed a ruler of its choosing in the Maya city of Tikal?",
+      "answer": "Teotihuacan",
+      "distractors": [
+        "Tula",
+        "Cholula",
+        "Monte Albán"
+      ],
+      "explanation": "Gillingham cites it as a precedent for the Mexica's ambitions: a central Mexican empire had once reached deep into the Maya world.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-maya-collapse",
+      "prompt": "According to Gillingham, what brought down the great Classic Maya cities such as Tikal toward the end of the first millennium CE?",
+      "answer": "Overpopulation and climate change",
+      "distractors": [
+        "Mexica conquest and tribute demands",
+        "A volcanic eruption and earthquakes",
+        "Epidemics carried from overseas"
+      ],
+      "explanation": "Severe droughts and tropical storms ravaged southern Mexico and the Caribbean. The Maya of 1519, six centuries past their golden age, were still formidable traders and warriors.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-population-high",
+      "prompt": "At the high end, demographers once estimated the population of central Mexico just before the conquest at about how many people?",
+      "answer": "25 million",
+      "distractors": [
+        "2.5 million",
+        "250,000",
+        "60 million"
+      ],
+      "explanation": "Estimates vary enormously, and far lower figures have since been proposed. Whatever the starting number, Gillingham argues, the order of magnitude of the later collapse is not in doubt: central Mexico probably lost about three-quarters of its people within a century.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-sacrifice-archaeology",
+      "prompt": "Juan de Torquemada claimed that one Mexica ruler sacrificed over 72,000 captives in four days. According to Gillingham, what has excavation at Tenochtitlan's main temple found?",
+      "answer": "Skulls in the hundreds, not tens of thousands",
+      "distractors": [
+        "Skulls in the hundreds of thousands",
+        "No human remains at all",
+        "Only the bones of animals"
+      ],
+      "explanation": "Gillingham concludes that Las Casas, who said sacrifice had been exaggerated for political ends, was nearer the truth, though killings rose markedly under Moctezuma and remains could have been buried elsewhere.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-sacrifice-justification",
+      "prompt": "Why did the scale of Mexica human sacrifice matter so much to Spanish debates about the conquest?",
+      "answer": "It was used to justify a just war and Spanish rule",
+      "distractors": [
+        "It proved the Mexica were not human",
+        "It showed the Mexica were already Christians",
+        "It decided which friars could preach"
+      ],
+      "explanation": "Theorists such as Juan Ginés de Sepúlveda argued that sacrifice broke natural law, making the Indigenous peoples liable to just war and Christian rule. Defenders such as Las Casas played its scale down.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-mictlan",
+      "prompt": "In Mexica belief, where did most of the dead go?",
+      "answer": "Mictlan, the underworld",
+      "distractors": [
+        "Xibalbá, the place of vanishing",
+        "Aztlan, the northern homeland",
+        "Tamoanchan, the paradise"
+      ],
+      "explanation": "Mictlan was gloomy but held no torment, and it was not eternal. The Christian promise of everlasting reward or punishment was therefore something entirely new.",
+      "chapter": 3
+    },
+    {
+      "id": "conquest-join-the-sun",
+      "prompt": "Which of the Mexica dead were believed to rise and join the sun?",
+      "answer": "Fallen warriors and women who died in childbirth",
+      "distractors": [
+        "Priests and rulers who died in office",
+        "Farmers and craftsmen who died of old age",
+        "Children who died before they could speak"
+      ],
+      "explanation": "They were said to become hummingbirds accompanying the sun. Most other people went to the underworld, Mictlan.",
+      "chapter": 3
+    },
+    {
+      "id": "conquest-huitzilopochtli",
+      "prompt": "Who was Huitzilopochtli?",
+      "answer": "The Mexica god of war",
+      "distractors": [
+        "The Mexica god of rain",
+        "The feathered serpent god",
+        "The lord of the underworld"
+      ],
+      "explanation": "He was the Mexica's patron god. The Spaniards' warrior saint, Santiago, seemed to many to have defeated him, a powerful argument in a world where victory proved divine favour.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-tlaloc",
+      "prompt": "To which god did the Mexica pray in times of drought?",
+      "answer": "Tlaloc",
+      "distractors": [
+        "Tezcatlipoca",
+        "Huitzilopochtli",
+        "Quetzalcoatl"
+      ],
+      "explanation": "The Maya prayed to Chaac. After the conquest, communities facing drought paraded their patron saints instead, one of many ways Christian practice took over older roles.",
+      "chapter": 3
+    },
+    {
+      "id": "conquest-tezcatlipoca",
+      "prompt": "Which Mexica god, the Lord of the Smoking Mirror, could bring catastrophe or great favour on a whim?",
+      "answer": "Tezcatlipoca",
+      "distractors": [
+        "Tlaloc",
+        "Xipe Tótec",
+        "Mictlantecuhtli"
+      ],
+      "explanation": "Mexica gods were many, unpredictable and often violent. To Nahua eyes the Christian saints could look like one more set of such powers.",
+      "chapter": 3
+    },
+    {
+      "id": "conquest-captive-gods",
+      "prompt": "What did the Mexica do with the patron gods of the cities they conquered?",
+      "answer": "Held them captive in Tenochtitlan",
+      "distractors": [
+        "Burned them on the battlefield",
+        "Sent them back to the defeated as gifts",
+        "Sank them in Lake Texcoco"
+      ],
+      "explanation": "The captured images were kept in a temple house in the capital. In Mesoamerican warfare a sweeping victory was a theological argument in itself. That helps explain why the Spaniards' victories made their god persuasive.",
+      "chapter": 3
+    },
+    {
+      "id": "conquest-gold-value",
+      "prompt": "Which goods did the Mexica value as much as gold, or more?",
+      "answer": "Feathers, jade and turquoise",
+      "distractors": [
+        "Silver, pearls and amber",
+        "Salt, iron and glass",
+        "Wool, silk and wine"
+      ],
+      "explanation": "The Mexica nobility did amass gold, but quetzal feathers, greenstone and turquoise were older and more prized in their culture, and the central highlands had little gold to mine. A Nahua witness remarked that the Spaniards cared nothing for greenstone, feathers or turquoise.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-gold-sickness",
+      "prompt": "What did Cortés tell the first Indigenous people he met that he and his companions suffered from?",
+      "answer": "A sickness that only gold could cure",
+      "distractors": [
+        "A fever that only cacao could cure",
+        "A curse that only baptism could lift",
+        "A hunger that only maize could ease"
+      ],
+      "explanation": "Gold was the only portable form of wealth that could buy a Spaniard a place in society back home. A Nahua informant later remembered the Spaniards seizing gold like monkeys, as though starved for it.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-matricula",
+      "prompt": "Which pre-Hispanic tribute record, listing goods owed by the provinces, did the Spaniards later use to collect valuables and taxes?",
+      "answer": "The Matrícula de tributos",
+      "distractors": [
+        "The Florentine Codex",
+        "The Lienzo de Tlaxcala",
+        "The Codex Borgia"
+      ],
+      "explanation": "It records an annual income including bowls of gold dust, but mostly everyday goods such as copper axe-heads, hides and honey. The Spaniards took over the old empire's tribute system.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-reconquista",
+      "prompt": "Through the lens of which earlier wars did the Spaniards understand their campaigns in Mexico?",
+      "answer": "The Reconquista",
+      "distractors": [
+        "The Hundred Years' War",
+        "The Wars of the Roses",
+        "The Hussite Wars"
+      ],
+      "explanation": "The Christian wars against Iberia's Muslims had ended only in 1492. They compared Tlaxcala to Granada and called northern nomads \"al-arabs\". The chronicler Gómara wrote that the conquest of the Indies began once that of the Moors was over.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "conquest-velazquez",
+      "prompt": "Which governor of Cuba gave Cortés command of the 1519 expedition, then tried to arrest him?",
+      "answer": "Diego Velázquez",
+      "distractors": [
+        "Diego Colón",
+        "Nicolás de Ovando",
+        "Francisco de Garay"
+      ],
+      "explanation": "Cortés had served Velázquez in the conquest of Cuba and become his secretary. When the governor suspected that Cortés meant to seize the new lands for himself, he changed his mind, but Cortés sailed in a hurry.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-mandate",
+      "prompt": "What did the governor of Cuba authorise Cortés to do on the expedition of 1519?",
+      "answer": "Explore, trade for gold and promote conversion",
+      "distractors": [
+        "Conquer and settle the mainland",
+        "Capture the ruler of the Mexica",
+        "Build a fortress and a port on the Gulf"
+      ],
+      "explanation": "He was explicitly not to make war or settle, yet he prepared for both from the start. Founding a town of his own on the coast was how he broke free of the governor's authority.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-villa-rica",
+      "prompt": "Why did Cortés found the town of Villa Rica de la Vera Cruz on the Gulf coast in 1519 and send envoys straight to Spain?",
+      "answer": "To answer to the king, not Cuba's governor",
+      "distractors": [
+        "To claim the coast for the Totonacs",
+        "To build ships for a return to Cuba",
+        "To set up a mission for the first friars"
+      ],
+      "explanation": "A town council gave him a legal body that could make him its captain and appeal directly to the king. Royal approval would also entitle him to the leader's share of any profits.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-veracruz-landing"
+    },
+    {
+      "id": "conquest-third-expedition",
+      "prompt": "Counting from the first voyage in 1517, which Spanish expedition from Cuba to the Mexican mainland was Cortés's in 1519?",
+      "answer": "The third",
+      "distractors": [
+        "The first",
+        "The second",
+        "The fifth"
+      ],
+      "explanation": "The first reached Yucatán and came back battered; the second mapped part of the Gulf coast in 1518. Cortés benefited from the knowledge and veterans of both.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-cordoba-1517",
+      "prompt": "Who led the first Spanish expedition from Cuba to Yucatán, in 1517?",
+      "answer": "Francisco Hernández de Córdoba",
+      "distractors": [
+        "Juan de Grijalva",
+        "Francisco de Montejo y Álvarez",
+        "Pedro de Alvarado y Contreras"
+      ],
+      "explanation": "His small, poorly equipped crew was beaten off by the Maya and, as one sixteenth-century writer put it, came back with nothing but wounds.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-grijalva-1518",
+      "prompt": "Whose expedition of 1518 sailed up the Gulf coast and brought back news of the Mexica empire?",
+      "answer": "Juan de Grijalva",
+      "distractors": [
+        "Francisco Hernández de Córdoba",
+        "Pánfilo de Narváez",
+        "Hernán Cortés"
+      ],
+      "explanation": "It was the second Spanish voyage from Cuba to the mainland. Several of its men, such as Pedro de Alvarado, sailed again with Cortés and gave him the experience he lacked.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-cortes-origin",
+      "prompt": "Where did Hernán Cortés come from?",
+      "answer": "Medellín, in Extremadura",
+      "distractors": [
+        "Badajoz, in Extremadura",
+        "Medina del Campo, in Castile",
+        "Baeza, in Andalusia"
+      ],
+      "explanation": "He was born into the poor lower nobility and left Salamanca without a degree. Like his captains Alvarado (Badajoz), Bernal Díaz (Medina del Campo) and Olid (Baeza), he came from a small provincial town.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-cortes-age",
+      "prompt": "How old was Hernán Cortés when he sailed for Mexico in 1519?",
+      "answer": "34",
+      "distractors": [
+        "24",
+        "44",
+        "54"
+      ],
+      "explanation": "He had already spent years as a settler on Hispaniola and Cuba. His critics saw him as a mediocrity whose real gifts were survival and mythmaking.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-horses",
+      "prompt": "About how many horses did Cortés's expedition bring from Cuba in 1519?",
+      "answer": "Sixteen",
+      "distractors": [
+        "Six",
+        "Sixty",
+        "Six hundred"
+      ],
+      "explanation": "Thirty years later Bernal Díaz could still describe each one. Horses were the Spaniards' most effective advantage in open battle, and Cortés grieved more for a dead mare than for many men.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-guns-alive",
+      "prompt": "What did Cortés encourage the Indigenous peoples to believe about his horses and guns?",
+      "answer": "That they were living beings, hostile at his command",
+      "distractors": [
+        "That they were gifts from Quetzalcoatl",
+        "That they could not be harmed by obsidian",
+        "That they belonged to the Mexica ruler"
+      ],
+      "explanation": "He worked to charm and terrify in equal measure. Battles soon showed that horses could be killed and that the Spaniards were few.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-friars-1519",
+      "prompt": "Which two churchmen sailed with Cortés's expedition in 1519?",
+      "answer": "Bartolomé de Olmedo and Juan Díaz",
+      "distractors": [
+        "Toribio de Motolinía and Bernardino de Sahagún",
+        "Bartolomé de las Casas and Antonio de Montesinos",
+        "Juan de Zumárraga and Martín de Valencia"
+      ],
+      "explanation": "Olmedo, a friar, did almost all the religious work, a pattern for the early colony. Cortés's banner bore a cross with a Latin motto about conquering under that sign.",
+      "chapter": 3
+    },
+    {
+      "id": "conquest-malintzin-languages",
+      "prompt": "Before she learned Spanish, which two languages made Malintzin (Doña Marina) so valuable to Cortés?",
+      "answer": "Nahuatl and a Maya language",
+      "distractors": [
+        "Nahuatl and Purépecha",
+        "Totonac and Otomí",
+        "Zapotec and Mixtec"
+      ],
+      "explanation": "Born on the Gulf coast, she had been taken as a child by slave traders and sold among the Maya. With Aguilar turning Spanish into Maya and Malintzin turning Maya into Nahuatl, Cortés could talk to the Mexica from the start; she soon learned Spanish too and became his interpreter, adviser and concubine.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-malintzin-origin",
+      "prompt": "Where was Malintzin born before slave traders took her south to the Maya?",
+      "answer": "In southern Veracruz",
+      "distractors": [
+        "In Tenochtitlan",
+        "In Tlaxcala",
+        "In northern Yucatán"
+      ],
+      "explanation": "Her homeland was on the Gulf coast. She was later rewarded with lands at Olutla, her home town. Little else is known of her own words and feelings beyond the outline of a short life.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-malintzin-lienzo",
+      "prompt": "In which Tlaxcalan pictorial history of the conquest does Malintzin appear again and again beside Cortés, at times seeming to direct events?",
+      "answer": "The Lienzo de Tlaxcala",
+      "distractors": [
+        "The Codex Mendoza",
+        "The Matrícula de tributos",
+        "The Codex Borgia"
+      ],
+      "explanation": "Indigenous painters showed her lecturing caciques and whispering to Cortés. Gillingham suggests the images make it fair to ask whether the captive or her captor was really setting policy.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-malintzin-verdict",
+      "prompt": "In the early months of the expedition, before the Spaniards learned Nahuatl, what gave Malintzin so much power, in Gillingham's view?",
+      "answer": "She controlled what each side heard",
+      "distractors": [
+        "She held the expedition's gold",
+        "She commanded a Tlaxcalan army",
+        "She was a daughter of Moctezuma"
+      ],
+      "explanation": "Words sometimes passed through three interpreters and four languages, so the Spaniards had no idea what she was actually saying. Gillingham judges that Cortés could hardly have managed Indigenous politics, or perhaps even survived, without her.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-veterans",
+      "prompt": "Gillingham stresses that several of Cortés's captains, such as Pedro de Alvarado, had already sailed to Mexico before 1519. Why did that matter?",
+      "answer": "They gave him experience, intelligence and advice",
+      "distractors": [
+        "They had already made treaties with Moctezuma",
+        "They had mapped the road to Tenochtitlan",
+        "They had founded a Spanish fort on the coast"
+      ],
+      "explanation": "His was the fourth, not the first, European contact with the mainland. Bernal Díaz, writing decades later, insisted that Cortés did nothing without his captains' counsel, deflating the myth of the lone genius.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-quetzalcoatl-myth",
+      "prompt": "What does Gillingham conclude about the story that the Mexica took Cortés for the returning god Quetzalcoatl?",
+      "answer": "It was invented after the conquest",
+      "distractors": [
+        "It was recorded by Mexica scribes in 1519",
+        "It was Moctezuma's official policy in 1519",
+        "It came from Maya prophecies Aguilar heard"
+      ],
+      "explanation": "Cortés never claimed it, and no Nahua of the 1520s or 1530s is recorded saying it. It first appeared in Franciscan-led histories a generation later, when it suited both the friars and the defeated.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-llorona",
+      "prompt": "Which wailing woman was later said to have roamed Tenochtitlan by night before 1519, lamenting that her children were about to perish?",
+      "answer": "La Llorona",
+      "distractors": [
+        "Coyolxauhqui",
+        "Coatlicue",
+        "Tonantzin"
+      ],
+      "explanation": "She was one of many omens, along with comets and temple fires, that Indigenous informants recounted after the conquest. Gillingham treats such stories of doom foretold as later inventions.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-moctezuma-strategy",
+      "prompt": "Gillingham rejects the story that Moctezuma suffered a nervous collapse as the Spaniards advanced. What does he think the ruler chose?",
+      "answer": "Diplomacy backed by force",
+      "distractors": [
+        "All-out war on the coast",
+        "Flight from his capital",
+        "Alliance with Tlaxcala"
+      ],
+      "explanation": "Fighting the Spaniards outside the city would have ravaged the lakeside towns that fed it. Gathering intelligence, then meeting their demands or turning them against their allies, was a subtler strategy.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-xicotencatl",
+      "prompt": "Which Tlaxcalan war leader, from the altepetl of Tizatlan, led the faction that wanted to fight on against the Spaniards in 1519?",
+      "answer": "Xicotencatl the Younger",
+      "distractors": [
+        "Maxixcatzin of Ocotelolco",
+        "Cacamatzin of Texcoco",
+        "Cuitláhuac of Iztapalapa"
+      ],
+      "explanation": "As captain-general he led the Tlaxcalan armies in the hard battles of September 1519. When the doves won the argument he had to accept the alliance.",
+      "chapter": 1,
+      "feature": "e1-tlaxcala-battles"
+    },
+    {
+      "id": "conquest-maxixcatzin",
+      "prompt": "Which Tlaxcalan lord of Ocotelolco led the faction that favoured alliance with the Spaniards?",
+      "answer": "Maxixcatzin",
+      "distractors": [
+        "Xicotencatl the Younger",
+        "Ixtlilxochitl",
+        "Cuauhtémoc"
+      ],
+      "explanation": "He stressed the military and trading advantages of joining the newcomers. Tlaxcala then sent thousands of warriors with Cortés toward the Valley of Mexico.",
+      "chapter": 1,
+      "feature": "e1-tizatlan"
+    },
+    {
+      "id": "conquest-tlaxcala-turn",
+      "prompt": "Besides their own heavy losses, what pushed the Tlaxcalans to make peace with Cortés in 1519?",
+      "answer": "A Mexica embassy reaching the Spaniards",
+      "distractors": [
+        "A smallpox outbreak in their towns",
+        "A letter from the Spanish king",
+        "The capture of their four rulers"
+      ],
+      "explanation": "The Mexica envoys hoped to keep the two sides fighting. Instead the prospect of a Spanish-Mexica understanding helped the Tlaxcalan doves win the debate.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-tlaxcala-cost",
+      "prompt": "According to Gillingham, after the battles with Tlaxcala in September 1519, roughly how much of Cortés's force was still fit to fight?",
+      "answer": "About half",
+      "distractors": [
+        "Nearly all of it",
+        "About nine-tenths",
+        "Barely a tenth"
+      ],
+      "explanation": "Cortés told the emperor that God had let him off lightly, but the fighting had been devastating for both sides. The Spaniards turned their survival into an alliance with the Mexica's oldest enemy.",
+      "chapter": 1,
+      "feature": "e1-tlaxcala-battles"
+    },
+    {
+      "id": "conquest-cholula",
+      "prompt": "Why does Gillingham, following Matthew Restall, think the Spaniards massacred the people of Cholula in 1519?",
+      "answer": "Tlaxcalans steered them there with a false ambush story",
+      "distractors": [
+        "Cholula's ruler had murdered Spanish envoys",
+        "Moctezuma ordered it to punish Cholula",
+        "The Cholulans refused to supply food"
+      ],
+      "explanation": "Cholula, a city of Tlaxcala's enemies, lay off the direct route. The massacre showed the Spaniards' capacity for urban warfare and the Tlaxcalans' influence over their new allies.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-cholula"
+    },
+    {
+      "id": "conquest-hands",
+      "prompt": "What did Cortés do in 1519 to fifty Tlaxcalan emissaries he took for spies?",
+      "answer": "Cut off their hands",
+      "distractors": [
+        "Held them as hostages",
+        "Baptised them",
+        "Sent them on to Moctezuma"
+      ],
+      "explanation": "It was exemplary, performative violence of a kind long practised in the Reconquista, meant to terrify enemies and steady his own men. The Cholula massacre soon followed.",
+      "chapter": 2,
+      "feature": "e1-tlaxcala-battles"
+    },
+    {
+      "id": "conquest-cholula-where",
+      "kind": "where",
+      "prompt": "Where was Cholula, the great pilgrimage city where the Spaniards and Tlaxcalans massacred thousands in October 1519?",
+      "answer": "Cholula, beside modern Puebla",
+      "explanation": "Cholula lay south of Tlaxcala, on the plain east of the volcanoes. Cortés claimed it had 430 temples and Bernal Díaz compared its white towers to Valladolid's.",
+      "chapter": 1,
+      "feature": "e1-cholula"
+    },
+    {
+      "id": "conquest-meeting-date",
+      "prompt": "On what date did Moctezuma II receive Cortés into Tenochtitlan?",
+      "answer": "8 November 1519",
+      "distractors": [
+        "8 September 1519",
+        "12 October 1519",
+        "8 November 1520"
+      ],
+      "explanation": "Curious and wary, Moctezuma met the Spaniards on the southern causeway and lodged them in his father's palace. The Spaniards were a tiny fraction of the city's people, deep in the heart of a great power.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-meeting"
+    },
+    {
+      "id": "conquest-lodging",
+      "prompt": "Where did Moctezuma lodge Cortés and his men in Tenochtitlan?",
+      "answer": "In the palace of his father, Axayacatl",
+      "distractors": [
+        "In the palace of Nezahualpilli at Texcoco",
+        "In the precinct of the Great Temple",
+        "In the merchants' quarter of Tlatelolco"
+      ],
+      "explanation": "The palace was built of basalt, limestone and red tezontle stone. Inside it the Spaniards later found a hidden royal treasure.",
+      "chapter": 1,
+      "feature": "e1-meeting"
+    },
+    {
+      "id": "conquest-venice",
+      "prompt": "When the Spaniards first saw Tenochtitlan rising from its lake, to which European city did they compare it?",
+      "answer": "Venice",
+      "distractors": [
+        "Granada",
+        "Seville",
+        "Valladolid"
+      ],
+      "explanation": "Venice was then Europe's richest and most sophisticated city-state, and calling Tenochtitlan an American Venice quickly became a commonplace. They had compared Tlaxcala to Granada and Cholula to Valladolid.",
+      "chapter": 1,
+      "feature": "e1-tenochtitlan"
+    },
+    {
+      "id": "conquest-market",
+      "prompt": "Well-travelled Spaniards said they had never seen anything in Europe to match it for size, order and crowds. What in the Mexica capital were they describing?",
+      "answer": "The great market",
+      "distractors": [
+        "The Great Temple",
+        "Moctezuma's zoo",
+        "The Chapultepec aqueduct"
+      ],
+      "explanation": "Bernal Díaz listed slaves, cloth, animals, building materials, paper, dyes, pottery and gold dust measured in quills. He said its murmur could be heard miles away.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-tenochtitlan-where",
+      "kind": "where",
+      "prompt": "Where was Tenochtitlan, the Mexica capital that the Spaniards entered in 1519?",
+      "answer": "On an island in Lake Texcoco (central Mexico City)",
+      "explanation": "The island city stood in the western arm of the lake, linked to the shore by causeways. Its ruins, including the Templo Mayor, lie under the historic centre of Mexico City.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-tenochtitlan",
+      "tolerance_km": 50
+    },
+    {
+      "id": "conquest-kidnap",
+      "prompt": "About how long after entering Tenochtitlan did Cortés and his captains take Moctezuma prisoner?",
+      "answer": "About a week",
+      "distractors": [
+        "About seven months",
+        "About a year",
+        "On the day they arrived"
+      ],
+      "explanation": "Feeling trapped in the heart of a warlike city, they offered him prison or death. He went along with the fiction that he stayed with them freely and became a puppet, though he still handled minor affairs.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-meeting"
+    },
+    {
+      "id": "conquest-kidnap-pretext",
+      "prompt": "What pretext did Cortés use when he took Moctezuma prisoner in Tenochtitlan?",
+      "answer": "A Mexica attack on the Spaniards at Veracruz",
+      "distractors": [
+        "A plot uncovered at Cholula",
+        "A theft of Spanish horses",
+        "Moctezuma's refusal to give up gold"
+      ],
+      "explanation": "Cortés later had the Mexica captains accused of the attack burned alive in public, and put Moctezuma in chains while it was done, making plain who held power.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-cacamatzin",
+      "prompt": "Which king of Texcoco plotted against the Spaniards while Moctezuma was their captive and was handed over to Cortés by Moctezuma?",
+      "answer": "Cacamatzin",
+      "distractors": [
+        "Nezahualpilli",
+        "Ixtlilxochitl",
+        "Coanacoch"
+      ],
+      "explanation": "Provoked by the kidnapping and the looting of royal treasure, he planned a surprise attack. Moctezuma's betrayal of him shows how far the captive ruler had become a collaborator, and it deepened Mexica divisions.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-narvaez",
+      "prompt": "Who led the larger Spanish expedition that the governor of Cuba sent in 1520 to arrest Cortés?",
+      "answer": "Pánfilo de Narváez",
+      "distractors": [
+        "Cristóbal de Olid",
+        "Francisco de Garay",
+        "Gonzalo de Sandoval"
+      ],
+      "explanation": "Narváez came with a far larger force than Cortés's and was in secret contact with Moctezuma. Cortés left Pedro de Alvarado in Tenochtitlan and marched to the coast.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-narvaez"
+    },
+    {
+      "id": "conquest-narvaez-outcome",
+      "prompt": "After defeating the expedition sent from Cuba to arrest him, in a night attack at Cempoala in 1520, what did Cortés do with its soldiers?",
+      "answer": "Took them into his own army",
+      "distractors": [
+        "Shipped them back to Cuba",
+        "Left them to garrison Veracruz",
+        "Imprisoned them in Tlaxcala"
+      ],
+      "explanation": "Many had already been won over with gold and promises, and casualties were few. Cortés returned to Tenochtitlan with a far larger force, but news had already come that the city had risen.",
+      "chapter": 1,
+      "feature": "e1-narvaez"
+    },
+    {
+      "id": "conquest-toxcatl",
+      "prompt": "Who ordered the attack on Mexica nobles celebrating the festival of Toxcatl in the Great Temple's precinct in May 1520?",
+      "answer": "Pedro de Alvarado",
+      "distractors": [
+        "Hernán Cortés",
+        "Gonzalo de Sandoval",
+        "Cristóbal de Olid"
+      ],
+      "explanation": "With Cortés away fighting Narváez, Alvarado's men sealed the temple courtyard and killed hundreds, perhaps thousands, of unarmed dancers. The city rose and besieged the Spaniards in their palace.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-toxcatl"
+    },
+    {
+      "id": "conquest-toxcatl-why",
+      "prompt": "Which explanation of the Toxcatl massacre of 1520 does Gillingham find most convincing?",
+      "answer": "Tlaxcalans fed Alvarado a false conspiracy story",
+      "distractors": [
+        "Moctezuma secretly asked for it",
+        "Narváez ordered it to ruin Cortés",
+        "Alvarado mistook the dance for an attack"
+      ],
+      "explanation": "The version comes from the Texcocan historian Ixtlilxóchitl. The Mexica had sacrificed Tlaxcalans at this festival, so it was revenge, as at Cholula, and one more chapter in a long civil war.",
+      "chapter": 1,
+      "feature": "e1-toxcatl"
+    },
+    {
+      "id": "conquest-cuitlahuac-release",
+      "prompt": "How did the Mexica hawk who replaced the captive Moctezuma as leader in 1520 come to be free of Spanish custody?",
+      "answer": "Cortés released him to negotiate, and he never returned",
+      "distractors": [
+        "He escaped from Tlaxcala during the Noche Triste",
+        "Moctezuma named him regent before the Spaniards came",
+        "The Spaniards appointed him governor of Texcoco"
+      ],
+      "explanation": "Gillingham calls it one of Cortés's blunders: he sent Moctezuma's brother Cuitláhuac out to negotiate with the nobility. Cuitláhuac, a hawk, never came back, became the new leader and launched a massive assault on the Spanish quarters.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-moctezuma-death",
+      "prompt": "How does Gillingham think Moctezuma II most likely died in 1520?",
+      "answer": "Killed by the Spaniards",
+      "distractors": [
+        "Struck by smallpox",
+        "Executed on Cuitláhuac's orders",
+        "Drowned on the Noche Triste"
+      ],
+      "explanation": "The Spanish account is that he died of wounds from stones and darts thrown by his own people. Several Indigenous historians accused the Spaniards of murdering him once he had outlived his usefulness.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-noche-triste",
+      "prompt": "What name was given to the night in mid-1520 when the Spaniards and their allies tried to slip out of Tenochtitlan and were cut to pieces on the causeway?",
+      "answer": "La Noche Triste",
+      "distractors": [
+        "La Noche de Toxcatl",
+        "La Matanza de Cholula",
+        "La Noche Buena"
+      ],
+      "explanation": "The \"Night of Sorrows\" cost the lives of hundreds of Spaniards, thousands of Tlaxcalans and most of the treasure. Many drowned weighed down by gold bars stuffed in their clothes.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-noche-triste"
+    },
+    {
+      "id": "conquest-portable-bridge",
+      "prompt": "What did the Spaniards carry with them when they fled Tenochtitlan by night in 1520, to cross the gaps in the causeway?",
+      "answer": "A portable bridge",
+      "distractors": [
+        "Rafts of reeds",
+        "Ladders of cedar",
+        "Captured canoes"
+      ],
+      "explanation": "The Mexica had taken up the bridges over the causeway's canals. The column was spotted and attacked, the bridge was lost and the retreat collapsed into a rout; at the Toltec canal the dead piled up until they filled the gap.",
+      "chapter": 1,
+      "feature": "e1-noche-triste"
+    },
+    {
+      "id": "conquest-cortes-150",
+      "prompt": "How many Spaniards did Cortés tell the emperor he had lost in the night retreat from Tenochtitlan in 1520, a figure Gillingham shows was far too low?",
+      "answer": "About 150",
+      "distractors": [
+        "About 15",
+        "About 900",
+        "About 1,500"
+      ],
+      "explanation": "His own muster at the end of 1520 counted only 590 men, even after reinforcements; Gillingham estimates that the Mexica killed some 900 Spaniards that week. The conquistadors, he says, were \"strategically innumerate\".",
+      "chapter": 1,
+      "feature": "e1-noche-triste"
+    },
+    {
+      "id": "conquest-tlaxcala-refuge",
+      "kind": "where",
+      "prompt": "Where did the Spaniards and their surviving allies take refuge and regroup in July 1520, after fleeing Tenochtitlan?",
+      "answer": "Tlaxcala",
+      "explanation": "After about a week fighting their way round the lakes, the Spaniards found safety with their Tlaxcalan allies, who also lost thousands in the retreat. From there they rebuilt their forces for the siege.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-tizatlan"
+    },
+    {
+      "id": "conquest-new-spain",
+      "prompt": "What name did Cortés propose for the country in his letter to the emperor of October 1520?",
+      "answer": "New Spain",
+      "distractors": [
+        "New Castile",
+        "New Granada",
+        "New Andalusia"
+      ],
+      "explanation": "His full phrase was \"New Spain of the Ocean Sea\". He argued the land resembled Spain in fertility, size and cold, and he hoped the grand name would distract the emperor from the disaster of the Noche Triste and win him a royal title.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-tepeaca"
+    },
+    {
+      "id": "conquest-letters",
+      "prompt": "How many letters did Cortés write to the emperor about his conquests?",
+      "answer": "Five",
+      "distractors": [
+        "Two",
+        "Nine",
+        "Twelve"
+      ],
+      "explanation": "Those on the war for Tenochtitlan were printed in the early 1520s and widely read. Gillingham says their heroic story and persuasive prose poisoned the well for almost every later account.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-smallpox-carrier",
+      "prompt": "The expedition sent from Cuba in 1520 to arrest Cortés is traditionally blamed for bringing smallpox to Mexico. Who in its company is said to have carried it?",
+      "answer": "Francisco de Eguía, an enslaved African",
+      "distractors": [
+        "Juan Garrido, a free Black conquistador",
+        "Jerónimo de Aguilar, the castaway",
+        "Martín López, the shipwright"
+      ],
+      "explanation": "The disease killed huge numbers in central Mexico and weakened the Mexica armies. A Franciscan wrote that more than half the people died in most provinces.",
+      "chapter": 1,
+      "feature": "e1-narvaez"
+    },
+    {
+      "id": "conquest-smallpox-politics",
+      "prompt": "How did the smallpox epidemic of 1520 strengthen Cortés's grip on central Mexico?",
+      "answer": "He picked the successors to lords who died",
+      "distractors": [
+        "He was hailed as a healer by the survivors",
+        "It spared his allies and killed only Mexica",
+        "It ended the Mexica's tribute payments"
+      ],
+      "explanation": "The epidemic caused a sudden change of rulers. In Cholula, Tlaxcala and other towns Cortés chose the new caciques, while in Tenochtitlan the council had to replace Cuitláhuac.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-smallpox-risk",
+      "prompt": "Compared with Europeans, how much more likely were Indigenous Mexicans to die of smallpox?",
+      "answer": "Three times as likely",
+      "distractors": [
+        "Equally likely",
+        "Half again as likely",
+        "A hundred times as likely"
+      ],
+      "explanation": "The first epidemic began in 1520 and lasted for years. Symptoms appeared only after about twelve days, so seemingly healthy carriers spread it far ahead of the Spaniards.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-no-immunity",
+      "prompt": "Why did the peoples of Mexico have no resistance to smallpox and the other diseases the Spaniards brought?",
+      "answer": "No livestock and no contact with the Old World",
+      "distractors": [
+        "No tradition of herbal medicine",
+        "Less frequent bathing than Europeans",
+        "A diet weakened by too much maize"
+      ],
+      "explanation": "Old World diseases evolved among people living with domestic animals and spread along long trade routes, building up immunities. The Americas had few domestic animals besides turkeys and dogs, and no such contact.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "conquest-cuauhtemoc-chosen",
+      "prompt": "Whom did the Mexica choose as the ruler who would lead the defence of Tenochtitlan in the siege of 1521?",
+      "answer": "Cuauhtémoc",
+      "distractors": [
+        "Cacamatzin",
+        "Ixtlilxochitl",
+        "Axayacatl"
+      ],
+      "explanation": "A gifted, unbending warrior in his mid-twenties, he sent envoys to subjects and even old enemies offering new terms, and fortified the city with deeper canals, walls and stakes in the lakebed.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-purge",
+      "prompt": "What did the new, hawkish Mexica court do to Moctezuma's faction before the siege of 1521?",
+      "answer": "Purged it, killing his servants and sons",
+      "distractors": [
+        "Restored it to power",
+        "Exiled it to Tlaxcala",
+        "Sent it to negotiate with Cortés"
+      ],
+      "explanation": "A Tlatelolcan chronicler says the bloody infighting peaked just before the siege. Texcoco was torn by a similar dynastic struggle, and its pro-Spanish faction sent many thousands of warriors to the coalition.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-siege-month",
+      "prompt": "In which month of 1521 did the siege of Tenochtitlan begin?",
+      "answer": "May",
+      "distractors": [
+        "January",
+        "March",
+        "August"
+      ],
+      "explanation": "The Spaniards and their allies split into divisions to block the causeways and cut the city's water. Gillingham notes that in Spain nobody knew: Charles V was busy with France, the comuneros and Luther.",
+      "chapter": 1,
+      "feature": "e1-siege-alvarado"
+    },
+    {
+      "id": "conquest-aqueduct",
+      "prompt": "At the start of the siege of 1521, what did the attackers cut to deprive Tenochtitlan of fresh water?",
+      "answer": "The aqueduct from Chapultepec",
+      "distractors": [
+        "The dike of Nezahualcóyotl",
+        "The causeway to Tepeyac",
+        "The canals of Xochimilco"
+      ],
+      "explanation": "Chapultepec, the \"Hill of the Grasshopper\", had springs whose water ran to the island city. Without it the defenders depended on brackish lake water, and bad water, hunger and disease killed tens of thousands.",
+      "chapter": 1,
+      "feature": "e1-chapultepec-aqueduct"
+    },
+    {
+      "id": "conquest-brigantines-key",
+      "prompt": "What did Cortés call \"the key to the entire war\"?",
+      "answer": "The brigantines built for the lake",
+      "distractors": [
+        "The horses brought from Cuba",
+        "The alliance with Tlaxcala",
+        "The cannon from Narváez's fleet"
+      ],
+      "explanation": "Thirteen small, heavily armed ships were fitted with rigging from Cortés's original fleet. They overpowered the Mexica canoes and cut the food supply to the densely populated city, which was starving by mid-July.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-siege-brigantines"
+    },
+    {
+      "id": "conquest-martin-lopez",
+      "prompt": "Which carpenter built the small warships that gave the Spaniards control of the lake in 1521, and was rewarded with only half a small farm?",
+      "answer": "Martín López",
+      "distractors": [
+        "Bernal Díaz del Castillo",
+        "Alonso de Ávila",
+        "Juan Jaramillo"
+      ],
+      "explanation": "Tlaxcalans built the hulls and some 8,000 porters carried the parts about fifty miles to the lakeshore. López's meagre reward shows how little most conquistadors gained.",
+      "chapter": 1,
+      "feature": "e1-brigantines"
+    },
+    {
+      "id": "conquest-xochimilco",
+      "prompt": "When the Mexica ruler called on Xochimilco for reinforcements early in the siege of 1521, what did its warriors do?",
+      "answer": "Plundered the city and went over to the Spaniards",
+      "distractors": [
+        "Held the southern causeway to the end",
+        "Stayed neutral and sold food to both sides",
+        "Fled south across the mountains"
+      ],
+      "explanation": "They robbed undefended houses and carried off captives, then joined the Spanish side for good, completing the city's encirclement. Even the Mexica's closest neighbours turned on them.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-colhuacatonco",
+      "prompt": "What happened to the dozens of Spaniards captured alive when the Mexica ambushed Cortés's attack toward the market at the end of June 1521?",
+      "answer": "They were sacrificed",
+      "distractors": [
+        "They were ransomed for gold",
+        "They were sent to Cuauhtémoc's allies",
+        "They were exchanged for Mexica nobles"
+      ],
+      "explanation": "Cortés was nearly captured, and many Indigenous allies went home for a time. Concluding that the Mexica would fight to the death, he turned to destroying the city systematically.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-colhuacatonco"
+    },
+    {
+      "id": "conquest-macuahuitl",
+      "prompt": "What was the macuahuitl, the chief weapon of Mexica warriors?",
+      "answer": "A wooden sword edged with obsidian blades",
+      "distractors": [
+        "A club studded with copper spikes",
+        "A quilted cotton tunic",
+        "A sling for throwing stones"
+      ],
+      "explanation": "Obsidian was brittle but could be sharpened enough to shave. The Anonymous Conquistador saw a warrior with one open a horse's belly in a single stroke.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-atlatl",
+      "prompt": "What was the atlatl used by Mexica warriors?",
+      "answer": "A spear-thrower",
+      "distractors": [
+        "An obsidian-edged sword",
+        "A war drum",
+        "A wicker shield"
+      ],
+      "explanation": "Atlatls, bows and slings were the Mexica's projectile weapons. They were no match for steel in close combat, yet Gillingham argues that weapons decided less than allies.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-cotton-armour",
+      "prompt": "What did most Spaniards exchange their hot, heavy steel armour for during the war?",
+      "answer": "Indigenous quilted cotton armour",
+      "distractors": [
+        "Mail shirts taken from Narváez's men",
+        "Leather jerkins from Cuba",
+        "Nothing; they fought unarmoured"
+      ],
+      "explanation": "Steel was overengineered for this kind of warfare. Steel swords were superior, but arquebuses were slow to load and the few cannon light, impressive more as novelties than weapons.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-mexica-adapt",
+      "prompt": "How did Mexica warriors adapt to the Spaniards' guns and crossbows during the siege of 1521?",
+      "answer": "They ran in zigzags and dropped to the ground",
+      "distractors": [
+        "They stopped fighting by day",
+        "They fought only from canoes",
+        "They stayed behind the temple walls"
+      ],
+      "explanation": "They also turned captured swords into lances, learned to use crossbows, and strewed open spaces with boulders against cavalry. Gillingham rejects the idea that the Mexica lost because they could not understand their enemy.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-sulphur",
+      "prompt": "Where did the Spaniards obtain sulphur to make gunpowder during the war for Tenochtitlan?",
+      "answer": "From the crater of Popocatépetl",
+      "distractors": [
+        "From Narváez's ships",
+        "From mines at Taxco",
+        "From the hot springs of Chapultepec"
+      ],
+      "explanation": "Not all improvised weapons worked: a giant catapult built by a veteran of the Italian wars was useless. The home-made gunpowder was a real success.",
+      "chapter": 1,
+      "feature": "e1-paso-de-cortes"
+    },
+    {
+      "id": "conquest-fall-date",
+      "prompt": "On what date did the capture of the last Mexica ruler end organised resistance in Tenochtitlan?",
+      "answer": "13 August 1521",
+      "distractors": [
+        "13 August 1520",
+        "30 June 1521",
+        "12 October 1521"
+      ],
+      "explanation": "After a final assault on the almost defenceless survivors, Cuauhtémoc was taken, either fleeing by canoe or coming out to surrender. He was brought before Cortés at Tlatelolco and asked to be killed.",
+      "chapter": 1,
+      "core": true,
+      "feature": "e1-tlatelolco-fall"
+    },
+    {
+      "id": "conquest-cuauhtemoc-fate",
+      "prompt": "What became of the last Mexica ruler after the Spaniards captured him in 1521?",
+      "answer": "Cortés had him hanged four years later",
+      "distractors": [
+        "He died fighting at Tlatelolco",
+        "He was sent to Spain and died there",
+        "He ruled Tenochtitlan under the Spaniards until old age"
+      ],
+      "explanation": "Cortés praised him and gave empty assurances at first. He was hanged in 1525 during Cortés's expedition to Honduras.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-jerusalem",
+      "prompt": "To the destruction of which ancient city did more than one chronicler compare the fall of Tenochtitlan?",
+      "answer": "Jerusalem",
+      "distractors": [
+        "Troy",
+        "Carthage",
+        "Babylon"
+      ],
+      "explanation": "Fighting alone killed perhaps over 100,000 Mexica, a scale unknown in European warfare of the day. In the last days the survivors ate roots and bark, and the streets were full of corpses.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-gold-lake",
+      "prompt": "What did the Mexica do with much of their remaining gold and treasure in the last days of the siege?",
+      "answer": "Threw it into the lake",
+      "distractors": [
+        "Buried it under the Great Temple",
+        "Sent it to the Purépecha for safekeeping",
+        "Paid it to Cortés for a truce"
+      ],
+      "explanation": "Most of the Mexica gold disappeared in the war, to the conquistadors' bitter disappointment. Much of what they had taken earlier was lost on the Noche Triste.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-spoils",
+      "prompt": "When the Mexica treasure was divided in 1521, about how much did an ordinary Spanish foot soldier receive?",
+      "answer": "Fifty or sixty pesos",
+      "distractors": [
+        "Five or six pesos",
+        "Five hundred pesos",
+        "Five thousand pesos"
+      ],
+      "explanation": "That was roughly what each man had paid for his sword or crossbow. The disappointment set the conquistadors quarrelling with the king's treasurer and with each other.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-two-thirds",
+      "prompt": "Roughly what share of the conquistadors died in the war of 1519–21, according to Gillingham?",
+      "answer": "About two-thirds",
+      "distractors": [
+        "About a tenth",
+        "About a quarter",
+        "Nearly all"
+      ],
+      "explanation": "Those who survived often did badly too. Few got rich: the luckiest ended up with encomiendas, and many died poor before the silver boom of the 1550s.",
+      "chapter": 2
+    },
+    {
+      "id": "conquest-charles-memoirs",
+      "prompt": "How often do the memoirs Charles V dictated in the 1550s mention Mexico, the Indies or Cortés?",
+      "answer": "Not once",
+      "distractors": [
+        "In a single chapter",
+        "On almost every page",
+        "Only in a list of titles"
+      ],
+      "explanation": "The emperor's world was still the Mediterranean and Europe. During the war for Tenochtitlan he was busy with the comuneros revolt in Castile, war with France and Martin Luther.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-comuneros",
+      "prompt": "Which revolt shook Castile in 1520–21, while Cortés was fighting in Mexico?",
+      "answer": "The comuneros revolt",
+      "distractors": [
+        "The revolt of the Alpujarras",
+        "The revolt of Catalonia",
+        "The revolt of the Netherlands"
+      ],
+      "explanation": "Towns led by Toledo drove out royal officials, set up elected councils and formed a rival government, demanding a stronger cortes and a king who served the kingdom. Charles V crushed it in April 1521.",
+      "chapter": 4
+    },
+    {
+      "id": "conquest-diaz",
+      "prompt": "Which conquistador wrote the \"True History of the Conquest of New Spain\" in his old age?",
+      "answer": "Bernal Díaz del Castillo",
+      "distractors": [
+        "Francisco de Aguilar",
+        "Andrés de Tapia",
+        "Francisco López de Gómara"
+      ],
+      "explanation": "Gillingham calls it the best of the Spanish accounts, but Díaz wrote it decades later, in disgust at other authors, while seeking royal reward, and he exaggerated how much he had seen.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "conquest-diaz-where",
+      "prompt": "Where was the author of the True History of the Conquest of New Spain living when he wrote it in old age?",
+      "answer": "Guatemala",
+      "distractors": [
+        "Seville",
+        "Mexico City",
+        "Cuba"
+      ],
+      "explanation": "He was one of the many conquistadors for whom victory brought little. His plain, self-deprecating soldier's voice was itself a means of persuading a distant king.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-gomara",
+      "prompt": "Which historian of the conquest was Cortés's chaplain, never went to the Americas, and wrote with Cortés looking over his shoulder?",
+      "answer": "Francisco López de Gómara",
+      "distractors": [
+        "Bartolomé de las Casas",
+        "Toribio de Motolinía",
+        "Diego Durán"
+      ],
+      "explanation": "His Historia general de las Indias was written in Spain and paid for by Cortés's son. Indigenous historians later borrowed from it too.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-las-casas",
+      "prompt": "Which Dominican friar wrote the Brevísima relación de la destrucción de las Indias, an indictment of the conquistadors?",
+      "answer": "Bartolomé de las Casas",
+      "distractors": [
+        "Diego Durán",
+        "Toribio de Motolinía",
+        "Bernardino de Sahagún"
+      ],
+      "explanation": "He knew the region and some of the conquistadors but cared more about indicting them than about sources. He called the conquest nothing more than a series of violent incursions.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-motolinia",
+      "prompt": "What did Motolinía, the Nahuatl nickname of the Franciscan Toribio de Benavente, mean?",
+      "answer": "The Poor Man",
+      "distractors": [
+        "The Teacher",
+        "The Bearded One",
+        "The Walker"
+      ],
+      "explanation": "He had not seen the war, and his history of the Indigenous peoples of New Spain was mainly about life before and after it.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-duran",
+      "prompt": "Which friar, writing in the 1570s, chose to trust Mexica painted codices over Spanish books?",
+      "answer": "Diego Durán",
+      "distractors": [
+        "Bernardino de Sahagún",
+        "Juan de Torquemada",
+        "Andrés de Olmos"
+      ],
+      "explanation": "Some of the first European historians valued Indigenous sources highly, but Indigenous and Spanish accounts shared many weaknesses, above all distance from the events.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-ixtlilxochitl-bias",
+      "prompt": "Why does Gillingham warn readers about the Indigenous historian Fernando de Alva Ixtlilxóchitl?",
+      "answer": "He played up his ancestral Texcoco",
+      "distractors": [
+        "He never learned to read Nahuatl",
+        "He wrote only in praise of Cortés",
+        "He invented all his sources"
+      ],
+      "explanation": "He was the great-great-grandson of Texcoco's king and wrote in the early seventeenth century, long after the events, though he did name his sources.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-indigenous-sources",
+      "prompt": "According to Gillingham, when were most of the written Indigenous accounts of the conquest produced?",
+      "answer": "Generations later, many in the early 1600s",
+      "distractors": [
+        "During the siege, by scribes in the city",
+        "Within a year of the fall of Tenochtitlan",
+        "Only in the nineteenth century"
+      ],
+      "explanation": "Chimalpahin's closest link to the war was a grandfather who was at most an infant at the time. Gillingham concludes that weak sources let every age reinvent the conquest to its own taste.",
+      "chapter": 1
+    },
+    {
+      "id": "conquest-veracruz-where",
+      "kind": "where",
+      "prompt": "Where did Cortés's fleet land in April 1519, opposite the island of San Juan de Ulúa?",
+      "answer": "The Gulf coast at modern Veracruz",
+      "explanation": "Moctezuma's envoys soon arrived with gifts. The Spaniards' town was later moved up the coast, then to La Antigua, and finally back to the present site of Veracruz.",
+      "chapter": 1,
+      "feature": "e1-veracruz-landing"
+    }
+  ]
+}

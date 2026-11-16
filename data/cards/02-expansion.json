@@ -1,0 +1,1462 @@
+{
+  "era": "expansion",
+  "cards": [
+    {
+      "id": "expansion-1",
+      "prompt": "Which conquistador did Cortés send south at the end of 1523 to invade Guatemala?",
+      "answer": "Pedro de Alvarado",
+      "distractors": [
+        "Cristóbal de Olid",
+        "Francisco de Montejo",
+        "Nuño de Guzmán"
+      ],
+      "explanation": "Alvarado went by the Isthmus of Tehuantepec and Soconusco with a few hundred Spaniards and several thousand Nahua and other allies. He defeated the K'iche' near Xelajú in February 1524, burned their capital Q'umarkaj and was received by his Kaqchikel allies at Iximché, where he founded a Spanish town that July.",
+      "chapter": 2,
+      "feature": "e2-alvarado-guatemala"
+    },
+    {
+      "id": "expansion-2",
+      "prompt": "Twelve friars led by Martín de Valencia landed in May 1524 and walked barefoot to Mexico City, opening the \"spiritual conquest\". Which order did they belong to?",
+      "answer": "The Franciscans",
+      "distractors": [
+        "The Dominicans",
+        "The Augustinians",
+        "The Jesuits"
+      ],
+      "explanation": "Cortés knelt to greet the Twelve Franciscans in Mexico City in June 1524. They spread out from the Valley of Mexico and the Puebla–Tlaxcala valley, baptised on a vast scale and learned Indigenous languages; Dominicans followed in 1526 and Augustinians in 1533.",
+      "chapter": 3,
+      "core": true,
+      "feature": "e2-twelve-franciscans"
+    },
+    {
+      "id": "expansion-3",
+      "prompt": "Nuño de Guzmán's brutal conquest of the west in 1529–31 is the background to which war a decade later?",
+      "answer": "The Mixtón War",
+      "distractors": [
+        "The Chichimeca War",
+        "The Tiguex War",
+        "The Great Maya Revolt"
+      ],
+      "explanation": "Guzmán tortured and burned the Tarascan ruler Tangáxuan II and enslaved and killed on a scale that depopulated much of the region. The Caxcan and other peoples of Nueva Galicia rose in 1540, and the viceroy needed a large army, mostly of Indigenous allies from central Mexico, to put them down in 1541–42.",
+      "chapter": 2,
+      "feature": "e2-guzman",
+      "core": true
+    },
+    {
+      "id": "expansion-4",
+      "prompt": "Who was the first viceroy of New Spain, sent by the Crown in 1535 to curb the conquistadors and the abuses of the first audiencia?",
+      "answer": "Antonio de Mendoza",
+      "distractors": [
+        "Luis de Velasco",
+        "Martín Enríquez",
+        "Nuño de Guzmán"
+      ],
+      "explanation": "Mendoza governed for fifteen years. He set up the institutions of colonial rule, the mint (1535) and the printing press (1539), sent Coronado north and crushed the Mixtón rising in person.",
+      "chapter": 5,
+      "core": true,
+      "feature": "e2-viceroyalty"
+    },
+    {
+      "id": "expansion-5",
+      "kind": "where",
+      "prompt": "Where did Montejo the Younger found Mérida in 1542, on the site of the Maya city of T'Hó?",
+      "answer": "Mérida, on the Maya city of T'Hó (Yucatán)",
+      "explanation": "Mérida, built partly from the stone of T'Hó's platforms, became the capital of the province of Yucatán, governed largely apart from Mexico because overland travel was so difficult. It came after two failed campaigns: Yucatán had no central state to capture, and the Montejos needed two decades to subdue its Maya provinces.",
+      "chapter": 2,
+      "feature": "e2-merida"
+    },
+    {
+      "id": "expansion-6",
+      "kind": "where",
+      "prompt": "Where is Zacatecas, where Juan de Tolosa's party found silver-bearing ore at the Cerro de la Bufa in 1546 and opened the richest mining district in New Spain?",
+      "answer": "Zacatecas, north-west of the Bajío",
+      "explanation": "Zacatecas pulled Spanish settlement, roads, livestock and labour hundreds of kilometres north into the lands of the Chichimecas. The Camino Real de Tierra Adentro grew out of the cart road opened to it around 1550.",
+      "chapter": 6,
+      "core": true,
+      "feature": "e2-zacatecas"
+    },
+    {
+      "id": "expansion-7",
+      "kind": "where",
+      "prompt": "Where was Acapulco, the Pacific port where the Manila galleons ended their voyage from Asia from 1565?",
+      "answer": "Acapulco, on the Pacific coast of Guerrero",
+      "explanation": "Its deep, sheltered bay was the best harbour on the Pacific coast within reach of Mexico City. The galleons brought Chinese silk, porcelain and other Asian goods in exchange for Mexican and Peruvian silver, and from 1593 the trade was restricted to two ships a year.",
+      "chapter": 6,
+      "feature": "e2-acapulco"
+    },
+    {
+      "id": "expansion-8",
+      "prompt": "In 1566 the audiencia arrested young creoles accused of plotting to kill the royal officials and make whom king of an independent New Spain?",
+      "answer": "Martín Cortés, second Marqués del Valle",
+      "distractors": [
+        "Francisco de Ibarra, governor of Nueva Vizcaya",
+        "Juan de Tolosa, a founder of Zacatecas",
+        "Luis de Carvajal, founder of Nuevo León"
+      ],
+      "explanation": "The accused were angered by the Crown's moves to stop encomiendas passing to further generations; whether there was a real plot is doubted. The Ávila brothers were beheaded in the plaza, a royal inquiry executed and tortured more suspects, and the episode ended the political power of the conquistadors' heirs.",
+      "chapter": 5,
+      "core": true,
+      "feature": "e2-avila-conspiracy"
+    },
+    {
+      "id": "expansion-9",
+      "prompt": "How did the Spaniards finally end the forty-year Chichimeca War along the silver road?",
+      "answer": "With negotiated peace, gifts of food and clothing, missions and Tlaxcalan settlers",
+      "distractors": [
+        "With a war \"by fire and blood\" that enslaved captives until none resisted",
+        "By abandoning the Zacatecas road for a safer route along the coast",
+        "With a single decisive campaign led by Viceroy Antonio de Mendoza"
+      ],
+      "explanation": "From 1550 the Guachichiles, Zacatecos, Guamares, Pames and others raided the road's wagon trains and towns. After decades of forts, defensive towns and enslavement, the Spaniards turned to peace from 1585–90, and about 400 Tlaxcalan families were sent north to settle beside Spanish and Chichimeca towns.",
+      "chapter": 1,
+      "feature": "e2-gran-chichimeca",
+      "core": true
+    },
+    {
+      "id": "expansion-10",
+      "prompt": "In what year did Juan de Oñate lead soldiers, families and Franciscans north to found Spanish New Mexico?",
+      "answer": "1598",
+      "distractors": [
+        "1540",
+        "1567",
+        "1581"
+      ],
+      "explanation": "Oñate took formal possession of New Mexico on the Rio Grande below El Paso in April 1598 and set up his headquarters at Ohkay Owingeh, renamed San Juan de los Caballeros, in July. His route became the northern section of the Camino Real, making it a road of some 2,500 km.",
+      "feature": "e2-onate"
+    },
+    {
+      "id": "expansion-population-fall",
+      "prompt": "By roughly how much did the Indigenous population of central Mexico fall within a century of the Spanish conquest?",
+      "answer": "By about three-quarters",
+      "distractors": [
+        "By about a tenth",
+        "By about a quarter",
+        "By about a third"
+      ],
+      "explanation": "No single epidemic did it: successive waves of smallpox, measles, typhus and cocoliztli, compounded by war, forced labour and famine, struck a dense population with no immunity. Estimates of the pre-conquest population vary enormously, but Gillingham holds that the rough scale of the collapse is not in doubt.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "expansion-cocoliztli-identity",
+      "prompt": "A 2018 DNA study of victims pointed to what kind of disease as the cause of the cocoliztli, the \"pestilence\" that devastated sixteenth-century New Spain?",
+      "answer": "An enteric fever related to typhoid",
+      "distractors": [
+        "A form of bubonic plague",
+        "A haemorrhagic strain of smallpox",
+        "A virulent strain of influenza"
+      ],
+      "explanation": "Victims ran a high fever, bled from the eyes and mouth, turned jaundiced and died within a week. Its two great waves, taken together, probably killed more people than the smallpox of 1520, and between them the population of Mexico City halved.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "expansion-cocoliztli-decades",
+      "prompt": "In which two decades did the two great cocoliztli epidemics sweep across New Spain?",
+      "answer": "The 1540s and the 1570s",
+      "distractors": [
+        "The 1520s and the 1550s",
+        "The 1530s and the 1560s",
+        "The 1550s and the 1580s"
+      ],
+      "explanation": "The first wave began in 1545 and the second in the mid-1570s, crushing the first two generations born after the conquest. Texcoco fell from about 15,000 people to 600, and the bishop of Oaxaca thought nine in ten of his flock died between 1534 and 1554.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-congregacion",
+      "prompt": "What was congregación, the Spanish policy that worsened the sixteenth-century epidemics?",
+      "answer": "Gathering scattered villagers into larger towns",
+      "distractors": [
+        "Quarantining the sick in new hospitals",
+        "Sending Indigenous labourers to the mines",
+        "Granting whole villages to encomenderos"
+      ],
+      "explanation": "Concentrated settlements were easier to tax, supervise and convert, but they packed people together while cocoliztli raged. The usual European response to plague was to flee the towns; in New Spain the authorities did the reverse.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "expansion-comparative-epidemiology",
+      "prompt": "What does Gillingham offer as the simple rebuttal to sceptics of mass Indigenous mortality in the sixteenth century?",
+      "answer": "Comparative epidemiology",
+      "distractors": [
+        "Parish burial registers",
+        "Excavated mass graves",
+        "Mexica tribute records"
+      ],
+      "explanation": "Whenever a virulent new disease first reached a population, anywhere in the world, mortality was enormous: the Black Death took a third to a half of fourteenth-century Europeans, and smallpox a third of Icelanders in 1707–09. New Spain was hit by several such diseases at once.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-lowlands",
+      "prompt": "In Gillingham's account, which kind of region may have suffered the steepest long-run population losses in New Spain after the conquest?",
+      "answer": "The tropical lowlands",
+      "distractors": [
+        "The central highlands",
+        "The Valley of Mexico",
+        "The Bajío plateau"
+      ],
+      "explanation": "In Tabasco only about 5,000 people were left, a fall of up to 95 percent. The highland peoples lost at least half their numbers, and probably about three-quarters in central Mexico.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-genocide",
+      "prompt": "Why, in Gillingham's view, did the Spaniards try to preserve the settled Indigenous population of central Mexico rather than destroy it?",
+      "answer": "Indigenous labour and tribute were their main wealth",
+      "distractors": [
+        "The pope threatened them with excommunication",
+        "They feared a rising by their Tlaxcalan allies",
+        "The friars controlled the colonial government"
+      ],
+      "explanation": "After the gold ran out and before the silver strikes, Indigenous people were the colony's chief resource, so the mass dying was a business disaster for the Spaniards. On that basis Gillingham argues that the \"intent to destroy\" that defines genocide was absent in sedentary Mexico, though not always on the nomadic northern frontier.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "expansion-motolinia-plagues",
+      "prompt": "Which Franciscan chronicler described the \"plagues\" of the conquest, among them forced labour, the mines, sheep and the rebuilding of Mexico City?",
+      "answer": "Toribio de Motolinía",
+      "distractors": [
+        "Bernardino de Sahagún",
+        "Andrés de Olmos",
+        "Pedro de Gante"
+      ],
+      "explanation": "The Nahua nicknamed him Motolinía, \"the poor man\". He framed the disasters in the imagery of Exodus and Revelation, but most of his ten plagues were man-made: forced labour, tribute, slavery and land seizures.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-sheep",
+      "prompt": "Which rule let Spanish flocks overrun Indigenous maize fields in the sixteenth century, as in the Valle del Mezquital?",
+      "answer": "Livestock could graze any unfenced land",
+      "distractors": [
+        "Encomenderos could seize fields for pasture",
+        "Villages had to pay their tribute in wool",
+        "Herders could buy common lands from the Crown"
+      ],
+      "explanation": "Since there were no fences, the damage to maize fields was predictable, and nobody acted on it. Viceroy Mendoza, who brought Merino sheep to Mexico, was a reader of Thomas More, whose Utopia warned of sheep that \"eat men\".",
+      "chapter": 2,
+      "feature": "e2-mezquital"
+    },
+    {
+      "id": "expansion-cruz-badiano",
+      "prompt": "What was the Codex Cruz-Badiano, compiled in 1552?",
+      "answer": "A catalogue of Indigenous medicinal plants",
+      "distractors": [
+        "A census of tribute-paying villages",
+        "A Nahuatl grammar for missionaries",
+        "A map of the silver road north"
+      ],
+      "explanation": "The Spaniards saw that Indigenous healers' remedies worked and had them recorded in this illustrated herbal, written at the college of Tlatelolco by the Nahua physician Martín de la Cruz and put into Latin by Juan Badiano. Some drugs, such as the white jalap purgative, were exported to Spain and spread across Europe.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-guzman-lawsuit",
+      "prompt": "Who won a lawsuit against the conquistador Nuño de Guzmán in 1549 and were awarded damages?",
+      "answer": "Two Indigenous people he had enslaved",
+      "distractors": [
+        "The heirs of the ruler of Michoacán",
+        "The Franciscans of Nueva Galicia",
+        "Hernán Cortés's estate managers"
+      ],
+      "explanation": "Pedro and Luisa sued for their freedom and 200 pesos and won, though Guzmán got the sum reduced on appeal. After slavery was banned in 1542, Indigenous people who sued their masters for freedom generally won.",
+      "chapter": 7,
+      "feature": "e2-guzman"
+    },
+    {
+      "id": "expansion-don-carlos",
+      "prompt": "For what act in 1539 was Juan de Zumárraga, first bishop of Mexico, disciplined by the authorities?",
+      "answer": "Burning the Texcocan noble Don Carlos for heresy",
+      "distractors": [
+        "Demolishing the last temple of Tlatelolco",
+        "Banning Nahuatl from Christian services",
+        "Excommunicating Viceroy Antonio de Mendoza"
+      ],
+      "explanation": "Don Carlos Chichimecatecuhtli, a claimant to the throne of Texcoco, was accused of keeping idols and living with his niece. Zumárraga's demotion was a lesson: churchmen in central Mexico largely abandoned such violence against converts afterwards.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-encomienda",
+      "prompt": "What was an encomienda, the main reward of the first generation of conquistadors?",
+      "answer": "A grant of Indigenous labour and tribute",
+      "distractors": [
+        "A royal licence to explore and conquer",
+        "A rotating draft of Indigenous workers",
+        "A private estate bought from the Crown"
+      ],
+      "explanation": "In return the encomendero was meant to protect and Christianise his charges. Encomenderos were barred from living in the villages, so tribute and labour reached them through the old Indigenous lords.",
+      "chapter": 2,
+      "core": true
+    },
+    {
+      "id": "expansion-capitulacion",
+      "prompt": "What were the capitulaciones under which Spanish expeditions of conquest set out?",
+      "answer": "Royal licences to explore, conquer and share profits",
+      "distractors": [
+        "Treaties of surrender signed by Indigenous lords",
+        "Grants of Indigenous labour to settlers",
+        "Papal bulls dividing the world with Portugal"
+      ],
+      "explanation": "Conquest was a semi-private business: captains raised the men and money, waged war and paid the Crown its share. As across the Spanish empire, auxiliaries outnumbered the Spaniards, and in the Americas they were Indigenous.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-indian-conquistadors",
+      "prompt": "Who made up most of the fighting forces of the Spanish expeditions that spread out from central Mexico after 1521?",
+      "answer": "Indigenous allies from central Mexico",
+      "distractors": [
+        "Spanish veterans of the Italian wars",
+        "African slaves armed by the Crown",
+        "Mercenaries from Germany and Flanders"
+      ],
+      "explanation": "Tlaxcalans, Otomí, Huejotzincans and the defeated Mexica marched west against the Purépecha, north against the Chichimeca and south to Oaxaca, Yucatán and Guatemala. Many were soldiers with their own finery and titles, not porters, and some stayed to settle the frontiers.",
+      "chapter": 1,
+      "core": true
+    },
+    {
+      "id": "expansion-mixton-army",
+      "prompt": "Roughly how many central Mexican Indigenous troops did the Spaniards field to crush the great rising of the Caxcan and other peoples of Nueva Galicia in 1540–42?",
+      "answer": "About 30,000",
+      "distractors": [
+        "About 3,000",
+        "About 300",
+        "About 300,000"
+      ],
+      "explanation": "Viceroy Mendoza led the army in person against the rebels of the Mixtón War, who had fortified themselves on rocky peñoles. Victory opened the path north that silver prospectors followed a few years later.",
+      "chapter": 1,
+      "feature": "e2-mixton"
+    },
+    {
+      "id": "expansion-mixton-religion",
+      "prompt": "What, according to Gillingham, made the rising of the Caxcan and their neighbours in Nueva Galicia in the early 1540s distinctive?",
+      "answer": "It was strongly religious, targeting friars and churches",
+      "distractors": [
+        "It was led by a renegade Spanish conquistador",
+        "It was organised by Christian Nahua nobles",
+        "It aimed to restore the Mexica emperor"
+      ],
+      "explanation": "The rebels attacked the friars, their property and their symbols, and their leaders promised victory through their own god, Tecoroli. One Indigenous witness also blamed Spanish land grabs; at its height tens of thousands besieged Guadalajara.",
+      "chapter": 3,
+      "feature": "e2-mixton"
+    },
+    {
+      "id": "expansion-mixton-slaves",
+      "prompt": "What was done with the prisoners taken in the great rising of the Caxcan and other peoples of Nueva Galicia in 1540–42?",
+      "answer": "They were ruled liable to enslavement",
+      "distractors": [
+        "They were freed under the New Laws",
+        "They were settled as free colonists in Tlaxcala",
+        "They were sent to the galleys in Spain"
+      ],
+      "explanation": "Captives of a \"just war\" against rebels or aggressors could still be enslaved, and the audiencia applied the rule to all the prisoners of the Mixtón War. The same loophole, as a war \"by fire and blood\", justified enslaving Chichimeca captives until the end of the century.",
+      "chapter": 7,
+      "feature": "e2-mixton"
+    },
+    {
+      "id": "expansion-third-council",
+      "prompt": "Which assembly of Mexico's bishops and religious orders, meeting in 1585, condemned the Chichimeca War and the enslavement of its captives?",
+      "answer": "The Third Provincial Council",
+      "distractors": [
+        "The First Provincial Council",
+        "The Council of the Indies",
+        "The Royal Audiencia of Mexico"
+      ],
+      "explanation": "The churchmen debated an exterminationist report by Dr Hernando de Robles, a former frontier official, before sending Philip II an opinion that called the war tyrannical and impious. Within a few years the Spaniards turned from war to a negotiated peace.",
+      "chapter": 7,
+      "feature": "e2-gran-chichimeca"
+    },
+    {
+      "id": "expansion-honduras",
+      "prompt": "Why did Cortés set out on his disastrous overland march to Honduras (Las Hibueras) in 1524?",
+      "answer": "To crush Cristóbal de Olid's rebellion",
+      "distractors": [
+        "To search for a strait to the Pacific",
+        "To seize the gold of the Itzá Maya",
+        "To escape an audit by royal judges"
+      ],
+      "explanation": "Olid had already been killed by his own men when the expedition, starving in the swamps of Tabasco, straggled into Honduras. Fewer than a hundred of Cortés's men came back, and in his absence his enemies seized power in Mexico City.",
+      "chapter": 2,
+      "feature": "e2-hibueras"
+    },
+    {
+      "id": "expansion-marques",
+      "prompt": "What title did Charles V give Cortés during his visit to Spain at the end of the 1520s?",
+      "answer": "Marqués del Valle",
+      "distractors": [
+        "Conde de Tendilla",
+        "Duque de Veragua",
+        "Marqués de Mondéjar"
+      ],
+      "explanation": "The full title was Marqués del Valle de Oaxaca. He came back in 1530 with the title, vast land grants, a noble wife and a licence to explore the Pacific, but not the government of New Spain. His was suddenly one of the richest families in the Spanish aristocracy.",
+      "chapter": 5,
+      "feature": "e2-cuernavaca-marquesado"
+    },
+    {
+      "id": "expansion-vassals",
+      "prompt": "Over roughly how many Indigenous vassals did Cortés's marquisate give him lordship?",
+      "answer": "About 23,000",
+      "distractors": [
+        "About 2,300",
+        "About 230,000",
+        "About 2.3 million"
+      ],
+      "explanation": "The marquisate was scattered in blocks from the Valley of Mexico to Oaxaca and Tehuantepec. Even so, Cortés was in financial trouble by the end of his life.",
+      "chapter": 2,
+      "feature": "e2-cuernavaca-marquesado"
+    },
+    {
+      "id": "expansion-cuernavaca",
+      "kind": "where",
+      "prompt": "Where did Cortés make his base after 1530, in the warm country beyond the mountains, while he was barred from Mexico City?",
+      "answer": "Cuernavaca, south of Mexico City",
+      "explanation": "He built a fortified palace at Cuernavaca, the heart of his Marquesado del Valle, and planted sugar on his tropical estates. From there he hatched Pacific expeditions until he went back to Spain for good around 1540.",
+      "chapter": 5,
+      "feature": "e2-cuernavaca-marquesado",
+      "tolerance_km": 60
+    },
+    {
+      "id": "expansion-baja",
+      "prompt": "What became of the colony Cortés led in person to Baja California in 1535?",
+      "answer": "It was abandoned within about a year",
+      "distractors": [
+        "It became the galleon port of the Pacific",
+        "It grew into the mission town of Loreto",
+        "It made him rich from pearl beds"
+      ],
+      "explanation": "Cortés sent or led five expeditions north and west over fifteen years in search of a sea road to China. Ships were lost, crews were killed by Indigenous attackers and mutinies overthrew captains, and none brought profit or lasting settlement.",
+      "chapter": 2,
+      "feature": "e2-santa-cruz-1535"
+    },
+    {
+      "id": "expansion-saavedra",
+      "prompt": "Why could the ships that Cortés sent across the Pacific under his cousin Álvaro de Saavedra in 1527 not sail back to Mexico?",
+      "answer": "They could not find winds to carry them east",
+      "distractors": [
+        "Their crews mutinied and stayed in Asia",
+        "Chinese warships blockaded them in Manila",
+        "The viceroy forbade any return voyage"
+      ],
+      "explanation": "One ship, the Florida, reached the Philippines and the Spice Islands, but the survivors had to go home the long way, across the Indian Ocean and round Africa, reaching Spain years later. A return route across the Pacific was found only in 1565.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-cortes-death",
+      "prompt": "Where did Hernán Cortés die in 1547?",
+      "answer": "Near Seville, in Spain",
+      "distractors": [
+        "In his palace at Cuernavaca",
+        "In his house in Mexico City",
+        "At sea off Havana"
+      ],
+      "explanation": "Ordered to stay in Spain until his audit was finished, which it never was, he died in debt, pawning valuables to meet his bills. A royal minister marked his last plea to the king \"not to be answered\".",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-montejo-end",
+      "prompt": "How did Francisco de Montejo the elder, who held the royal contract to conquer Yucatán, end his life?",
+      "answer": "Bankrupt, back in Spain",
+      "distractors": [
+        "As the rich governor of Yucatán",
+        "Killed by the Maya at Chichén Itzá",
+        "Executed for treason in Mexico City"
+      ],
+      "explanation": "His first expedition retreated after years of futile war, and the conquest that followed yielded encomiendas over a poor barter economy rather than gold. He had married a rich widow to fund his ventures and left her bankrupt too.",
+      "chapter": 1
+    },
+    {
+      "id": "expansion-alvarado-death",
+      "prompt": "How did the conqueror of Guatemala, who had gone on to Peru and then prepared a fleet for the Spice Islands, meet his death in 1541?",
+      "answer": "Fighting in the Mixtón War",
+      "distractors": [
+        "Fighting the Inca in the Andes",
+        "On a voyage to the Spice Islands",
+        "In a Maya ambush in Guatemala"
+      ],
+      "explanation": "Pedro de Alvarado had found Guatemala unprofitable and in Peru was paid to go away; he was in Nueva Galicia with his fleet when the rising broke out. He was crushed by a falling horse after a failed attack on a rebel stronghold.",
+      "chapter": 1,
+      "feature": "e2-nochistlan-1541"
+    },
+    {
+      "id": "expansion-coronado",
+      "prompt": "What was Francisco Vázquez de Coronado looking for on his expedition of 1540–42 into the far north?",
+      "answer": "The Seven Cities of Cíbola",
+      "distractors": [
+        "The golden lake of El Dorado",
+        "A sea passage to China",
+        "The fountain of youth"
+      ],
+      "explanation": "A friar had reported a city in the north larger than Mexico. Coronado found the Zuni pueblos and the grass-house villages of Kansas, and came home much poorer; the far north was left alone for decades.",
+      "chapter": 2,
+      "feature": "e2-coronado"
+    },
+    {
+      "id": "expansion-cabeza-de-vaca",
+      "prompt": "Which survivor of Pánfilo de Narváez's failed 1527 expedition to Florida spent years walking west across the continent to the Pacific coast of Mexico?",
+      "answer": "Álvar Núñez Cabeza de Vaca",
+      "distractors": [
+        "Hernando de Soto",
+        "Cristóbal de Oñate",
+        "Fray Marcos de Niza"
+      ],
+      "explanation": "He and three companions reached Spaniards near Culiacán in 1536 with a reputation as holy men and a large Indigenous following. Their tales of rich towns to the north helped launch Coronado's expedition.",
+      "chapter": 1,
+      "feature": "e2-culiacan"
+    },
+    {
+      "id": "expansion-cazonci",
+      "prompt": "Which ruler supplied Nuño de Guzmán with provisions, treasure and warriors in 1529–30, only to be tied to a horse, dragged and burned on Guzmán's orders?",
+      "answer": "The cazonci (king) of Michoacán",
+      "distractors": [
+        "The tlatoani of Texcoco",
+        "The lord of Tlaxcala",
+        "The tlatoani of Tlacopan"
+      ],
+      "explanation": "Guzmán's march through the west in 1530–31 was the most extreme campaign of conquest violence: he seized food stores, burned villages and tortured, enslaved or killed their people. Even Spaniards thought he had gone too far.",
+      "chapter": 2,
+      "feature": "e2-guzman"
+    },
+    {
+      "id": "expansion-first-audiencia",
+      "prompt": "Which body did the late-arriving conquistador Nuño de Guzmán head in Mexico City before he was sent back to Spain in chains?",
+      "answer": "The first Real Audiencia",
+      "distractors": [
+        "The second Real Audiencia",
+        "The cabildo of Mexico City",
+        "The cathedral chapter of Mexico"
+      ],
+      "explanation": "The audiencia, a council of royal judges, replaced conquistador rule. Gillingham calls Guzmán incompetent, quarrelsome and in the end murderous; he went on to carve out Nueva Galicia by fire, and a second audiencia of outside judges took over.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-ramirez-fuenleal",
+      "prompt": "Who headed the second audiencia, which replaced Guzmán's chaotic government in the early 1530s?",
+      "answer": "Ramírez de Fuenleal, bishop of Santo Domingo",
+      "distractors": [
+        "Juan de Zumárraga, bishop of Mexico",
+        "Julián Garcés, bishop of Tlaxcala",
+        "Bartolomé de las Casas, bishop of Chiapas"
+      ],
+      "explanation": "His full name was Sebastián Ramírez de Fuenleal. He and four new judges from outside Mexico were the \"steady hands\" that began real royal government. When viceroys were unavailable, prelates often filled the gap.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-tlaxcala",
+      "prompt": "Which Indigenous kingdom, as a reward for its alliance with Cortés, kept its own territory, administration and finances under Spanish rule?",
+      "answer": "Tlaxcala",
+      "distractors": [
+        "Texcoco",
+        "Tlacopan",
+        "Michoacán"
+      ],
+      "explanation": "It stayed a confederation of four city-states with their own nobilities, and Spanish settlers were kept out. Tlaxcalans went on fighting for the Spaniards and colonising the north.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "expansion-conin",
+      "prompt": "Which Otomí trader and warrior, baptised Don Fernando de Tapia, was one of the founders of Querétaro?",
+      "answer": "Conín",
+      "distractors": [
+        "Tenamaxtli",
+        "Huanitzin",
+        "Tangáxuan"
+      ],
+      "explanation": "He became the owner of vast cattle and wheat estates. Querétaro, on the edge of the Chichimeca lands, grew into a key supply town on the road to the silver mines.",
+      "chapter": 1,
+      "feature": "e2-queretaro"
+    },
+    {
+      "id": "expansion-nueva-tlaxcala",
+      "prompt": "Beside which northern Spanish town did Tlaxcalan colonists found San Esteban de Nueva Tlaxcala in 1591?",
+      "answer": "Saltillo",
+      "distractors": [
+        "Zacatecas",
+        "Durango",
+        "Monterrey"
+      ],
+      "explanation": "Tlaxcalan families were sent north as part of the Chichimeca peace to farm, model Christian village life and defend the frontier. Tlaxcalan settlements later spread across Coahuila, San Luis Potosí and beyond.",
+      "chapter": 1,
+      "feature": "e2-tlaxcalan-colonies"
+    },
+    {
+      "id": "expansion-ordenanzas",
+      "prompt": "Cortés's Ordinances of Good Government (1524) required Spaniards granted Indigenous labour and tribute to do what?",
+      "answer": "Live in New Spain for at least eight years",
+      "distractors": [
+        "Pay a fifth of their income to the Crown",
+        "Free their Indigenous slaves within a year",
+        "Learn Nahuatl within two years"
+      ],
+      "explanation": "The Spaniards were to be settlers, not raiders: they had to build houses, keep arms and horses in proportion to their tributaries, destroy idols and pay for religious instruction. Married men had to bring their wives from Spain.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-traza",
+      "prompt": "What was the traza of rebuilt Mexico City?",
+      "answer": "The Spanish-only grid at the city's centre",
+      "distractors": [
+        "The causeway linking the island to Tacuba",
+        "The Indigenous ward of Tlatelolco",
+        "The great dike across the lake"
+      ],
+      "explanation": "Planned by Alonso García Bravo and built by tens of thousands of Mexica, it ran to about a hundred blocks around the main plaza, with Indigenous wards around it. The segregation soon failed as servants, tradespeople and vendors moved freely.",
+      "chapter": 5,
+      "core": true,
+      "feature": "e2-mexico-city"
+    },
+    {
+      "id": "expansion-coyoacan",
+      "prompt": "Where did Cortés consider building the new capital instead of rebuilding on the ruined island of Tenochtitlan?",
+      "answer": "Coyoacán, on the southern lakeshore",
+      "distractors": [
+        "Texcoco, on the eastern shore",
+        "Tlaxcala, beyond the mountains",
+        "Tacuba, on the western shore"
+      ],
+      "explanation": "He was headquartered at Coyoacán and many urged the practical choice, but he resolved to rebuild Tenochtitlan as one of the world's great cities. The decision tied the capital to the lake and its floods.",
+      "chapter": 5,
+      "feature": "e2-mexico-city"
+    },
+    {
+      "id": "expansion-university",
+      "prompt": "In what year did the Royal and Pontifical University of Mexico, the first university in North America, open its doors?",
+      "answer": "1553",
+      "distractors": [
+        "1536",
+        "1572",
+        "1595"
+      ],
+      "explanation": "It predated Harvard by nearly a century. By then the rebuilt capital had paved avenues, restored canals, a town clock, convents, a viceregal palace and countless shops.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "expansion-cervantes-salazar",
+      "prompt": "Which early professor of the University of Mexico wrote a famously gushing 1554 description of the rebuilt capital?",
+      "answer": "Francisco Cervantes de Salazar",
+      "distractors": [
+        "Bernardo de Balbuena",
+        "Bernal Díaz del Castillo",
+        "Francisco López de Gómara"
+      ],
+      "explanation": "He piled up exclamation marks for the width of the Calle de Tacuba and the size of the plaza, and found the viceregal palace \"another city\". Even the clinic for venereal disease was, he wrote, a work of art.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-press",
+      "prompt": "In which city did the first printing press in the Western Hemisphere begin work in 1539?",
+      "answer": "Mexico City",
+      "distractors": [
+        "Lima",
+        "Santo Domingo",
+        "Puebla"
+      ],
+      "explanation": "It produced over a hundred books and pamphlets by 1600, many in Indigenous languages, and as early as 1541 hawkers sold printed news of an earthquake in Guatemala. Puebla did not get a press until 1640.",
+      "chapter": 6
+    },
+    {
+      "id": "expansion-velasco",
+      "prompt": "Who succeeded the first viceroy in 1550 and governed New Spain until his death in 1564?",
+      "answer": "Luis de Velasco",
+      "distractors": [
+        "Martín Enríquez",
+        "Gastón de Peralta",
+        "Lorenzo Suárez de Mendoza"
+      ],
+      "explanation": "Gillingham calls him a diplomatic viceroy; his sudden death opened the nervous period of the 1566 conspiracy. His son of the same name later served as viceroy too.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-velasco-pacific",
+      "prompt": "What enterprise did the second viceroy of New Spain begin preparing in 1557 on Philip II's orders, at a cost of up to half a million pesos?",
+      "answer": "An expedition across the Pacific",
+      "distractors": [
+        "A campaign against the Chichimecas",
+        "A drainage canal for the Valley of Mexico",
+        "An expedition to conquer Florida"
+      ],
+      "explanation": "Philip wanted the \"Islands of the West\" explored and colonised. The fleet sailed under Miguel López de Legazpi in 1564 and founded the Spanish Philippines, the Asian end of the Manila galleon trade.",
+      "chapter": 5,
+      "feature": "e2-navidad"
+    },
+    {
+      "id": "expansion-residencia",
+      "prompt": "What was the juicio de residencia that Judge Luis Ponce de León arrived to open against Cortés's government in July 1526?",
+      "answer": "An audit of an official's conduct in office",
+      "distractors": [
+        "A trial for heresy before the bishop",
+        "A census of the Spanish residents",
+        "A grant of land to settlers"
+      ],
+      "explanation": "Ponce de León died almost at once, and so did his successor. Cortés's audit dragged on for more than a decade and was never finished.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-rodrigo-de-paz",
+      "prompt": "What happened in 1525 to Rodrigo de Paz, the cousin Cortés left in charge of his interests in Mexico City while he marched to Honduras?",
+      "answer": "Royal officials tortured and hanged him",
+      "distractors": [
+        "The Crown appointed him governor",
+        "He fled to Cuba with Cortés's gold",
+        "He died in the cocoliztli epidemic"
+      ],
+      "explanation": "Believing Cortés dead, two royal officials seized power and Paz was hanged in the main plaza. Gillingham counts this coup as the first of three turning points in the end of conquistador power, followed by the arrival of royal government at the end of the 1520s and the crackdown of 1566.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-new-laws",
+      "prompt": "Which 1542 legislation declared the Indians of New Spain free vassals who could not be enslaved, and tried to stop encomiendas being inherited?",
+      "answer": "The New Laws",
+      "distractors": [
+        "The Laws of Burgos",
+        "The Laws of Toro",
+        "The Siete Partidas"
+      ],
+      "explanation": "After nearly fifty years of slavery in the Americas this was revolutionary. In practice it was enforced in the courts of the centre but widely evaded on the frontiers, and protests saved the encomiendas for a second generation.",
+      "chapter": 7,
+      "core": true
+    },
+    {
+      "id": "expansion-mendoza-new-laws",
+      "prompt": "How did the first viceroy respond to the 1542 laws that tried to stop encomiendas being inherited?",
+      "answer": "He simply did not enforce them",
+      "distractors": [
+        "He enforced it with royal troops",
+        "He resigned his office in protest",
+        "He sent the encomenderos to Peru"
+      ],
+      "explanation": "Officials on the spot knew that abolishing the encomienda was politically impossible: in Peru, where the conquistadors rebelled in 1544, the viceroyalty fell apart. In New Spain the encomenderos survived the first royal attack.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-hacienda",
+      "prompt": "What, in Gillingham's view, drove the late-sixteenth-century shift from the encomienda to the hacienda?",
+      "answer": "Population collapse and Indigenous lawsuits",
+      "distractors": [
+        "Strict royal enforcement of the New Laws",
+        "The arrival of the Jesuits in 1572",
+        "A rebellion by the encomenderos"
+      ],
+      "explanation": "The law limiting encomiendas to one generation did not stick; it was demography and litigation, not state power, that undermined them. The great estates that replaced them were less dictatorial and, in his words, more sustainable.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "expansion-repartimiento",
+      "prompt": "What was the repartimiento, which increasingly supplied Spaniards with Indigenous labour in the later sixteenth century?",
+      "answer": "A rotating, limited-term labour draft",
+      "distractors": [
+        "A permanent grant of Indigenous vassals",
+        "A lifelong contract of debt peonage",
+        "Licensed chattel slavery of captives"
+      ],
+      "explanation": "Officials allotted shifts of villagers to Spanish employers for set periods. Gillingham likens it to the corvée common in Europe at the time: a harsh tax paid in labour, not the loss of a person's freedom.",
+      "chapter": 7
+    },
+    {
+      "id": "expansion-mendoza-courts",
+      "prompt": "How did the first viceroy of New Spain get round its clogged and corrupt courts in the 1540s?",
+      "answer": "He heard cases himself as administrative matters",
+      "distractors": [
+        "He sent all appeals to the Council of the Indies",
+        "He let Indigenous lords judge every case",
+        "He sold judgeships to raise money for the Crown"
+      ],
+      "explanation": "Twice a week he settled cases quickly and cheaply in person, with the parties present and interpreters at hand. Indigenous litigants were notoriously active in the colonial courts, and often won.",
+      "chapter": 7
+    },
+    {
+      "id": "expansion-moya",
+      "prompt": "Which archbishop of Mexico also governed as viceroy in the mid-1580s, making him briefly the most powerful man in the Americas?",
+      "answer": "Pedro Moya de Contreras",
+      "distractors": [
+        "Juan de Zumárraga",
+        "Alonso de Montúfar",
+        "Vasco de Quiroga"
+      ],
+      "explanation": "He had hastened his predecessor's fall with an audit in 1584. Churchmen were essential partners of colonial government, and prelates often stood in when a viceroy died or was disgraced.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-creoles",
+      "prompt": "The crackdown on the alleged conspiracy of 1566 was pivotal in shutting which group out of political power?",
+      "answer": "Creoles, Spaniards born in the Americas",
+      "distractors": [
+        "The friars of the mendicant orders",
+        "The Indigenous nobility of Texcoco",
+        "Royal officials born in Spain"
+      ],
+      "explanation": "Across nearly three centuries only four creoles became viceroy. Peninsular Spaniards claimed that American stars and climate made creoles degenerate, and creoles developed a dual identity, both Spanish and Mexican.",
+      "chapter": 5,
+      "core": true
+    },
+    {
+      "id": "expansion-malintzin-son",
+      "prompt": "Cortés had two sons named Martín. Who was the mother of the elder, a mestizo who was tortured in the inquiry into the 1566 conspiracy?",
+      "answer": "Malintzin",
+      "distractors": [
+        "Juana de Zúñiga",
+        "Catalina Suárez",
+        "Isabel Moctezuma"
+      ],
+      "explanation": "The elder Martín was Mexico City's chief constable, mediating between Spaniards and Mexica, and under torture had nothing to say. His half-brother, the legitimate son of Juana de Zúñiga, was the swaggering second marquis.",
+      "chapter": 5,
+      "feature": "e2-avila-conspiracy"
+    },
+    {
+      "id": "expansion-gobernador",
+      "prompt": "What Spanish title replaced tlatoani for the Indigenous rulers of cities such as Tenochtitlan and Texcoco?",
+      "answer": "Gobernador",
+      "distractors": [
+        "Encomendero",
+        "Corregidor",
+        "Alcalde mayor"
+      ],
+      "explanation": "The title changed, but the job and often the family did not. Montezuma's relatives governed Indigenous Mexico City, with brief interruptions, until the 1620s, and the line of Nezahualpilli was restored in Texcoco.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-maya-revolt",
+      "prompt": "What happened to the Maya caciques who led the Great Revolt of 1546 in eastern Yucatán?",
+      "answer": "Every one of them stayed in power",
+      "distractors": [
+        "They were all burned at the stake",
+        "They were exiled to Cuba",
+        "They were replaced by Spanish governors"
+      ],
+      "explanation": "The revolt was crushed within months, but the Spaniards could not govern Yucatán without the old Indigenous nobility, so much so that they forgave even rebellion.",
+      "chapter": 5,
+      "feature": "e2-maya-revolt-1546"
+    },
+    {
+      "id": "expansion-1563-decree",
+      "prompt": "What did a royal decree of 1563 forbid all Spaniards and mestizos to do?",
+      "answer": "Live in Indigenous villages",
+      "distractors": [
+        "Marry Indigenous women",
+        "Own Indigenous slaves",
+        "Trade at the port of Acapulco"
+      ],
+      "explanation": "Segregation was meant to run both ways, protecting villages from land grabs, violence and abuse. Encomenderos were already barred from living on their encomiendas.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-spanish-cities",
+      "prompt": "A century after first contact, where did over half of New Spain's Spanish population live?",
+      "answer": "In just ten cities",
+      "distractors": [
+        "On scattered rural haciendas",
+        "In the northern mining camps",
+        "In Indigenous villages"
+      ],
+      "explanation": "Spaniards were few: in 1550 Valladolid in Yucatán had 45, and even Zacatecas, at the heart of the silver boom, had only 160 at first. The farther from the centre, the thinner the Spanish presence and the greater the continuity of Indigenous life.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-emigrants",
+      "prompt": "Roughly how many Spaniards emigrated to the whole of Spanish America, from Patagonia to California, in its first century?",
+      "answer": "Under 250,000",
+      "distractors": [
+        "About 600,000",
+        "About 1 million",
+        "About 2.5 million"
+      ],
+      "explanation": "Uncles who had done well wrote home begging nephews to join them, often in vain. The slave trade brought Africans on the same order of magnitude.",
+      "chapter": 7
+    },
+    {
+      "id": "expansion-women-migrants",
+      "prompt": "In the first thirty years of Spanish settlement on the mainland, what share of migrants from Spain were women?",
+      "answer": "About one in twenty",
+      "distractors": [
+        "About one in three",
+        "About half",
+        "About one in five"
+      ],
+      "explanation": "Even in the 1570s women were under a third of newcomers. The shortage of Spanish women, despite decrees ordering men to bring their wives, is one of the structural reasons for New Spain's large mestizo population.",
+      "chapter": 7
+    },
+    {
+      "id": "expansion-mestizo-status",
+      "prompt": "How were the children of conquistadors and Indigenous women treated in the first decades after the conquest?",
+      "answer": "With much the same rights and status as others",
+      "distractors": [
+        "As slaves of their fathers' households",
+        "As tribute-paying commoners by law",
+        "As barred from inheriting property"
+      ],
+      "explanation": "The racial divisions of later colonial society were still in their infancy. Children of Spaniards and Indigenous noblewomen married into colonial society, and some of Montezuma's descendants became Spanish nobles.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-sepulveda",
+      "prompt": "Who argued at the court debate of 1550 that Indigenous practices such as human sacrifice laid them open to just war and Spanish rule?",
+      "answer": "Juan Ginés de Sepúlveda",
+      "distractors": [
+        "Francisco de Vitoria",
+        "Alonso de Zorita",
+        "Juan de Torquemada"
+      ],
+      "explanation": "Contrary to legend he did not deny that Indians were human; he argued they were rational but uncivilised and broke natural law. The judges reached no clear verdict.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-sublimis-deus",
+      "prompt": "Which papal bull of 1537 declared that the Indigenous peoples of the Americas were rational human beings?",
+      "answer": "Sublimis Deus",
+      "distractors": [
+        "Inter caetera",
+        "Exsurge Domine",
+        "Romanus Pontifex"
+      ],
+      "explanation": "After it, the debate turned on how civilised Indigenous societies were and whether that made Spanish rule legitimate, not on their humanity.",
+      "chapter": 2
+    },
+    {
+      "id": "expansion-quiroga",
+      "prompt": "Which bishop of Michoacán, an idealist who dreamed of an Indigenous utopia, fought the Augustinians and Franciscans for control of his diocese?",
+      "answer": "Vasco de Quiroga",
+      "distractors": [
+        "Juan de Zumárraga",
+        "Julián Garcés",
+        "Bartolomé de las Casas"
+      ],
+      "explanation": "Spanish settlers were kept out of his utopian communities. In 1560 his men waged a small war on a new Augustinian convent at Tlazazalca, and his priest ended up answering charges in Spain.",
+      "chapter": 5,
+      "feature": "e2-quiroga"
+    },
+    {
+      "id": "expansion-tepetlaoztoc",
+      "prompt": "For what purpose was the Codex Tepetlaoztoc, combining painted glyphs with Spanish text, made in the mid-1550s?",
+      "answer": "A lawsuit by villagers against their encomenderos",
+      "distractors": [
+        "A tribute list for the Mexica emperor",
+        "A Franciscan catechism in pictures",
+        "A survey for the Relaciones geográficas"
+      ],
+      "explanation": "It shows an overseer of Cortés burning four nobles in chains for late tribute. Two years later the viceroy named an Indigenous justice to uphold the villagers' rights.",
+      "chapter": 7
+    },
+    {
+      "id": "expansion-carvajal",
+      "prompt": "Luis de Carvajal, slave raider and first governor of Nuevo León, died in prison after a trial by the Inquisition. What was at issue?",
+      "answer": "Secret Judaism among his family and settlers",
+      "distractors": [
+        "His decades of illegal slave raiding",
+        "Witchcraft and dealings with the devil",
+        "Blasphemy against the Virgin Mary"
+      ],
+      "explanation": "He had brought in a shipload of settlers from Portugal, among them relatives who practised Judaism in secret; the Inquisition later burned several of them. He got a light sentence but never left prison, and his colony collapsed until Monterrey was refounded in 1596.",
+      "chapter": 7,
+      "feature": "e2-monterrey"
+    },
+    {
+      "id": "expansion-jesuits",
+      "prompt": "In what year did the Jesuits arrive in New Spain, the last of the four great religious orders to come?",
+      "answer": "1572",
+      "distractors": [
+        "1524",
+        "1533",
+        "1598"
+      ],
+      "explanation": "Worldly and well connected to Philip II, they focused on education, founding four colleges by 1578 and attracting rich donations. They later led the mission frontier in the north.",
+      "chapter": 3,
+      "core": true
+    },
+    {
+      "id": "expansion-dominicans",
+      "prompt": "Which religious order predominated in the south of New Spain and parts of the west?",
+      "answer": "The Dominicans",
+      "distractors": [
+        "The Franciscans",
+        "The Augustinians",
+        "The Jesuits"
+      ],
+      "explanation": "The Franciscans dominated central Mexico, the northern frontier and Yucatán, while the Augustinians held only islands in the centre. The orders quarrelled bitterly, the Dominicans calling Franciscan mass baptisms dangerously shallow.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-baptisms",
+      "prompt": "By 1536, how many Indigenous people did the Franciscans of New Spain believe they had baptised?",
+      "answer": "About four million",
+      "distractors": [
+        "About forty thousand",
+        "About four hundred thousand",
+        "About forty million"
+      ],
+      "explanation": "Motolinía claimed at times to baptise two or three thousand a day. Conversion on such an industrial scale was bound to be shallow, and one rancher scoffed that it meant about as much as baptising mules.",
+      "chapter": 3,
+      "core": true
+    },
+    {
+      "id": "expansion-missionaries-800",
+      "prompt": "Roughly how many missionaries were there to cover all of New Spain a generation after the conquest?",
+      "answer": "About 800",
+      "distractors": [
+        "About 80",
+        "About 8,000",
+        "About 25,000"
+      ],
+      "explanation": "They clustered in the green central highlands; no friar went to Yucatán until 1545, and in 1561 Philip II complained that the friars shunned the harsh, poor and hot regions. Disease killed many newcomers.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-coloquios",
+      "prompt": "What does the Libro de los Coloquios record?",
+      "answer": "Mexica priests' debate with the Twelve Franciscans",
+      "distractors": [
+        "The trial of Don Carlos of Texcoco",
+        "Cortés's first meeting with Montezuma",
+        "The friars' instructions for confessors"
+      ],
+      "explanation": "The priests set out what they understood of Christianity and then, knowing the risk, refused to accept it as the only truth. For peoples used to adding new gods to old ones, a religion that tolerated no other was entirely foreign.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-joachim",
+      "prompt": "Whose medieval prophecies of a coming third age convinced the first Franciscans in Mexico that the end of the world was near?",
+      "answer": "Joachim of Fiore",
+      "distractors": [
+        "Thomas Aquinas",
+        "Francis of Assisi",
+        "Bernard of Clairvaux"
+      ],
+      "explanation": "Joachim said missionaries, not priests, would guide humanity to a New Jerusalem. The friars saw signs everywhere: Luther as Antichrist, the feathered serpent, and America as the \"fourth part of the earth\" of Revelation.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-final-judgement",
+      "prompt": "Which linguist friar wrote The Final Judgement (1531), a Nahuatl play performed by some 800 Indigenous actors?",
+      "answer": "Andrés de Olmos",
+      "distractors": [
+        "Pedro de Gante",
+        "Martín de Valencia",
+        "Bernardino de Sahagún"
+      ],
+      "explanation": "Its verdict condemned a woman who had rejected Christian marriage. Plays with real fires for hell were one of the friars' most effective means of conveying the new religion, alongside music.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-jerusalem-1539",
+      "prompt": "For Corpus Christi in 1539, some 1,500 Indigenous performers staged which spectacle?",
+      "answer": "The retaking of Jerusalem",
+      "distractors": [
+        "The conquest of Granada",
+        "The fall of Tenochtitlan",
+        "The battle of Lepanto"
+      ],
+      "explanation": "A Mexican army of Tlaxcalans, Mexica and other peoples marched behind the Spanish one, and many of the defeated \"Moors\" were baptised at the end. The play cast Indigenous people as partners in a global Christian victory.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-music",
+      "prompt": "According to Bishop Zumárraga, what converted the Indians more than preaching did?",
+      "answer": "Music",
+      "distractors": [
+        "Miracles",
+        "Painted images",
+        "Fear of hell"
+      ],
+      "explanation": "Indigenous choirs and orchestras, with instruments they made themselves, were soon performing the same repertoire as Europe's. Nahua cantors ran their own choirs, which were Indigenous institutions as much as Spanish ones.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-indigenous-books",
+      "prompt": "What share of the books produced in sixteenth-century New Spain were written in Indigenous languages?",
+      "answer": "About a third",
+      "distractors": [
+        "Almost none",
+        "About a tenth",
+        "Nearly all"
+      ],
+      "explanation": "Friars wrote well over a hundred grammars, vocabularies, catechisms and sermon books in the first fifty years, covering Nahuatl, Otomí, Purépecha, Zapotec and many other languages. The Spaniards largely gave up imposing Spanish outside the centre.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-marriage",
+      "prompt": "Which sacrament, because of its ban on polygamy, became the friars' main focus and test of conversion in the first decades?",
+      "answer": "Marriage",
+      "distractors": [
+        "Confession",
+        "Extreme unction",
+        "Holy communion"
+      ],
+      "explanation": "Indigenous nobles asked why they should give up their wives when Spaniards kept concubines, and many kept theirs anyway. Couples often married in church and then again with the old rites.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-landa",
+      "prompt": "Which Franciscan provincial led a three-month campaign of torture against Maya converts in Yucatán in 1562, ending with the burning of their books?",
+      "answer": "Diego de Landa",
+      "distractors": [
+        "Bernardino de Sahagún",
+        "Francisco de Toral",
+        "Jacobo de Testera"
+      ],
+      "explanation": "A gifted linguist who had lived closely with the Maya, he turned witch-hunter after idols were found in a cave. The books burned at Maní were a large part of the Maya written record, and only a handful of pre-Hispanic Maya books survive today.",
+      "chapter": 3,
+      "core": true,
+      "feature": "e2-mani-1562"
+    },
+    {
+      "id": "expansion-landa-tortured",
+      "prompt": "About how many Maya were tortured in the Franciscans' Yucatán inquiry of 1562?",
+      "answer": "About 4,500",
+      "distractors": [
+        "About 45",
+        "About 450",
+        "About 45,000"
+      ],
+      "explanation": "Some 158 died and many were crippled by the hoist. Spanish law allowed torture only once and for at most an hour, and in 1563 Landa was sent back to Spain to answer charges.",
+      "chapter": 3,
+      "feature": "e2-mani-1562"
+    },
+    {
+      "id": "expansion-mani",
+      "kind": "where",
+      "prompt": "Where in Yucatán was the auto de fe of July 1562 held, at which the Franciscans burned Maya books and images?",
+      "answer": "Maní, in the centre of the Yucatán peninsula",
+      "explanation": "The inquiry began with a find of idols and skulls in a nearby cave. Maya codices were books of astronomy, ritual and history painted on fig-bark paper, and only a handful survive.",
+      "chapter": 3,
+      "feature": "e2-mani-1562",
+      "tolerance_km": 80
+    },
+    {
+      "id": "expansion-landa-relacion",
+      "prompt": "Which Franciscan account of Maya life and customs, written in the 1560s and unpublished until the nineteenth century, is now a key source on the pre-Hispanic Maya?",
+      "answer": "Relación de las cosas de Yucatán",
+      "distractors": [
+        "Chilam Balam of Chumayel",
+        "Historia de los indios de la Nueva España",
+        "Monarquía indiana"
+      ],
+      "explanation": "Its author, Diego de Landa, knew the Maya intimately. Ironically, it is so valuable partly because Landa himself destroyed most of the Maya books that might have rivalled it.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-sahagun",
+      "prompt": "Which Franciscan, working with Nahua scholars and scribes, compiled the Historia general de las cosas de Nueva España?",
+      "answer": "Bernardino de Sahagún",
+      "distractors": [
+        "Toribio de Motolinía",
+        "Diego Durán",
+        "Andrés de Olmos"
+      ],
+      "explanation": "He arrived in 1529 an iconoclast but decided that idolatry could not be rooted out without understanding it. The result, in parallel Spanish and Nahuatl with painted illustrations, is the great ethnography of the Mexica.",
+      "chapter": 3,
+      "core": true
+    },
+    {
+      "id": "expansion-florentine",
+      "prompt": "Why is the Historia general de las cosas de Nueva España better known as the Florentine Codex?",
+      "answer": "Its finished manuscript ended up in Florence",
+      "distractors": [
+        "It was printed in Florence in 1577",
+        "Florentine artists painted its pictures",
+        "It was dedicated to a Medici pope"
+      ],
+      "explanation": "Official support was withdrawn in the later 1570s and the work was suppressed. The Franciscan Rodrigo de Sequera carried the manuscript to Europe, and it lay little known in the Medici library in Florence until the late eighteenth century.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-tlatelolco",
+      "prompt": "What did the Franciscans found in 1536 to teach Latin, Spanish and theology to the sons of the Indigenous nobility?",
+      "answer": "The Colegio de Santa Cruz de Tlatelolco",
+      "distractors": [
+        "The Royal and Pontifical University",
+        "The Colegio de San Juan de Letrán",
+        "The Jesuit Colegio Máximo"
+      ],
+      "explanation": "About eighty young nobles were to be trained as the vanguard of the new faith among their own people. The college housed one of the first libraries in the Americas.",
+      "chapter": 3,
+      "feature": "e2-colegio-tlatelolco"
+    },
+    {
+      "id": "expansion-pedro-de-gante",
+      "prompt": "Which Flemish Franciscan co-commissioned the 1539 feather painting of the Mass of Saint Gregory sent as a gift to Pope Paul III?",
+      "answer": "Pedro de Gante",
+      "distractors": [
+        "Martín de Valencia",
+        "Jacobo de Testera",
+        "Juan de Zumárraga"
+      ],
+      "explanation": "His partner was the Indigenous governor Don Diego de Alvarado Huanitzin, Montezuma's nephew, and the artist was Nahua. Gillingham uses it as an emblem of the hybrid, cosmopolitan culture that was beginning to emerge.",
+      "chapter": 3
+    },
+    {
+      "id": "expansion-inquisition",
+      "prompt": "In what year did the Holy Office of the Inquisition formally arrive in New Spain?",
+      "answer": "1571",
+      "distractors": [
+        "1524",
+        "1539",
+        "1598"
+      ],
+      "explanation": "Before that bishops had acted as inquisitors, as Zumárraga did. The tribunal made less impact than its reputation suggests, and its officers worried more about secret Jews and European heretics than about Indigenous orthodoxy.",
+      "chapter": 3,
+      "core": true
+    },
+    {
+      "id": "expansion-patronazgo",
+      "prompt": "Whom did the Ordenanza del Patronazgo of 1574 give precedence in New Spain's parishes?",
+      "answer": "Parish priests over the friars",
+      "distractors": [
+        "The friars over parish priests",
+        "The Jesuits over the other orders",
+        "Indigenous lay officials over clergy"
+      ],
+      "explanation": "The secular clergy's rise meant tithes and congregations lost to the friars, and the rivalry led to lawsuits and even violence. By the mid-seventeenth century the priests had the upper hand.",
+      "chapter": 5
+    },
+    {
+      "id": "expansion-guerrero",
+      "prompt": "How did Gonzalo Guerrero, the Spanish castaway who became a Maya war captain at Chetumal, die in the 1530s?",
+      "answer": "Fighting the Spaniards in Honduras",
+      "distractors": [
+        "Leading Montejo's army into Yucatán",
+        "As a prisoner of the Spanish in Mérida",
+        "Of smallpox in Chetumal"
+      ],
+      "explanation": "Shipwrecked in 1511, he married into the family of Chetumal's lord and refused invitations from Cortés and from Montejo to rejoin his countrymen. The Spaniards found him among the dead.",
+      "chapter": 0,
+      "feature": "e2-chetumal-guerrero"
+    },
+    {
+      "id": "expansion-quinto",
+      "prompt": "In 1548, to help struggling silver miners, the Crown cut its production tax from the 20 percent quinto to what rate?",
+      "answer": "10 percent",
+      "distractors": [
+        "5 percent",
+        "15 percent",
+        "2 percent"
+      ],
+      "explanation": "Miners faced scarce labour, guerrilla attacks and unsafe roads, and lacked explosives. As the richest surface ores ran out, costs rose and yields fell.",
+      "chapter": 6
+    },
+    {
+      "id": "expansion-medina",
+      "prompt": "Who introduced the patio process of refining silver ore in New Spain in the 1550s?",
+      "answer": "Bartolomé de Medina",
+      "distractors": [
+        "Juan de Tolosa",
+        "Cristóbal de Oñate",
+        "Diego de Ibarra"
+      ],
+      "explanation": "A Seville merchant, he learned the method from a German and crossed to New Spain to try it. He never received the share of silver he was promised, though the process underpinned three centuries of production.",
+      "chapter": 6,
+      "core": true,
+      "feature": "e2-pachuca-patio"
+    },
+    {
+      "id": "expansion-mercury",
+      "prompt": "Which substance did the patio process use to draw the silver out of crushed ore?",
+      "answer": "Mercury",
+      "distractors": [
+        "Sulphuric acid",
+        "Quicklime",
+        "Charcoal"
+      ],
+      "explanation": "Workers trod a paste of ore, salt, water, copper sulphate and mercury on open patios for about two months; the vapours killed many within a couple of years. Supply was the bottleneck, since the empire's only mercury mines were Almadén in Spain and Huancavelica in Peru.",
+      "chapter": 6,
+      "feature": "e2-pachuca-patio"
+    },
+    {
+      "id": "expansion-pachuca",
+      "kind": "where",
+      "prompt": "Where was the patio process of silver refining first made to work in New Spain, in the 1550s?",
+      "answer": "Pachuca, north-east of Mexico City",
+      "explanation": "Amalgamation made low-grade ores profitable and spread to every major mine in the Americas. Pachuca and nearby Real del Monte remained important mining centres for centuries.",
+      "chapter": 6,
+      "feature": "e2-pachuca-patio",
+      "tolerance_km": 80
+    },
+    {
+      "id": "expansion-guanajuato",
+      "kind": "where",
+      "prompt": "Where was the second great silver district opened around 1550, a few years after Zacatecas, on the edge of the Bajío?",
+      "answer": "Guanajuato, in the Bajío",
+      "explanation": "With Zacatecas, Taxco and Pachuca it set off a silver rush. Its mines and the farms that fed them filled the Bajío with Spanish, mestizo and Indigenous settlers.",
+      "chapter": 6,
+      "feature": "e2-guanajuato",
+      "tolerance_km": 80
+    },
+    {
+      "id": "expansion-santa-barbara",
+      "prompt": "Which silver strike of 1567 pushed the Spanish frontier north into what is now Chihuahua?",
+      "answer": "Santa Bárbara",
+      "distractors": [
+        "Parral",
+        "Sombrerete",
+        "Fresnillo"
+      ],
+      "explanation": "For decades it was the northernmost Spanish settlement on the mainland, and the expeditions to New Mexico of the 1580s and of 1598 set out from it or the nearby valley of San Bartolomé.",
+      "chapter": 6,
+      "feature": "e2-santa-barbara"
+    },
+    {
+      "id": "expansion-peso",
+      "prompt": "What did Spanish-American silver, coined as the peso or \"piece of eight\", become in the world economy?",
+      "answer": "The first global reserve currency",
+      "distractors": [
+        "A coin used only inside the empire",
+        "The basis of the Venetian ducat",
+        "Bullion hoarded but never coined"
+      ],
+      "explanation": "It circulated from the exchanges of Amsterdam to the villages of China, the first US dollars were linked to it, and it stayed legal tender in the US until 1857. American silver doubled Europe's money supply in about a century.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "expansion-supply-towns",
+      "prompt": "Why were towns such as San Miguel (1555), Celaya (1571) and Aguascalientes (1575) founded?",
+      "answer": "To supply and guard the road to the silver mines",
+      "distractors": [
+        "To settle Tlaxcalans after the Chichimeca peace",
+        "To serve as Jesuit mission centres",
+        "To grow sugar for export to Spain"
+      ],
+      "explanation": "The mines needed iron, timber, rope, candles, mules, food and drink, and their wealth created demand for luxuries. Farms and haciendas grew up around the new towns to feed them.",
+      "chapter": 6,
+      "feature": "e2-camino-real"
+    },
+    {
+      "id": "expansion-gomez-de-cervantes",
+      "prompt": "What did Gonzalo Gómez de Cervantes, a conquistador's son and royal official, complain of at the end of the sixteenth century?",
+      "answer": "Former shopkeepers displacing the conquistadors' heirs",
+      "distractors": [
+        "Friars seizing the conquistadors' encomiendas",
+        "Indigenous nobles buying Spanish titles",
+        "Viceroys selling offices to foreigners"
+      ],
+      "explanation": "As settler families slid down, merchants who supplied the mines rose; Gillingham notes that, as in the American West, the merchants rather than the miners got rich.",
+      "chapter": 6
+    },
+    {
+      "id": "expansion-flota",
+      "prompt": "In what year did Philip II make the convoy system, the flota between Spain and the Indies, compulsory?",
+      "answer": "1561",
+      "distractors": [
+        "1522",
+        "1535",
+        "1588"
+      ],
+      "explanation": "Escorting warships, paid for by the merchants, protected the silver from French and English privateers. Correspondence could travel only a couple of times a year, so a single cycle of royal order and follow-up could take five years.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "expansion-relaciones",
+      "prompt": "What were the Relaciones geográficas that Philip II ordered from New Spain in 1577?",
+      "answer": "Questionnaire replies and local maps",
+      "distractors": [
+        "Soldiers' accounts of the conquest",
+        "Logbooks of the Manila galleons",
+        "Records of Inquisition trials"
+      ],
+      "explanation": "Officials answered dozens of questions on geography, climate, history, people and resources, and drew maps of their districts. It was the Crown's first attempt to map terrestrial Mexico.",
+      "chapter": 6
+    },
+    {
+      "id": "expansion-urdaneta",
+      "prompt": "Which Augustinian friar and navigator is traditionally credited with finding the eastward route back across the Pacific in 1565?",
+      "answer": "Andrés de Urdaneta",
+      "distractors": [
+        "Miguel López de Legazpi",
+        "Álvaro de Saavedra",
+        "Ruy López de Villalobos"
+      ],
+      "explanation": "The return route ran north to the westerlies and down the California coast to Acapulco. It made the Manila galleon possible and turned New Spain into the bridge between Europe and Asia.",
+      "chapter": 7,
+      "core": true,
+      "feature": "e2-galleon-eastbound"
+    },
+    {
+      "id": "expansion-lope-martin",
+      "prompt": "Who piloted the first ship to sail back across the Pacific from the Philippines to Mexico, in 1565, only to be written out of the story?",
+      "answer": "Lope Martín, a free mulatto",
+      "distractors": [
+        "Felipe de Salcedo, a Spanish captain",
+        "Juan Sebastián Elcano, a Basque",
+        "Esteban Gómez, a Portuguese"
+      ],
+      "explanation": "The record crossing was credited instead to the Augustinian Andrés de Urdaneta, whose ship arrived some weeks later. Gillingham uses Martín as an example of people who crossed colonial racial boundaries.",
+      "chapter": 7,
+      "feature": "e2-galleon-eastbound"
+    },
+    {
+      "id": "expansion-manila-1575",
+      "prompt": "How did the small Spanish garrison of Manila survive the attack of a Chinese pirate fleet in 1574?",
+      "answer": "Thanks to Filipino auxiliaries",
+      "distractors": [
+        "Thanks to ships sent from Acapulco",
+        "Thanks to a Portuguese fleet from Macao",
+        "Thanks to a typhoon that scattered the fleet"
+      ],
+      "explanation": "The Filipinos outnumbered the Spaniards ten to one. Across the Pacific as in Mexico, Spanish empire depended on local allies.",
+      "chapter": 1
+    },
+    {
+      "id": "expansion-chichimeca-meaning",
+      "prompt": "What did the Nahuatl word \"Chichimeca\", which the Spaniards applied to the peoples of the northern drylands, mean?",
+      "answer": "Barbarians",
+      "distractors": [
+        "Mountain people",
+        "Sons of the sun",
+        "People of the reeds"
+      ],
+      "explanation": "The label lumped together Pames, Guamares, Zacatecos, Guachichiles and others. Mobile and skilled at guerrilla war, they halted Spanish progress north from 1550 until the peace of the 1590s.",
+      "chapter": 1,
+      "feature": "e2-gran-chichimeca"
+    },
+    {
+      "id": "expansion-chichimeca-cause",
+      "prompt": "What provoked the Chichimeca War that began around 1550?",
+      "answer": "Spanish slave raids and the push to the mines",
+      "distractors": [
+        "A rising of the Caxcan of Nueva Galicia",
+        "The founding of Jesuit missions in Sinaloa",
+        "Coronado's march to the pueblos of Cíbola"
+      ],
+      "explanation": "The road to Zacatecas cut through the drylands, and the northern peoples answered with ambushes and raids on wagon trains and towns. At times they raided within fifty miles of Mexico City.",
+      "chapter": 1,
+      "feature": "e2-gran-chichimeca"
+    },
+    {
+      "id": "expansion-flotillas",
+      "prompt": "Because the northern desert was thought of like an ocean, what were the wagon trains that crossed it called?",
+      "answer": "Flotillas",
+      "distractors": [
+        "Escuadras",
+        "Armadas",
+        "Cuadrillas"
+      ],
+      "explanation": "Sixty years of war against semi-nomadic peoples (about 1541 to 1600) and the cost of exploration made Spaniards wary of the north for more than a century.",
+      "chapter": 3,
+      "feature": "e2-camino-real"
+    },
+    {
+      "id": "expansion-new-mexico-1599",
+      "prompt": "What sentence did the Spaniards who invaded New Mexico impose on the Pueblo prisoners they took in 1599?",
+      "answer": "Twenty years of personal servitude",
+      "distractors": [
+        "Burning at the stake as rebels",
+        "Exile to the Philippines for life",
+        "Release after baptism and a fine"
+      ],
+      "explanation": "The prisoners were survivors of Acoma, stormed after its people killed a party of Spanish soldiers. Despite repeated bans, enslavement in all but name persisted on the frontiers.",
+      "chapter": 7,
+      "feature": "e2-acoma"
+    },
+    {
+      "id": "expansion-philip-ii",
+      "prompt": "Which king ruled Spain and the Indies from 1556 to 1598, reading and annotating the paperwork of empire himself?",
+      "answer": "Philip II",
+      "distractors": [
+        "Charles V",
+        "Philip III",
+        "Ferdinand of Aragon"
+      ],
+      "explanation": "He banned viceroys from employing relatives or accepting gifts, made Madrid the seat of government and began splitting the Council of the Indies into committees, but never produced a single law code for New Spain.",
+      "chapter": 5
+    }
+  ]
+}

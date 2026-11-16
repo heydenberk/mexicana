@@ -1,0 +1,1244 @@
+{
+  "era": "bourbon",
+  "cards": [
+    {
+      "id": "bourbon-1",
+      "kind": "where",
+      "prompt": "Where did Jacinto Canek's Maya rising of 1761 break out, at a village fiesta in the Yucatán interior?",
+      "answer": "Cisteil, in central Yucatán",
+      "explanation": "In Cisteil, in the Sotuta district of the Yucatán interior, Jacinto Uc de los Santos had himself crowned king as Canek and called on the surrounding villages to drive out the Spaniards. Militiamen stormed the fortified village on 26 November, and Canek was executed in the main square of Mérida on 14 December.",
+      "chapter": 8,
+      "feature": "e4-canek-1761"
+    },
+    {
+      "id": "bourbon-2",
+      "prompt": "Which visitor-general, sent to New Spain in 1765, reorganised its treasury and set up the tobacco monopoly?",
+      "answer": "José de Gálvez",
+      "distractors": [
+        "Teodoro de Croix",
+        "Gaspar de Portolá",
+        "Juan Bautista de Anza"
+      ],
+      "explanation": "Gálvez's inspection of 1765–71 was meant to raise revenue and tighten royal control; he also organised the Sonora campaign and the occupation of Alta California. As Minister of the Indies from the mid-1770s he went on to create the Provincias Internas and the intendancies, the core of the Bourbon reforms in New Spain.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e4-galvez-visita"
+    },
+    {
+      "id": "bourbon-3",
+      "prompt": "To control supply, the royal tobacco monopoly confined legal tobacco growing to one small district. Which?",
+      "answer": "Around Córdoba and Orizaba",
+      "distractors": [
+        "Around Pátzcuaro and Uruapan",
+        "Around Cuernavaca and Cuautla",
+        "Around Celaya and Salamanca"
+      ],
+      "explanation": "Licensed growers there, on the eastern escarpment, sold their whole crop to the crown, and troops uprooted plantings elsewhere. The cigars and cigarettes were made in state factories, and the monopoly became one of the crown's biggest sources of revenue in New Spain.",
+      "feature": "e4-tobacco-growing"
+    },
+    {
+      "id": "bourbon-4",
+      "prompt": "Which royal measure did crowds at San Luis de la Paz, San Luis Potosí and Guanajuato try to stop in June and July 1767?",
+      "answer": "The expulsion of the Jesuits",
+      "distractors": [
+        "The creation of the intendancies",
+        "The Consolidación de Vales Reales",
+        "The creation of the Provincias Internas"
+      ],
+      "explanation": "Troops surrounded the Jesuit houses of New Spain at dawn on 25 June 1767, and several hundred Jesuits were shipped into exile in Italy. The riots, which also protested new taxes and the tobacco monopoly, were the most serious challenge to Spanish rule before 1810; Gálvez answered with summary trials, executions and banishments.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e4-jesuit-expulsion"
+    },
+    {
+      "id": "bourbon-5",
+      "kind": "where",
+      "prompt": "Where did Junípero Serra found the first Franciscan mission of Alta California in 1769?",
+      "answer": "San Diego, in Alta California",
+      "explanation": "With Russian traders active in Alaska, Gálvez ordered San Diego and Monterey occupied. From San Diego the governor, Gaspar de Portolá, led some sixty men north, and his party became the first Europeans known to have seen San Francisco Bay.",
+      "feature": "e4-san-diego"
+    },
+    {
+      "id": "bourbon-6",
+      "prompt": "In 1776 the northern provinces became a separate military command, the Provincias Internas. Which town did its first commandant general, Teodoro de Croix, make his capital?",
+      "answer": "Arizpe",
+      "distractors": [
+        "Santa Fe",
+        "San Antonio de Béxar",
+        "Monterey"
+      ],
+      "explanation": "Croix proclaimed the Sonoran river town of Arizpe the capital in January 1780; it lay far from the Apache and Comanche frontiers of Chihuahua, Coahuila and Texas. Pedro de Nava moved the headquarters of the reunited command to Chihuahua in 1793.",
+      "feature": "e4-arizpe"
+    },
+    {
+      "id": "bourbon-7",
+      "prompt": "In which year did the Real Ordenanza de Intendentes divide New Spain into twelve intendancies?",
+      "answer": "1786",
+      "distractors": [
+        "1776",
+        "1778",
+        "1795"
+      ],
+      "explanation": "The intendants took over justice, finance, war and public works from the old alcaldes mayores. Most Mexican states descend from the intendancies: Guanajuato, the smallest in area and the heart of the Bajío, survives almost unchanged as the modern state.",
+      "core": true,
+      "feature": "e4-int-guanajuato",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-8",
+      "kind": "where",
+      "prompt": "Where was the Valenciana, the silver mine that made Antonio de Obregón y Alcocer Count of Valenciana?",
+      "answer": "Guanajuato, in the Bajío",
+      "explanation": "Obregón struck rich ore in the late 1760s in an abandoned vein north of Guanajuato, and the Valenciana helped make Guanajuato the leading silver district of New Spain. With Catorce, it shows how the reduced mercury prices and tax concessions of the Bourbon reforms helped silver output reach its colonial peak around 1800.",
+      "feature": "e4-valenciana"
+    },
+    {
+      "id": "bourbon-9",
+      "prompt": "What did the Consolidación de Vales Reales of 1804 order?",
+      "answer": "Church loans to be called in and the money sent to Spain",
+      "distractors": [
+        "Jesuit colleges and haciendas to be confiscated",
+        "Legal tobacco growing to be confined to one district",
+        "Trade to be opened with more Spanish ports"
+      ],
+      "explanation": "To pay for its wars, the crown called in the church charitable funds that had been lent out as mortgages. Thousands of landowners, miners and merchants had to repay or lose their property, alienating much of creole society and the lower clergy before the measure was suspended in 1808.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e4-consolidacion"
+    },
+    {
+      "id": "bourbon-10",
+      "prompt": "Who led the peninsular merchants who seized Viceroy Iturrigaray in his palace in September 1808?",
+      "answer": "Gabriel de Yermo",
+      "distractors": [
+        "Pedro Garibay",
+        "José Mariano Michelena",
+        "Francisco de Gamboa"
+      ],
+      "explanation": "After Napoleon forced the Spanish Bourbons to abdicate, Iturrigaray had seemed to sympathise with the creole city council's call for a provisional government. The coup installed the elderly Pedro Garibay as viceroy and, by closing the legal path to self-government, pushed creoles toward conspiracy and rebellion.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e4-coup-1808"
+    },
+    {
+      "id": "bourbon-charles-iii",
+      "prompt": "Under which Spanish king did the Bourbon reforms become a genuine revolution in the government of New Spain, from the 1760s?",
+      "answer": "Charles III",
+      "distractors": [
+        "Philip V",
+        "Ferdinand VI",
+        "Charles IV"
+      ],
+      "explanation": "The Bourbons had ruled Spain since early in the century, but under the first two Bourbon kings much of the Habsburg system, including the sale of offices to creoles, carried on. The ambitious Charles III, king from 1759, pushed through the sweeping changes.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-fiscal-motive",
+      "prompt": "What, in Gillingham's account, gave the final push to the Bourbon reforms in the Americas?",
+      "answer": "The soaring cost of war and defence",
+      "distractors": [
+        "Enlightenment ideas of popular rights",
+        "Creole demands for representation",
+        "A collapse in silver production"
+      ],
+      "explanation": "The motive was money for defence rather than ideas: a single ship of the line cost around 100,000 pesos, and defeat in the Seven Years War showed that Spain needed real military power in the Americas. The colonies, which had long contributed little to their own defence, would now be made to pay for it.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-seven-years-war",
+      "prompt": "During the Seven Years War, British forces occupied which two keys of Spain's overseas empire in 1762?",
+      "answer": "Havana and Manila",
+      "distractors": [
+        "Veracruz and Acapulco",
+        "Cartagena and Portobelo",
+        "Buenos Aires and Montevideo"
+      ],
+      "explanation": "Spain and France lost the war (1756–63) to British sea power, and the temporary loss of Havana and Manila showed how exposed the empire was. Charles III's answer was a military build-up in the Americas, paid for by the Americans themselves.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-florida-1763",
+      "prompt": "In the 1763 Treaty of Paris that ended the Seven Years War, which colony did Spain cede to Britain?",
+      "answer": "Florida",
+      "distractors": [
+        "Louisiana",
+        "Texas",
+        "Jamaica"
+      ],
+      "explanation": "Britain took almost all the land east of the Mississippi, which in practice meant little beyond Florida but set a worrying precedent. France had already handed Louisiana to Spain, which is why the old Texas capital facing French Louisiana, Los Adaes, could be abandoned.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-army",
+      "prompt": "By the end of the colony, roughly how large was the army the Bourbons had built in New Spain?",
+      "answer": "About 10,000 regulars and 22,000 militiamen",
+      "distractors": [
+        "About 2,000 regulars and 5,000 militiamen",
+        "About 22,000 regulars and 10,000 militiamen",
+        "About 50,000 regulars and 100,000 militiamen"
+      ],
+      "explanation": "Before the 1760s New Spain had only small garrisons, but after the Seven Years War the crown wanted a real military presence in the Americas. The new force, which included two regiments of light cavalry, was paid for by new taxes and monopolies.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-militia-taxmen",
+      "prompt": "Because even a tax census could spark a riot, who had to accompany the Bourbon tax collectors?",
+      "answer": "Militiamen",
+      "distractors": [
+        "Parish priests",
+        "Inquisitors",
+        "Indigenous governors"
+      ],
+      "explanation": "Money raised for the army had to be collected with the army's help. Gillingham counts weak tax collection among the main practical reasons why the Bourbons militarised the whole system of government.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-revenue",
+      "prompt": "How did royal revenues from New Spain change between 1763 and 1782?",
+      "answer": "From 6 to 20 million pesos a year",
+      "distractors": [
+        "From 2 to 3 million pesos a year",
+        "From 20 to 60 million pesos a year",
+        "From 6 to 4 million pesos a year"
+      ],
+      "explanation": "New income, sales and export taxes and the tobacco monopoly more than trebled the crown's take, and church wealth was tapped as well. About ten million a year went on the defence of the hemisphere.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-tax-burden",
+      "prompt": "By the 1780s, how did the tax paid per head in New Spain compare with that paid in Spain?",
+      "answer": "About two-thirds higher",
+      "distractors": [
+        "About the same",
+        "About half as much",
+        "About ten times higher"
+      ],
+      "explanation": "Mexicans were paying some 67 per cent more per head than Spaniards. With population growth and failed harvests, the squeeze cut living standards sharply, and taxes on food production pushed up retail food prices.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-cofradias",
+      "prompt": "The Bourbons began to tap the community funds of which Indigenous lay brotherhoods?",
+      "answer": "Cofradías",
+      "distractors": [
+        "Calpullis",
+        "Audiencias",
+        "Consulados"
+      ],
+      "explanation": "Cofradías paid for village fiestas, held common lands and served as a kind of social security, and their funds had traditionally been beyond the reach of government. Reaching into them was one of the Bourbon measures that turned the reforms into a grievance in the villages.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-intendants",
+      "prompt": "Which new royal officials, mostly peninsular, replaced the provincial governors of New Spain under the Bourbon reforms?",
+      "answer": "Intendants",
+      "distractors": [
+        "Corregidores",
+        "Encomenderos",
+        "Oidores"
+      ],
+      "explanation": "The intendants were part of an attempt to bring Mexico into line with Europe, centralising the treasury and taking economic control away from the viceroy. Together with salaried tax collectors protected by soldiers, they were meant to make government both more efficient and more profitable.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-subdelegates",
+      "prompt": "Under the intendancy system, which officials took the place of the old alcaldes mayores in the districts?",
+      "answer": "Subdelegates",
+      "distractors": [
+        "Visitors-general",
+        "Caciques",
+        "Regidores"
+      ],
+      "explanation": "The alcaldes mayores had combined local justice with private trading, above all forced credit to Indigenous producers. Replacing them with subdelegates under the intendants was meant to end that and tighten royal control.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-peninsular-posts",
+      "prompt": "Who received the overwhelming majority of the new administrative posts created by the Bourbon reforms?",
+      "answer": "Peninsulares, Spaniards born in Spain",
+      "distractors": [
+        "Creoles, Spaniards born in Mexico",
+        "Mestizo militia officers",
+        "Indigenous caciques"
+      ],
+      "explanation": "Under the Habsburgs creoles had bought many offices, including most seats on the audiencia. Bringing in Spanish officials and pushing out Mexican administrators was one of the reforms creoles resented most.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-military-viceroys",
+      "prompt": "How did the background of the viceroys of New Spain change under the Bourbons?",
+      "answer": "Military men replaced aristocrats",
+      "distractors": [
+        "Creoles replaced Spaniards",
+        "Bishops replaced soldiers",
+        "Merchants replaced nobles"
+      ],
+      "explanation": "Under the Habsburgs viceroys had been aristocrats; under the Bourbons ability counted for more than bloodline, and some later viceroys were not nobles at all. Nepotism did not vanish, though: the great Revillagigedo was made captain of the viceroy's guard by his father at the age of nine.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-just-so-story",
+      "prompt": "Which story about the Bourbon reforms does Gillingham call a nationalist \"just-so story\"?",
+      "answer": "That they made independence inevitable",
+      "distractors": [
+        "That they raised royal revenues",
+        "That they expelled the Jesuits",
+        "That they favoured peninsulares"
+      ],
+      "explanation": "The reforms did multiply grievances, but in Gillingham's account independence was not their inevitable result. New Spain stayed largely at peace for four decades after 1767, and the break came from events in Europe.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-tobacco-rank",
+      "prompt": "By 1800, which was the most lucrative industry in New Spain after silver mining?",
+      "answer": "The tobacco monopoly",
+      "distractors": [
+        "Woollen textile mills",
+        "Pulque brewing",
+        "Cane sugar refining"
+      ],
+      "explanation": "Tobacco was a state monopoly. Mexico had become a country of chain-smokers, and the cigarette trade was worth three to four million pesos a year. Huge state cigarette factories spread through the main cities.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e4-tobacco-factory"
+    },
+    {
+      "id": "bourbon-tobacco-demand",
+      "prompt": "Why could the crown make so much money from its tobacco monopoly?",
+      "answer": "Smokers kept buying whatever the price",
+      "distractors": [
+        "Tobacco was exported to China",
+        "Its workers were unpaid convicts",
+        "It was exempt from the sales tax"
+      ],
+      "explanation": "For the poor, a smoke was one of the few dependable pleasures in a short and precarious life, so demand was what economists call inelastic. The picaresque hero of Mexico's first novel spends any coins he gets on cigarettes before anything but food.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-pulque-tax",
+      "prompt": "Around 1800 the tax on pulque raised over 800,000 pesos a year. Roughly what share of the total Indian tribute was that?",
+      "answer": "About half",
+      "distractors": [
+        "About a tenth",
+        "About twice as much",
+        "About five times as much"
+      ],
+      "explanation": "The tribute, a flat head tax on Indigenous people, was a mainstay of royal revenue, so pulque was a major fiscal asset. Tax records undercount, since much pulque was sold illicitly.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-pulque-haciendas",
+      "prompt": "Which religious order pioneered the commercial pulque haciendas that spread after the mid-eighteenth century?",
+      "answer": "The Jesuits",
+      "distractors": [
+        "The Franciscans",
+        "The Dominicans",
+        "The Augustinians"
+      ],
+      "explanation": "Pulque had been brewed by peasants since Aztec times, but large estates now grew maguey on an industrial scale for the city market. The Count of Regla ran the Hacienda de Santa Lucía this way and owned seven of Mexico City's forty-five pulquerías.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-jesuit-blunder",
+      "prompt": "How does Gillingham judge the expulsion of the Jesuits from the Spanish empire?",
+      "answer": "The greatest blunder in Spanish imperial history",
+      "distractors": [
+        "A necessary end to Jesuit misrule",
+        "A minor affair, little noticed in Mexico",
+        "The direct spark of the war of 1810"
+      ],
+      "explanation": "It was the culmination of a broader royal anticlericalism. The expulsion removed the colony's leading educators, bankers and providers of relief and set off the most dangerous risings New Spain saw before 1810.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-jesuit-number",
+      "prompt": "Roughly how many Jesuits were expelled from New Spain in 1767?",
+      "answer": "Nearly 700",
+      "distractors": [
+        "About 50",
+        "About 3,000",
+        "About 15,000"
+      ],
+      "explanation": "Gillingham counts 678; other tallies run to about 680. They were marched to Veracruz and shipped off into poor and lasting exile.",
+      "chapter": 8,
+      "feature": "e4-jesuit-expulsion"
+    },
+    {
+      "id": "bourbon-jesuit-exile",
+      "prompt": "Where did the Jesuits expelled from New Spain end up in exile?",
+      "answer": "Italy",
+      "distractors": [
+        "The Philippines",
+        "France",
+        "Portugal"
+      ],
+      "explanation": "They were shipped from Veracruz by way of Havana and Spain to the Papal States. Portugal and France had already expelled the order themselves.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-jesuit-creoles",
+      "prompt": "Roughly what share of the Jesuits in New Spain in 1767 were Mexican-born?",
+      "answer": "About three-quarters",
+      "distractors": [
+        "About a tenth",
+        "About a quarter",
+        "Almost none"
+      ],
+      "explanation": "The expulsion was in part an ethnic, even national, story: Mexican priests and Indigenous rioters on one side; on the other, a Spanish visitor-general, a viceroy from Lille and Spanish troops.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-jesuit-madrid",
+      "prompt": "In 1766 the Jesuits were believed to have conspired in what event, which helped seal their fate?",
+      "answer": "A major riot in Madrid",
+      "distractors": [
+        "The Canek rising in Yucatán",
+        "A mutiny of the Havana garrison",
+        "A plot to crown a creole king"
+      ],
+      "explanation": "The crown already resented the order's loyalty to the pope, its wealth and its independent thinking; a Jesuit had once even written in defence of tyrannicide. Seizing Jesuit property was also tempting to a government short of money.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-jesuit-roles",
+      "prompt": "Besides running missions on the northern frontier, what roles made the Jesuits central to viceregal society?",
+      "answer": "Educators, bankers and providers of relief",
+      "distractors": [
+        "Judges, tax collectors and jailers",
+        "Shipbuilders, gunners and engineers",
+        "Mint officers, assayers and mine owners"
+      ],
+      "explanation": "In Guanajuato's floods and smallpox of 1760 the Jesuits brought food and sacraments, nursed the sick and buried the dead; at the same time they were founding a college there for the children of the rich.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-jesuit-heresy",
+      "prompt": "How did an Indigenous flyer at San Luis de la Paz describe the expulsion of the Jesuits in 1767?",
+      "answer": "As a heresy that would destroy the kingdom",
+      "distractors": [
+        "As just punishment for Jesuit greed",
+        "As a welcome end to mission labour",
+        "As the dawn of creole independence"
+      ],
+      "explanation": "The risings were ideologically coherent: rioters cast resistance as the duty of good Catholics. In San Luis de la Paz a crowd chased the royal treasurer Felipe Cleere across the rooftops and nearly killed him.",
+      "chapter": 8,
+      "feature": "e4-riot-san-luis-de-la-paz"
+    },
+    {
+      "id": "bourbon-croix-viceroy",
+      "prompt": "Who was viceroy of New Spain when the Jesuits were expelled in 1767?",
+      "answer": "The Marqués de Croix",
+      "distractors": [
+        "Antonio María de Bucareli",
+        "The Count of Revillagigedo",
+        "José de Iturrigaray"
+      ],
+      "explanation": "Croix, a nobleman from Lille, worked alongside Gálvez in imposing the expulsion and crushing the riots. His nephew Teodoro de Croix later became the first commandant general of the Provincias Internas.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-galvez-executions",
+      "prompt": "About how many rebels did José de Gálvez have executed after the risings against the Jesuit expulsion?",
+      "answer": "About eighty",
+      "distractors": [
+        "About eight",
+        "About eight hundred",
+        "About eight thousand"
+      ],
+      "explanation": "Gillingham gives eighty; Priestley's count is 85. Hundreds more were jailed, flogged or banished, communities lost their lands and some rebels had hands cut off, and decades later ordinary people still remembered Gálvez as a brute.",
+      "chapter": 8,
+      "feature": "e4-galvez-repression"
+    },
+    {
+      "id": "bourbon-galvez-french",
+      "prompt": "Before rising in royal service, José de Gálvez had made his name as a lawyer for which embassy in Madrid?",
+      "answer": "The French embassy",
+      "distractors": [
+        "The British embassy",
+        "The papal nunciature",
+        "The Portuguese embassy"
+      ],
+      "explanation": "Gálvez was afrancesado, Frenchified, and had married a wealthy Frenchwoman. He and his circle made little secret of their contempt for Americans.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-galvez-relatives",
+      "prompt": "Which relatives of José de Gálvez later became viceroys of New Spain?",
+      "answer": "His brother and his nephew",
+      "distractors": [
+        "His two sons",
+        "His son and his son-in-law",
+        "His father and his uncle"
+      ],
+      "explanation": "His brother Matías and nephew Bernardo both held the post in the 1780s. Family patronage remained a road to the top even under the reforming Bourbons.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-canek-title",
+      "prompt": "What title did Jacinto Canek take when he led the Maya rising of 1761 in Yucatán?",
+      "answer": "Chichán Moctezuma, \"Little Moctezuma\"",
+      "distractors": [
+        "Tupac Amaru, \"the Inca reborn\"",
+        "Kukulcán, \"the Feathered Serpent\"",
+        "Ah Kin, \"the Sun Priest\""
+      ],
+      "explanation": "Canek put on the cloak and crown of the church's image of the Virgin, raised some 1,500 followers and promised a drink that would revive anyone killed in his war. For all its messianic sweep, the rising stayed local.",
+      "chapter": 8,
+      "feature": "e4-canek-1761"
+    },
+    {
+      "id": "bourbon-canek-razed",
+      "prompt": "What did the Spanish do to Canek's village after crushing the Maya rising of 1761?",
+      "answer": "Razed it to the ground",
+      "distractors": [
+        "Made it a presidio",
+        "Granted it to a hacienda",
+        "Resettled it with Spaniards"
+      ],
+      "explanation": "Almost the whole provincial militia was mustered against the rebels, and Canek was executed with exemplary cruelty. The harshness reflected how rare an ideologically ambitious rising was in New Spain.",
+      "chapter": 8,
+      "feature": "e4-canek-1761"
+    },
+    {
+      "id": "bourbon-what-did-not-happen",
+      "prompt": "Gillingham argues that in late-colonial New Spain the most important thing was what did not happen. What did not happen?",
+      "answer": "A large-scale rebellion against Spain",
+      "distractors": [
+        "A sharp rise in royal taxation",
+        "An expulsion of the Jesuits",
+        "A boom in silver output"
+      ],
+      "explanation": "While other modernising empires faced revolts in Peru, Russia, British North America, France and Haiti, New Spain stayed largely at peace between 1767 and 1810. Its alleged conspiracies were tiny and ill-armed.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-tupac-amaru",
+      "prompt": "Which Andean leader's rising of 1780 nearly cost Spain the viceroyalty of Peru, in contrast with quiet New Spain?",
+      "answer": "Tupac Amaru II",
+      "distractors": [
+        "Juan Santos Atahualpa",
+        "Manco Inca",
+        "Jacinto Canek"
+      ],
+      "explanation": "A wealthy cacique who claimed the mantle of the Inca emperors, he led tens of thousands of Indigenous peasants against Spanish rule. Nothing comparable happened in Mexico, where the Bourbon reforms produced more riots but no colony-wide threat.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-machetes",
+      "prompt": "A 1799 Mexico City plot to set up an \"American National Convention\" is named after the weapons its plotters hoarded. What is it called?",
+      "answer": "The Conspiracy of the Machetes",
+      "distractors": [
+        "The Conspiracy of the Lances",
+        "The Conspiracy of the Muskets",
+        "The Conspiracy of the Pikes"
+      ],
+      "explanation": "Two tax collectors and nine other men had gathered an arsenal of 19 machetes and five swords. The authorities thought them so harmless that they got only two and a half years in jail.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-riots-bargaining",
+      "prompt": "How does Gillingham interpret the many village riots of colonial Mexico?",
+      "answer": "As bargaining that propped up the system",
+      "distractors": [
+        "As failed bids for independence",
+        "As race wars against all Spaniards",
+        "As risings staged by the clergy"
+      ],
+      "explanation": "There were over 140 riots in central Mexico and Oaxaca between 1680 and 1811. Most followed a set pattern of protest, church bells, stones and officials run out of town; the authorities avoided mass reprisals and usually negotiated a settlement.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-riots-women",
+      "prompt": "Which group often led village riots in colonial Mexico and supplied many of their foot soldiers?",
+      "answer": "Women",
+      "distractors": [
+        "Parish priests",
+        "Militia officers",
+        "Hacienda foremen"
+      ],
+      "explanation": "As the household's accountants and managers, women were quick to feel threats to food, health and religion. In Teotitlán del Valle in 1796 a crowd of women with stones marched on the hated smallpox infirmary.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-teotitlan",
+      "prompt": "In 1796, which Zapotec weaving town near Oaxaca rioted against a smallpox lockdown, a quarantine infirmary and burials outside the church?",
+      "answer": "Teotitlán del Valle",
+      "distractors": [
+        "Villa de Mitla",
+        "Tlacolula de Matamoros",
+        "Villa de Zaachila"
+      ],
+      "explanation": "Militia sealed the town, sick children were taken from their parents to an infirmary, and the dead were denied church burial, until a crowd led by women stormed the infirmary. Accounts of the outcome differ: Gillingham says the town won its main demands, while other sources record floggings and the quarantine kept.",
+      "chapter": 8,
+      "feature": "e4-teotitlan-1796"
+    },
+    {
+      "id": "bourbon-vaccine",
+      "prompt": "Which disease did the Real Expedición Filantrópica de la Vacuna target when it reached New Spain in 1804?",
+      "answer": "Smallpox",
+      "distractors": [
+        "Yellow fever",
+        "Typhus",
+        "Measles"
+      ],
+      "explanation": "It was the world's first global vaccination programme, and its success in New Spain was startling: officials vaccinated thousands a month in Puebla and most newborns in Chihuahua. It shows the Bourbon state at its most enlightened and effective.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-vaccine-church",
+      "prompt": "Which institution threw its weight behind the smallpox vaccination campaign after 1804, with processions, Te Deums and pastoral letters?",
+      "answer": "The Church",
+      "distractors": [
+        "The merchant guild",
+        "The mining tribunal",
+        "The audiencia"
+      ],
+      "explanation": "Bishops and priests worked with officials, and when professional vaccinators became too expensive, barbers, curanderos and even hacienda workers with cactus spines did the job.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-humboldt-inequality",
+      "prompt": "Which visiting scientist called Mexico \"the country of inequality\" on the eve of independence?",
+      "answer": "Alexander von Humboldt",
+      "distractors": [
+        "Alessandro Malaspina",
+        "José Antonio Alzate",
+        "Guillermo Dupaix"
+      ],
+      "explanation": "Humboldt, who travelled through New Spain in 1803–04, wrote that nowhere was fortune so unequally distributed. He also stressed the long peace the country had enjoyed since the sixteenth century: mass misery had not produced mass revolt.",
+      "chapter": 8,
+      "core": true,
+      "feature": "e4-humboldt"
+    },
+    {
+      "id": "bourbon-unmapped-north",
+      "prompt": "Around 1800, a famous visiting scientist judged northern Mexico to be about as well surveyed as which region?",
+      "answer": "Sub-Saharan Africa",
+      "distractors": [
+        "Western Europe",
+        "Spain itself",
+        "The coast of China"
+      ],
+      "explanation": "Humboldt found that nobody was quite sure where El Paso lay. Most European maps even left out the city of Guanajuato, and none showed Real de Catorce, among the richest mining centres in the world.",
+      "chapter": 6
+    },
+    {
+      "id": "bourbon-richest-families",
+      "prompt": "Around 1800, how many of the eighteen wealthiest families in the Western Hemisphere were Mexican?",
+      "answer": "All eighteen",
+      "distractors": [
+        "Only two",
+        "Only six",
+        "Exactly half"
+      ],
+      "explanation": "They were great mining and merchant dynasties who spent on palaces, paintings and lavish carriages. At the other end of the scale real wages were falling to the edge of survival.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-silver-output",
+      "prompt": "By 1800, roughly how much silver were Mexico's mines producing a year?",
+      "answer": "About 20 million pesos' worth",
+      "distractors": [
+        "About 2 million pesos' worth",
+        "About 200 million pesos' worth",
+        "About 500,000 pesos' worth"
+      ],
+      "explanation": "After long growth, output reached an all-time high around the turn of the century. Mexican pesos, hard to clip and universally accepted, circulated around the world.",
+      "chapter": 6,
+      "core": true
+    },
+    {
+      "id": "bourbon-guanajuato-population",
+      "prompt": "About how many people lived in the mining city of Guanajuato and its district around 1800?",
+      "answer": "About 70,000",
+      "distractors": [
+        "About 7,000",
+        "About 250,000",
+        "About 700,000"
+      ],
+      "explanation": "Guanajuato was the leading silver district of New Spain, yet most European maps of the day left it out. Its intendancy was the smallest in area but one of the most densely peopled.",
+      "chapter": 6
+    },
+    {
+      "id": "bourbon-ore-share",
+      "prompt": "What did late-colonial silver magnates take away from mineworkers, besides cutting their wages?",
+      "answer": "Their customary share of the ore",
+      "distractors": [
+        "Their seats on the town council",
+        "Their exemption from tribute",
+        "Their right to a Sunday rest"
+      ],
+      "explanation": "Squeezed by mercury shortages and the cost of ever-deeper shafts, owners cut the workers' traditional share, paid in ore, and called in troops against strikers. Pedro Romero de Terreros pushed his free workers at Real del Monte so hard that they rebelled.",
+      "chapter": 8,
+      "feature": "e4-real-del-monte"
+    },
+    {
+      "id": "bourbon-mercury",
+      "prompt": "Which essential imported input for refining silver was in short supply in the late colony, squeezing mine owners?",
+      "answer": "Mercury",
+      "distractors": [
+        "Coal",
+        "Tin",
+        "Sulphur"
+      ],
+      "explanation": "Mercury was used to extract silver from crushed ore, and the British blockade made it scarcer still. In 1809 the intendant of Guanajuato listed its scarcity among the signs of coming disaster.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-romero-ships",
+      "prompt": "Which mining magnate was rich enough to give the king two 112-gun ships of the line?",
+      "answer": "Pedro Romero de Terreros",
+      "distractors": [
+        "Antonio de Obregón y Alcocer",
+        "Gabriel de Yermo",
+        "José de la Borda"
+      ],
+      "explanation": "An Andalusian immigrant who started in his uncle's shop in Querétaro, Romero made a fortune draining and working Pachuca's Veta Vizcaína. He lent money to the crown, was made Count of Regla, and was reputed by 1771 to be the richest man in the world.",
+      "chapter": 4
+    },
+    {
+      "id": "bourbon-monte-de-piedad",
+      "prompt": "Which institution, founded by the Count of Regla, stood on the main square of Mexico City?",
+      "answer": "The Monte de Piedad pawnshop",
+      "distractors": [
+        "The Royal Mint",
+        "The Mining College",
+        "The Academy of San Carlos"
+      ],
+      "explanation": "The charitable pawnshop was part of a rough-and-ready safety net with monasteries, confraternities and poorhouses. Its founder, the silver magnate Pedro Romero de Terreros, also gave money to buy food for the hungry.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-real-del-monte",
+      "kind": "where",
+      "prompt": "Where were the silver mines of the Veta Vizcaína, whose owner became the Count of Regla?",
+      "answer": "Real del Monte, above Pachuca",
+      "explanation": "Pedro Romero de Terreros spent a fortune draining the flooded vein and made it one of the richest mines in the world. When he cut wages and the workers' share of the ore in 1766, the miners struck and killed the district magistrate.",
+      "chapter": 6,
+      "feature": "e4-real-del-monte"
+    },
+    {
+      "id": "bourbon-catorce",
+      "kind": "where",
+      "prompt": "Where was Real de Catorce, the silver boom town of the 1770s that European maps of the day ignored?",
+      "answer": "In the Sierra de Catorce, northern San Luis Potosí",
+      "explanation": "A rich vein was found there in 1773, and within a decade dozens of mines were working it. Today it is almost a ghost town.",
+      "chapter": 6,
+      "feature": "e4-catorce"
+    },
+    {
+      "id": "bourbon-free-trade-textiles",
+      "prompt": "What did the late-Bourbon policy of \"free trade\" do to Mexico's textile producers?",
+      "answer": "Exposed them to cheap imported cloth",
+      "distractors": [
+        "Gave them the Spanish market",
+        "Exempted them from sales tax",
+        "Won them the army's uniform orders"
+      ],
+      "explanation": "Cheap Catalan and later British cloth drove down prices, and the hardship spread from the workshop owners to shepherds and to women who spun yarn at home.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-free-trade-year",
+      "prompt": "In which year did Spain's regulation of \"free trade\" open commerce between many more Spanish and American ports?",
+      "answer": "1778",
+      "distractors": [
+        "1750",
+        "1767",
+        "1808"
+      ],
+      "explanation": "It broke the old monopoly of a few licensed ports and weakened the Mexico City merchant guild's hold on imports; New Spain was fully included only in 1789. Trade grew strongly until the wars with Britain cut it off.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-woollen-mills",
+      "prompt": "Who made up much of the workforce of late-colonial woollen mills, kept in dusty, unventilated rooms?",
+      "answer": "Prisoners and people arrested as vagrants",
+      "distractors": [
+        "Apprentices of the craft guilds",
+        "Jesuit-trained Indigenous weavers",
+        "Immigrant Catalan artisans"
+      ],
+      "explanation": "An 1801 report described half-naked workers shut in at the looms in airless rooms, breathing a dust that gave them tuberculosis. Such mills were already declining as the big state cigarette factories grew.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-shorter-poor",
+      "prompt": "Which physical sign shows the falling living standards of the late-colonial urban poor?",
+      "answer": "They grew notably shorter",
+      "distractors": [
+        "They grew notably taller",
+        "They lived notably longer",
+        "They left the cities en masse"
+      ],
+      "explanation": "Real wages fell to the edge of survival as population outgrew jobs, and malnourishment stunted growth. It was an age of wealth and progress for the few.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-famine-1785",
+      "prompt": "In which years did early frost follow failed rains, spreading a great famine from Mexico City to the north?",
+      "answer": "1785–86",
+      "distractors": [
+        "1767–68",
+        "1772–73",
+        "1796–97"
+      ],
+      "explanation": "The harvest collapse hit the Bajío especially hard, and hacendados raised grain prices by nearly 400 per cent. The memory of that famine was still raw among the Bajío poor who joined the rising of 1810.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-1780s-deaths",
+      "prompt": "Roughly how many people did hunger, smallpox and fevers kill in New Spain in the deadliest decade of the late colony?",
+      "answer": "About 300,000",
+      "distractors": [
+        "About 3,000",
+        "About 30,000",
+        "About 3 million"
+      ],
+      "explanation": "The 1780s were one of the deadliest decades in Mexican history, a showcase of the two old checks on population, hunger and disease. Much of the population growth that followed was a rebound.",
+      "chapter": 20
+    },
+    {
+      "id": "bourbon-grain-hoarding",
+      "prompt": "How did haciendas typically profit from harvest failures in late-colonial Mexico?",
+      "answer": "By hoarding grain and selling it dear",
+      "distractors": [
+        "By selling land to the hungry",
+        "By hiring more labourers",
+        "By importing maize from Cuba"
+      ],
+      "explanation": "Hoarding in good years and marking up in bad ones knowingly made shortages worse. Officials tried to head off hunger with export bans, price caps and public granaries.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-moral-economy",
+      "prompt": "What do historians call the shared belief that, in a crisis, helping neighbours survive came before profit?",
+      "answer": "The moral economy",
+      "distractors": [
+        "Enlightened despotism",
+        "The repartimiento",
+        "Mercantilism"
+      ],
+      "explanation": "It protected villagers who still had their own fields and common pastures. But commercial estates were turning more countrypeople into migrant wage workers who had to buy their food.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-riano",
+      "prompt": "Which intendant of Guanajuato warned the viceroy in 1809 that the coming famine could be the worst in living memory?",
+      "answer": "Juan Antonio Riaño",
+      "distractors": [
+        "Manuel Abad y Queipo",
+        "Felipe Cleere",
+        "Pedro Garibay"
+      ],
+      "explanation": "Riaño noted that mercury was scarce, funds exhausted and the population larger, so dear maize would leave thousands of families without work, yet he still trusted in rational government. A year later he died defending the Alhóndiga against Hidalgo's rebels.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-migrants",
+      "prompt": "Around 1800, about what share of Mexico City's population were migrants from elsewhere?",
+      "answer": "About 40 per cent",
+      "distractors": [
+        "About 5 per cent",
+        "About 15 per cent",
+        "About 80 per cent"
+      ],
+      "explanation": "The homeless and casually employed numbered in the tens of thousands, and vagrancy was defined so broadly that even part-time labourers could be arrested. Some 10 per cent of arrests were for drunkenness and vagrancy, rising to 30 per cent in hard times.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-clase-de-mantas",
+      "prompt": "What were the poorest people of late-colonial Mexico, owning little but a cloak, sometimes called?",
+      "answer": "The clase de mantas",
+      "distractors": [
+        "The gente decente",
+        "The gente de razón",
+        "The peninsulares"
+      ],
+      "explanation": "A cloak could be worn by day, slept in at night and pawned or sold when all else failed. Settled people assumed that those who owned nothing more lived by crime and trickery.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-gente-decente",
+      "prompt": "What were the respectable classes of late-colonial Mexico called?",
+      "answer": "The gente decente",
+      "distractors": [
+        "The macehuales",
+        "The castas",
+        "The léperos"
+      ],
+      "explanation": "They drank imported brandy and wine and looked down on the pulque of the poor. Most of them feared the homeless and saw pulque as the poison that turned misery into riot.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-wills",
+      "prompt": "Between the 1710s and the 1810s, how did the share of Mexican wills leaving something to the poor change?",
+      "answer": "It rose from a quarter to three-quarters",
+      "distractors": [
+        "It fell from three-quarters to a quarter",
+        "It stayed at about one half",
+        "It rose from a tenth to a fifth"
+      ],
+      "explanation": "The rich were becoming more charitable, at least in death. Private giving supplemented a rough safety net of monasteries, confraternities, poorhouses and the Monte de Piedad.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-revillagigedo",
+      "prompt": "Which viceroy of 1789–94 introduced improvements ranging from highways to toilets in Mexico City's bars?",
+      "answer": "The second Count of Revillagigedo",
+      "distractors": [
+        "The Marqués de Croix",
+        "Antonio María de Bucareli y Ursúa",
+        "José de Iturrigaray y Aróstegui"
+      ],
+      "explanation": "He is remembered as the great reforming viceroy of the late colony. In his time Mexico City gained paved streets, rubbish collection and a police force.",
+      "chapter": 5
+    },
+    {
+      "id": "bourbon-census",
+      "prompt": "When was the first general census of New Spain taken?",
+      "answer": "In the early 1790s",
+      "distractors": [
+        "In the 1570s",
+        "In the 1690s",
+        "In the 1820s"
+      ],
+      "explanation": "Ordered by Viceroy Revillagigedo, it came nearly three centuries after the conquest. Many people avoided being counted, rightly suspecting that counting meant taxing, so it was seen even then as an undercount.",
+      "chapter": 7
+    },
+    {
+      "id": "bourbon-population-1808",
+      "prompt": "About how many people did an 1808 estimate count in New Spain?",
+      "answer": "6.5 million",
+      "distractors": [
+        "1.5 million",
+        "15 million",
+        "25 million"
+      ],
+      "explanation": "The population was growing again after the disasters of the 1780s. Humboldt put part of the growth down to Mexicans marrying very young.",
+      "chapter": 20
+    },
+    {
+      "id": "bourbon-archaeology",
+      "prompt": "What new science did creole thinkers launch in the late eighteenth century, according to Gillingham?",
+      "answer": "American archaeology",
+      "distractors": [
+        "Tropical medicine",
+        "Political economy",
+        "Volcanology"
+      ],
+      "explanation": "While debating European critics of the Americas, creole scholars began to explore and describe the pre-Hispanic past. The crown moved from suspicion to support, and in 1808 the viceroy created a board to regulate excavations.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-palenque",
+      "prompt": "Which great Maya city did creole churchmen and royal officials begin to explore in the 1770s and 1780s?",
+      "answer": "Palenque",
+      "distractors": [
+        "Tikal",
+        "Bonampak",
+        "Calakmul"
+      ],
+      "explanation": "The Chiapas priest Ramón Ordóñez promoted exploration of the ruins in the 1770s, and the crown later sent its own expeditions. It was part of a new, self-consciously American interest in the Indigenous past.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-xochicalco",
+      "prompt": "Which pre-Hispanic site in Morelos, with its Temple of the Feathered Serpent, did the creole scholar José Antonio Alzate explore in 1777?",
+      "answer": "Xochicalco",
+      "distractors": [
+        "Teotihuacan",
+        "Tepoztlán",
+        "Cholula"
+      ],
+      "explanation": "Alzate was one of the leading figures of the Mexican Enlightenment, a priest, scientist and journalist. His work on Xochicalco was part of the creole effort to show the achievements of ancient Mexico.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-dupaix",
+      "prompt": "Whom did the Spanish crown commission in 1805 to catalogue the pre-Hispanic antiquities of New Spain?",
+      "answer": "Guillermo Dupaix",
+      "distractors": [
+        "Alexander von Humboldt",
+        "José Antonio Alzate",
+        "Antonio de León y Gama"
+      ],
+      "explanation": "The commission shows the crown's change from suspicion of the Indigenous past to sponsoring its study. It was one of many Bourbon efforts to catalogue, chart and count the empire.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-malaspina",
+      "prompt": "Which navigator led the great Spanish scientific expedition that charted the Pacific coasts of the empire in the 1790s?",
+      "answer": "Alessandro Malaspina",
+      "distractors": [
+        "Jorge Juan",
+        "Antonio de Ulloa",
+        "James Cook"
+      ],
+      "explanation": "His survey ran from the Northwest coast to Peru. Gillingham sees such projects as a technocratic Enlightenment that was at once cosmopolitan and self-consciously Mexican.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-aranda",
+      "prompt": "Which Spanish statesman is credited with a 1783 proposal to make New Spain a separate Bourbon kingdom?",
+      "answer": "The Count of Aranda",
+      "distractors": [
+        "José de Gálvez",
+        "The Count of Floridablanca",
+        "Manuel Godoy"
+      ],
+      "explanation": "The proposal for a kind of home rule was never adopted, and historians still debate whether the memorial is authentic. Gillingham suggests that without the French Revolution and Napoleon, Spain's American empire might have survived and prospered.",
+      "chapter": 4
+    },
+    {
+      "id": "bourbon-us-independence",
+      "prompt": "Late-Bourbon Spain sent ships, troops and money to help win a critical victory over Britain in which war?",
+      "answer": "The American War of Independence",
+      "distractors": [
+        "The Seven Years War",
+        "The War of the Spanish Succession",
+        "The Trafalgar campaign"
+      ],
+      "explanation": "Spain helped drive the British from their thirteen colonies. Gillingham uses the victory, with doubled customs receipts and record silver output, to show that the late Bourbon empire was succeeding rather than decaying.",
+      "chapter": 4
+    },
+    {
+      "id": "bourbon-nootka",
+      "prompt": "Over which outpost on the Northwest coast did Spain and Britain nearly go to war in 1790?",
+      "answer": "Nootka Sound",
+      "distractors": [
+        "Monterey Bay",
+        "Puget Sound",
+        "Kodiak Island"
+      ],
+      "explanation": "It was part of a Spanish geopolitical comeback between the mid-1770s and the early 1800s, with new presidios and harbours in the north. Humboldt mocked the fuss over a few sheds, a little bastion and some cabbages.",
+      "chapter": 10
+    },
+    {
+      "id": "bourbon-russian-fear",
+      "prompt": "Spain's new presidios and harbours in the far north after the 1760s were built partly for fear of which empire?",
+      "answer": "The Russian Empire",
+      "distractors": [
+        "The French Empire",
+        "The Dutch Republic",
+        "The Portuguese Empire"
+      ],
+      "explanation": "Russian fur traders were pushing down the Pacific coast from Alaska. Their later colony in northern California showed how vulnerable Mexico's long northern coast was.",
+      "chapter": 10
+    },
+    {
+      "id": "bourbon-presidios",
+      "prompt": "What were the frontier forts, often garrisoned by convicts, that the Bourbons set in a cordon across the north of New Spain?",
+      "answer": "Presidios",
+      "distractors": [
+        "Reducciones",
+        "Encomiendas",
+        "Alhóndigas"
+      ],
+      "explanation": "Often manned by convicts, they tried to hold a faltering line against Apache and Comanche raiders. The cordon ordered in 1772 ran roughly along the future US–Mexico border.",
+      "chapter": 8,
+      "feature": "e4-presidio-line"
+    },
+    {
+      "id": "bourbon-comanche-population",
+      "prompt": "Between 1750 and 1780 the Comanche population of the southern Plains roughly trebled. To about how many?",
+      "answer": "About 45,000",
+      "distractors": [
+        "About 4,500",
+        "About 450,000",
+        "About 1.5 million"
+      ],
+      "explanation": "Every Comanche man was mounted and trained for war, and by the mid-eighteenth century they could outshoot Spanish infantry. Their bands raided Spanish settlements for horses and goods.",
+      "chapter": 10
+    },
+    {
+      "id": "bourbon-comanche-guns",
+      "prompt": "Where did the Comanche get the guns they used against Spanish New Mexico and Texas in the mid-eighteenth century?",
+      "answer": "From French traders",
+      "distractors": [
+        "From Russian traders",
+        "From Dutch smugglers",
+        "From Portuguese merchants"
+      ],
+      "explanation": "The Comanche raided Spanish settlements for horses and goods, sold them to French traders for guns, and used the guns to raid again. A later generation dealt with Americans instead of the French.",
+      "chapter": 10
+    },
+    {
+      "id": "bourbon-comanche-peace",
+      "prompt": "According to Gillingham, what gave Mexico's northern frontier on-and-off peace from the 1780s to the early 1830s?",
+      "answer": "Smallpox and wars among Indigenous nations",
+      "distractors": [
+        "A new chain of Jesuit missions",
+        "Mass migration of Spanish settlers",
+        "Spain's sale of Louisiana"
+      ],
+      "explanation": "Disease and Indigenous civil wars weakened the raiders. Diplomacy played a part too: in 1786 Juan Bautista de Anza, as governor of New Mexico, concluded a lasting peace with the western Comanche.",
+      "chapter": 10,
+      "feature": "e4-comanche-peace"
+    },
+    {
+      "id": "bourbon-trafalgar",
+      "prompt": "In which 1805 battle did the British destroy Spain's navy?",
+      "answer": "Trafalgar",
+      "distractors": [
+        "Cape St Vincent",
+        "The Nile",
+        "Copenhagen"
+      ],
+      "explanation": "The world's largest warship, the Santísima Trinidad, was taken and sank in the storm that followed. The same British squadrons blockaded Cádiz, cutting the Atlantic link between Spain and Mexico.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-1807-silver",
+      "prompt": "Under the British blockade, how much Mexican silver reached Spain in 1807?",
+      "answer": "None at all",
+      "distractors": [
+        "A quarter of normal",
+        "Half of normal",
+        "A record amount"
+      ],
+      "explanation": "Only a few small, fast vessels slipped past the blockade, under cover of night or fog. Mexico was becoming the centre of a global empire that could no longer reach its own metropolis.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-war-sides",
+      "prompt": "From the late 1790s until 1808, Spain fought alongside which power?",
+      "answer": "France",
+      "distractors": [
+        "Britain",
+        "Austria",
+        "Russia"
+      ],
+      "explanation": "Spain first fought revolutionary France alongside Britain and Austria, then switched sides. The alliance with France brought British blockade, the end of the Atlantic trade and, in 1808, a French invasion.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-joseph-bonaparte",
+      "prompt": "Whom did Napoleon install as king of Spain in 1808?",
+      "answer": "His brother Joseph",
+      "distractors": [
+        "His brother Louis",
+        "His brother Jérôme",
+        "His marshal Murat"
+      ],
+      "explanation": "French troops had invaded their unreliable ally. Mexico, the richest part of the Spanish empire, now had no Spanish king to obey.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-ferdinand-vii",
+      "prompt": "Which Spanish king was held captive in France from 1808, leaving his loyal Mexican subjects with a vacuum of legitimate power?",
+      "answer": "Ferdinand VII",
+      "distractors": [
+        "Ferdinand VI",
+        "Charles III",
+        "Philip V"
+      ],
+      "explanation": "Mexicans stayed loudly loyal to the Bourbons, but their king now existed only in name. A creole leader of Mexico City's council called it a truly extraordinary interregnum.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-junta-proposal",
+      "prompt": "When news of the royal abdications reached Mexico in July 1808, what did creole leaders of the city council propose?",
+      "answer": "A junta of cities ruling for the king",
+      "distractors": [
+        "Independence as a federal republic",
+        "Union with the United States",
+        "Recognising Joseph Bonaparte as king"
+      ],
+      "explanation": "Following old Spanish political thought, and the example of the Spanish resistance, they argued that in the king's absence power passed to the cities. The autonomous government would sit under Viceroy Iturrigaray until the king's return.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-autonomy-opponents",
+      "prompt": "Which group, dominant in the audiencia, the merchant guild, the Church hierarchy and the Inquisition, blocked creole autonomy in 1808?",
+      "answer": "Peninsular Spaniards",
+      "distractors": [
+        "Creole landowners",
+        "Mestizo militiamen",
+        "Indigenous town governors"
+      ],
+      "explanation": "They saw a viceroy at the head of mildly representative juntas as neither loyal nor reliable. Their answer was to remove him by force.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-first-coup",
+      "prompt": "Gillingham calls the seizure of Viceroy Iturrigaray in 1808 Mexico's first what?",
+      "answer": "Coup d'état",
+      "distractors": [
+        "Popular revolution",
+        "Foreign invasion",
+        "Indigenous rising"
+      ],
+      "explanation": "It was launched by Europeans, not Mexicans. The coup robbed government from Mexico City of its legitimacy and made the peninsulares the obvious culprits, which is why 1808 was a watershed.",
+      "chapter": 8,
+      "core": true
+    },
+    {
+      "id": "bourbon-coup-date",
+      "prompt": "On which night did peninsular plotters seize Viceroy Iturrigaray in his palace?",
+      "answer": "15 September 1808",
+      "distractors": [
+        "15 July 1808",
+        "15 August 1808",
+        "29 September 1808"
+      ],
+      "explanation": "About three hundred men entered the palace and arrested the viceroy and the main creole leaders. It came almost exactly two years before Hidalgo's call to arms at Dolores.",
+      "chapter": 8,
+      "feature": "e4-coup-1808"
+    },
+    {
+      "id": "bourbon-garibay",
+      "prompt": "Whom did the plotters install as viceroy after seizing Iturrigaray in 1808?",
+      "answer": "Pedro Garibay",
+      "distractors": [
+        "Francisco Javier Venegas",
+        "Félix María Calleja",
+        "Gabriel de Yermo"
+      ],
+      "explanation": "Garibay was an elderly Spanish field marshal. A viceroy appointed by a new Spanish government, Venegas, arrived only in September 1810, days before the rising at Dolores.",
+      "chapter": 8,
+      "feature": "e4-coup-1808"
+    },
+    {
+      "id": "bourbon-consolidacion-king",
+      "prompt": "Which Spanish king ordered the Consolidación de Vales Reales, calling in church loans to pay for his wars?",
+      "answer": "Charles IV",
+      "distractors": [
+        "Charles III",
+        "Ferdinand VII",
+        "Joseph Bonaparte"
+      ],
+      "explanation": "Most church wealth was out on loan as mortgages, the cheap credit on which landowners and small traders alike depended. Demanding immediate repayment threatened large parts of the propertied classes with ruin.",
+      "chapter": 8
+    },
+    {
+      "id": "bourbon-consolidacion-villages",
+      "prompt": "Why did the Consolidación de Vales Reales hurt Indigenous villages as well as landowners?",
+      "answer": "It took the funds of their cofradías",
+      "distractors": [
+        "It doubled the Indian tribute",
+        "It banned the sale of pulque",
+        "It drafted villagers into the navy"
+      ],
+      "explanation": "Cofradías were religious brotherhoods whose funds paid for fiestas and relief. Villagers lost the income for their religious festivals and much of what passed for social security. Gillingham sees it as a break in nearly three centuries of church–state collaboration; it even pushed the family of Miguel Hidalgo toward bankruptcy.",
+      "chapter": 8
+    }
+  ]
+}

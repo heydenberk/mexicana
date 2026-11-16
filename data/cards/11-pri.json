@@ -1,0 +1,1992 @@
+{
+  "era": "pri",
+  "cards": [
+    {
+      "id": "pri-three-phases",
+      "prompt": "Gillingham divides single-party rule into three phases. How does he characterise the period from the late 1960s to the mid-1980s?",
+      "answer": "A plain dictatorship resting on state violence",
+      "distractors": [
+        "A soft, hybrid regime of bargaining",
+        "A long goodbye of opposition advances",
+        "A democratic spring of open primaries"
+      ],
+      "explanation": "The mid-1940s to mid-1960s were a hybrid of dictatorship and democracy; from the late 1960s came dirty wars, secret police and absurd official majorities of 85–93 per cent; the 1980s and 1990s were a long goodbye that ended with the loss of the presidency in 2000.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-dictablanda",
+      "prompt": "What punning word did Mexicans coin for the hybrid of dictatorship and democracy that ruled from the mid-1940s to the mid-1960s?",
+      "answer": "Dictablanda",
+      "distractors": [
+        "Maximato",
+        "Porfiriato",
+        "Caudillismo"
+      ],
+      "explanation": "It swaps the dura (hard) of dictadura for blanda (soft). The regime mixed managed elections and selective repression with real bargaining, especially at the local level.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-municipal-democracy",
+      "prompt": "A PRI president of the 1950s described how power was shared under the system. Which level of government did he say was chosen by the people themselves?",
+      "answer": "Municipal governments",
+      "distractors": [
+        "State governorships",
+        "The federal Senate",
+        "State legislatures"
+      ],
+      "explanation": "Governors and federal legislators were picked by the president, local legislators by the governors. Mayors, who appointed police and handed out permits, mattered most to ordinary Mexicans, which is why Gillingham describes a one-party state whose party could still lose elections.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-riot-veto",
+      "prompt": "In the 1950s, after primaries had been abolished, how could provincial voters still veto an unacceptable PRI candidate for mayor?",
+      "answer": "By rioting or storming the town hall",
+      "distractors": [
+        "By appealing to the Supreme Court",
+        "By complaining to Gobernación",
+        "By petitioning the Federal Electoral Commission"
+      ],
+      "explanation": "Crowds in effect dared the authorities to shoot them, and politicians who resorted to visible violence lost their jobs. Big riots broke out in Zacatecas in 1958 and in Chihuahua and Baja California in 1959.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-election-1940",
+      "prompt": "Gillingham argues that the official party probably lost the presidential election of 1940. Which conservative general probably won it?",
+      "answer": "Juan Andreu Almazán",
+      "distractors": [
+        "Francisco Múgica",
+        "Saturnino Cedillo",
+        "Miguel Henríquez Guzmán"
+      ],
+      "explanation": "Government spies thought Almazán had carried everything from the Catholic highlands to the big cities. Street fighting at polling stations in Mexico City left dozens dead, and the official candidate, Manuel Ávila Camacho, was credited with a landslide.",
+      "chapter": 17,
+      "core": true,
+      "feature": "e11-election-1940"
+    },
+    {
+      "id": "pri-ww2-entry",
+      "prompt": "What pushed a reluctant Mexican government into the Second World War in 1942?",
+      "answer": "German submarines sank two Mexican oil tankers",
+      "distractors": [
+        "Japan shelled the port of Mazatlán",
+        "Washington made it a condition of the bracero deal",
+        "Germany armed a Sinarquista uprising"
+      ],
+      "explanation": "The war was a godsend for the government, which used it to curb strikes, purge the left, make peace with the bishops and build up the Secretaría de Gobernación.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-ww2-debt",
+      "prompt": "What did Mexico win for joining the Allies that opened the way to large postwar development loans?",
+      "answer": "Forgiveness of 90 per cent of its foreign debt",
+      "distractors": [
+        "A permanent seat on the UN Security Council",
+        "Duty-free entry for its oil to the US",
+        "Return of the Chamizal border tract"
+      ],
+      "explanation": "With the old debt largely written off, Mexico could borrow for postwar development, and the public development bank Nacional Financiera trebled its lending between 1945 and 1953.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-gobernacion",
+      "prompt": "Which ministry, built up during the Second World War, ran the PRI's political control, spying on its own candidates and later counting the 1988 vote?",
+      "answer": "The Secretaría de Gobernación (Interior)",
+      "distractors": [
+        "The Secretaría de la Defensa Nacional",
+        "The Secretaría de Hacienda (Finance)",
+        "The Secretaría de Relaciones Exteriores"
+      ],
+      "explanation": "Before provincial elections Gobernación compiled reports on candidates' reputations, popular acceptance and criminal records. Its secretary ran the country day to day, and several, such as Alemán, Díaz Ordaz and Echeverría, went on to the presidency.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-sinarquistas",
+      "prompt": "Which Catholic far-right movement of the 1940s, fascist in style, was pushed to the margins, some of its members sent to a colony in Baja California?",
+      "answer": "The Sinarquistas",
+      "distractors": [
+        "The Cristeros",
+        "The Gold Shirts",
+        "The Henriquistas"
+      ],
+      "explanation": "Their earlier contacts with the Nazis had ended by 1940, and rather than fight the government they went into exile in the US, joined the fringes of the PAN, or settled the dry colony the government gave them.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-2",
+      "prompt": "Two weeks after soldiers and police fired on protesters in León's main square in January 1946, the official party was refounded under what name?",
+      "answer": "PRI",
+      "distractors": [
+        "PRM",
+        "PNR",
+        "PRD"
+      ],
+      "explanation": "The Unión Cívica Leonesa had claimed victory in the municipal election of December 1945. Counts of the dead in León's square range widely, from under ten to more than a hundred (Gillingham gives 27), and Guanajuato's governor was removed. The official party, founded in 1929, now took the name Partido Revolucionario Institucional.",
+      "chapter": 17,
+      "feature": "e11-leon-1946"
+    },
+    {
+      "id": "pri-aleman",
+      "prompt": "Miguel Alemán (president 1946–52) was the first of a new kind of PRI president. What kind?",
+      "answer": "A civilian lawyer from the national university",
+      "distractors": [
+        "A revolutionary general from Sonora",
+        "A Catholic industrialist from Monterrey",
+        "An agrarian leader from Morelos"
+      ],
+      "explanation": "Alemán, whose father was executed after joining a rebellion in 1929, rose from judge to senator, governor of Veracruz and Secretario de Gobernación. His generation of lawyer-politicians had been formed at the UNAM, not in the revolutionary armies.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-primaries-banned",
+      "prompt": "What did President Alemán abruptly abolish at the end of 1949, closing the PRI's brief democratic spring?",
+      "answer": "The party's primary elections",
+      "distractors": [
+        "The municipal vote for women",
+        "The secret ballot",
+        "Elections for state governors"
+      ],
+      "explanation": "Primaries had let almost anyone, from communists to Sinarquistas, compete for PRI nominations. In 1950 the party returned to the bloc vote, and reformers fought to bring primaries back for the rest of the century.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-women-vote",
+      "prompt": "Women won the vote in Mexican municipal elections in 1947. In what year did they first vote in a presidential election?",
+      "answer": "1958",
+      "distractors": [
+        "1934",
+        "1946",
+        "1970"
+      ],
+      "explanation": "Cárdenas had promised women's suffrage and never delivered it. Mexico ended up as one of the Latin American states that held back votes for women until the 1950s.",
+      "chapter": 16
+    },
+    {
+      "id": "pri-velazquez",
+      "prompt": "Which labour boss, installed in the early 1940s, ran the CTM, the giant union confederation tied to the PRI, for most of the next half-century until 1997?",
+      "answer": "Fidel Velázquez",
+      "distractors": [
+        "Vicente Lombardo Toledano",
+        "Luis N. Morones",
+        "Demetrio Vallejo"
+      ],
+      "explanation": "He replaced the intellectual Lombardo Toledano at the head of the CTM, and in the late 1940s independent union leaders were replaced by pro-government bosses. Employers paid him and other bosses to keep workers in line, and his long reign symbolised the PRI's stability.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-oil-unions",
+      "prompt": "In December 1946 and again in 1949 Alemán sent the army against which union, the first to be brought under the new PRI's control?",
+      "answer": "The oil workers' union",
+      "distractors": [
+        "The railway workers' union",
+        "The coal miners' union",
+        "The teachers' union"
+      ],
+      "explanation": "Soldiers occupied the oil towns of Poza Rica and Minatitlán, arrested union leaders and broke up dissident meetings. PEMEX was then run by Alemán's crony Antonio Bermúdez until 1958.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-henriquez",
+      "prompt": "Which general, close to Cárdenas, ran against the PRI in 1952 and saw his supporters' victory rally in Mexico City's Alameda broken up by police and soldiers?",
+      "answer": "Miguel Henríquez Guzmán",
+      "distractors": [
+        "Juan Andreu Almazán",
+        "Francisco Múgica",
+        "Manuel Ávila Camacho"
+      ],
+      "explanation": "Hundreds were arrested and the number of dead was never established. His party was dissolved in 1954, and the lesson was clear: presidential elections belonged to the official party, which would use force if necessary.",
+      "chapter": 17,
+      "feature": "e11-henriquistas-1952"
+    },
+    {
+      "id": "pri-gomez-morin",
+      "prompt": "Who founded and led the PAN, the conservative opposition that accepted national defeat but fought hard for local democracy?",
+      "answer": "Manuel Gómez Morín",
+      "distractors": [
+        "Luis H. Álvarez",
+        "Salvador Nava",
+        "Vicente Lombardo Toledano"
+      ],
+      "explanation": "Asked by a British diplomat whether he wanted a real two-party system, he replied that it would mean shooting at every election. The PAN kept running hundreds of local candidates and occasionally won in the north, the sierra and the most Catholic places.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-santos",
+      "prompt": "Which San Luis Potosí boss boasted of offering his opponents encierro, destierro o entierro, \"jail, exile or burial\"?",
+      "answer": "Gonzalo N. Santos",
+      "distractors": [
+        "Maximino Ávila Camacho",
+        "Rubén Figueroa",
+        "Saturnino Cedillo"
+      ],
+      "explanation": "Great provincial caciques like Santos were tolerated but not promoted. In 1958 he had to accept his Catholic enemy Salvador Nava as mayor of the state capital.",
+      "chapter": 17,
+      "feature": "e11-santos-slp"
+    },
+    {
+      "id": "pri-ruiz-cortines",
+      "prompt": "Which president (1952–58), an honest accountant from Veracruz, published a list of his modest assets and reined in his predecessor's corruption?",
+      "answer": "Adolfo Ruiz Cortines",
+      "distractors": [
+        "Miguel Alemán",
+        "Adolfo López Mateos",
+        "Gustavo Díaz Ordaz"
+      ],
+      "explanation": "He ordered a quarter of a million state employees to declare their assets too, balanced the books and left office in 1958 without enriching himself. Gillingham sees him as the PRI at its most competent.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-dedazo",
+      "prompt": "What was the dedazo in PRI politics?",
+      "answer": "The outgoing president's choice of his successor",
+      "distractors": [
+        "The party's open primary for president",
+        "The army's veto over presidential candidates",
+        "The president's annual report to Congress"
+      ],
+      "explanation": "Cárdenas established the unwritten rule that a president picked his successor. Each new president then made a clean break, so the change of president became a wholesale change of the guard.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-reglas-no-escritas",
+      "prompt": "What Spanish phrase names the off-the-books but universally understood rules of PRI politics, such as avoiding visible violence?",
+      "answer": "Reglas no escritas",
+      "distractors": [
+        "Pan o palo",
+        "Dedazo",
+        "Dictablanda"
+      ],
+      "explanation": "Ruiz Cortines finalised these unwritten rules. Politicians who broke them, for instance by killing opponents in public, were an endangered species.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-informal-senate",
+      "prompt": "In the crisis of 1948, who acted as an \"informal senate\" to veto a military coup and later block Alemán's re-election?",
+      "answer": "The generals who had been president",
+      "distractors": [
+        "The bishops of the Catholic hierarchy",
+        "The union bosses of the CTM",
+        "The PAN's deputies in Congress"
+      ],
+      "explanation": "Rodríguez, Cárdenas and Ávila Camacho set aside their differences as corruption, the purge of officers from government and a collapsing peso pushed malcontents toward a coup. Gillingham calls it a paradox: soldiers kept soldiers out of politics.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-civilian-presidents",
+      "prompt": "From Alemán in 1946 onward, what set every PRI president apart from most of the revolutionary presidents before them?",
+      "answer": "They were civilians, not generals",
+      "distractors": [
+        "They came from the northern states",
+        "They had all studied abroad",
+        "They each served two terms"
+      ],
+      "explanation": "No coup ever happened. The generals accepted subordination in national politics in return for freedom to meddle and profit in the provinces, and soldiers remained the government's enforcers of last resort.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-army-pact",
+      "prompt": "What did the generals receive in Alemán's \"Faustian pact\" in return for staying out of national politics?",
+      "answer": "Latitude in local politics and business",
+      "distractors": [
+        "Seats in the cabinet for life",
+        "A veto over the federal budget",
+        "Control of the state oil company"
+      ],
+      "explanation": "Generals logged forests, ran drugs, stole cattle and set up protection rackets. There was one garrison for every five municipios, and the army also built roads, drained swamps and handed out antimalarials.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-dfs",
+      "prompt": "Which civilian-controlled political police grew from 120 agents in 1965 to about 3,000 in 1981 and led the war against urban guerrillas?",
+      "answer": "The Dirección Federal de Seguridad",
+      "distractors": [
+        "The Policía Judicial Federal",
+        "The Estado Mayor Presidencial",
+        "The Batallón Olimpia"
+      ],
+      "explanation": "Its thugs, nicknamed \"gorillas\", built files on millions of people, and its directors rose to the top of government. The agency was abolished in the 1980s after its links to drug traffickers were exposed.",
+      "chapter": 18,
+      "core": true
+    },
+    {
+      "id": "pri-gutierrez-barrios",
+      "prompt": "Which DFS chief helped plan the military operation at Tlatelolco in 1968 and later became Secretario de Gobernación?",
+      "answer": "Fernando Gutiérrez Barrios",
+      "distractors": [
+        "Miguel Nazar Haro",
+        "Javier García Paniagua",
+        "Arturo Durazo"
+      ],
+      "explanation": "Gillingham likens him to J. Edgar Hoover, a man who gathered dirt on generations of leaders. Mexico was never a police state on the scale of Brazil or East Germany, but under Díaz Ordaz the security services grew sharply.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-gatekeeper",
+      "prompt": "Gillingham calls PRI Mexico a \"gatekeeper state\". What gave it power despite low taxes and a weak bureaucracy?",
+      "answer": "Its control of permits and access to resources",
+      "distractors": [
+        "Huge tax revenues from big business",
+        "A large and expensive standing army",
+        "Steady US aid paid to the government"
+      ],
+      "explanation": "Everyone from street vendors to factory owners and drug smugglers needed permits. Graft, such as running a customs house, bought loyalty on credit; as one veteran put it, \"don't give it to me, just put me where it is\".",
+      "chapter": 17
+    },
+    {
+      "id": "pri-pipsa",
+      "prompt": "Rather than beating journalists, how did the PRI normally keep critical newspapers in line?",
+      "answer": "Through a state monopoly on newsprint",
+      "distractors": [
+        "By licensing every working journalist",
+        "Through a censorship office in each paper",
+        "By owning every printing press"
+      ],
+      "explanation": "The state agency PIPSA controlled the supply of paper. When the government cut off Julio Scherer's newsprint in 1976, other papers sent him some of theirs; PIPSA was later privatised, removing a mainstay of censorship.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-mexico-city-regent",
+      "prompt": "Why did the voters of Mexico City have so little say in their own government for most of the PRI era?",
+      "answer": "The president appointed the capital's regent",
+      "distractors": [
+        "Only property owners elected its council",
+        "The army garrison administered the city",
+        "The Senate chose its mayor"
+      ],
+      "explanation": "The Federal District had no elected municipalities, and the regent appointed the borough delegates. With the repression of 1940, 1952 and 1968 behind them, the capital's voters stayed largely quiet until the earthquake of 1985 brought mass politics back.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-isi",
+      "prompt": "What development strategy, then dominant worldwide, did Mexico appear to follow after 1945 with tariffs, cheap credit and protection for national industry?",
+      "answer": "Import substitution industrialisation",
+      "distractors": [
+        "Export-led growth through free trade",
+        "IMF structural adjustment",
+        "Soviet-style central planning"
+      ],
+      "explanation": "In practice foreign investment also rose steeply, as US firms such as Westinghouse took stakes in nominally Mexican companies or used Mexican frontmen.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-miracle",
+      "prompt": "What name was given to the more than two decades of fast growth that began in the mid-1940s?",
+      "answer": "The Mexican Miracle",
+      "distractors": [
+        "The Lost Decade",
+        "Shared Development",
+        "The Porfirian Peace"
+      ],
+      "explanation": "GDP rose 63 per cent between 1945 and 1953 alone. Politicians called industrialisation the constructive phase of the revolution, but the growth worked for big buildings and big numbers more than for most Mexicans.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-stabilizing-development",
+      "prompt": "What name did finance minister Antonio Ortiz Mena give to the low-inflation, steady-peso policies he ran from the late 1950s to 1970?",
+      "answer": "Stabilizing development",
+      "distractors": [
+        "Shared development",
+        "Moral renewal",
+        "Solidarity"
+      ],
+      "explanation": "Ortiz Mena advised Ruiz Cortines and served as finance minister under the next two presidents. The urban middle classes boomed while Mexicans, and especially country people, paid remarkably little tax.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-gatt",
+      "prompt": "Which cornerstone of the postwar trading order did Mexico refuse to join in the 1940s, to keep its industry protected?",
+      "answer": "The General Agreement on Tariffs and Trade",
+      "distractors": [
+        "The International Monetary Fund",
+        "The Inter-American Development Bank",
+        "The Organization of American States"
+      ],
+      "explanation": "Protection, tax breaks and cheap labour favoured industry. Mexico did help design the Bretton Woods institutions of 1944.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-inequality",
+      "prompt": "Between 1950 and 1968, how did Mexico's income inequality, measured by the Gini coefficient, compare with the rest of the world?",
+      "answer": "Among the most unequal countries on earth",
+      "distractors": [
+        "Latin America's most equal country",
+        "About the world average",
+        "Similar to Western Europe"
+      ],
+      "explanation": "Between 1950 and 1968 its Gini averaged 0.56; in Latin America only Brazil was more unequal, and only sub-Saharan Africa matched it. Rural poverty lay at the root of the gap.",
+      "chapter": 20,
+      "core": true
+    },
+    {
+      "id": "pri-real-wages",
+      "prompt": "What happened to Mexican real wages between 1940 and the late 1960s?",
+      "answer": "They were deliberately held down",
+      "distractors": [
+        "They doubled with industrialisation",
+        "They rose fastest in the countryside",
+        "They kept pace with productivity"
+      ],
+      "explanation": "Gillingham calls cheap labour a deliberate, planned policy of industrialisation, enforced by government-controlled unions. Unionised workers were compensated with medical care, public housing, cheap loans and subsidised services.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-countryside-losers",
+      "prompt": "In Gillingham's account, who were the great losers of \"stabilizing development\"?",
+      "answer": "Country people",
+      "distractors": [
+        "Unionised factory workers",
+        "The urban middle classes",
+        "Foreign investors"
+      ],
+      "explanation": "Land grants and cheap credit dried up after 1940, plots became uneconomic, and wealthier ejidatarios and new caciques bought out or forced out the rest, so millions left for the cities and the United States.",
+      "chapter": 17,
+      "core": true
+    },
+    {
+      "id": "pri-maize-prices",
+      "prompt": "How did federal food policy after 1940 squeeze ejidatarios and smallholders?",
+      "answer": "Price caps on maize and beans",
+      "distractors": [
+        "Export taxes on coffee and cotton",
+        "A ban on selling crops to the US",
+        "Compulsory deliveries of wheat"
+      ],
+      "explanation": "Cheap food let urban workers live on low wages. Capped maize prices were flat through the 1940s and fell by a third in real terms between 1957 and 1973.",
+      "chapter": 20
+    },
+    {
+      "id": "pri-green-revolution",
+      "prompt": "The Green Revolution, the global shift to high-yield seeds with heavy use of fertiliser and pesticide, came first to which country?",
+      "answer": "Mexico",
+      "distractors": [
+        "India",
+        "The Philippines",
+        "Brazil"
+      ],
+      "explanation": "New wheats bred in the irrigated northwest fed exports and cities. Because the new crops needed bought seed, fertiliser and pesticide, they also favoured richer farmers over small ejidatarios.",
+      "chapter": 20,
+      "feature": "e11-yaqui-valley"
+    },
+    {
+      "id": "pri-papaloapan",
+      "prompt": "Building the Papaloapan dam in Oaxaca forced some 20,000 people of which Indigenous group off their land?",
+      "answer": "Mazatecs",
+      "distractors": [
+        "Mixtecs",
+        "Zapotecs",
+        "Tzotziles"
+      ],
+      "explanation": "Their villages were drowned in the name of modernisation and the people dispersed. Similar displacements accompanied dams in Chiapas, Guerrero and southern Veracruz, part of a worldwide wave of people uprooted by dams.",
+      "chapter": 17,
+      "feature": "e11-papaloapan"
+    },
+    {
+      "id": "pri-life-expectancy",
+      "prompt": "Mexico's life expectancy rose dramatically in the decades after 1930. Roughly what was it by 1960?",
+      "answer": "About 59 years",
+      "distractors": [
+        "About 45 years",
+        "About 70 years",
+        "About 40 years"
+      ],
+      "explanation": "Clinics, vaccination, clean water and campaigns against disease drove the change: smallpox was eradicated by 1951, and malaria deaths fell by three-quarters over the following decade.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-cinema",
+      "prompt": "What was the época de oro of the 1940s and 1950s?",
+      "answer": "The golden age of Mexican cinema",
+      "distractors": [
+        "The golden age of Mexican muralism",
+        "The heyday of the telenovela",
+        "The boom of the Mexican novel"
+      ],
+      "explanation": "Only the US and India made more films. Stars such as Dolores del Río and María Félix were known worldwide, and Mexicans could see a subsidised film for a few cents.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-television",
+      "prompt": "Which family's Telesistema Mexicano, later Televisa, held a monopoly of Mexican television from 1955 and loyally broadcast the PRI's line?",
+      "answer": "The Azcárraga family",
+      "distractors": [
+        "The Jenkins family",
+        "The Salinas Pliego family",
+        "The Slim family"
+      ],
+      "explanation": "The 1960 broadcasting law gave radio and television the duty of strengthening national integration. Opposition campaigns went unreported, the main news anchor, Jacobo Zabludovsky, also advised the presidency, and Emilio Azcárraga called himself \"a soldier of the president\".",
+      "chapter": 17
+    },
+    {
+      "id": "pri-paz",
+      "prompt": "Which poet, author of The Labyrinth of Solitude, resigned as ambassador to India in protest at the Tlatelolco massacre?",
+      "answer": "Octavio Paz",
+      "distractors": [
+        "Carlos Fuentes",
+        "José Gorostiza",
+        "Juan Rulfo"
+      ],
+      "explanation": "His was the only high-profile protest from inside the government. The PRI had long folded great writers into the establishment with diplomatic posts and government jobs.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-fuentes",
+      "prompt": "Which writer published The Death of Artemio Cruz, a savage portrait of the post-revolutionary elite, with the government's own publishing house?",
+      "answer": "Carlos Fuentes",
+      "distractors": [
+        "Juan Rulfo",
+        "Elena Poniatowska",
+        "Octavio Paz"
+      ],
+      "explanation": "The Fondo de Cultura Económica published it in 1962. In the same year Fuentes was allowed to publish an angry article linking the army's murder of a peasant leader to the president, a sign of how open national culture still was.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-castro",
+      "prompt": "In 1956 Mexican security police arrested a group of young Cubans training for an invasion of their island, then let them go. Who led them?",
+      "answer": "Fidel Castro",
+      "distractors": [
+        "Camilo Cienfuegos",
+        "Frank País",
+        "José Antonio Echeverría"
+      ],
+      "explanation": "The DFS released them, with Cárdenas's help, and they sailed for Cuba on a small motor yacht and later took power. Castro did not forget it, and Cuba long refrained from backing guerrillas in Mexico.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-cuba-oas",
+      "prompt": "How did Mexico's government treat revolutionary Cuba at the Organization of American States in the early 1960s?",
+      "answer": "It defended Cuba against expulsion",
+      "distractors": [
+        "It sponsored Cuba's expulsion",
+        "It broke off relations with Havana",
+        "It recognised a Cuban government in exile"
+      ],
+      "explanation": "Behind the scenes Mexico played a double game: it imposed informal sanctions on oil and food sales, passed intelligence to the US and even placed a CIA spy in its Havana embassy.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-dn1",
+      "prompt": "Which country did Mexico's national security doctrine, DN-1, identify as the greatest potential threat?",
+      "answer": "The United States",
+      "distractors": [
+        "Guatemala",
+        "The Soviet Union",
+        "Cuba"
+      ],
+      "explanation": "The army kept its distance from the US: of 61,000 Latin American soldiers trained by the US between 1950 and 1972, only 659 were Mexican, and the army refused to accept US counterinsurgency training as a condition of arms supplies.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-railway-strike",
+      "prompt": "Who led the railway workers whose strikes were broken by the army in 1959, and spent more than a decade in prison?",
+      "answer": "Demetrio Vallejo",
+      "distractors": [
+        "Fidel Velázquez",
+        "Rubén Jaramillo",
+        "Heberto Castillo"
+      ],
+      "explanation": "Soldiers fired on and arrested strikers, and thousands were dismissed. Cárdenas's appeals for clemency for Vallejo, Valentín Campa and the painter Siqueiros were rebuffed in 1961.",
+      "chapter": 17,
+      "feature": "e11-railway-strike"
+    },
+    {
+      "id": "pri-politecnico-1956",
+      "prompt": "Which institution did the army occupy in 1956, taking over its dormitories and installing government-backed student leaders?",
+      "answer": "The Instituto Politécnico Nacional",
+      "distractors": [
+        "The UNAM's Ciudad Universitaria",
+        "The Colegio de México",
+        "The University of Guadalajara"
+      ],
+      "explanation": "The Poli, founded by Cárdenas, drew working-class students from the suburbs and provinces. By the end of the 1960s soldiers had put down at least 53 university protests in the provinces.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-lopez-mateos",
+      "prompt": "Which president (1958–64), a vain and telegenic labour lawyer, called himself part of the revolution's \"extreme left\" and revived land reform?",
+      "answer": "Adolfo López Mateos",
+      "distractors": [
+        "Adolfo Ruiz Cortines",
+        "Gustavo Díaz Ordaz",
+        "Luis Echeverría"
+      ],
+      "explanation": "He made large land grants in the northwest to pacify agrarian militants and purged some provincial caciques, while crushing the railway strike and quietly helping the US in the Cold War.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-acarreados",
+      "prompt": "Who were the acarreados at PRI rallies?",
+      "answer": "People bussed in with food, pesos and threats",
+      "distractors": [
+        "Party poll-watchers at each ballot box",
+        "Plain-clothes police in the crowd",
+        "Volunteer activists from the party youth"
+      ],
+      "explanation": "Tens of thousands of country people filled the squares for presidential candidates, but many came in hired buses and trucks as a rent-a-crowd, which made it hard to tell how many really cared.",
+      "chapter": 17
+    },
+    {
+      "id": "pri-jaramillo",
+      "prompt": "Which agrarian leader of Morelos, a former Zapatista, was murdered by soldiers and police along with his pregnant wife and her sons in 1962?",
+      "answer": "Rubén Jaramillo",
+      "distractors": [
+        "Genaro Vázquez",
+        "Lucio Cabañas",
+        "Demetrio Vallejo"
+      ],
+      "explanation": "He had led cane workers and peasants and more than once taken up arms. His murder showed how little room the regime left for independent peasant movements.",
+      "chapter": 17,
+      "feature": "e11-jaramillo-1962"
+    },
+    {
+      "id": "pri-madrazo",
+      "prompt": "Which head of the PRI tried in 1965 to democratise the party with local primaries, was ousted that November, and died in a plane crash in 1969?",
+      "answer": "Carlos Madrazo",
+      "distractors": [
+        "Jesús Reyes Heroles",
+        "Alfonso Corona del Rosal",
+        "Porfirio Muñoz Ledo"
+      ],
+      "explanation": "He called the party's members herds of sheep bribed and threatened into rallies. Conservative governors denounced his reforms as chaos, and central appointment of candidates returned until the 1990s; some believed his death was no accident.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-diaz-ordaz",
+      "prompt": "Which president (1964–70), a devout cold warrior who saw communist plots behind student protests, signed off on the Tlatelolco operation?",
+      "answer": "Gustavo Díaz Ordaz",
+      "distractors": [
+        "Luis Echeverría",
+        "Adolfo López Mateos",
+        "Adolfo Ruiz Cortines"
+      ],
+      "explanation": "Even the CIA thought him obsessed with security. Under him the security services expanded dramatically, marking a shift toward a harder authoritarianism.",
+      "chapter": 18,
+      "core": true
+    },
+    {
+      "id": "pri-1968-spark",
+      "prompt": "How did the Mexico City student movement of 1968 begin in late July?",
+      "answer": "With a brawl between rival student gangs",
+      "distractors": [
+        "With a protest against the Olympic Games",
+        "With a strike over university fees",
+        "With the arrest of a student leader"
+      ],
+      "explanation": "A fight between groups from the Poli and the UNAM on 22 July was met with beatings by the granaderos, the riot police. State violence then turned a non-ideological brawl into a citywide strike.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-san-ildefonso",
+      "prompt": "At the end of July 1968, how did soldiers break into the old Colegio de San Ildefonso to seize the students inside?",
+      "answer": "They blew the door in with a bazooka",
+      "distractors": [
+        "They drove a tank through the gate",
+        "They landed troops on the roof by helicopter",
+        "They rammed the gate with a truck"
+      ],
+      "explanation": "Paratroopers beat the students and handed about a hundred over to the riot police. Within a week the UNAM, the Poli and other colleges had united in a strike.",
+      "chapter": 18,
+      "feature": "e11-san-ildefonso-1968"
+    },
+    {
+      "id": "pri-silent-march",
+      "prompt": "On 13 September 1968 some 200,000 people marched down Reforma to the Zócalo in the largest protest of the student movement. What is the march called?",
+      "answer": "The Silent March",
+      "distractors": [
+        "The Caravan of Hunger",
+        "The March of Loyalty",
+        "The March of Dignity"
+      ],
+      "explanation": "The marchers held their tongues, dropping their earlier chants about Che Guevara, to signal that the strike council did not want to topple the government; the students also promised not to disrupt the Olympics, which opened on 12 October.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-disolucion-social",
+      "prompt": "The 1968 strike council demanded the abolition of which crime, long used to jail dissidents?",
+      "answer": "Disolución social (social dissolution)",
+      "distractors": [
+        "Traición a la patria (treason)",
+        "Rebelión armada (armed rebellion)",
+        "Vagancia y malvivencia (vagrancy)"
+      ],
+      "explanation": "Their other demands were mostly local: disbanding the riot police, firing police chiefs and compensating victims. The crime was repealed in 1970.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-tlatelolco-snipers",
+      "prompt": "According to Gillingham, who fired the first shots into the crowd and the troops at Tlatelolco on 2 October 1968?",
+      "answer": "Presidential guard snipers on the rooftops",
+      "distractors": [
+        "Armed students on the Chihuahua Building",
+        "Soldiers ordered to clear the square",
+        "KGB-trained agitators in the crowd"
+      ],
+      "explanation": "The president's chief of staff secretly posted the snipers as agents provocateurs. The troops, ordered to return fire if fired upon, then shot into the crowd with rifles and machine guns.",
+      "chapter": 18,
+      "feature": "e11-tlatelolco-1968"
+    },
+    {
+      "id": "pri-5",
+      "prompt": "The massacre at Tlatelolco on 2 October 1968 came ten days before which event?",
+      "answer": "The opening of the Olympic Games",
+      "distractors": [
+        "The army's occupation of Ciudad Universitaria",
+        "The bazooka attack on San Ildefonso",
+        "The Corpus Christi massacre (Halconazo)"
+      ],
+      "explanation": "Soldiers and the plain-clothes Olimpia Battalion opened fire on a student rally in the Plaza de las Tres Culturas. The government acknowledged a few dozen deaths; later estimates run from several dozen to more than 300, and the number has never been established.",
+      "chapter": 18,
+      "core": true,
+      "feature": "e11-tlatelolco-1968"
+    },
+    {
+      "id": "pri-1968-isolated",
+      "prompt": "Why, in Gillingham's view, did the 1968 student movement win little support outside Mexico City?",
+      "answer": "Its demands concerned students and the capital",
+      "distractors": [
+        "Cuba ordered its allies to stay away",
+        "The Church denounced it from the pulpit",
+        "The PAN organised against it"
+      ],
+      "explanation": "The students did not call for free elections, land reform or indigenous rights, and their attempts to link up with workers and peasants failed. Yet the generation of 1968 went on to shape Mexico's culture, media and politics.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-poniatowska",
+      "prompt": "Whose oral history, La noche de Tlatelolco, preserved the voices of the people in the square on 2 October 1968?",
+      "answer": "Elena Poniatowska",
+      "distractors": [
+        "Carlos Monsiváis",
+        "Octavio Paz",
+        "Julio Scherer"
+      ],
+      "explanation": "Memoirs, poems and journalism turned Tlatelolco into myth as well as history: for many it marked the rupture between two Mexicos.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-corpus-christi",
+      "prompt": "What name is given to the attack on a student march in Mexico City on 10 June 1971 by government-trained paramilitaries?",
+      "answer": "The Corpus Christi massacre",
+      "distractors": [
+        "The Tlatelolco massacre",
+        "The Alameda massacre",
+        "The Chilpancingo massacre"
+      ],
+      "explanation": "The paramilitaries were the Halcones, so it is also called the Halconazo. The real toll is unknown, and there were no more big street protests in the capital until the mid-1980s.",
+      "chapter": 18,
+      "feature": "e11-halconazo"
+    },
+    {
+      "id": "pri-echeverria-gobernacion",
+      "prompt": "Who was Secretario de Gobernación at the time of Tlatelolco and president when paramilitaries attacked a student march in June 1971?",
+      "answer": "Luis Echeverría",
+      "distractors": [
+        "Gustavo Díaz Ordaz",
+        "Fernando Gutiérrez Barrios",
+        "José López Portillo"
+      ],
+      "explanation": "Many believed he was behind both massacres. He was elected president in 1970 without fuss.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-dirty-war",
+      "prompt": "What do Mexicans call the counterinsurgency waged from about 1965 to the early 1980s against small rural and urban guerrilla groups?",
+      "answer": "The Guerra sucia (Dirty War)",
+      "distractors": [
+        "The Cristiada (Cristero War)",
+        "The Decena Trágica (Tragic Ten Days)",
+        "The Halconazo (Corpus Christi massacre)"
+      ],
+      "explanation": "Tens of rebels faced thousands of troops, the DFS, police forces and at least one death squad. Telling combatants from civilians was solved by mass arrests, torture and disappearance.",
+      "chapter": 18,
+      "core": true
+    },
+    {
+      "id": "pri-madera",
+      "kind": "where",
+      "prompt": "The attack on the army barracks at Ciudad Madera on 23 September 1965 is usually seen as the start of Mexico's guerrilla wars. Where is Madera?",
+      "answer": "Ciudad Madera, in the sierra of western Chihuahua",
+      "explanation": "Thirteen young men, led by rural teachers, attacked in a region where loggers had been granted more than a million hectares. Eight died, no peasant rising followed, and the government sent some 7,000 troops.",
+      "chapter": 18,
+      "feature": "e11-madera-1965"
+    },
+    {
+      "id": "pri-gamiz",
+      "prompt": "Which rural schoolteacher led the guerrilla attack on the Madera barracks in 1965 and died in it?",
+      "answer": "Arturo Gámiz",
+      "distractors": [
+        "Lucio Cabañas",
+        "Genaro Vázquez",
+        "Ignacio Salas Obregón"
+      ],
+      "explanation": "The attackers hoped to seize weapons, money and the local radio and spark a peasant rising. The governor answered with troops and an ejido for the municipio: carrot and stick.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-cabanas",
+      "prompt": "Which rural teacher from Guerrero's Costa Grande escaped a police massacre at Atoyac in May 1967 and founded the guerrilla Partido de los Pobres?",
+      "answer": "Lucio Cabañas",
+      "distractors": [
+        "Genaro Vázquez",
+        "Arturo Gámiz",
+        "Rubén Jaramillo"
+      ],
+      "explanation": "He was the third generation of agrarian rebels in his family, and local networks of peasants and officials sustained his army. It killed soldiers and caciques until the army killed him in December 1974.",
+      "chapter": 18,
+      "core": true,
+      "feature": "e11-atoyac-1967"
+    },
+    {
+      "id": "pri-atoyac",
+      "kind": "where",
+      "prompt": "The Sierra de Atoyac on Guerrero's Costa Grande was the heart of the rural guerrilla war and its brutal repression in the 1970s. Where is Atoyac de Álvarez?",
+      "answer": "Atoyac de Álvarez, on the coast north-west of Acapulco",
+      "explanation": "The town had been a centre of bloody conflict between merchants and peasants since the 1910s. During the dirty war the army occupied the sierra, and the municipio accounts for a large share of the disappeared of the 1970s.",
+      "chapter": 18,
+      "feature": "e11-atoyac-1967"
+    },
+    {
+      "id": "pri-genaro-vazquez",
+      "prompt": "Which Guerrero schoolteacher, freed from prison by an armed commando in 1968, led the guerrilla Asociación Cívica Nacional Revolucionaria?",
+      "answer": "Genaro Vázquez",
+      "distractors": [
+        "Lucio Cabañas",
+        "Arturo Gámiz",
+        "Rubén Figueroa"
+      ],
+      "explanation": "He had concluded that elections were a con. He and Cabañas operated in the same mountains but never agreed to unite.",
+      "chapter": 18,
+      "feature": "e11-genaro-vazquez"
+    },
+    {
+      "id": "pri-chilpancingo",
+      "prompt": "In 1960 soldiers in Guerrero fired on protesters demanding the governor's removal, starting the cycle of repression that drove peasants toward the guerrillas. In which city?",
+      "answer": "Chilpancingo",
+      "distractors": [
+        "Acapulco",
+        "Atoyac",
+        "Taxco"
+      ],
+      "explanation": "Chilpancingo is the state capital. The governor fell, but the opposition movement that grew out of the deaths was itself violently shut out of the 1962 elections.",
+      "chapter": 18,
+      "feature": "e11-chilpancingo-1960"
+    },
+    {
+      "id": "pri-massacre-trigger",
+      "prompt": "According to one of Guerrero's guerrilla leaders, what usually pushed peasants finally to take up arms?",
+      "answer": "A massacre they would not silently endure",
+      "distractors": [
+        "Arms and money sent from Cuba",
+        "A harvest failure and hunger",
+        "The arrival of a revolutionary vanguard"
+      ],
+      "explanation": "Gillingham concludes that most peasant guerrillas did not go to the hills; they were driven there, by misrule culminating in the massacres of 1960–67.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-foco",
+      "prompt": "Which theory of revolution, drawn from the Cuban example by Che Guevara and Régis Debray, inspired Mexico's guerrillas?",
+      "answer": "The foco theory",
+      "distractors": [
+        "The war of position",
+        "The general strike",
+        "The popular front"
+      ],
+      "explanation": "A small vanguard in the countryside was supposed to spark a peasant revolution. Mexico's guerrillas never numbered more than about 2,000, and splits over ideology and leadership weakened them further.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-liga",
+      "prompt": "Which urban guerrilla group, founded in Guadalajara in 1973, killed the Monterrey industrialist Eugenio Garza Sada in a botched kidnapping that year?",
+      "answer": "The Liga Comunista 23 de Septiembre",
+      "distractors": [
+        "The Movimiento de Acción Revolucionaria",
+        "The Partido de los Pobres",
+        "The Ejército Popular Revolucionario"
+      ],
+      "explanation": "Its botched kidnappings justified a harsher crackdown in the cities, and in 1974 the DFS disappeared its founder, Ignacio Salas Obregón.",
+      "chapter": 18,
+      "feature": "e11-garza-sada-1973"
+    },
+    {
+      "id": "pri-death-flights",
+      "prompt": "Between 1974 and 1980, according to logs found by military prosecutors, how did the army dispose of prisoners taken to the air base at Pie de la Cuesta, near Acapulco?",
+      "answer": "It dropped them into the Pacific from planes",
+      "distractors": [
+        "It buried them in mass graves in the sierra",
+        "It shipped them to the Islas Marías",
+        "It handed them to the governor's death squad"
+      ],
+      "explanation": "Prisoners were shot and loaded onto small planes; the logs record 54 flights that disposed of an estimated 350 people, a method like Argentina's death flights. Gillingham concludes that the regime killed thousands, not hundreds.",
+      "chapter": 18,
+      "core": true,
+      "feature": "e11-pie-de-la-cuesta"
+    },
+    {
+      "id": "pri-campo-militar",
+      "prompt": "To which army base were many detainees from Tlatelolco and the Guerrero counterinsurgency taken?",
+      "answer": "Campo Militar Número 1",
+      "distractors": [
+        "The Islas Marías penal colony",
+        "The fortress of Perote, Veracruz",
+        "The Santa Lucía air base"
+      ],
+      "explanation": "Military reports called kidnapped civilians \"packages\", and most never came back. The army made 1,421 documented arrests in Guerrero alone, and more than 500 people there were disappeared.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-figueroa",
+      "prompt": "Which Guerrero politician, kidnapped by guerrillas in 1974, went on as governor to run his own death squad, the Grupo Sangre?",
+      "answer": "Rubén Figueroa Figueroa",
+      "distractors": [
+        "Raúl Caballero Aburto",
+        "Israel Nogueda Otero",
+        "Raymundo Abarca Alarcón"
+      ],
+      "explanation": "He had machine-gunned voters while running for Congress in 1940. After his escape he pursued Cabañas's family and anyone he counted an enemy.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-brigada-blanca",
+      "prompt": "Which special force, commanded by the DFS director Miguel Nazar Haro, destroyed the urban guerrillas by about 1981?",
+      "answer": "The Brigada Blanca",
+      "distractors": [
+        "The Batallón Olimpia",
+        "The Halcones",
+        "The Grupo Sangre"
+      ],
+      "explanation": "Nazar Haro was notorious for torture. Hundreds of disappearances wiped out the committed militants and discouraged replacements, and by about 1981 the fighting in the cities was over.",
+      "chapter": 18
+    },
+    {
+      "id": "pri-echeverria-populism",
+      "prompt": "What did Luis Echeverría call the new economic model of his presidency (1970–76), meant to spread the benefits of growth?",
+      "answer": "Shared development",
+      "distractors": [
+        "Stabilizing development",
+        "National solidarity",
+        "Moral renewal"
+      ],
+      "explanation": "He wanted to be a new Cárdenas, and under him and his successor the federal budget ballooned. Health and welfare budgets rose roughly tenfold between 1970 and 1980, ejidos received new land, and state jobs grew from 600,000 to 2.2 million.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-tax",
+      "prompt": "In the early 1970s, how did the tax Mexicans paid compare with that paid elsewhere in the Americas?",
+      "answer": "Less as a share of GDP than anyone else",
+      "distractors": [
+        "About the regional average",
+        "More than anyone except Canadians",
+        "The most in Latin America"
+      ],
+      "explanation": "They paid even less than people in Paraguay or Guatemala. Gillingham calls tax-dodging part of the revolutionary pact; without new taxes, Echeverría turned to borrowing and printing money from 1972.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-scherer-proceso",
+      "prompt": "After the government sent gunmen to oust Julio Scherer from the newspaper Excélsior in July 1976, what did he found?",
+      "answer": "The weekly Proceso",
+      "distractors": [
+        "The daily La Jornada",
+        "The tabloid Unomásuno",
+        "The broadsheet Reforma"
+      ],
+      "explanation": "Proceso revolutionised investigative journalism in Mexico. When the government cut off Scherer's newsprint, other papers shared theirs, and López Portillo went on to tolerate, and even fund, a more critical press.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-1976-unopposed",
+      "prompt": "Why did the PRI's candidate face no rival in the presidential election of 1976?",
+      "answer": "The opposition did not field a candidate",
+      "distractors": [
+        "Opposition parties had been banned",
+        "The Supreme Court disqualified his rival",
+        "His rival withdrew after a kidnapping"
+      ],
+      "explanation": "Even so, about a fifth of Mexico City voters spoiled their ballots or wrote in other names. An election with no opponent threatened the PRI's legitimacy and led to the reform of 1977.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-1977-reform",
+      "prompt": "What did the 1977 electoral reform designed by Jesús Reyes Heroles introduce?",
+      "answer": "Proportional representation in Congress",
+      "distractors": [
+        "An independent electoral institute",
+        "An elected mayor for Mexico City",
+        "Primaries for all PRI candidates"
+      ],
+      "explanation": "A quarter of congressional seats were filled by proportional representation, left-wing parties could compete again, and the Supreme Court was given oversight of fraud. It was, says Gillingham, far more democracy than either president wanted.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-1976-crisis",
+      "prompt": "In 1976, after Echeverría had quadrupled the national debt, the peso was devalued and the government had to accept what?",
+      "answer": "An IMF loan tied to austerity",
+      "distractors": [
+        "Nationalisation of the banks",
+        "A moratorium on foreign debt",
+        "Entry into OPEC"
+      ],
+      "explanation": "Capital flight, smuggled imports and a global recession broke the economy. A president who preached economic sovereignty for the Third World had to accept outside conditions on his spending.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-population-law",
+      "prompt": "Which 1974 law reversed decades of pro-natalist policy by setting fertility targets and offering free family planning?",
+      "answer": "The General Law on Population",
+      "distractors": [
+        "The Federal Labour Law",
+        "The Agrarian Reform Law",
+        "The Law on Political Organisations"
+      ],
+      "explanation": "Women then averaged about seven children and the population was growing about 3.5 per cent a year. The law created CONAPO, the National Population Council, attached to Gobernación.",
+      "chapter": 20
+    },
+    {
+      "id": "pri-infonavit",
+      "prompt": "Which public housing agency, founded in the 1970s, began building a million homes for workers?",
+      "answer": "INFONAVIT",
+      "distractors": [
+        "IMSS",
+        "CONASUPO",
+        "PEMEX"
+      ],
+      "explanation": "It was part of the 1970s spending boom, which also gave squatters around the cities legal title and, eventually, electricity, water and sewers.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-lopez-portillo",
+      "prompt": "Which president told Mexicans during the oil boom of the late 1970s that their challenge was now \"administering abundance\"?",
+      "answer": "José López Portillo",
+      "distractors": [
+        "Luis Echeverría",
+        "Miguel de la Madrid",
+        "Gustavo Díaz Ordaz"
+      ],
+      "explanation": "New finds in the southeast and the Gulf multiplied proven reserves, and banks lent freely against future oil revenue. He left office in 1982 amid a debt crisis and was accused of taking a fortune with him.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-oil-producer",
+      "prompt": "The oil discoveries of the late 1970s in the southeast and the Bay of Campeche made Mexico the world's what-largest oil producer?",
+      "answer": "Fourth-largest",
+      "distractors": [
+        "Second-largest",
+        "Sixth-largest",
+        "Tenth-largest"
+      ],
+      "explanation": "Proven reserves rose more than tenfold. Borrowing against future oil was not necessarily foolish, but the money was spent poorly and the economy came to depend on a single export.",
+      "chapter": 19,
+      "feature": "e11-cantarell"
+    },
+    {
+      "id": "pri-oil-exports",
+      "prompt": "Oil made up about 15 per cent of Mexico's exports in 1976. About what share did it make up in 1981?",
+      "answer": "About 73 per cent",
+      "distractors": [
+        "About 25 per cent",
+        "About 40 per cent",
+        "About 95 per cent"
+      ],
+      "explanation": "Dependence on one export left Mexico exposed when prices fell. Imports of consumer goods rose sixfold during the boom, and inflation was ignored.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-1982-trigger",
+      "prompt": "What brought on Mexico's debt crisis of 1982?",
+      "answer": "Falling oil prices and rising US interest rates",
+      "distractors": [
+        "The damage done by the 1985 earthquake",
+        "A US trade embargo over drugs",
+        "A general strike by the oil unions"
+      ],
+      "explanation": "López Portillo refused to cut the price of Mexican oil, borrowed short-term at high rates and lost reserves to capital flight. When the US Federal Reserve raised interest rates, Mexico could no longer service its debt.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-bank-nationalisation",
+      "prompt": "In September 1982, as capital fled the country, what did the outgoing president do?",
+      "answer": "He nationalised the banks",
+      "distractors": [
+        "He privatised PEMEX",
+        "He joined GATT",
+        "He adopted the US dollar"
+      ],
+      "explanation": "Weeks earlier the government had frozen private dollar accounts and converted them into pesos below the market rate, wiping out middle-class savings. In November Mexico accepted an IMF programme of structural adjustment.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-durazo",
+      "prompt": "Which Mexico City police chief of the late 1970s, wanted in Miami for cocaine smuggling, became the emblem of the government's corruption?",
+      "answer": "Arturo Durazo",
+      "distractors": [
+        "Miguel Nazar Haro",
+        "Javier García Paniagua",
+        "Joaquín Hernández Galicia"
+      ],
+      "explanation": "A childhood friend of the president, he built two vulgar mansions with racketeering profits, state funds and conscripted policemen. He later went to prison.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-lost-decade",
+      "prompt": "What name was given to the 1980s in Mexico, when living standards fell for most of the population?",
+      "answer": "The lost decade",
+      "distractors": [
+        "The Mexican miracle",
+        "Shared development",
+        "Stabilizing development"
+      ],
+      "explanation": "Mexicans simply called it la crisis. By 1984 the minimum wage was worth less than half its 1976 value, and by 1987 real wages had halved since 1982 while the price of tortillas had risen by some 400 per cent.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-de-la-madrid",
+      "prompt": "Which president (1982–88), a Harvard-educated technocrat, answered the debt crisis with austerity that went beyond what the IMF demanded?",
+      "answer": "Miguel de la Madrid",
+      "distractors": [
+        "José López Portillo",
+        "Carlos Salinas de Gortari",
+        "Ernesto Zedillo"
+      ],
+      "explanation": "State firms were sold or closed, subsidies cut and state employees fired; even education lost nearly 30 per cent of its budget. Gillingham stresses this was an ideological choice, not simply one imposed from Washington.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-peso-1987",
+      "prompt": "The peso stood at under 30 to the dollar in early 1982. Roughly where was it by the end of 1987?",
+      "answer": "About 2,000 to the dollar",
+      "distractors": [
+        "About 70 to the dollar",
+        "About 200 to the dollar",
+        "About 20,000 to the dollar"
+      ],
+      "explanation": "A new fall in oil prices in 1985–86 undid a brief stabilisation, and annual inflation passed 100 per cent. The cheap peso later helped Salinas attract investment.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-7",
+      "prompt": "Why did the earthquake of 19 September 1985 do far more damage in Mexico City than near its epicentre?",
+      "answer": "The soft clays of the old lake bed amplified the shaking",
+      "distractors": [
+        "Its epicentre lay directly beneath the capital",
+        "It struck at night, when most people were asleep",
+        "Fire spread from the San Juanico gas terminal"
+      ],
+      "explanation": "The magnitude 8.0 quake struck shortly after 7 a.m. off the coast of Michoacán, near Lázaro Cárdenas, nearly 400 km from the capital, and the coast close to the epicentre suffered relatively little. In Mexico City hundreds of buildings collapsed, and the government's slow response weakened the PRI's hold on the capital.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e11-quake-1985-epicentre"
+    },
+    {
+      "id": "pri-quake-aid",
+      "prompt": "How did the president first respond to offers of foreign aid after the earthquake of 19 September 1985?",
+      "answer": "He said Mexico did not need it",
+      "distractors": [
+        "He asked the US army to lead the rescue",
+        "He handed relief work to the Church",
+        "He declared martial law in the capital"
+      ],
+      "explanation": "Austerity had abolished the disaster prevention office, and soldiers who arrived late tried to bulldoze ruins that still held survivors. The authorities' absence and incompetence made the disaster political within a day.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-quake-seamstresses",
+      "prompt": "Which workers died in great numbers in the 1985 earthquake when illegal workshops collapsed, while some owners rescued machinery first?",
+      "answer": "Garment workers",
+      "distractors": [
+        "Oil refinery workers",
+        "Metro drivers",
+        "Hotel staff"
+      ],
+      "explanation": "The quake exposed hundreds of illegal textile workshops in buildings unfit for their machines. Survivors organised and won an independent union, the 19 de Septiembre.",
+      "chapter": 19,
+      "feature": "e11-costureras-1985"
+    },
+    {
+      "id": "pri-cud",
+      "prompt": "Which coalition of earthquake victims pushed the government into rebuilding housing in their old neighbourhoods rather than moving them out of the city?",
+      "answer": "The Coordinadora Única de Damnificados",
+      "distractors": [
+        "The Frente Democrático Nacional",
+        "The Movimiento de Liberación Nacional",
+        "The Consejo Nacional de Huelga"
+      ],
+      "explanation": "Through marches, the media and negotiation it won the expropriation of thousands of buildings and lots, and about 70 per cent of residents stayed in rebuilt versions of their old neighbourhoods. In 1987 it gave way to the Asamblea de Barrios.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-monsivais",
+      "prompt": "Which chronicler of Mexico City cast the 1985 earthquake volunteers as \"civil society\" taking power from a failed state?",
+      "answer": "Carlos Monsiváis",
+      "distractors": [
+        "Octavio Paz",
+        "Carlos Fuentes",
+        "Julio Scherer"
+      ],
+      "explanation": "The volunteer rescuers, among them the topos who tunnelled into the rubble, became the stuff of myth. Mass politics returned to a capital that had been quiet since 1968.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-chihuahua-1986",
+      "prompt": "Which state's governorship race of 1986 became the PAN's great showcase of PRI fraud, with marches, hunger strikes and blockades of the border bridges?",
+      "answer": "Chihuahua",
+      "distractors": [
+        "Baja California",
+        "Guanajuato",
+        "San Luis Potosí"
+      ],
+      "explanation": "The PRI kept the governorship with threadbare fraud. Left-wing leaders such as Heberto Castillo came to support the protests and called for a national campaign for democracy.",
+      "chapter": 19,
+      "feature": "e11-chihuahua-1986"
+    },
+    {
+      "id": "pri-corriente-democratica",
+      "prompt": "What was the name of the PRI faction that broke away in 1987–88 to join a left-wing presidential front?",
+      "answer": "The Corriente Democrática",
+      "distractors": [
+        "The dinosaurios",
+        "The Grupo Atlacomulco",
+        "The Movimiento Territorial"
+      ],
+      "explanation": "It included figures such as Porfirio Muñoz Ledo, a former party president. They left in protest at the party's turn to the right under de la Madrid and his chosen successor, Carlos Salinas.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-fdn",
+      "prompt": "Under what name did a broad left coalition run against the PRI in the presidential election of 1988?",
+      "answer": "The Frente Democrático Nacional",
+      "distractors": [
+        "The Partido de la Revolución Democrática",
+        "The Movimiento de Liberación Nacional",
+        "The Federación de Partidos del Pueblo Mexicano"
+      ],
+      "explanation": "It united Heberto Castillo's socialists, smaller parties and the PRI's breakaway left. It drew on Mexico City's newly politicised crowds and on old Cardenista strongholds such as Michoacán and the Laguna.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-heberto-castillo",
+      "prompt": "Which engineer, former political prisoner and earthquake activist stood aside to unite the left behind a single presidential candidate in 1988?",
+      "answer": "Heberto Castillo",
+      "distractors": [
+        "Porfirio Muñoz Ledo",
+        "Demetrio Vallejo",
+        "Valentín Campa"
+      ],
+      "explanation": "Gillingham suggests Castillo might well have won a popularity contest for the nomination, but the coalition anointed Cárdenas, the son of the most revered president, instead of holding primaries.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-8",
+      "prompt": "Who ran against Carlos Salinas de Gortari at the head of a left-wing front in the disputed election of 1988?",
+      "answer": "Cuauhtémoc Cárdenas",
+      "distractors": [
+        "Francisco Barrio",
+        "Ernesto Ruffo Appel",
+        "Luis H. Álvarez"
+      ],
+      "explanation": "Cárdenas, son of the former president, broke with the PRI to run; on election night the Interior Ministry's counting system \"crashed\", and Salinas was then declared the winner with just over 50 per cent. The PRD, founded in 1989, grew out of Cárdenas's campaign.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e11-election-1988"
+    },
+    {
+      "id": "pri-bartlett",
+      "prompt": "Which Secretario de Gobernación ran the 1988 count, in which a secret computer folder held back results from districts the PRI was losing?",
+      "answer": "Manuel Bartlett",
+      "distractors": [
+        "Fernando Gutiérrez Barrios",
+        "Jesús Reyes Heroles",
+        "Manuel Camacho Solís"
+      ],
+      "explanation": "When opposition observers caught on, screens went blank and the government said the system had crashed. Long afterwards de la Madrid and others admitted the fraud.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-ballots-burned",
+      "prompt": "What finally happened to the ballots of the disputed 1988 presidential election?",
+      "answer": "They were burned with PRI and PAN backing",
+      "distractors": [
+        "They were recounted by the Supreme Court",
+        "They were sealed in an archive until 2038",
+        "They were inspected by UN observers"
+      ],
+      "explanation": "Soldiers kept PAN legislators from reaching them in the basement of Congress. The PAN accepted Salinas's victory in exchange for electoral reform, so nobody ever saw the actual votes.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-prd-killings",
+      "prompt": "After the left founded the PRD in 1989, how many of its militants were killed during Salinas's first five years, by Gillingham's count?",
+      "answer": "About 265, roughly one a week",
+      "distractors": [
+        "About 25, roughly one a quarter",
+        "About 2,600, roughly ten a week",
+        "About 1,000, roughly four a week"
+      ],
+      "explanation": "Salinas conceded governorships in the north to the PAN, which shared his economic views, while choking the left. Provincial priístas were allowed to kill PRD activists.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-9",
+      "prompt": "In 1989 the PRI conceded a governorship to the opposition for the first time since the party's founding. In which state?",
+      "answer": "Baja California",
+      "distractors": [
+        "Chihuahua",
+        "Guanajuato",
+        "Nuevo León"
+      ],
+      "explanation": "Ernesto Ruffo Appel of the PAN won on 2 July 1989, and the Salinas government recognised it. The opposition went on to win Chihuahua (1992), Guanajuato and Jalisco (1995) and Nuevo León (1997) before the PRI lost the presidency in 2000.",
+      "chapter": 19,
+      "feature": "e11-baja-california-1989"
+    },
+    {
+      "id": "pri-la-quina",
+      "prompt": "In January 1989 Salinas had which notoriously corrupt oil union boss arrested, using the scandal to cut PEMEX's budget and workforce?",
+      "answer": "Joaquín Hernández Galicia",
+      "distractors": [
+        "Fidel Velázquez",
+        "Jorge Díaz Serrano",
+        "Carlos Romero Deschamps"
+      ],
+      "explanation": "\"La Quina\" was charged with murder and jailed for 35 years. Like Solidaridad, the arrest looked like an attack on corruption while slimming the state and boosting the president's popularity.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-solidaridad",
+      "prompt": "Which Salinas programme bypassed the old agencies to fund local projects for the poor in return for the communities' own labour?",
+      "answer": "Solidaridad",
+      "distractors": [
+        "Progresa",
+        "CONASUPO",
+        "Plan Guerrero"
+      ],
+      "explanation": "It spent about $18 billion on schools, drainage and electricity, and Salinas made sure he was filmed beside the results. Critics saw the old forced communal labour, the faena, rebranded as empowerment.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-slim",
+      "prompt": "Who bought the national telephone company, Telmex, when Salinas privatised it, and went on to become the world's richest man?",
+      "answer": "Carlos Slim",
+      "distractors": [
+        "Emilio Azcárraga",
+        "Ricardo Salinas Pliego",
+        "Roberto Hernández"
+      ],
+      "explanation": "The cheap sale did not end the monopoly or cut bills, which became some of the highest in the world. Salinas also sold the banks and the airline Mexicana.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-ejido-reform",
+      "prompt": "What did Salinas declare finished in 1992, opening the ejidos to privatisation?",
+      "answer": "The revolution's land reform",
+      "distractors": [
+        "The ban on presidential re-election",
+        "PEMEX's monopoly on oil",
+        "The federal minimum wage"
+      ],
+      "explanation": "He said agrarian reform had accomplished its purpose and that private ownership would raise production. With NAFTA it marked the end of the revolution's promises to the countryside.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-governors-fired",
+      "prompt": "How many state governors did Carlos Salinas remove during his six-year term?",
+      "answer": "Seventeen",
+      "distractors": [
+        "Three",
+        "Seven",
+        "Thirty-one"
+      ],
+      "explanation": "He talked of decentralisation but recentralised power, hiring and firing governors as it suited him. For five of his six years he was remarkably successful.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-nafta-maize",
+      "prompt": "Which Mexican farmers did NAFTA hurt most, by exposing them to subsidised imports from the US Midwest?",
+      "answer": "Maize growers",
+      "distractors": [
+        "Avocado growers",
+        "Tomato exporters",
+        "Cattle ranchers"
+      ],
+      "explanation": "Mexican peasants were squeezed first by state price controls and then by free trade. Most of NAFTA's export growth came in the maquiladoras, and real wages did not rise.",
+      "chapter": 20,
+      "core": true,
+      "feature": "e11-nafta"
+    },
+    {
+      "id": "pri-10",
+      "kind": "where",
+      "prompt": "In the first hours of 1 January 1994, as NAFTA took effect, the Zapatistas seized San Cristóbal de las Casas. Where is San Cristóbal?",
+      "answer": "San Cristóbal de las Casas, in the Chiapas highlands",
+      "explanation": "From the balcony of the municipal palace the EZLN, mostly Maya from the highlands and the Lacandon forest, read its Declaration of the Lacandon Jungle, demanding land, work, health, education, democracy and justice. With the murders of Colosio and Ruiz Massieu later that year, the uprising made 1994 the year the PRI system visibly cracked.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e11-ezln-san-cristobal"
+    },
+    {
+      "id": "pri-marcos",
+      "prompt": "What nom de guerre did Rafael Guillén, a prize-winning philosophy graduate of the UNAM, use as the Zapatistas' spokesman?",
+      "answer": "Subcomandante Marcos",
+      "distractors": [
+        "Comandante Tacho",
+        "Comandanta Ramona",
+        "Comandante Cero"
+      ],
+      "explanation": "Pipe-smoking and balaclava-clad, he charmed the press with humour and children's stories. He styled himself sub-commander because he said he obeyed the Indigenous communities' councils.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-ezln-peoples",
+      "prompt": "Which peoples made up the Zapatistas' base in 1994?",
+      "answer": "Tzotzil, Tzeltal, Tojolabal and Chol",
+      "distractors": [
+        "Zapotec, Mixtec, Mixe and Chatino",
+        "Yaqui, Mayo, Seri and Tarahumara",
+        "Nahua, Otomí, Mazahua and Purépecha"
+      ],
+      "explanation": "All four are Maya peoples. Chiapas was one of Mexico's poorest states and had the largest Indigenous population, with long-running land conflicts between Maya villagers and cattle ranchers.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-liberation-theology",
+      "prompt": "Which current in the Catholic Church, brought to the Chiapas highlands by radical priests and lay preachers, helped prepare the ground for the Zapatistas?",
+      "answer": "Liberation theology",
+      "distractors": [
+        "Sinarquismo",
+        "Opus Dei",
+        "The Cristero movement"
+      ],
+      "explanation": "Its ideal of a socially just, grassroots church combined with local histories of autonomy and a handful of former guerrillas who had taken refuge in Chiapas in the 1980s.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-ezln-ceasefire",
+      "prompt": "How long did open fighting between the Zapatistas and the army last in January 1994?",
+      "answer": "About twelve days",
+      "distractors": [
+        "About two days",
+        "About three months",
+        "About a year"
+      ],
+      "explanation": "Poorly armed, the rebels retreated into the Lacandon forest. On 12 January the government declared a ceasefire and began talks: the rising succeeded through style and publicity far more than through arms.",
+      "chapter": 19,
+      "feature": "e11-ezln-ocosingo"
+    },
+    {
+      "id": "pri-posadas",
+      "prompt": "Which churchman was shot dead in the car park of Guadalajara airport in May 1993?",
+      "answer": "Cardinal Posadas Ocampo",
+      "distractors": [
+        "Bishop Samuel Ruiz",
+        "Nuncio Girolamo Prigione",
+        "Archbishop Norberto Rivera"
+      ],
+      "explanation": "It was the first of three political murders in 1993–94. No one had killed a bishop even during the Cristero war, and many Mexicans suspected the state.",
+      "chapter": 19,
+      "feature": "e11-posadas-1993"
+    },
+    {
+      "id": "pri-colosio",
+      "prompt": "Which PRI presidential candidate was shot dead at a campaign rally in a poor barrio of Tijuana in March 1994?",
+      "answer": "Luis Donaldo Colosio",
+      "distractors": [
+        "José Francisco Ruiz Massieu",
+        "Manuel Camacho Solís",
+        "Francisco Labastida"
+      ],
+      "explanation": "Just over two weeks earlier he had broken with the script, telling a crowd he saw a Mexico hungry and thirsty for justice. Investigations ended with a lone gunman, Mario Aburto, but few Mexicans believed it.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e11-colosio"
+    },
+    {
+      "id": "pri-ruiz-massieu",
+      "prompt": "Which PRI secretary-general, Carlos Salinas's former brother-in-law, was shot dead in Mexico City in September 1994?",
+      "answer": "José Francisco Ruiz Massieu",
+      "distractors": [
+        "Mario Ruiz Massieu",
+        "Manuel Muñoz Rocha",
+        "Fernando Ortiz Arana"
+      ],
+      "explanation": "His brother Mario took charge of the investigation and resigned within weeks, saying senior party members were obstructing it. The case grew into what Gillingham calls the biggest political scandal in Mexico's history.",
+      "chapter": 19,
+      "feature": "e11-ruiz-massieu-1994"
+    },
+    {
+      "id": "pri-unwritten-rule-broken",
+      "prompt": "Which great unwritten rule of the PRI did the murders of 1993–94 break?",
+      "answer": "Never kill top politicians",
+      "distractors": [
+        "Never re-elect a president",
+        "Never nominate a general for president",
+        "Never default on foreign debt"
+      ],
+      "explanation": "None of the killings was solved to public satisfaction, and many believed they had been ordered from inside the PRI. The PRI lost its last claim to be a safe pair of hands.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-raul-salinas",
+      "prompt": "Who was arrested in February 1995 as the alleged mastermind of the murder of the PRI's secretary-general?",
+      "answer": "Raúl Salinas de Gortari",
+      "distractors": [
+        "Mario Aburto Martínez",
+        "Manuel Bartlett",
+        "Mario Ruiz Massieu"
+      ],
+      "explanation": "The former president's elder brother, the \"inconvenient brother\", had moved millions through foreign accounts. The scandal drove Carlos Salinas into exile and gave Zedillo a weapon against the old guard.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-zedillo",
+      "prompt": "Who replaced the assassinated PRI candidate in 1994 and won that August's presidential election?",
+      "answer": "Ernesto Zedillo",
+      "distractors": [
+        "Manuel Camacho Solís",
+        "Francisco Labastida",
+        "Pedro Aspe"
+      ],
+      "explanation": "A mechanic's son who rose through the Poli to a Yale doctorate, he was the first candidate since 1952 from outside the charmed circle of privilege. He had no party base and was underestimated from the start.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-peso-crisis",
+      "prompt": "What happened within weeks of the new president's inauguration in December 1994?",
+      "answer": "The peso collapsed",
+      "distractors": [
+        "Colosio was assassinated",
+        "The army attempted a coup",
+        "NAFTA was suspended"
+      ],
+      "explanation": "Before the election the government had held the peso artificially high, and investors pulled out. Interest rates soared, borrowers defaulted and banks failed.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-rescue-1995",
+      "prompt": "What did the US-led rescue of about $50 billion in 1995 require of Mexico in return?",
+      "answer": "Austerity and high interest rates",
+      "distractors": [
+        "Privatisation of PEMEX",
+        "Adoption of the US dollar",
+        "Extradition of all drug suspects"
+      ],
+      "explanation": "Mexico had to cut spending and raise taxes. Bailing out the banks also cost the public tens of billions, much of it going to private bankers. Some 1.2 million people lost their jobs in 1995.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-feb-1995",
+      "prompt": "What became of the army offensive launched against the Zapatistas in February 1995?",
+      "answer": "Public opinion forced it to halt",
+      "distractors": [
+        "It captured Subcomandante Marcos",
+        "It ended in a negotiated surrender",
+        "It drove the rebels into Guatemala"
+      ],
+      "explanation": "Appalled priístas, including the Secretario de Gobernación, joined the opposition to it. Soldiers and paramilitaries stayed in Chiapas for the long term.",
+      "chapter": 19,
+      "feature": "e11-guadalupe-tepeyac"
+    },
+    {
+      "id": "pri-acteal",
+      "prompt": "In which Chiapas hamlet did paramilitaries kill 45 Tzotzil civilians at a prayer meeting in December 1997?",
+      "answer": "Acteal",
+      "distractors": [
+        "Aguas Blancas",
+        "Ocosingo",
+        "Guadalupe Tepeyac"
+      ],
+      "explanation": "The victims belonged to the pacifist Catholic group Las Abejas. The massacre caused international outrage, but it has never been fully cleared up.",
+      "chapter": 19,
+      "feature": "e11-acteal"
+    },
+    {
+      "id": "pri-aguas-blancas",
+      "prompt": "Where did Guerrero state police shoot 17 peasant activists in June 1995, a massacre that later forced the governor out?",
+      "answer": "Aguas Blancas",
+      "distractors": [
+        "Atoyac",
+        "Acteal",
+        "Chilpancingo"
+      ],
+      "explanation": "The governor, Rubén Figueroa Alcocer, son of the 1970s governor, took leave in 1996. Gillingham notes the contrast: his father had got away with far worse.",
+      "chapter": 19,
+      "feature": "e11-aguas-blancas"
+    },
+    {
+      "id": "pri-epr",
+      "prompt": "Which small Maoist guerrilla group first appeared in Guerrero in 1996?",
+      "answer": "The Ejército Popular Revolucionario",
+      "distractors": [
+        "The Liga Comunista 23 de Septiembre",
+        "The Partido de los Pobres",
+        "The Movimiento de Acción Revolucionaria"
+      ],
+      "explanation": "It made its first public appearance at the first anniversary of the Aguas Blancas massacre. The Zapatistas nodded respectfully to it, but no wider rising followed.",
+      "chapter": 19,
+      "feature": "e11-aguas-blancas"
+    },
+    {
+      "id": "pri-woldenberg",
+      "prompt": "Which political scientist and columnist presided over the electoral institute that the reform of 1996 made fully independent of the government?",
+      "answer": "José Woldenberg",
+      "distractors": [
+        "Manuel Bartlett",
+        "Jesús Reyes Heroles",
+        "Julio Scherer"
+      ],
+      "explanation": "The Federal Electoral Institute (IFE) was citizen-run and well funded, and the certification of results passed from Congress to an electoral tribunal in the judiciary. The PRI itself moved to primaries.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-cardenas-1997",
+      "prompt": "Who became the first elected head of government of Mexico City in 1997?",
+      "answer": "Cuauhtémoc Cárdenas",
+      "distractors": [
+        "Manuel Camacho Solís",
+        "Vicente Fox",
+        "Porfirio Muñoz Ledo"
+      ],
+      "explanation": "The presidentially appointed regent was replaced by an elected head of government, and in a clean vote Cárdenas won easily.",
+      "chapter": 19,
+      "core": true,
+      "feature": "e11-mexico-city-1997"
+    },
+    {
+      "id": "pri-congress-1997",
+      "prompt": "What did the PRI lose for the first time in the mid-term elections of 1997?",
+      "answer": "Its majority in the Chamber of Deputies",
+      "distractors": [
+        "The presidency of the republic",
+        "Every northern governorship",
+        "Its registration as a party"
+      ],
+      "explanation": "Clean elections under the 1996 rules transformed Congress. Three years later only the presidency was left to lose, and in 2000 the PRI lost that too.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-prd-governors",
+      "prompt": "Which party won its first governorships in Zacatecas, Tlaxcala and Baja California Sur in the late 1990s?",
+      "answer": "The PRD",
+      "distractors": [
+        "The PAN",
+        "The PT",
+        "The PVEM"
+      ],
+      "explanation": "Zedillo told PRD leaders that, unlike Salinas, he believed Mexico needed a strong left-wing party alongside the PRI and the PAN.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-progresa",
+      "prompt": "Which federal programme of the late 1990s paid cash to poor rural families on condition that their children attended school and had regular health checks?",
+      "answer": "Progresa",
+      "distractors": [
+        "Solidaridad",
+        "Plan Guerrero",
+        "CONASUPO"
+      ],
+      "explanation": "It targeted extreme poverty regardless of how people voted, unlike earlier programmes aimed at swing communities. Gillingham notes that it foreshadowed Brazil's better-known Bolsa Família.",
+      "chapter": 19,
+      "core": true
+    },
+    {
+      "id": "pri-greatest-change",
+      "prompt": "What does Gillingham call the greatest single change in modern Mexican history?",
+      "answer": "The population boom and its stabilisation",
+      "distractors": [
+        "The armed revolution of the 1910s",
+        "The North American Free Trade Agreement",
+        "The end of one-party rule in 2000"
+      ],
+      "explanation": "Mexico went from small rural societies with high birth and death rates to a big urban society with low ones, and then curbed its growth quickly and without coercion. Not even China, Gillingham argues, saw so dramatic a demographic revolution.",
+      "chapter": 20,
+      "core": true
+    },
+    {
+      "id": "pri-population-1970",
+      "prompt": "Mexico had about 20 million people in 1940. About how many did it have in 1970?",
+      "answer": "About 48 million",
+      "distractors": [
+        "About 30 million",
+        "About 70 million",
+        "About 100 million"
+      ],
+      "explanation": "It was one of the most remarkable population expansions in world history. By 2000 there were about 100 million Mexicans.",
+      "chapter": 19
+    },
+    {
+      "id": "pri-women-migrants",
+      "prompt": "Which migrants consistently led the movement from the countryside to Mexico City, bringing their families after them?",
+      "answer": "Women, many of them domestic servants",
+      "distractors": [
+        "Young men seeking factory jobs",
+        "Whole ejido communities",
+        "Returning braceros"
+      ],
+      "explanation": "Subsidies, tax breaks and cheap food concentrated industry in the capital, where half the country's industrial workers lived by 1970. Domestic servants were classic agents of modernisation for their home villages.",
+      "chapter": 20
+    },
+    {
+      "id": "pri-fertility",
+      "prompt": "Mexico's total fertility rate was about 6.7 children per woman in 1970. What was it in 1996?",
+      "answer": "About 2.7",
+      "distractors": [
+        "About 1.7",
+        "About 4.3",
+        "About 5.5"
+      ],
+      "explanation": "Contraceptive use rose from 30 per cent of women in 1976 to two-thirds in 1995, close to the US level. Mexico cut fertility faster than comparable countries, and without the coercion used in India or China.",
+      "chapter": 20,
+      "core": true
+    },
+    {
+      "id": "pri-church-contraception",
+      "prompt": "How did the Catholic Church respond to the government's family planning campaigns from the 1970s?",
+      "answer": "It largely did not oppose them",
+      "distractors": [
+        "It excommunicated women who used the Pill",
+        "It organised mass protests in the cities",
+        "It ran its own rival clinics"
+      ],
+      "explanation": "The quiet compromise reflected the church–state modus vivendi: the government in turn neither legalised abortion nor reintroduced sex education. Even in conservative Catholic towns the Pill became commonplace.",
+      "chapter": 20
+    },
+    {
+      "id": "pri-1",
+      "prompt": "What did the Bracero Program, agreed between Mexico and the United States in 1942, arrange?",
+      "answer": "Contracts for Mexican men to work on US farms",
+      "distractors": [
+        "Duty-free assembly plants along the border",
+        "The return of the Chamizal tract to Mexico",
+        "Free trade among Mexico, the US and Canada"
+      ],
+      "explanation": "Begun because the United States was at war and short of farm labour, the program issued some 4.6 million contracts before the US Congress let it lapse at the end of 1964. With the program ended and unemployment high along the border, Mexico launched the maquiladora program in 1965.",
+      "chapter": 20,
+      "core": true,
+      "feature": "e11-bracero-agreement"
+    },
+    {
+      "id": "pri-bracero-states",
+      "prompt": "Nearly half of all braceros came from just five states of the centre-west. Which of these states was one of the five?",
+      "answer": "Michoacán",
+      "distractors": [
+        "Chiapas",
+        "Yucatán",
+        "Veracruz"
+      ],
+      "explanation": "The others were Aguascalientes, Guanajuato, Jalisco and Zacatecas, a region scarred by religious war and landlessness. Wages in this emigrant heartland were still below the national average when the programme ended.",
+      "chapter": 20
+    },
+    {
+      "id": "pri-operation-wetback",
+      "prompt": "What was the name of the US campaign of 1954 to deport undocumented Mexican workers?",
+      "answer": "Operation Wetback",
+      "distractors": [
+        "Operation Intercept",
+        "Operation Gatekeeper",
+        "Operation Condor"
+      ],
+      "explanation": "Earlier that year Washington had said any Mexican who managed to cross could have a bracero contract, then reversed course in June. US policy swung with labour shortages and politics.",
+      "chapter": 20
+    },
+    {
+      "id": "pri-3",
+      "kind": "where",
+      "prompt": "Acapulco was turned into Mexico's first great beach resort in the 1940s and 1950s. Where is Acapulco?",
+      "answer": "Acapulco, on the Pacific coast of Guerrero",
+      "explanation": "Miguel Alemán, as interior minister and then president, promoted the expropriation of beachfront land for hotels and the coastal road named after him, and migrants who came to work in the hotels settled in the hills behind the bay. From the 1970s federal investment shifted to Cancún.",
+      "chapter": 20,
+      "feature": "e11-acapulco-resort"
+    },
+    {
+      "id": "pri-cancun",
+      "prompt": "Which resort, built by federal planners on a nearly empty Caribbean barrier island from 1970, drew the state investment that had once gone to Acapulco?",
+      "answer": "Cancún",
+      "distractors": [
+        "Puerto Vallarta",
+        "Ixtapa",
+        "Cozumel"
+      ],
+      "explanation": "Governments engineered tourist meccas with subsidies, infrastructure, publicity and corruption. Under López Portillo the state poured money into Cancún, Puerto Vallarta and Ixtapa.",
+      "chapter": 20,
+      "feature": "e11-cancun"
+    },
+    {
+      "id": "pri-4",
+      "kind": "where",
+      "prompt": "Ciudad Juárez became the largest centre of the Border Industrialization Program launched in 1965. Where is Ciudad Juárez?",
+      "answer": "Ciudad Juárez, across from El Paso",
+      "explanation": "The program let foreign-owned assembly plants (maquiladoras) import parts and machinery duty-free as long as they exported the product. Juárez's industrial parks of US electronics, garment and auto-parts plants employed mostly young women.",
+      "chapter": 20,
+      "feature": "e11-border-industrialization"
+    },
+    {
+      "id": "pri-golden-triangle",
+      "prompt": "Which three states form the \"Golden Triangle\" of the Sierra Madre Occidental, Mexico's main opium-growing zone?",
+      "answer": "Sinaloa, Durango and Chihuahua",
+      "distractors": [
+        "Sonora, Sinaloa and Nayarit",
+        "Michoacán, Guerrero and Oaxaca",
+        "Coahuila, Durango and Zacatecas"
+      ],
+      "explanation": "Its forested mountains and deep valleys were hard for soldiers to reach but close to ports, railways and roads. Burned fields sprang up again the next season.",
+      "chapter": 21
+    },
+    {
+      "id": "pri-army-1948",
+      "prompt": "In 1948, under pressure from the United States, what did Mexico deploy for the first time in a national anti-drug campaign?",
+      "answer": "Federal army troops",
+      "distractors": [
+        "DEA advisers in the field",
+        "Herbicide-spraying aircraft",
+        "Cheap morphine clinics"
+      ],
+      "explanation": "The US had pushed Mexico away from its medical approach to addiction and toward eradication. For years the effort was small: until 1954 no more than half a battalion was committed.",
+      "chapter": 21
+    },
+    {
+      "id": "pri-operation-intercept",
+      "prompt": "What was Operation Intercept, launched by the Nixon administration in September 1969?",
+      "answer": "An order to search every vehicle from Mexico",
+      "distractors": [
+        "A joint raid on Sinaloa's poppy fields",
+        "A ban on Mexican tomato imports",
+        "The first extradition of Mexican traffickers"
+      ],
+      "explanation": "It closed the border in effect and crashed the regional economy, and was over in twenty days. Pressure on smugglers led to professional syndicates with planes replacing amateurs with backpacks.",
+      "chapter": 21
+    },
+    {
+      "id": "pri-heroin-1976",
+      "prompt": "After the French Connection was broken in 1972, Mexican growers filled the gap. By 1976 about what share of US heroin did Mexico supply?",
+      "answer": "About 90 per cent",
+      "distractors": [
+        "About 10 per cent",
+        "About 30 per cent",
+        "About 50 per cent"
+      ],
+      "explanation": "Poppy growing spread from the Golden Triangle down the Sierra Madre into Michoacán and Guerrero. In the early 1970s Mexico had produced only 1–2 per cent of the world's heroin.",
+      "chapter": 21
+    },
+    {
+      "id": "pri-6",
+      "prompt": "Operation Condor drove Sinaloan traffickers such as Félix Gallardo, Caro Quintero and Fonseca out of the sierra. In which city did they regroup as \"the Federation\"?",
+      "answer": "Guadalajara",
+      "distractors": [
+        "Tijuana",
+        "Ciudad Juárez",
+        "Monterrey"
+      ],
+      "explanation": "With US money and DEA advisers, the army sent thousands of troops and herbicide-spraying aircraft into the Golden Triangle around Badiraguato, and peasant villages suffered torture, killings and displacement. The Guadalajara-based Federation ended after the 1985 murder of the DEA agent Enrique Camarena brought US pressure and the arrests of its leaders.",
+      "chapter": 21,
+      "core": true,
+      "feature": "e11-operacion-condor"
+    },
+    {
+      "id": "pri-cocaine-route",
+      "prompt": "Why did Colombian cocaine begin to flow through Mexico in the 1980s?",
+      "answer": "The US shut down the Caribbean routes",
+      "distractors": [
+        "Colombia's government licensed the trade",
+        "NAFTA opened the border to trucks",
+        "Peru's coca fields moved to Mexico"
+      ],
+      "explanation": "Mexican traffickers first earned commissions for shipping; as the Colombian cartels crumbled they became wholesalers in their own right. In 1990 the Gulf Cartel moved forty tons in one shipment.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "pri-camarena",
+      "prompt": "Which DEA agent was tortured and murdered in Guadalajara in 1985, bringing US pressure that destroyed the Federation?",
+      "answer": "Enrique Camarena",
+      "distractors": [
+        "Hamilton Wright",
+        "Harry Anslinger",
+        "John Ehrlichman"
+      ],
+      "explanation": "He had helped destroy Caro Quintero's vast marijuana plantation, El Búfalo. Caro Quintero and Fonseca were arrested, the DFS was dissolved, and Félix Gallardo was arrested in 1989.",
+      "chapter": 21,
+      "feature": "e11-camarena-1985"
+    },
+    {
+      "id": "pri-certification",
+      "prompt": "Under the US Anti-Drug Abuse Act of 1986, economic help for Mexico, including IMF credit, came to depend on what?",
+      "answer": "Annual US certification of its anti-drug effort",
+      "distractors": [
+        "Extradition of all Mexican drug suspects",
+        "Mexico joining the DEA's command",
+        "Legalising US agents' arrests in Mexico"
+      ],
+      "explanation": "The act also licensed a greatly expanded DEA to kidnap traffickers abroad. Mexicans were outraged, but the government deployed more troops and made more arrests.",
+      "chapter": 21
+    },
+    {
+      "id": "pri-cocaine-share-1990s",
+      "prompt": "By the mid-1990s, about what share of the cocaine reaching the US market came through Mexico?",
+      "answer": "About 70 per cent",
+      "distractors": [
+        "About 10 per cent",
+        "About 30 per cent",
+        "About 95 per cent"
+      ],
+      "explanation": "Mexico also supplied about 30 per cent of US heroin and 80 per cent of its marijuana. Smuggling profits rose from billions to tens of billions of dollars.",
+      "chapter": 21
+    },
+    {
+      "id": "pri-nafta-trucks",
+      "prompt": "How did NAFTA, part of the reward for Mexico's cooperation on drugs, help the drug trade?",
+      "answer": "Thousands of trucks crossed daily, too many to search",
+      "distractors": [
+        "It ended all customs inspections at the border",
+        "It let Mexican planes land freely in Texas",
+        "It legalised the trade in coca leaf"
+      ],
+      "explanation": "As much as half the cocaine entering the US is said to have driven through Nuevo Laredo in shipping containers.",
+      "chapter": 21,
+      "feature": "e11-nafta"
+    },
+    {
+      "id": "pri-narco-power-flip",
+      "prompt": "How did the balance between politicians and drug traffickers change by the mid-1990s, in Gillingham's view?",
+      "answer": "Traffickers began giving politicians orders",
+      "distractors": [
+        "Politicians took over the trafficking routes",
+        "The army replaced the traffickers",
+        "The DEA took charge of the routes"
+      ],
+      "explanation": "Once politicians had policed the routes and set limits. Opposition wins, the end of the DFS and competing police forces let traffickers recruit their own protectors and fight over territory.",
+      "chapter": 21,
+      "core": true
+    },
+    {
+      "id": "pri-sinaloa-favoured",
+      "prompt": "Which drug organisation does Gillingham say the PRI tacitly favoured in the 1990s, which helped prevent all-out war across the country?",
+      "answer": "The Sinaloa organisation",
+      "distractors": [
+        "The Tijuana organisation",
+        "The Gulf organisation",
+        "The Juárez organisation"
+      ],
+      "explanation": "Zedillo, personally honest, kept the army on the sidelines where he could and made occasional arrests to satisfy the Americans. His top drug-fighting general turned out to be working with traffickers.",
+      "chapter": 21
+    }
+  ]
+}

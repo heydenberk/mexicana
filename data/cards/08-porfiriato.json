@@ -1,0 +1,1660 @@
+{
+  "era": "porfiriato",
+  "cards": [
+    {
+      "id": "porfiriato-1",
+      "prompt": "What did the killing of Victorio and most of his warriors at Tres Castillos in 1880 help to bring to an end?",
+      "answer": "Apache raiding in Chihuahua and Sonora",
+      "distractors": [
+        "The Caste War of the Maya in Yucatán",
+        "Yaqui resistance in the Sonora valley",
+        "The Tomóchic rising in the sierra"
+      ],
+      "explanation": "Chihuahuan forces under Joaquín Terrazas trapped Victorio's band at the hills of Tres Castillos. With Geronimo's surrender in Arizona in 1886, it largely ended decades of Apache raiding and opened the northern ranges to railways, ranching and mining.",
+      "feature": "e8-tres-castillos"
+    },
+    {
+      "id": "porfiriato-2",
+      "prompt": "Once the 1882 treaty with Guatemala settled the border, which crop spread over the slopes above Tapachula in the Soconusco?",
+      "answer": "Coffee",
+      "distractors": [
+        "Henequen",
+        "Cotton",
+        "Tobacco"
+      ],
+      "explanation": "Coffee was already grown there, but the slopes were now sold off to planters, many of them German, and worked by seasonal labourers brought down from the Chiapas highlands and across from Guatemala. The Soconusco became one of Mexico's main coffee-exporting regions.",
+      "chapter": 12,
+      "feature": "e8-soconusco-coffee"
+    },
+    {
+      "id": "porfiriato-3",
+      "prompt": "Which Boston-financed railway carried the first through train from Mexico City to the US border at Paso del Norte in March 1884?",
+      "answer": "The Mexican Central",
+      "distractors": [
+        "The Mexican National",
+        "The Mexican International",
+        "The Interoceanic"
+      ],
+      "explanation": "It roughly paralleled the old Camino Real de Tierra Adentro through Querétaro, the Bajío, Aguascalientes and Zacatecas, then crossed the Laguna to Chihuahua and met the US railways at El Paso. It became the backbone of the Porfirian network; the National ran to Nuevo Laredo instead.",
+      "feature": "e8-rail-central"
+    },
+    {
+      "id": "porfiriato-4",
+      "kind": "where",
+      "prompt": "Torreón grew from a ranch into a city where two railways crossed, in the middle of the Laguna cotton district. Where is Torreón?",
+      "answer": "Torreón, in the Laguna region of Coahuila",
+      "explanation": "The Mexican Central and the Mexican International crossed there, and the floodwaters of the Nazas irrigated cotton estates that supplied the national textile industry. Disputes over the river's water and the region's labour made the Laguna a centre of the coming revolution.",
+      "chapter": 13,
+      "feature": "e8-torreon-laguna"
+    },
+    {
+      "id": "porfiriato-5",
+      "prompt": "When the Noriega brothers drained the lake and marsh of Zacapu in northern Michoacán, which people's villages lost their land, fishing and reeds?",
+      "answer": "Purépecha",
+      "distractors": [
+        "Yaqui",
+        "Tének (Huastec)",
+        "Maya"
+      ],
+      "explanation": "Some 12,000 hectares became the maize and wheat fields of the Noriegas' hacienda, Cantabria, and many villagers of Naranja, Tiríndaro and Tarejero left as migrant labourers. Naranja became a centre of the agrarian movement of the 1920s.",
+      "chapter": 12,
+      "feature": "e8-zacapu-cienega"
+    },
+    {
+      "id": "porfiriato-6",
+      "prompt": "Shipped from Guaymas and moved across Mexico by sea, on foot and by rail, many of the Yaquis deported from Sonora were sold as labourers for which industry?",
+      "answer": "Henequen in Yucatán",
+      "distractors": [
+        "Coffee in the Soconusco",
+        "Sugar in Morelos",
+        "Cotton in the Laguna"
+      ],
+      "explanation": "The deportations, meant to break Yaqui resistance to the surveying and sale of their river valley, peaked in 1907–08. Many went by ship to San Blas, on foot to the railhead at San Marcos, by train through Guadalajara and Mexico City to Veracruz, and by sea to Progreso; families were split up on the way, and many died on the haciendas.",
+      "chapter": 12,
+      "core": true,
+      "feature": "e8-yaqui-deportations"
+    },
+    {
+      "id": "porfiriato-7",
+      "kind": "where",
+      "prompt": "Where is Mérida, the city at the centre of Yucatán's henequen boom?",
+      "answer": "Mérida, Yucatán",
+      "explanation": "Demand for binder twine from the mechanical reapers of the US wheat belt turned the dry northwest of Yucatán into henequen plantations. The fibre was sold mostly to International Harvester through the Mérida house of Olegario Molina, and went out by rail to the port of Progreso.",
+      "chapter": 12,
+      "feature": "e8-henequen"
+    },
+    {
+      "id": "porfiriato-8",
+      "kind": "where",
+      "prompt": "Where is Cananea, the copper town whose miners struck in June 1906?",
+      "answer": "Cananea, in northern Sonora",
+      "explanation": "Mexican miners at William C. Greene's Cananea Consolidated Copper Company struck for a five-peso, eight-hour day and the same treatment as American workers, and the governor of Sonora let armed Arizona volunteers cross the border to help suppress them. The strike leaders were jailed in the fortress of San Juan de Ulúa.",
+      "chapter": 13,
+      "feature": "e8-cananea-1906"
+    },
+    {
+      "id": "porfiriato-9",
+      "prompt": "To which American did Díaz say in 1908 that Mexico was ready for democracy and that he would not serve again after 1910?",
+      "answer": "James Creelman",
+      "distractors": [
+        "John Kenneth Turner",
+        "William C. Greene",
+        "Edward L. Doheny"
+      ],
+      "explanation": "Creelman, an American journalist, interviewed Díaz at Chapultepec Castle; translated and reprinted in Mexico, the interview set off a scramble over the succession: supporters of Bernardo Reyes organised, and Francisco Madero published La sucesión presidencial en 1910. Turner was the journalist who made Valle Nacional the emblem of Porfirian forced labour; Greene owned the Cananea copper company and Doheny brought in Mexico's first commercial oil wells at Ébano.",
+      "chapter": 13,
+      "core": true,
+      "feature": "e8-creelman-interview"
+    },
+    {
+      "id": "porfiriato-10",
+      "prompt": "Madero's Plan of San Luis Potosí, which called for a rising on 20 November 1910, was dated in San Luis Potosí. In which city was it actually published?",
+      "answer": "San Antonio, Texas",
+      "distractors": [
+        "San Luis Potosí",
+        "Monterrey",
+        "El Paso, Texas"
+      ],
+      "explanation": "Arrested in Monterrey during the campaign and held at San Luis Potosí while Díaz was declared re-elected, Madero fled on bail to San Antonio. The plan was dated 5 October, his last day in San Luis, and declared the election void.",
+      "chapter": 13,
+      "feature": "e8-plan-san-luis"
+    },
+    {
+      "id": "porfiriato-length-of-rule",
+      "prompt": "For roughly how long did Porfirio Díaz dominate Mexico, giving his name to the era called the Porfiriato?",
+      "answer": "About 34 years (1876–1911)",
+      "distractors": [
+        "About 12 years (1876–1888)",
+        "About 20 years (1880–1900)",
+        "About 50 years (1860–1910)"
+      ],
+      "explanation": "Díaz seized power in late 1876, was elected in 1877, handed the presidency to an ally from 1880 to 1884, and then held it continuously until the Revolution drove him out in 1911.",
+      "chapter": 12,
+      "core": true
+    },
+    {
+      "id": "porfiriato-diaz-birthplace",
+      "prompt": "In which state was Porfirio Díaz born, in 1830?",
+      "answer": "Oaxaca",
+      "distractors": [
+        "Puebla",
+        "Guerrero",
+        "Michoacán"
+      ],
+      "explanation": "His father died when he was three; he went to a seminary and then the liberal Institute of Arts and Sciences in Oaxaca City, the same path as Benito Juárez. He built his first power base in the Oaxaca highlands with a National Guard of Mixtecs and Zapotecs.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-diaz-mother",
+      "prompt": "Porfirio Díaz's father was a mestizo muleteer. From which Indigenous people did his mother descend?",
+      "answer": "Mixtec",
+      "distractors": [
+        "Zapotec",
+        "Mixe",
+        "Nahua"
+      ],
+      "explanation": "Díaz's mixed origins made him a plausible embodiment of the mestizo nation his regime celebrated, though his regime presided over sweeping losses of Indigenous land.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-manuel-gonzalez",
+      "prompt": "Who held the presidency from 1880 to 1884, between Porfirio Díaz's first and second terms?",
+      "answer": "Manuel González",
+      "distractors": [
+        "Sebastián Lerdo de Tejada",
+        "José María Iglesias",
+        "Ramón Corral"
+      ],
+      "explanation": "González was Díaz's comrade in arms and stand-in, which let Díaz honour the letter of no reelection once. Díaz returned in 1884 and did not leave again until 1911.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-six-year-term",
+      "prompt": "What constitutional change of 1904 lengthened Díaz's hold on the presidency?",
+      "answer": "The term was extended to six years",
+      "distractors": [
+        "Re-election was banned once more",
+        "The vice-presidency was abolished",
+        "Indirect elections were abolished"
+      ],
+      "explanation": "By then the ban on re-election had long been dismantled in stages. Gillingham traces how Díaz traduced his own slogan step by step, from a single four-year interlude in 1880–84 to unlimited re-election and the longer term.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-jefes-politicos",
+      "prompt": "Under Díaz, who were the jefes políticos?",
+      "answer": "Appointed bosses ruling several municipios",
+      "distractors": [
+        "Elected mayors of single towns",
+        "Federal judges in each state",
+        "Army commanders of military zones"
+      ],
+      "explanation": "They ran the provinces with powers to arrest, jail and conscript, and controlled local taxes, schools and land titles, often to enrich themselves and their cronies. Widely loathed, they were the face of the dictatorship for most Mexicans.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-jefes-number",
+      "prompt": "About how many jefes políticos governed Mexico's districts under Díaz?",
+      "answer": "About 300",
+      "distractors": [
+        "About 30",
+        "About 3,000",
+        "About 1,000"
+      ],
+      "explanation": "Each ruled several municipios at once, overriding the elected mayors. The worst sold prisoners to the plantations of the south, and in the wildest regions they were murdered with some regularity.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-army-size",
+      "prompt": "Under Díaz the army took 45 percent of the federal budget in 1880. Roughly what share did it take by 1910?",
+      "answer": "About 20 percent",
+      "distractors": [
+        "About 35 percent",
+        "About 5 percent",
+        "About 40 percent"
+      ],
+      "explanation": "Díaz also cut the army from about 50,000 men to about 15,000. A small army could not stage coups, but it was far too small to fight the guerrilla war that broke out in 1910.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-generals-rotated",
+      "prompt": "How did Díaz stop his generals from building regional power bases?",
+      "answer": "Posting them far from home and rotating them",
+      "distractors": [
+        "Making them governors of their own states",
+        "Paying them in hacienda lands",
+        "Electing them to the Senate"
+      ],
+      "explanation": "Generals were kept out of their home regions and moved often, so they could not go native and become political threats. Díaz's own 1876 rising proved to be the last successful pronunciamiento.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-governors-professionals",
+      "prompt": "What background did most of the 71 governors appointed by Díaz have?",
+      "answer": "Degrees in law, medicine or engineering",
+      "distractors": [
+        "Careers as serving army generals",
+        "Old hacienda families of the colony",
+        "Service as officers of Maximilian"
+      ],
+      "explanation": "Fifty-five of the 71 were professionals. When Díaz took power, generals held 18 of the 31 governorships; he deliberately did not buy off soldiers with states to rule.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-mondragon-rifle",
+      "prompt": "Which Porfirian general designed an early semiautomatic rifle, named after Díaz?",
+      "answer": "Manuel Mondragón",
+      "distractors": [
+        "Bernardo Reyes",
+        "Victoriano Huerta",
+        "Felipe Ángeles"
+      ],
+      "explanation": "Díaz first won the officer corps over with new French equipment and a military academy, then pruned it, rewarding loyal officers with padded payrolls, trips to Europe and pet projects such as Mondragón's rifle.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-church-policy",
+      "prompt": "How did Díaz deal with the anticlerical laws of the Reform?",
+      "answer": "Kept them on the books but did not enforce them",
+      "distractors": [
+        "Repealed them in a concordat with Rome",
+        "Enforced them strictly and closed seminaries",
+        "Put them to a national referendum"
+      ],
+      "explanation": "Religious schools, discreet convents and processions were tolerated and relations with the papacy restored. Díaz reasoned that persecuting the Church meant war, and the bishops in turn called him their only defence under God.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-labastida",
+      "prompt": "Which archbishop of Mexico, a leading conservative prelate, married Díaz to his second wife, Carmen Romero Rubio, in 1881?",
+      "answer": "Pelagio Antonio de Labastida",
+      "distractors": [
+        "Eulogio Gillow",
+        "Clemente de Jesús Munguía",
+        "José Mora y del Río"
+      ],
+      "explanation": "The wedding symbolised Díaz's reconciliation with the Church. Carmen was notably devout, and the regime left the powerful Catholic women's organisations and a religious revival in the Centre-West alone.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-gillow",
+      "prompt": "Which modernising prelate of Oaxaca, whose appointment Díaz backed, helped head off Catholic opposition and promote economic development?",
+      "answer": "Eulogio Gillow",
+      "distractors": [
+        "Pelagio Antonio de Labastida",
+        "Francisco Orozco y Jiménez",
+        "José Mora y del Río"
+      ],
+      "explanation": "Gillow was the model of the collaboration Díaz sought with the Church: bishops who left politics to the government and blessed progress in return for toleration.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-rerum-novarum",
+      "prompt": "Which 1891 encyclical of Pope Leo XIII, calling for respect for working people, did Díaz leave Mexican Catholics free to take up?",
+      "answer": "Rerum Novarum",
+      "distractors": [
+        "Quanta Cura",
+        "Pascendi",
+        "Quadragesimo Anno"
+      ],
+      "explanation": "It made social justice for workers a core Catholic value and fed a social Catholicism that the regime tolerated along with Catholic schools and women's organisations.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-catholic-share",
+      "prompt": "In the 1910 census, about what share of Mexicans identified as Catholic?",
+      "answer": "99 percent",
+      "distractors": [
+        "75 percent",
+        "60 percent",
+        "85 percent"
+      ],
+      "explanation": "Liberals and conservatives alike were Catholic; Juárez and Díaz had both been seminarians. That is why Díaz judged that persecuting the Church would mean war.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-cientificos",
+      "prompt": "What were the positivist technocrats around Díaz, the closest thing Porfirian Mexico had to a ruling party, called?",
+      "answer": "The científicos",
+      "distractors": [
+        "The puros",
+        "The moderados",
+        "The polkos"
+      ],
+      "explanation": "They believed in running society scientifically rather than ideologically and held that Mexico needed more development before ordinary people could be trusted with power. By 1910 they were caricatured as ageing, corrupt monopolists.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-positivism-stages",
+      "prompt": "In the positivist theory embraced by Díaz's technocrats, which three stages did human history pass through?",
+      "answer": "Religious, metaphysical, scientific",
+      "distractors": [
+        "Savage, barbarian, civilised",
+        "Ancient, feudal, capitalist",
+        "Colonial, national, cosmopolitan"
+      ],
+      "explanation": "The científicos believed they could lead Mexico into the scientific stage. The theory justified rule by an educated elite until the country was ready for it.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-limantour",
+      "prompt": "Who was Díaz's finance minister from 1893 and the effective leader of the regime's positivist technocrats?",
+      "answer": "José Yves Limantour",
+      "distractors": [
+        "Justo Sierra",
+        "Ramón Corral",
+        "Olegario Molina"
+      ],
+      "explanation": "The Mexican-born son of French parents, he won the confidence of foreign investors. Like other científicos he also enriched himself, with estates near Coatzacoalcos and timberland in Chihuahua served by the new railways.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-gold-standard",
+      "prompt": "In which year did Porfirian Mexico, long a silver economy, adopt the gold standard?",
+      "answer": "1905",
+      "distractors": [
+        "1888",
+        "1893",
+        "1910"
+      ],
+      "explanation": "The reform was one of the finance ministry's signature achievements, alongside the flow of foreign investment and government borrowing at 4 percent.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-bond-market",
+      "prompt": "In which year did Mexico return to the international bond market, after decades of default?",
+      "answer": "1888",
+      "distractors": [
+        "1867",
+        "1876",
+        "1897"
+      ],
+      "explanation": "Settling the old London debt restored Mexico's credit; by 1904 it was borrowing at 4 percent, on a par with US municipal bonds. Gillingham treats this recovery of creditworthiness as a recognition of Mexican sovereignty.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-bank-syndicates",
+      "prompt": "How did Díaz stop any one group of foreign bankers from gaining leverage over Mexican borrowing?",
+      "answer": "Never using the same syndicate twice",
+      "distractors": [
+        "Borrowing only from US banks",
+        "Pledging the customs to Britain",
+        "Founding a state central bank"
+      ],
+      "explanation": "Díaz was obsessed with bond yields and played the banks off against each other, part of a wider strategy of spreading Mexico's dependence across as many foreign partners as possible.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-investor-balance",
+      "prompt": "In Díaz's balancing of foreign investors, firms from which country dominated Gulf Coast oil and infrastructure as the counterweight to the United States?",
+      "answer": "Britain",
+      "distractors": [
+        "France",
+        "Germany",
+        "Spain"
+      ],
+      "explanation": "Americans got the great mines of the north, German bankers led in finance, the French held much of industry and commerce, and the British took oil, construction and public works. Gillingham counts this diversification among Díaz's real achievements.",
+      "chapter": 12,
+      "core": true
+    },
+    {
+      "id": "porfiriato-pearson",
+      "prompt": "Which contractor dug Mexico City's great drainage canal, built ports and tramways, and became the leading oilman of the Gulf Coast?",
+      "answer": "Weetman Pearson",
+      "distractors": [
+        "Edward L. Doheny",
+        "Thomas Braniff",
+        "Daniel Guggenheim"
+      ],
+      "explanation": "Pearson went on to build docks, water, sewage and electricity systems and founded the El Águila oil company, which dominated Mexican oil until the 1930s. He embodied the British role as Díaz's counterweight to US capital.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-guggenheim",
+      "prompt": "Which American mining magnate negotiated vast concessions for mining, smelting and steel with Díaz in person?",
+      "answer": "Daniel Guggenheim",
+      "distractors": [
+        "William C. Greene",
+        "Edward L. Doheny",
+        "William Randolph Hearst"
+      ],
+      "explanation": "The family's American Smelting and Refining Company set up five smelters in Mexico. By 1908, 208 mines were working in Sonora and 65 in Chihuahua, most of them American-owned.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-us-investment-share",
+      "prompt": "By about 1900, roughly what share of all US investment abroad was in Mexico?",
+      "answer": "About half",
+      "distractors": [
+        "About a tenth",
+        "About a quarter",
+        "Nearly all"
+      ],
+      "explanation": "American money bought up much of the north's mines, cattle estates and industry, so that Gillingham describes the most dynamic region as verging on US property, and every US slump spread to Mexico.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-sonora-mines",
+      "prompt": "By 1910, roughly what share of the mines in Sonora were American-owned?",
+      "answer": "Nine in ten",
+      "distractors": [
+        "One in ten",
+        "One in three",
+        "Half"
+      ],
+      "explanation": "In Sonora the Chicago-based Wheeler Company alone held nearly one and a half million acres, and in Chihuahua five US companies each owned more than a million acres.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-mining-code-1892",
+      "prompt": "What did Mexico's Mining Code of 1892 make possible?",
+      "answer": "Outright ownership of mines, by foreigners too",
+      "distractors": [
+        "A state monopoly of silver mining",
+        "Mining by Mexican nationals only",
+        "Mines held only on lease from the state"
+      ],
+      "explanation": "It opened the way for the flood of foreign mining capital. By 1908 the regime was drafting a law that would have reserved new concessions for Mexicans, part of a late turn against foreign ownership.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-rail-km",
+      "prompt": "Mexico had about 600 km of railway in 1876. Roughly how much did it have by 1910?",
+      "answer": "About 19,000 km",
+      "distractors": [
+        "About 5,000 km",
+        "About 50,000 km",
+        "About 9,000 km"
+      ],
+      "explanation": "Some 12,000 miles of line ran from the US border to Yucatán, and most of them led to Mexico City. The railways slashed freight costs, created national markets and brought tourists and investors, and to Porfirians they were the engine of civilisation itself.",
+      "chapter": 12,
+      "core": true,
+      "feature": "e8-ferrocarriles-nacionales"
+    },
+    {
+      "id": "porfiriato-rail-nationalisation",
+      "prompt": "What did the Porfirian government's 1908 merger of Mexico's two main trunk railways create?",
+      "answer": "Ferrocarriles Nacionales de México",
+      "distractors": [
+        "The Southern Pacific of Mexico",
+        "The Mexican Railway Company",
+        "The Interoceanic Railway"
+      ],
+      "explanation": "The government held a majority, to stop US railway combinations from controlling the trunk lines. Gillingham cites it as evidence that the científicos aimed at economic independence and were not mere foreign pawns.",
+      "chapter": 13,
+      "core": true,
+      "feature": "e8-ferrocarriles-nacionales"
+    },
+    {
+      "id": "porfiriato-tehuantepec-railway",
+      "prompt": "Which railway, reopened by Díaz in 1907 with new harbours at both ends, carried ocean-to-ocean trade until the Panama Canal opened?",
+      "answer": "The Tehuantepec Railway",
+      "distractors": [
+        "The Interoceanic Railway",
+        "The Mexican Railway",
+        "The Mexican Southern Railway"
+      ],
+      "explanation": "It crossed the Isthmus of Tehuantepec between Coatzacoalcos and Salina Cruz, and Gillingham calls it a forerunner of the Panama Canal. Limantour, Hearst and Pearson all held land near its Gulf terminus.",
+      "chapter": 13,
+      "feature": "e8-rail-tehuantepec"
+    },
+    {
+      "id": "porfiriato-growth-claim",
+      "prompt": "By roughly how much is GDP per capita said to have grown over Díaz's thirty-odd years in power?",
+      "answer": "It trebled",
+      "distractors": [
+        "It rose by half",
+        "It doubled",
+        "It rose tenfold"
+      ],
+      "explanation": "Gillingham notes the methodology is open to question, and that the regime massaged many statistics, but bond yields, railway track and new industry left no doubt that the economy boomed.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-comparison",
+      "prompt": "How does Gillingham judge Porfirian economic growth when set beside that of Argentina and Brazil?",
+      "answer": "Impressive, but not exceptional",
+      "distractors": [
+        "Far faster than any other in Latin America",
+        "Slower than all its neighbours'",
+        "Unique, because it was entirely state-led"
+      ],
+      "explanation": "Growth was a product of the second great globalisation. Argentina and Brazil also built railways and modern cities, and Buenos Aires was building a subway while Mexico City built trams.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-recession-1907",
+      "prompt": "Which foreign downturn dragged Mexico's economy into crisis in 1907–08?",
+      "answer": "A deep recession in the United States",
+      "distractors": [
+        "A collapse of British banks",
+        "A fall in German coffee prices",
+        "A French loan default"
+      ],
+      "explanation": "Mexico's dependence on the US market showed in every slump: when the US raised tariffs on cattle and ores in the 1890s the Mexican economy also suffered. The 1907 crisis, with bad harvests, fed the discontent of Díaz's last years.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-monterrey-industry",
+      "prompt": "Which northern city, home from 1900 to Latin America's first integrated iron and steel works, became the industrial capital of Porfirian Mexico?",
+      "answer": "Monterrey",
+      "distractors": [
+        "Saltillo",
+        "Torreón",
+        "Chihuahua"
+      ],
+      "explanation": "Monterrey sprang up from next to nothing on its rail links to Texas, with breweries, glassworks and smelters as well as the steelworks; one writer even admired its smokestacks.",
+      "chapter": 12,
+      "feature": "e8-fundidora"
+    },
+    {
+      "id": "porfiriato-barcelonnette",
+      "prompt": "Emigrants from which small town in southern France founded Mexico's largest textile mills and department stores, among them the Río Blanco mill and the Palacio de Hierro?",
+      "answer": "Barcelonnette",
+      "distractors": [
+        "Bayonne",
+        "Perpignan",
+        "Grenoble"
+      ],
+      "explanation": "Gillingham calls the Barcelonnettes the greatest success of all Porfirian immigrant schemes. The Palacio de Hierro, opened in 1891, was a five-storey iron-framed store with lifts and goods from across the world.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-tuxtla-tobacco",
+      "prompt": "Why did the farmers of San Andrés Tuxtla, Veracruz, grow rich on their volcanic soils in the 1890s?",
+      "answer": "War in Cuba wrecked its tobacco crop",
+      "distractors": [
+        "A new railway to the US opened",
+        "The state monopoly was abolished",
+        "Plantations in Valle Nacional failed"
+      ],
+      "explanation": "Cuba's war of independence began in 1895. Their tobacco found a ready market as Cuban production collapsed, and San Andrés became a prosperous town of cigar factories with names like Progress and Destiny, an example of the rural middle class that did well under Díaz.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-turner-book",
+      "prompt": "What was the title of John Kenneth Turner's exposé of forced labour under Díaz?",
+      "answer": "Barbarous Mexico",
+      "distractors": [
+        "Insurgent Mexico",
+        "Mexico As I Saw It",
+        "¡Viva México!"
+      ],
+      "explanation": "Turner, a socialist reporter posing as a rich investor, travelled in 1908 to the plantations of Valle Nacional and the henequen estates of Yucatán. His account, paid for by the opposition and published as the regime fell, was damning.",
+      "chapter": 12,
+      "core": true
+    },
+    {
+      "id": "porfiriato-valle-nacional-crop",
+      "prompt": "In 1908 John Kenneth Turner followed ten prisoners to the plantations of Valle Nacional, Oaxaca. What crop were they sent to grow?",
+      "answer": "Tobacco",
+      "distractors": [
+        "Coffee",
+        "Sugar cane",
+        "Rubber"
+      ],
+      "explanation": "The men expected never to come back; one sold his shoes because he was sure he was going to his death. Turner called the labourers slaves.",
+      "chapter": 12,
+      "feature": "e8-valle-nacional"
+    },
+    {
+      "id": "porfiriato-valle-nacional-labour",
+      "prompt": "How had the ten men Turner followed to the Valle Nacional plantations in 1908 been obtained?",
+      "answer": "Sold from a city jail by a local official",
+      "distractors": [
+        "Taken as Yaqui prisoners of war",
+        "Hired as seasonal Guatemalan migrants",
+        "Recruited for good wages in pesos"
+      ],
+      "explanation": "They were petty offenders and drifters from the jail at Pachuca, among them debtors, drunks and army deserters, reportedly sold to the planter for fifty pesos each.",
+      "chapter": 12,
+      "feature": "e8-valle-nacional"
+    },
+    {
+      "id": "porfiriato-debt-peonage",
+      "prompt": "What labour system, binding workers by debts they could never repay, was rife on the coffee estates and in the lumber camps of Chiapas?",
+      "answer": "Debt peonage",
+      "distractors": [
+        "Repartimiento",
+        "Encomienda",
+        "Sharecropping"
+      ],
+      "explanation": "A state survey in 1897 counted 31,500 indentured Indigenous workers, almost certainly too few, and Mexican reporters called Chiapas a slave state. Wages paid in credit at the estate store kept the debt growing.",
+      "chapter": 12,
+      "core": true
+    },
+    {
+      "id": "porfiriato-rabasa-ban",
+      "prompt": "What came of Chiapas governor Ramón Rabasa's 1907 decree outlawing the binding of plantation workers by debt?",
+      "answer": "It failed, frowned on by Mexico City",
+      "distractors": [
+        "Planters rose in arms and deposed him",
+        "Coffee exports collapsed at once",
+        "Díaz extended it to every state"
+      ],
+      "explanation": "His brother Emilio, an earlier governor, had held a conference in 1896 on ending peonage, which also came to nothing. The state's coffee economy was doing too well for the federal government to want change.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-henequen-use",
+      "prompt": "For what was most of Yucatán's henequen fibre sold abroad?",
+      "answer": "Twine for binding harvested grain",
+      "distractors": [
+        "Sacks for the Brazilian coffee trade",
+        "Paper for American newspapers",
+        "Stuffing for European upholstery"
+      ],
+      "explanation": "Mechanical harvesters in the US wheat belt needed huge amounts of binder twine, and henequen made Yucatán's planters some of the richest men in Mexico.",
+      "chapter": 12,
+      "feature": "e8-henequen"
+    },
+    {
+      "id": "porfiriato-molina",
+      "prompt": "Which Yucatecan magnate and federal minister of development dominated the henequen trade, supplying McCormick's harvester business?",
+      "answer": "Olegario Molina",
+      "distractors": [
+        "Enrique Creel",
+        "Luis Terrazas",
+        "Ramón Corral"
+      ],
+      "explanation": "Molina also held shares in the company taking over the Yaqui valley, and his estates were worked by deported Yaquis: in Gillingham's phrase, two birds with one stone.",
+      "chapter": 13,
+      "core": true,
+      "feature": "e8-henequen"
+    },
+    {
+      "id": "porfiriato-tienda-de-raya",
+      "prompt": "On Porfirian haciendas, what was the tienda de raya?",
+      "answer": "The estate store that paid wages in goods and credit",
+      "distractors": [
+        "The overseer's yard for punishing workers",
+        "The workers' own mutual aid fund",
+        "The planter's export warehouse at the port"
+      ],
+      "explanation": "On the henequen estates a family earned twelve and a half centavos a day in maize, beans and cloth from the store, a bare subsistence at its prices, so debts could never be worked off.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-yaqui-why",
+      "prompt": "According to Gillingham, what chiefly drove the Díaz government's deportation of the Yaqui?",
+      "answer": "Agribusiness wanted their river valley",
+      "distractors": [
+        "Fear of a US invasion of Sonora",
+        "A cholera epidemic in Sonora",
+        "A Yaqui plot against Díaz's life"
+      ],
+      "explanation": "With the railway came irrigation companies, and in 1894 the government granted one of them a vast concession in the fertile Yaqui valley. Officials profited at every step, and Gillingham says calling the result ethnic cleansing is charitable.",
+      "chapter": 12,
+      "core": true,
+      "feature": "e8-yaqui-deportations"
+    },
+    {
+      "id": "porfiriato-yaqui-1908-order",
+      "prompt": "By 1908, which Yaqui did the Díaz government order to be deported from Sonora?",
+      "answer": "All of them, wherever they lived and worked",
+      "distractors": [
+        "Only armed rebels in the mountains",
+        "Only men of fighting age",
+        "Only those without registration papers"
+      ],
+      "explanation": "The deportations began with leaders, then took anyone without the new papers; in 1907 all Yaqui north of Hermosillo were to go, women and children included, and in 1908 every Yaqui regardless.",
+      "chapter": 12,
+      "feature": "e8-yaqui-deportations"
+    },
+    {
+      "id": "porfiriato-bacatete",
+      "prompt": "In which Sonoran mountains did the last Yaqui guerrillas hold out against the Díaz government?",
+      "answer": "The Sierra del Bacatete",
+      "distractors": [
+        "The Sierra Tarahumara",
+        "The Sierra Gorda",
+        "The Sierra de Álica"
+      ],
+      "explanation": "For much of the nineteenth century the Yaqui had been more or less independent. By 1908 only a few hundred fighters remained there, trapped between soldiers with Mausers and a closed US border.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-chan-santa-cruz",
+      "prompt": "In 1901 the Mexican army occupied which rebel Maya capital, ending half a century of its independence?",
+      "answer": "Chan Santa Cruz",
+      "distractors": [
+        "Valladolid",
+        "Sotuta",
+        "Tepich"
+      ],
+      "explanation": "Founded during the Caste War, it had held out for some fifty years and opened relations with Britain. Its fall is usually taken to mark the end of the war, though Maya villages in the forest stayed beyond government control for decades.",
+      "chapter": 10,
+      "feature": "e8-chan-santa-cruz-1901"
+    },
+    {
+      "id": "porfiriato-tomochic-where",
+      "kind": "where",
+      "prompt": "Where was Tomóchic, the mountain village whose rebels federal troops wiped out in 1892?",
+      "answer": "Tomóchic, in the Sierra Tarahumara of Chihuahua",
+      "explanation": "A few hundred independent-minded serranos rose against an abusive mayor and fought off the army for months. Its destruction became the landmark atrocity of the Porfiriato, and it showed how hard such mountain villages were to subdue, a lesson repeated in 1910.",
+      "chapter": 12,
+      "feature": "e8-tomochic"
+    },
+    {
+      "id": "porfiriato-teresa-urrea",
+      "prompt": "Which teenage healer, venerated as the saint of Cabora, inspired the rebels of Tomóchic in 1891–92?",
+      "answer": "Teresa Urrea",
+      "distractors": [
+        "Carmen Serdán",
+        "Juana Belén Gutiérrez",
+        "Petra Herrera"
+      ],
+      "explanation": "The villagers' visionary religion, their own church and quiet support from out-of-favour elites sustained a revolt that began as a protest against forced labour, unpunished trespass and the execution of five protesters.",
+      "chapter": 12,
+      "feature": "e8-tomochic"
+    },
+    {
+      "id": "porfiriato-tomochic-end",
+      "prompt": "How did the federal siege of the rebel village of Tomóchic end in October 1892?",
+      "answer": "All the defenders were killed and the village burned",
+      "distractors": [
+        "The rebels were amnestied and resettled",
+        "The defenders escaped across the US border",
+        "Díaz granted the village its lands"
+      ],
+      "explanation": "Díaz demanded exemplary punishment. Army returns record 217 defenders killed in a last stand in the church and cemetery; 114 survivors, nearly all women and girls, were marched away.",
+      "chapter": 12,
+      "core": true,
+      "feature": "e8-tomochic"
+    },
+    {
+      "id": "porfiriato-tomochic-troops",
+      "prompt": "About how many soldiers, veterans of the Apache wars, did Díaz send for the final assault on Tomóchic in 1892?",
+      "answer": "1,200",
+      "distractors": [
+        "120",
+        "5,000",
+        "12,000"
+      ],
+      "explanation": "They fired nearly 60,000 rounds in five days. The force sent to crush one small village was close to a tenth the size of Díaz's whole army in 1910.",
+      "chapter": 12,
+      "feature": "e8-tomochic"
+    },
+    {
+      "id": "porfiriato-baldios-third",
+      "prompt": "Under the 1883 law on vacant lands (terrenos baldíos), what did surveying companies receive for marking out untitled land?",
+      "answer": "A third of the land they surveyed",
+      "distractors": [
+        "A tenth of the land they surveyed",
+        "Half of the land they surveyed",
+        "A fixed cash fee per hectare"
+      ],
+      "explanation": "They could buy the rest cheaply from the government. With the Ley Lerdo's sale of communal lands, the law put huge areas of rural, and especially Indigenous, Mexico at risk.",
+      "chapter": 12,
+      "core": true
+    },
+    {
+      "id": "porfiriato-hacienda-share",
+      "prompt": "By 1910 roughly what share of Mexico's rural population lived on hacienda lands?",
+      "answer": "About half",
+      "distractors": [
+        "About a tenth",
+        "About a fifth",
+        "About three-quarters"
+      ],
+      "explanation": "Some 80 percent of rural communities lay within haciendas. In Morelos the hacienda of Santa Clara alone took in twelve villages and a tenth of the state.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-mojoneras",
+      "prompt": "What were the mojoneras that villagers in the hills of central Veracruz kept moving to frustrate the surveyors?",
+      "answer": "Stone boundary markers",
+      "distractors": [
+        "Irrigation sluice gates",
+        "Surveyors' theodolites",
+        "Village land deeds"
+      ],
+      "explanation": "Peasants had centuries of experience of land disputes and fought surveys with tricks, lawsuits, land invasions and death threats. Even so, the odds were against them and most lost.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-states-without-surveyors",
+      "prompt": "According to Gillingham, how many of Mexico's thirty-one states never saw the land surveyors at all?",
+      "answer": "Eleven",
+      "distractors": [
+        "Two",
+        "Twenty",
+        "Five"
+      ],
+      "explanation": "Dispossession was real but uneven. Where surveyors came they did not always win, and some communities, like the vanilla growers of northern Veracruz, did well out of privatisation.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-ranchos-1910",
+      "prompt": "Roughly how many ranchos, small and medium private farms, were registered in Mexico by 1910?",
+      "answer": "About 50,000",
+      "distractors": [
+        "About 5,000",
+        "About 500,000",
+        "About 15,000"
+      ],
+      "explanation": "While ranches fell to haciendas in places like Chihuahua, they grew nationally, especially in the Centre-West. Mostly mestizo rancheros were Mexico's version of the up-by-the-bootstraps farmer idealised across North America.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-morelos-sugar",
+      "prompt": "In which state did expanding sugar haciendas swallow village fields and water, preparing the ground for Zapata's revolt?",
+      "answer": "Morelos",
+      "distractors": [
+        "Puebla",
+        "Guerrero",
+        "Veracruz"
+      ],
+      "explanation": "Railways and new mills drove the planters' expansion. Workers remembered overseers with nail-studded clubs, and ghost villages stood among the cane fields.",
+      "chapter": 12,
+      "core": true,
+      "feature": "e8-morelos-sugar"
+    },
+    {
+      "id": "porfiriato-primo-tapia",
+      "prompt": "Which young man from Naranja, Michoacán, joined the anarchist Industrial Workers of the World in Los Angeles after his village lost its lake?",
+      "answer": "Primo Tapia",
+      "distractors": [
+        "Ricardo Flores Magón",
+        "Gonzalo Gómez",
+        "Emiliano Zapata"
+      ],
+      "explanation": "Naranja's people lost their land, fishing and reeds when the Zacapu marsh was drained. Many emigrated, and some, following Tapia's example, came home as revolutionaries.",
+      "chapter": 12,
+      "feature": "e8-zacapu-cienega"
+    },
+    {
+      "id": "porfiriato-dawes-comparison",
+      "prompt": "To which 1887 US law does Gillingham compare Mexico's liberal privatisation of communal lands?",
+      "answer": "The Dawes Act",
+      "distractors": [
+        "The Homestead Act",
+        "The Indian Removal Act",
+        "The Chinese Exclusion Act"
+      ],
+      "explanation": "The Dawes Act broke Native American reservations into private allotments. With Britain's enclosures, Gillingham uses it to argue that liberal dispossession, and the violence it needed, was a global pattern, not a Mexican peculiarity.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-doheny-ebano",
+      "prompt": "Which Californian oilman brought in Mexico's first commercially productive wells near Ébano, west of Tampico, in 1904?",
+      "answer": "Edward L. Doheny",
+      "distractors": [
+        "Weetman Pearson",
+        "William C. Greene",
+        "Daniel Guggenheim"
+      ],
+      "explanation": "Doheny had struggled for money at first, but big strikes let the oil companies buy great tracts of the Huasteca, often from Indigenous owners pressured or terrorised into selling, and production took off from 1907.",
+      "chapter": 16,
+      "feature": "e8-ebano-1904"
+    },
+    {
+      "id": "porfiriato-dos-bocas",
+      "prompt": "In July 1908 the San Diego de la Mar oil well in northern Veracruz blew out and caught fire. For roughly how long did it burn?",
+      "answer": "About two months",
+      "distractors": [
+        "About three days",
+        "About a year",
+        "About two weeks"
+      ],
+      "explanation": "The blaze burned off an enormous quantity of crude and left the craters known as Dos Bocas. It was the first great disaster of Mexico's oil industry.",
+      "chapter": 16,
+      "feature": "e8-dos-bocas-1908"
+    },
+    {
+      "id": "porfiriato-tenek-firefighters",
+      "prompt": "After the 1908 Dos Bocas fire, which Indigenous people did the oil companies press into fighting well fires?",
+      "answer": "The Tének (Huastec)",
+      "distractors": [
+        "The Otomí",
+        "The Mixe",
+        "The Purépecha"
+      ],
+      "explanation": "With help from friendly rural police, the companies forced locals into this dangerous, sometimes fatal work. By 1930 two-thirds of the region's Indigenous residents had left.",
+      "chapter": 16,
+      "feature": "e8-dos-bocas-1908"
+    },
+    {
+      "id": "porfiriato-cananea-greene",
+      "prompt": "Which American owned the copper company at Cananea, Sonora, whose Mexican miners struck in 1906?",
+      "answer": "William C. Greene",
+      "distractors": [
+        "Edward L. Doheny",
+        "Daniel Guggenheim",
+        "William Randolph Hearst"
+      ],
+      "explanation": "The strike was put down with deadly force, and armed Americans were brought across from Arizona to help. It became one of the two great labour horror stories of the Porfiriato.",
+      "chapter": 13,
+      "feature": "e8-cananea-1906"
+    },
+    {
+      "id": "porfiriato-cananea-pay",
+      "prompt": "At Cananea, how did Mexican miners' pay compare with that of American miners doing the same work?",
+      "answer": "About half as much",
+      "distractors": [
+        "About the same",
+        "About a tenth as much",
+        "About three-quarters as much"
+      ],
+      "explanation": "The miners' grievances were pay, overwork, racism and a rumoured change to their contracts, not revolution. A folk song had them insisting they were no anarchists, just men wanting shorter hours and a fair deal.",
+      "chapter": 13,
+      "feature": "e8-cananea-1906"
+    },
+    {
+      "id": "porfiriato-cananea-arizona",
+      "prompt": "Who crossed the border to help crush the Cananea strike in 1906?",
+      "answer": "Armed volunteers led by an Arizona Ranger",
+      "distractors": [
+        "US Army cavalry from Fort Huachuca",
+        "Texas Rangers from El Paso",
+        "Pinkerton agents hired in Chicago"
+      ],
+      "explanation": "Sonora's governor let them cross from Arizona. That foreign gunmen helped shoot Mexican workers on Mexican soil made Cananea a lasting nationalist grievance.",
+      "chapter": 13,
+      "feature": "e8-cananea-1906"
+    },
+    {
+      "id": "porfiriato-gran-circulo",
+      "prompt": "Which union, the first serious one of the era, led the textile strikes of 1906 around Orizaba?",
+      "answer": "The Gran Círculo de Obreros Libres",
+      "distractors": [
+        "The Casa del Obrero Mundial",
+        "The CROM",
+        "The Gran Círculo de Obreros de México"
+      ],
+      "explanation": "The government recognised it, and its public demands were moderate: better conditions and 5 percent more pay. Díaz at first answered in kind, sacking an abusive police chief and offering to mediate.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-rio-blanco-where",
+      "kind": "where",
+      "prompt": "Where is Río Blanco, the textile town where troops crushed the millworkers in January 1907?",
+      "answer": "Río Blanco, near Orizaba, Veracruz",
+      "explanation": "Its French-owned mill was the largest in Mexico, served by the railway from Veracruz. The killings there and at Cananea became totems of the regime's brutality, cited by the first pro-democracy manifesto of the time.",
+      "chapter": 13,
+      "feature": "e8-rio-blanco-1907"
+    },
+    {
+      "id": "porfiriato-rio-blanco-store",
+      "prompt": "What did dissident millworkers at Río Blanco do in January 1907 that brought in federal troops?",
+      "answer": "Looted and burned the mill-town store",
+      "distractors": [
+        "Seized the governor of Veracruz",
+        "Blew up the railway to Orizaba",
+        "Occupied the French consulate"
+      ],
+      "explanation": "They rejected Díaz's arbitration award, which ended a national lockout, and blocked the return to work; the store, run by a French merchant, sold to the millworkers on credit. Soldiers shot workers as they fled and executed others in its ruins; the toll was believed at the time to be three hundred, though it was probably much lower.",
+      "chapter": 13,
+      "core": true,
+      "feature": "e8-rio-blanco-1907"
+    },
+    {
+      "id": "porfiriato-lockout-1906",
+      "prompt": "How did the textile mill owners respond to the strikes at Río Blanco and in Puebla and Tlaxcala in December 1906?",
+      "answer": "A nationwide lockout",
+      "distractors": [
+        "A 5 percent pay rise",
+        "Closing all their company stores",
+        "Bringing in Chinese labourers"
+      ],
+      "explanation": "Díaz brokered a settlement; even the government press had sympathised with the workers. When some at Río Blanco refused it, he made good his threat to send in the army.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-strike-count",
+      "prompt": "Roughly how many strikes took place during the Porfiriato?",
+      "answer": "More than 250",
+      "distractors": [
+        "About 20",
+        "More than 2,500",
+        "About 60"
+      ],
+      "explanation": "For most of the period violence against workers was everyday rather than spectacular, and a tight labour market let workers move from mill to mill for better terms. Massacres like Río Blanco came only at the end.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-mutualists",
+      "prompt": "What were the mutualist societies of Porfirian workers?",
+      "answer": "Workers' funds for illness and funerals",
+      "distractors": [
+        "Company unions run by the factory owners",
+        "Cooperative banks for small farmers",
+        "Catholic brotherhoods for saints' days"
+      ],
+      "explanation": "Members paid small fees for emergency help, including support for widows, and the societies also built political bonds; a national congress of them early in the regime drew the Cuban revolutionary José Martí.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-women-workers",
+      "prompt": "Which women workers led the first women's labour organisations of the Porfiriato?",
+      "answer": "Cigarette workers",
+      "distractors": [
+        "Domestic servants",
+        "Market vendors",
+        "Laundresses"
+      ],
+      "explanation": "Women earned half as much as men and faced rife sexual harassment on the shop floor, so they needed all the collective strength they could find.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-pelados",
+      "prompt": "What insulting label did the working-class penny press of Mexico City reclaim as a badge of pride?",
+      "answer": "Pelados (\"the naked ones\")",
+      "distractors": [
+        "Léperos (\"the lepers\")",
+        "Descamisados (\"the shirtless\")",
+        "Chusma (\"the rabble\")"
+      ],
+      "explanation": "Papers like La Guacamaya, which printed tens of thousands of copies, cast their readers as the true moderns and patriots against a decadent oligarchy, much as the sans-culottes had done in revolutionary Paris.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-press-control",
+      "prompt": "What was Díaz's main way of controlling the press?",
+      "answer": "Subsidies and the government payroll",
+      "distractors": [
+        "Prior censorship by a press board",
+        "Closing every opposition paper",
+        "Licensing of printers by the Church"
+      ],
+      "explanation": "The regime did jail journalists and close print shops, and it could have used its newsprint monopoly to choke the opposition, but it rarely did. Opposition and satirical papers covered scandals like Tomóchic and mocked even Díaz.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-el-imparcial",
+      "prompt": "Which subsidised daily took the place of the old liberal El Monitor Republicano as the regime's mouthpiece?",
+      "answer": "El Imparcial",
+      "distractors": [
+        "El Hijo del Ahuizote",
+        "El Diario del Hogar",
+        "Regeneración"
+      ],
+      "explanation": "Cheap and modern, it was the official voice of Díaz's later years, while papers like El Hijo del Ahuizote and El Diario del Hogar kept up the opposition.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-municipal-law-1903",
+      "prompt": "What did the Municipal Law of 1903 do to Mexico City's elected council (ayuntamiento)?",
+      "answer": "Reduced it to advisory and oversight powers",
+      "distractors": [
+        "Gave it control of the city police",
+        "Abolished it in favour of the army",
+        "Made it elect the state governor"
+      ],
+      "explanation": "Real power passed to three officials appointed by Díaz: a governor and directors of public works and public health. Even the forms of democracy lapsed in the capital.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-lecumberri",
+      "prompt": "What design did Mexico City's Lecumberri penitentiary follow?",
+      "answer": "A panopticon of cell blocks radiating from a centre",
+      "distractors": [
+        "A fortress built into a colonial convent",
+        "An island prison in the Gulf",
+        "A row of cells around a parade ground"
+      ],
+      "explanation": "A few guards could watch many prisoners, a symbol of the most scientific security state in Mexican history. In practice policing fell well short of the ideal.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-desague",
+      "prompt": "What was the Gran Canal del Desagüe that Díaz inaugurated?",
+      "answer": "A canal draining floodwater out of the Valley of Mexico",
+      "distractors": [
+        "An aqueduct from the springs of Chapultepec",
+        "A shipping canal from the capital to the Gulf",
+        "An irrigation canal for the Bajío"
+      ],
+      "explanation": "With a tunnel through the valley rim it achieved a dream of colonial engineers and ended the capital's regular floods. Díaz opened the drainage more than once, the last time as part of the 1910 centenary.",
+      "chapter": 13,
+      "feature": "e8-desague-1900"
+    },
+    {
+      "id": "porfiriato-texcoco-drained",
+      "prompt": "What did draining Lake Texcoco bring to Mexico City, as conservationists had warned?",
+      "answer": "Dust storms and subsidence",
+      "distractors": [
+        "Malaria from the new marshes",
+        "Floods from the rising lake",
+        "Salt in the city's water"
+      ],
+      "explanation": "Gillingham puts the drainers on the wrong side of ecological history: the dry lakebed blew dust over the city, silt slowed the Gran Canal and the bed became a cesspool.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-xochimilco-water",
+      "prompt": "To which southern lake and its springs did engineers turn for Mexico City's new drinking water?",
+      "answer": "Xochimilco",
+      "distractors": [
+        "Chalco",
+        "Texcoco",
+        "Zumpango"
+      ],
+      "explanation": "The old supply from Chapultepec was spreading dysentery. But the pipes for clean water ran mainly to the rich.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-yellow-fever",
+      "prompt": "In 1908, after a costly sanitary campaign, Veracruz reported no cases of which disease?",
+      "answer": "Yellow fever",
+      "distractors": [
+        "Cholera",
+        "Smallpox",
+        "Typhus"
+      ],
+      "explanation": "Draining swamps for the wrong reason, to banish miasmas, cut the mosquitoes that spread yellow fever and malaria. Public health was popular, and Díaz made a point of inaugurating sanitary works himself.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-quevedo",
+      "prompt": "Which conservationist engineer pressed for parks for Mexico City's working people, carving a workers' park out of Balbuena?",
+      "answer": "Miguel Ángel de Quevedo",
+      "distractors": [
+        "Justo Sierra",
+        "Leopoldo Batres",
+        "Francisco Bulnes"
+      ],
+      "explanation": "He also warned against draining Lake Texcoco, and observed that Mexicans were very good at drafting model regulations and very bad at carrying them out.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-roma-condesa",
+      "prompt": "Which new neighbourhoods west of the old centre housed Mexico City's Porfirian middle and upper classes?",
+      "answer": "Roma and Condesa",
+      "distractors": [
+        "Tepito and Doctores",
+        "Azcapotzalco and Balbuena",
+        "Coyoacán and Tlalpan"
+      ],
+      "explanation": "Frenchified housing sprang up for a swelling class of professionals, while the poor were pushed north and east toward the dusty bed of Lake Texcoco.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-ateneo",
+      "prompt": "Which society, founded in 1909, gathered young intellectuals such as Antonio Caso and José Vasconcelos?",
+      "answer": "The Ateneo de la Juventud",
+      "distractors": [
+        "The Liceo Hidalgo",
+        "The Academia de San Carlos",
+        "The Sociedad Mexicana de Geografía"
+      ],
+      "explanation": "The Ateneo was the high point of a flourishing intellectual life, and many of its members went on to distinguished careers under the revolution. For now they were theoretical critics, partly funded by the regime's education ministry.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-justo-sierra",
+      "prompt": "Which Porfirian education minister, the most acceptable face of the regime's technocrats, pressed for universal education and compulsory primary schooling?",
+      "answer": "Justo Sierra",
+      "distractors": [
+        "José Yves Limantour",
+        "Francisco Bulnes",
+        "Gabino Barreda"
+      ],
+      "explanation": "Literacy rose, and with it a market for cheap novels and newspapers. But compulsory schooling needed far more schools and teachers than the government could provide.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-bulnes",
+      "prompt": "Which conservative intellectual excused Díaz for failing to be a democratic president in a country of slaves?",
+      "answer": "Francisco Bulnes",
+      "distractors": [
+        "Justo Sierra",
+        "Vicente Riva Palacio",
+        "Guillermo Prieto"
+      ],
+      "explanation": "Authoritarian liberalism had broad appeal after decades of war and stagnation. Even the future radical Díaz Soto y Gama held that the countryside needed enlightened despotism.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-acquiescence",
+      "prompt": "According to Gillingham, what two things explain the lack of serious opposition to Díaz until his last term?",
+      "answer": "War-weariness and his political skill",
+      "distractors": [
+        "Rising wages and land reform",
+        "US backing and a large army",
+        "Church support and free elections"
+      ],
+      "explanation": "Díaz came to power a decade after the defeat of the French, when Mexicans craved stability. He then managed governors, generals, bishops and the press with great dexterity.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-two-porfiriatos",
+      "prompt": "How does Gillingham divide Díaz's long rule?",
+      "answer": "Paternalist rule, then calcified oligarchy",
+      "distractors": [
+        "Liberal reform, then Catholic reaction",
+        "Military rule, then civilian democracy",
+        "Free trade, then state protectionism"
+      ],
+      "explanation": "Had Díaz died around 1900, he says, history would remember him differently. The first Porfiriato ran from the late 1870s to the early 1900s; the second, of ageing oligarchs, ended in revolution.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-dynasties-bargain",
+      "prompt": "What bargain did Díaz strike with old provincial dynasties such as the Maderos and the Maytorenas of Sonora?",
+      "answer": "Business opportunities in return for leaving politics",
+      "distractors": [
+        "Governorships in return for their militias",
+        "Church lands in return for votes",
+        "Titles of nobility in return for loans"
+      ],
+      "explanation": "By the mid-1890s most such families had accepted it. The Maderos joined an 1893 revolt in Coahuila and then retired into building one of Mexico's great business empires.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-cahuantzi",
+      "prompt": "Who was the Nahuatl-speaking Indigenous governor of Tlaxcala, the longest-serving of all Díaz's governors?",
+      "answer": "Próspero Cahuantzi",
+      "distractors": [
+        "Manuel Alarcón",
+        "Teodoro Dehesa",
+        "Mucio Martínez"
+      ],
+      "explanation": "He gave speeches in Nahuatl even to audiences who could not follow them and paid for a reproduction of the Lienzo de Tlaxcala. Regional patriarchs like him helped make Díaz's rule look benevolent.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-terrazas",
+      "prompt": "Which Chihuahua magnate built an empire of banks, cattle estates, timber and mines, and in 1904 made way for his son-in-law Enrique Creel as governor?",
+      "answer": "Luis Terrazas",
+      "distractors": [
+        "Olegario Molina",
+        "Bernardo Reyes",
+        "José María Maytorena"
+      ],
+      "explanation": "The Terrazas–Creel clan ran Chihuahua's government and economy together, the clearest case of the oligarchy of Díaz's later years.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-creel-posts",
+      "prompt": "Which two posts did the Chihuahua oligarch Enrique Creel hold at the same time?",
+      "answer": "State governor and ambassador to Washington",
+      "distractors": [
+        "Finance minister and Senate president",
+        "War minister and army commander",
+        "Archbishop's notary and state judge"
+      ],
+      "explanation": "Creel used the vacant-lands law to form his own hacienda and sent rurales to defend it against the dispossessed. Men holding several top jobs while enriching themselves were exactly what the opposition railed against.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-reyes",
+      "prompt": "Which general, governor of Nuevo León and war minister who raised a 30,000-strong volunteer reserve, was the leading hope for an opening of the regime?",
+      "answer": "Bernardo Reyes",
+      "distractors": [
+        "Manuel Mondragón",
+        "Victoriano Huerta",
+        "Manuel González"
+      ],
+      "explanation": "Reyes promised stability and a more open system, but when Díaz broke up his movement and disbanded the reserve, the indecisive general did nothing.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-corral",
+      "prompt": "Which unpopular Sonoran politician did Díaz install as his vice-president in 1904?",
+      "answer": "Ramón Corral",
+      "distractors": [
+        "José Yves Limantour",
+        "Enrique Creel",
+        "Teodoro Dehesa"
+      ],
+      "explanation": "With Díaz clearly going to die in office, the vice-presidency was the real succession question. Díaz chose the already unpopular Corral while breaking up the movement behind Reyes.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-costa-iron-surgeon",
+      "prompt": "Which Spanish thinker, diagnosing his own country's oligarchy and caciquismo, held up Díaz as a model iron surgeon?",
+      "answer": "Joaquín Costa",
+      "distractors": [
+        "Miguel de Unamuno",
+        "José Ortega y Gasset",
+        "Emilio Castelar"
+      ],
+      "explanation": "Gillingham uses Costa to show that oligarchs and caciques were global, not Mexican peculiarities. Costa's call for national regeneration also echoed in the name of the Flores Magón brothers' newspaper.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-politics-cause",
+      "prompt": "According to Gillingham, what above all made the Revolution break out in 1910?",
+      "answer": "Politics, above all the succession crisis",
+      "distractors": [
+        "A nationwide peasant rising over land",
+        "A general strike of industrial workers",
+        "A US-backed invasion from Texas"
+      ],
+      "explanation": "Rural grievances were ample and real, but they had been building for decades. What turned them into revolution was an ageing dictator's closed and calcified political system.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-geography",
+      "prompt": "Besides Díaz's ageing, which feature of Mexico does Gillingham say made the country unusually hard to rule?",
+      "answer": "Its mountains, deserts and forests",
+      "distractors": [
+        "Its long Pacific and Gulf coastlines",
+        "Its great navigable river systems",
+        "Its many foreign-owned enclaves"
+      ],
+      "explanation": "Rugged terrain had long favoured independent-minded local societies loyal to the patria chica. Díaz's shrinking of the army made the old problem worse when they rose in 1910.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-order-progress",
+      "prompt": "Which pair of positivist watchwords, also written on Brazil's flag, summed up the Porfirian creed?",
+      "answer": "Order and progress",
+      "distractors": [
+        "Liberty and reform",
+        "Land and liberty",
+        "Religion and union"
+      ],
+      "explanation": "Liberalism was to replace Catholic reaction with useful, scientific development: political stability, industry and catching up with the richest countries.",
+      "chapter": 12,
+      "core": true
+    },
+    {
+      "id": "porfiriato-three-ideologies",
+      "prompt": "Porfirian nationalists paired liberalism with mestizaje and which third ideology, the claim that Mexico was enriched, not degraded, by its pre-Hispanic past?",
+      "answer": "Indigenismo",
+      "distractors": [
+        "Hispanismo",
+        "Criollismo",
+        "Agrarismo"
+      ],
+      "explanation": "Mestizaje, pride in mixed ancestry, needed indigenismo, since most Mexicans' ancestors were Indigenous. Many whites preferred hispanismo, an idealised Spanish heritage, and most northerners, with their history of Apache and Comanche wars, had little time for indigenismo.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-mestizaje",
+      "prompt": "What did Porfirian nationalists mean by mestizaje?",
+      "answer": "Pride in Mexico's mixed ancestry",
+      "distractors": [
+        "Restoring Indigenous self-government",
+        "Encouraging European immigration",
+        "Spreading Spanish across the country"
+      ],
+      "explanation": "Most Mexicans were by now mestizo, and nationalists presented Mexico as the world's great melting pot, answering neighbours who dismissed its people as mongrels.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-mexico-a-traves",
+      "prompt": "Which five-volume history of the 1880s told Mexico's past as a march from the Aztecs to liberal triumph?",
+      "answer": "México a través de los siglos",
+      "distractors": [
+        "Historia de Méjico",
+        "México y sus revoluciones",
+        "Los grandes problemas nacionales"
+      ],
+      "explanation": "It brought together the leading liberal experts on archaeology, colonial law and military history. It argued that the colonial castes had merged into a new race that formed the Mexican nation.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-riva-palacio",
+      "prompt": "Which liberal general and best-selling novelist used serialised fiction and popular history to celebrate Mexico as a mestizo nation?",
+      "answer": "Vicente Riva Palacio",
+      "distractors": [
+        "Justo Sierra",
+        "Guillermo Prieto",
+        "Francisco Bulnes"
+      ],
+      "explanation": "Readers devoured his novels in weekly instalments. Their message was that Mexico was always meant to be a mestizo republic, born of Indigenous glory, Spanish conquest and centuries of war.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-batres",
+      "prompt": "Which Porfirian Inspector of Monuments excavated Teotihuacán and hauled great statues to the National Museum?",
+      "answer": "Leopoldo Batres",
+      "distractors": [
+        "Alfredo Chavero",
+        "Francisco del Paso y Troncoso",
+        "Justo Sierra"
+      ],
+      "explanation": "By 1910 the great pre-Hispanic sites near the capital were open to visitors. When Batres came to take a statue from Tetlama, near Xochicalco, the villagers carried it back to their church, a sign that pride in the Indigenous past could be genuinely popular.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-state-funerals",
+      "prompt": "What did the Porfirian regime stage more than a hundred times between 1876 and 1911 to build a patriotic cult?",
+      "answer": "State funerals for national heroes",
+      "distractors": [
+        "Military parades on Cinco de Mayo",
+        "Readings of the 1857 Constitution",
+        "Pilgrimages to the Virgin of Guadalupe"
+      ],
+      "explanation": "Heroes' remains came by train from distant states to be reburied in the capital. Parades, monuments and a crowded calendar of patriotic holidays made nationalism visible to people who would never read a history.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-paris-1889",
+      "prompt": "At which 1889 universal exposition did Mexico win a prime site to display the statistics of Porfirian progress?",
+      "answer": "Paris",
+      "distractors": [
+        "Chicago",
+        "Philadelphia",
+        "London"
+      ],
+      "explanation": "Díaz personally oversaw this display of numbers to investors and the world. Many of the figures were massaged or invented, as satirists noted.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-mission-revival",
+      "prompt": "Which style of the 1890s, used for railway stations and schools across the US Southwest, imitated colonial Mexican buildings?",
+      "answer": "Mission Revival",
+      "distractors": [
+        "Prairie School",
+        "Beaux-Arts",
+        "Queen Anne"
+      ],
+      "explanation": "Railways and stability turned Mexico into a tourist destination and changed its image in American eyes. When wealthy Mexicans imported the style for their own mansions, the circle was complete.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-football-pachuca",
+      "prompt": "Who brought football (soccer) to the mining town of Pachuca?",
+      "answer": "Cornish miners",
+      "distractors": [
+        "American railwaymen",
+        "Spanish priests",
+        "French soldiers"
+      ],
+      "explanation": "They founded a league in 1902, and also brought the pasty, which acquired chillies and beans. Baseball arrived with American sailors, railwaymen and miners.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-toscano-cinema",
+      "prompt": "Which pioneer opened one of Mexico City's first cinemas in the late 1890s, where ten centavos bought a show?",
+      "answer": "Salvador Toscano",
+      "distractors": [
+        "Guillermo Kahlo",
+        "Agustín Casasola",
+        "Julio Ruelas"
+      ],
+      "explanation": "Cinema joined trams, electric light, department stores, bicycles and roller-skating as the novelties of Porfirian city life.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-san-jose-de-gracia",
+      "prompt": "Which Michoacán ranching village, laid out on a grid in 1888, is the subject of Luis González's microhistory Pueblo en vilo?",
+      "answer": "San José de Gracia",
+      "distractors": [
+        "Nueva Italia",
+        "Naranja",
+        "Cojumatlán"
+      ],
+      "explanation": "Its cattlemen sold cheese, pork and leather to Mexico City by a railway station some fifteen miles away. It shows the small-ranch Mexico that did well under Díaz.",
+      "chapter": 13,
+      "feature": "e8-san-jose-de-gracia"
+    },
+    {
+      "id": "porfiriato-tlahualilo-colony",
+      "prompt": "What became of the colony of about 800 African American former sharecroppers settled on the Tlahualilo estate in the Laguna in 1895?",
+      "answer": "It collapsed within months",
+      "distractors": [
+        "It thrived for decades growing cotton",
+        "It was taken over by Mormon settlers",
+        "It became the town of Torreón"
+      ],
+      "explanation": "Disease, poverty and gang labour that recalled the old plantations sent most colonists back north. Like most Porfirian settler schemes, it failed.",
+      "chapter": 12,
+      "feature": "e8-tlahualilo-colony"
+    },
+    {
+      "id": "porfiriato-william-ellis",
+      "prompt": "Which Texas-born former slave, reinvented in Mexico as Guillermo Enrique Eliseo, promoted a colony for Black Americans in the Laguna?",
+      "answer": "William Henry Ellis",
+      "distractors": [
+        "Booker T. Washington",
+        "Domingo Kuri",
+        "Thomas Braniff"
+      ],
+      "explanation": "Ellis traded in cotton and cattle hides, moved in Mexican high society and kept offices on Wall Street. Mexico prided itself on being less racist than its neighbour and offered citizenship easily under the 1886 immigration law.",
+      "chapter": 12,
+      "feature": "e8-tlahualilo-colony"
+    },
+    {
+      "id": "porfiriato-nueva-italia",
+      "prompt": "Which Michoacán estate, founded by the Italian Cusi family, was one of the few Porfirian settler schemes to prosper?",
+      "answer": "Nueva Italia",
+      "distractors": [
+        "Topolobampo",
+        "Tlahualilo",
+        "Cantabria"
+      ],
+      "explanation": "The Cusis brought in water from two rivers and made it a leading producer of cotton, melon and rice, which paid only because a subsidised railway reached Uruapan.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-topolobampo",
+      "prompt": "Albert Kimsey Owen's cooperative colony on the Sinaloa coast collapsed chiefly for lack of what?",
+      "answer": "Fresh water",
+      "distractors": [
+        "Settlers",
+        "Timber",
+        "Title to land"
+      ],
+      "explanation": "Owen planned a railway from the Gulf of California to the Rio Grande; his settlers turned to private property and then gave up. Most organised settler schemes since Independence had failed in similar ways.",
+      "chapter": 12
+    },
+    {
+      "id": "porfiriato-centenary-1910",
+      "prompt": "Which monument on Mexico City's Paseo de la Reforma was unveiled for the centenary of independence in September 1910?",
+      "answer": "The Independence column, the Angel",
+      "distractors": [
+        "The monument to Cuauhtémoc",
+        "The Monument to the Revolution",
+        "The monument to Columbus"
+      ],
+      "explanation": "The regime marked the centenary with a month of parades, congresses and inaugurations for foreign delegations, including a fresh inauguration of the capital's drainage works, only months after jailing Madero and rigging the election.",
+      "chapter": 13,
+      "feature": "e8-centenario-1910"
+    },
+    {
+      "id": "porfiriato-flores-magon",
+      "prompt": "Which exiled anarchist led the Partido Liberal Mexicano (PLM) against Díaz?",
+      "answer": "Ricardo Flores Magón",
+      "distractors": [
+        "Francisco Madero",
+        "Aquiles Serdán",
+        "Filomeno Mata"
+      ],
+      "explanation": "A Oaxacan and keen reader of Kropotkin, he worked with his brothers from the United States, hunted by detectives in the pay of the Chihuahua government. Gillingham calls the PLM a misnamed group of anarchists.",
+      "chapter": 13,
+      "core": true
+    },
+    {
+      "id": "porfiriato-regeneracion",
+      "prompt": "What was the name of the Flores Magón brothers' incendiary newspaper?",
+      "answer": "Regeneración",
+      "distractors": [
+        "El Demócrata",
+        "El Imparcial",
+        "El Diario del Hogar"
+      ],
+      "explanation": "Smuggled into Mexico, it reached even the mining camp at Cananea. In 1906 and 1908 the PLM turned from words to armed risings, which were easily put down.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-plm-acayucan",
+      "prompt": "In which southern Veracruz town did a PLM band launch an armed rising in the autumn of 1906?",
+      "answer": "Acayucan",
+      "distractors": [
+        "Orizaba",
+        "Papantla",
+        "Tuxtepec"
+      ],
+      "explanation": "The rising collapsed when its leader was wounded, and other planned attacks were broken up by arrests. The PLM managed risings in Coahuila and Veracruz but was largely ignored nationally.",
+      "chapter": 14,
+      "feature": "e8-plm-risings-1906"
+    },
+    {
+      "id": "porfiriato-monterrey-1903",
+      "prompt": "What event in 1903 pushed Francisco Madero into politics?",
+      "answer": "The shooting of marchers in Monterrey",
+      "distractors": [
+        "The Cananea miners' strike",
+        "A dispute over Nazas river water",
+        "The massacre of Yaqui at Mazocoba"
+      ],
+      "explanation": "The governor of Nuevo León's men shot seven protesters dead. Madero began at the bottom, in municipal and state politics, and founded a serious newspaper and a satirical one.",
+      "chapter": 14
+    },
+    {
+      "id": "porfiriato-madero-state",
+      "prompt": "From which state's great landowning and business family did Francisco Madero come?",
+      "answer": "Coahuila",
+      "distractors": [
+        "Chihuahua",
+        "Nuevo León",
+        "Sonora"
+      ],
+      "explanation": "The Maderos were among the five richest families in Mexico, with interests in cotton, cattle, mining, foundries, coal, banks and rubber. Francisco studied in Paris and at Berkeley.",
+      "chapter": 14
+    },
+    {
+      "id": "porfiriato-madero-programme",
+      "prompt": "What did Madero's 1908 book propose to keep Porfirian progress on track?",
+      "answer": "A freely elected vice-president",
+      "distractors": [
+        "Díaz's immediate resignation",
+        "Land reform and higher wages",
+        "A constitutional monarchy"
+      ],
+      "explanation": "Madero's opening programme was managerial, not revolutionary. Privately, though, he had contemplated armed rebellion since 1906 if elections failed.",
+      "chapter": 14,
+      "core": true
+    },
+    {
+      "id": "porfiriato-antirreeleccionista",
+      "prompt": "Under which party's banner did Madero challenge Díaz in 1910?",
+      "answer": "The Partido Nacional Antirreeleccionista",
+      "distractors": [
+        "The Partido Democrático",
+        "The Partido Liberal Mexicano",
+        "The Partido Nacional Porfirista"
+      ],
+      "explanation": "It was the opposition party Díaz had told Creelman he would welcome. Instead the regime prosecuted Madero, arrested followers at their convention and finally jailed the candidate himself shortly before the vote.",
+      "chapter": 13
+    },
+    {
+      "id": "porfiriato-vote-1910",
+      "prompt": "What share of the vote was Díaz credited with in the rigged election of 1910?",
+      "answer": "About 98 percent",
+      "distractors": [
+        "About 60 percent",
+        "About 75 percent",
+        "About 85 percent"
+      ],
+      "explanation": "Gillingham calls the majority ridiculous and wholly unnecessary. Releasing Madero soon after polling day was, he says, a final sign that Díaz had lost his touch.",
+      "chapter": 13
+    }
+  ]
+}

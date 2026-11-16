@@ -1,0 +1,1642 @@
+{
+  "era": "revolution",
+  "cards": [
+    {
+      "id": "revolution-1",
+      "kind": "where",
+      "prompt": "Where is Ciudad Juárez, the border city whose capture by the rebels in May 1911 pushed Díaz to come to terms?",
+      "answer": "Ciudad Juárez, across the border from El Paso",
+      "explanation": "Against Madero's orders, Orozco and Villa attacked the federal garrison across the river from El Paso, and General Juan Navarro surrendered on 10 May. It was the first major city taken by the rebels and gave Madero a port of entry on the US border.",
+      "chapter": 14,
+      "feature": "e9-ciudad-juarez-1911"
+    },
+    {
+      "id": "revolution-2",
+      "prompt": "Under the Treaty of Ciudad Juárez of May 1911, who was to serve as interim president until elections?",
+      "answer": "Francisco León de la Barra",
+      "distractors": [
+        "Ramón Corral",
+        "Eulalio Gutiérrez",
+        "Adolfo de la Huerta"
+      ],
+      "explanation": "Díaz and Vice President Corral were to resign, and Díaz's foreign minister, León de la Barra, would hold office until elections. The treaty left the federal army and the Porfirian state in place, which many revolutionaries, Zapata among them, came to see as Madero's fatal mistake.",
+      "chapter": 14,
+      "feature": "e9-treaty-ciudad-juarez"
+    },
+    {
+      "id": "revolution-3",
+      "prompt": "Breaking with Madero in November 1911, what did Zapata's Plan of Ayala demand?",
+      "answer": "The return of lands, woods and waters taken by the haciendas",
+      "distractors": [
+        "An eight-hour day and a minimum wage",
+        "A national rising on 20 November against Díaz's re-election",
+        "National ownership of the subsoil and its oil"
+      ],
+      "explanation": "The plan declared Madero a traitor and also called for the expropriation, with compensation, of a third of the great estates. It remained the Zapatista programme for the rest of the decade; the Convention of Aguascalientes adopted its principles in 1914.",
+      "chapter": 14,
+      "core": true,
+      "feature": "e9-plan-de-ayala"
+    },
+    {
+      "id": "revolution-4",
+      "prompt": "During the Decena Trágica of February 1913, which general, commanding the government's forces, had Madero arrested and took power?",
+      "answer": "Victoriano Huerta",
+      "distractors": [
+        "Bernardo Reyes",
+        "Pascual Orozco",
+        "Joaquín Beltrán"
+      ],
+      "explanation": "While the rebels and government forces shelled each other across the city centre, Huerta negotiated with the rebels and the US ambassador, Henry Lane Wilson, and agreed with Félix Díaz in the \"Pact of the Embassy\" to take power. Madero and Pino Suárez were shot beside the Lecumberri penitentiary on the night of 22 February.",
+      "chapter": 14,
+      "core": true,
+      "feature": "e9-decena-tragica"
+    },
+    {
+      "id": "revolution-5",
+      "kind": "where",
+      "prompt": "In April 1914 US sailors and marines seized Veracruz to stop a German ship landing arms for Huerta. Where is Veracruz?",
+      "answer": "Veracruz, on the Gulf coast",
+      "explanation": "Cadets of the Naval School and townspeople resisted, and many more Mexicans than Americans were killed. The occupation cut Huerta off from his main customs house, and when US forces left in November 1914 Carranza made the port his capital.",
+      "chapter": 15,
+      "feature": "e9-veracruz-1914"
+    },
+    {
+      "id": "revolution-6",
+      "prompt": "Carranza's Constitutionalist zone of December 1914 looked small on a map. How did he pay for the arms to fight Villa and Zapata?",
+      "answer": "Gulf customs, oil taxes and henequen",
+      "distractors": [
+        "Northern cattle and cotton sold to the US",
+        "Sugar from the haciendas of Morelos",
+        "Silver from the mines of Zacatecas"
+      ],
+      "explanation": "From Veracruz he held the Gulf coast from the lower Rio Grande to Yucatán, and with it the customs revenue of Veracruz and Tampico, the oil taxes and the henequen of Yucatán. Villa, who held Zacatecas and paid for arms with the north's cattle, cotton and mines, never held a Gulf port or the oil zone.",
+      "chapter": 15,
+      "feature": "e9-constitutionalist-zone"
+    },
+    {
+      "id": "revolution-7",
+      "prompt": "How did Obregón defeat Villa's army in the two battles of Celaya in April 1915?",
+      "answer": "He dug in behind trenches, wire and machine guns",
+      "distractors": [
+        "He surprised Villa with a captured coal train",
+        "He stormed the hills of La Bufa and El Grillo",
+        "He cut Villa's coal supply on the railway"
+      ],
+      "explanation": "Villa's cavalry wore itself out in frontal charges on 6–7 April, and when Villa attacked again on 13–15 April he was routed by Obregón's reserve cavalry striking his flanks. The two battles broke the División del Norte's offensive power and turned the war in Carranza's favour.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-celaya-1915"
+    },
+    {
+      "id": "revolution-8",
+      "prompt": "What brought General Pershing's US army into Chihuahua in March 1916?",
+      "answer": "Villa's raid on Columbus, New Mexico",
+      "distractors": [
+        "The arrest of US sailors at Tampico",
+        "A German ship bringing arms for Huerta",
+        "The clash with Carrancistas at Carrizal"
+      ],
+      "explanation": "Pershing's force, which grew to roughly ten thousand men or more, pushed as far south as Parral without catching Villa. After clashes with Carrancista troops at Parral and Carrizal it fell back to its base at Colonia Dublán, and it left Mexico in February 1917.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-punitive-expedition"
+    },
+    {
+      "id": "revolution-9",
+      "kind": "where",
+      "prompt": "Where is Querétaro, where a Constituent Congress wrote the Constitution of 1917?",
+      "answer": "Querétaro, north-west of Mexico City",
+      "explanation": "Going beyond Carranza's draft, the Congress vested ownership of land, waters and the subsoil in the nation (Article 27), set labour rights (Article 123) and made education secular (Article 3). Promulgated on 5 February 1917, the constitution is still in force.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-queretaro-constitution"
+    },
+    {
+      "id": "revolution-10",
+      "prompt": "In the Plan of Agua Prieta of April 1920, whom did the rebels against Carranza back for the presidency?",
+      "answer": "Álvaro Obregón",
+      "distractors": [
+        "Ignacio Bonillas",
+        "Pancho Villa",
+        "Pablo González"
+      ],
+      "explanation": "Carranza had tried to impose a civilian successor, Ignacio Bonillas, and sent troops into Sonora. Most of the army joined the plan within weeks; Carranza fled the capital and was killed at Tlaxcalantongo, and Obregón was elected that autumn.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-plan-agua-prieta"
+    },
+    {
+      "id": "revolution-three-civil-wars",
+      "prompt": "Gillingham divides the fighting of 1913–20 into three civil wars in sequence. What was the third, from late 1915 to 1920?",
+      "answer": "A guerrilla war against Carranza's government",
+      "distractors": [
+        "A war between the armies of Villa and Zapata",
+        "A Catholic rising against the new constitution",
+        "A war between Carranza and Huerta's federal army"
+      ],
+      "explanation": "First came the coalition war against Huerta (March 1913–August 1914), then the war between the victors (November 1914–November 1915). After Villa's defeat, dozens of bands fought a government that held the cities and little else.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "revolution-death-toll",
+      "prompt": "By the estimate Gillingham follows, roughly how many Mexicans died in the fighting, famine and epidemics of the 1910s?",
+      "answer": "About 1.4 million, nearly one in ten",
+      "distractors": [
+        "About 250,000, nearly one in sixty",
+        "About 600,000, nearly one in twenty-five",
+        "About 3 million, nearly one in five"
+      ],
+      "explanation": "The figure is the demographer Robert McCaa's estimate of excess deaths, higher than older counts. Relative to its population Mexico lost far more people than Germany did in the First World War; Gillingham calls it the worst mortality in the Americas since the conquest.",
+      "chapter": 20,
+      "core": true
+    },
+    {
+      "id": "revolution-killers",
+      "prompt": "According to Gillingham, what killed most of the victims of the revolution of the 1910s?",
+      "answer": "Disease and famine",
+      "distractors": [
+        "Pitched battles between the armies",
+        "Mass executions of prisoners",
+        "Artillery fire on the cities"
+      ],
+      "explanation": "Armies seized grain and broke the railways, so towns that never saw fighting starved, and typhus, smallpox and then the 1918 influenza swept through. Young men suffered most, but no group was spared.",
+      "chapter": 20,
+      "core": true
+    },
+    {
+      "id": "revolution-slogan",
+      "prompt": "What was the slogan of Madero's 1910 movement, which in practice, Gillingham argues, threatened every local boss of the Porfiriato?",
+      "answer": "Sufragio efectivo, no reelección",
+      "distractors": [
+        "Tierra y libertad",
+        "Poca política, mucha administración",
+        "Reforma, libertad, justicia y ley"
+      ],
+      "explanation": "Free elections and single terms threatened the jefes políticos who ran the provinces for Díaz. Many Mexicans hoped that local democracy, the municipio libre, would follow, and social reform after it.",
+      "chapter": 14,
+      "core": true
+    },
+    {
+      "id": "revolution-plan-san-luis-land",
+      "prompt": "Apart from free elections, what was the one remedy for rural grievances in Madero's Plan of San Luis Potosí?",
+      "answer": "A review of land seizures, returning stolen land",
+      "distractors": [
+        "Breaking up a third of the great estates",
+        "An eight-hour day and a minimum wage",
+        "Nationalisation of the subsoil and its oil"
+      ],
+      "explanation": "Otherwise the plan promised an orderly revolution that would respect existing laws and foreign investment. Its modest land clause, Article 3, still drew rural Mexicans to Madero.",
+      "chapter": 14,
+      "core": true
+    },
+    {
+      "id": "revolution-where-began",
+      "prompt": "After the urban Maderista plots of November 1910 collapsed, where did the revolution really take hold?",
+      "answer": "The Sierra Madre of western Chihuahua",
+      "distractors": [
+        "The textile towns of Puebla and Veracruz",
+        "The sugar valleys of Morelos",
+        "The copper camps of northern Sonora"
+      ],
+      "explanation": "Village risings led by bandits, muleteers and local notables such as Pascual Orozco and Pancho Villa spread across the sierra and onto the plains by December. Díaz's small, ageing army had no answer to guerrilla war.",
+      "chapter": 14,
+      "core": true
+    },
+    {
+      "id": "revolution-pragmatism",
+      "prompt": "What, for Gillingham, was the strongest common pattern in how ordinary Mexicans chose sides in the 1910s?",
+      "answer": "Pragmatism and local concerns",
+      "distractors": [
+        "Loyalty to a national programme",
+        "Class: peons against hacendados",
+        "Race: Indigenous against white"
+      ],
+      "explanation": "Ideology mattered less. Meals, protection, the chance to choose an army before conscription, and old quarrels decided much. The failure of any one ideology to convince the whole country shaped Mexican politics for a century.",
+      "chapter": 14,
+      "core": true
+    },
+    {
+      "id": "revolution-village-feuds",
+      "prompt": "According to Gillingham, what often decided which faction a village joined during the revolution?",
+      "answer": "Old feuds with neighbouring villages",
+      "distractors": [
+        "Orders from the parish priest",
+        "The ethnicity of the faction's leader",
+        "Each faction's printed programme"
+      ],
+      "explanation": "San José de Gracia leaned Villista, so neighbouring Mazamitla took the other side; in Guerrero, liberal Ixcateopan went Zapatista while once-conservative Ixcapuzalco backed the government.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-political-not-social",
+      "prompt": "Gillingham calls the upheaval of the 1910s a genuine revolution of what kind?",
+      "answer": "Political, but not yet social",
+      "distractors": [
+        "Social, but not political",
+        "Neither; it was a military coup",
+        "Both political and social at once"
+      ],
+      "explanation": "A new generation who had climbed past barriers of class and race took power, but in the 1920s the great estates, oil fields and factories mostly kept their owners. The social revolution came only in the 1930s.",
+      "chapter": 16,
+      "core": true
+    },
+    {
+      "id": "revolution-only-american",
+      "prompt": "What, for Gillingham, makes Mexico's revolution unique in the history of the mainland Americas?",
+      "answer": "It led to a genuine social revolution",
+      "distractors": [
+        "It was won by Indigenous peasant armies",
+        "It ended in a restored monarchy",
+        "It was won by urban industrial workers"
+      ],
+      "explanation": "The civil wars of the 1910s were fought in the revolution's name, but the transfer of land and wealth that made it a social revolution came more than a decade later, in the 1930s.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-jefe-politico",
+      "prompt": "Which loathed figure of Porfirian local government disappeared with the revolution, moving power back toward local hands?",
+      "answer": "The jefe político",
+      "distractors": [
+        "The parish priest",
+        "The municipal president",
+        "The state governor"
+      ],
+      "explanation": "District bosses appointed from above had enforced Díaz's policies and enriched themselves. Gillingham counts their disappearance among the revolution's real political changes.",
+      "chapter": 16
+    },
+    {
+      "id": "revolution-madero-family",
+      "prompt": "What kind of family did Francisco Madero, the man who challenged Díaz in 1910, come from?",
+      "answer": "One of Mexico's five richest families",
+      "distractors": [
+        "A family of Coahuila sharecroppers",
+        "A family of Puebla artisans",
+        "A line of Oaxacan schoolteachers"
+      ],
+      "explanation": "The Maderos of Coahuila had land, cotton, cattle, mines, foundries and banks, and he was educated in Paris and at Berkeley. That made him an unlikely revolutionary leader.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-madero-spiritualism",
+      "prompt": "Which unusual belief did Madero credit with guiding him toward politics and a challenge to Díaz?",
+      "answer": "Spiritualism: messages from the dead",
+      "distractors": [
+        "Visions of the Virgin of Guadalupe",
+        "Readings of the Aztec calendar",
+        "Dreams read by a village curandero"
+      ],
+      "explanation": "In his diaries he recorded advice from spirits, among them Juárez, telling him he would defeat the old dictator. Spiritualism was common among Coahuila's dissidents and fashionable worldwide.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-sucesion-book",
+      "prompt": "What was the title of the 1908 book in which Madero condemned one-man rule while praising much of Díaz's record?",
+      "answer": "La sucesión presidencial en 1910",
+      "distractors": [
+        "México a través de los siglos",
+        "Los grandes problemas nacionales",
+        "La Constitución y la dictadura"
+      ],
+      "explanation": "It was no call to arms: it asked only for free elections, starting with the vice-presidency, and offered no social programme. Madero even sent Díaz a signed copy.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-madero-campaign",
+      "prompt": "What made Madero's campaign of 1909–10, in Gillingham's view, the first modern political campaign in Mexican history?",
+      "answer": "Rallies by train, telegraph, press and newsreels",
+      "distractors": [
+        "Speeches broadcast by radio nationwide",
+        "Primary elections held in every state",
+        "Funding from US political parties"
+      ],
+      "explanation": "By spring 1910 he had spoken in twenty-two states to crowds in the thousands. Díaz had him arrested before the vote and declared himself re-elected.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-reyes-1909",
+      "prompt": "Which general, expected to be the Partido Democrático's choice for vice-president, backed down in 1909 and accepted a mission to Europe?",
+      "answer": "Bernardo Reyes",
+      "distractors": [
+        "Victoriano Huerta",
+        "Manuel Mondragón",
+        "Félix Díaz"
+      ],
+      "explanation": "His retreat left Madero's Anti-Reelectionists as the main legal opposition. Reyes later rose against Madero and was killed attacking the National Palace in February 1913.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-magon-refusal",
+      "prompt": "Why did the anarchist Ricardo Flores Magón refuse to join Madero's rising of 1910?",
+      "answer": "It sought political freedom, not land or labour reform",
+      "distractors": [
+        "He backed Bernardo Reyes for vice-president",
+        "He had accepted an amnesty from Díaz",
+        "He thought it planned too early"
+      ],
+      "explanation": "His Partido Liberal Mexicano wanted land for the people, higher wages and less Church influence. Its followers briefly took Mexicali and Tijuana in 1911, but anarchism never won a mass following in Mexico.",
+      "chapter": 14,
+      "feature": "e9-magonistas-baja-1911"
+    },
+    {
+      "id": "revolution-cuchillo-parado",
+      "prompt": "Six days before the date Madero had set, which Chihuahua village rose under Toribio Ortega, on 14 November 1910?",
+      "answer": "Cuchillo Parado",
+      "distractors": [
+        "Tomóchic",
+        "Namiquipa",
+        "Bachíniva"
+      ],
+      "explanation": "Ortega learned he was about to be arrested and took to the hills with about sixty men. Similar village risings followed across Chihuahua over the next week.",
+      "chapter": 14,
+      "feature": "e9-cuchillo-parado"
+    },
+    {
+      "id": "revolution-serdan",
+      "prompt": "Which Puebla shoemaker and Maderista organiser died when police attacked his house two days before the planned rising of November 1910?",
+      "answer": "Aquiles Serdán",
+      "distractors": [
+        "Toribio Ortega",
+        "Gabriel Gavira",
+        "Abraham González"
+      ],
+      "explanation": "He killed Puebla's police chief before he died. His was the most determined of the urban conspiracies, which the police rounded up almost everywhere.",
+      "chapter": 14,
+      "feature": "e9-serdan"
+    },
+    {
+      "id": "revolution-diaz-army-1910",
+      "prompt": "After decades of shrinking the army, about how many soldiers did Díaz have to fight the risings of 1910–11, by Gillingham's count?",
+      "answer": "About 15,000",
+      "distractors": [
+        "About 60,000",
+        "About 120,000",
+        "About 250,000"
+      ],
+      "explanation": "Cutting the army had been one of Díaz's achievements; now he faced many simultaneous mountain risings, each like the Tomóchic revolt that had once taken a large force to crush.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-one-in-a-thousand",
+      "prompt": "By one estimate cited by Gillingham, what share of Mexicans actually fought against Díaz in 1910–11?",
+      "answer": "About one in a thousand",
+      "distractors": [
+        "About one in ten",
+        "About one in fifty",
+        "About one in four"
+      ],
+      "explanation": "Committed Maderistas were few, while the old regime kept the army, the bureaucracy and the jefes políticos. That imbalance helps explain Madero's weakness in power.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-limantour-talks",
+      "prompt": "Which Porfirian minister did members of Madero's family meet in New York in 1911 to discuss ending the war?",
+      "answer": "José Yves Limantour",
+      "distractors": [
+        "Ramón Corral",
+        "Bernardo Reyes",
+        "Justo Sierra"
+      ],
+      "explanation": "Madero's brothers and father pressed him to end a popular war they feared, and urban allies such as Luis Cabrera urged a deal too. Others warned that a half-finished revolution would have to be fought again.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-carranza-suicide",
+      "prompt": "Which revolutionary warned Madero in 1911 that \"the revolution that cuts deals commits suicide\"?",
+      "answer": "Venustiano Carranza",
+      "distractors": [
+        "Pancho Villa",
+        "Emiliano Zapata",
+        "Luis Cabrera"
+      ],
+      "explanation": "Carranza, a Coahuila cattleman and Madero's minister of war, judged after the Treaty of Ciudad Juárez that the revolution was dead and would have to be fought all over again. He was proved right in 1913.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-treaty-disarm",
+      "prompt": "Under the Treaty of Ciudad Juárez of May 1911, what were the revolutionary fighters expected to do?",
+      "answer": "Hand in their weapons and go home",
+      "distractors": [
+        "Join the federal army as officers",
+        "Keep the haciendas they had taken",
+        "Elect their own state governors"
+      ],
+      "explanation": "The Porfirian Congress, courts, bureaucracy and army stayed in place. Local revolutionaries rioted when they found that neither the old officials nor the old property boundaries would change.",
+      "chapter": 14,
+      "feature": "e9-treaty-ciudad-juarez"
+    },
+    {
+      "id": "revolution-article-3-shelved",
+      "prompt": "After the Treaty of Ciudad Juárez of 1911, what did Madero say about carrying out the land clause (Article 3) of his Plan of San Luis Potosí?",
+      "answer": "It must wait for constitutional means",
+      "distractors": [
+        "It would be carried out at once",
+        "It applied only to Morelos",
+        "It was a matter for each governor"
+      ],
+      "explanation": "Declaring the land clause impossible to carry out immediately disillusioned many rural rebels, above all in Morelos, where peasants who had retaken their fields were treated as criminals.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-diaz-tiger",
+      "prompt": "Who is supposed to have said, on leaving Mexico in 1911, that Madero had \"unleashed a tiger\"?",
+      "answer": "Porfirio Díaz",
+      "distractors": [
+        "José Yves Limantour",
+        "Bernardo Reyes",
+        "Victoriano Huerta"
+      ],
+      "explanation": "Díaz sailed for Paris from Veracruz after resigning, he claimed, to prevent further bloodshed. The remark, whether or not he made it, became the classic summary of what followed.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-madero-elected",
+      "prompt": "When did Madero win the presidency by a landslide?",
+      "answer": "October 1911",
+      "distractors": [
+        "November 1910",
+        "May 1911",
+        "February 1913"
+      ],
+      "explanation": "He took office in November and ruled for just over a year. Gillingham argues that the botched peace treaty doomed him from the start.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-pino-suarez",
+      "prompt": "Whom did Madero impose as his running mate in 1911, over the more popular Francisco Vázquez Gómez?",
+      "answer": "José María Pino Suárez",
+      "distractors": [
+        "Gustavo Madero",
+        "Abraham González",
+        "Luis Cabrera"
+      ],
+      "explanation": "It was part of what one historian has called a \"liberal apostasy\": once in power, Madero's circle bent elections and pressured the press. Pino Suárez was murdered with Madero in February 1913.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-liberalism-failed",
+      "prompt": "What did Madero's government and its murderous end demonstrate, in Gillingham's view?",
+      "answer": "That liberalism no longer worked in Mexico",
+      "distractors": [
+        "That the federal army could be reformed",
+        "That the US would protect elected governments",
+        "That land reform must precede elections"
+      ],
+      "explanation": "In 1911 everyone from Díaz to Zapata and the anarchists called himself a liberal; by 1913 no one did. For Gillingham, Madero was the last major leader who was a liberal in both belief and practice.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-madero-press",
+      "prompt": "What, in Gillingham's view, took the shine off Madero's government with impressive speed?",
+      "answer": "A hostile free press and its cartoons",
+      "distractors": [
+        "A collapse in world silver prices",
+        "A ban on the Catholic Church",
+        "A US blockade of the Gulf ports"
+      ],
+      "explanation": "Newspapers, cartoons and cheap street satire portrayed Madero as weak, eccentric and dictatorial at once. His supporters tried to curb the press, without success.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-nepotism",
+      "prompt": "Which charge against Madero's government, made in Félix Díaz's manifesto of 1912, stuck because there was truth in it?",
+      "answer": "Nepotism and profiteering by his family",
+      "distractors": [
+        "Secret deals with the Zapatistas",
+        "Selling the subsoil to US oil firms",
+        "Persecution of the Catholic Church"
+      ],
+      "explanation": "An uncle, Ernesto, ran the treasury, a brother commanded troops, cousins held the justice and defence ministries, and his brother Gustavo ran the secret service and the porra, a gang of hired thugs.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-catholic-party",
+      "prompt": "Which party, founded in May 1911, became the main legal opposition to Madero?",
+      "answer": "The Partido Católico Nacional",
+      "distractors": [
+        "The Partido Liberal Mexicano",
+        "The Partido Democrático",
+        "The Partido Constitucional Progresista"
+      ],
+      "explanation": "Political Catholicism had revived under Díaz through schools, charities and the social teaching of Rerum Novarum. Many Catholics opposed Madero and accepted his dictatorial successor.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-three-ideologies",
+      "prompt": "Against a tired liberalism, which three ideologies does Gillingham see standing out after 1911?",
+      "answer": "Zapatista socialism, political Catholicism, anarchism",
+      "distractors": [
+        "Marxism, fascism and Christian democracy",
+        "Positivism, Jacobinism and monarchism",
+        "Indigenism, syndicalism and Protestantism"
+      ],
+      "explanation": "None of them convinced the country as a whole: anarchism frightened the middle classes, Catholicism was split, and Zapatismo was rooted in its own region.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-anenecuilco",
+      "prompt": "Which Morelos village elected Emiliano Zapata president of its council in 1909?",
+      "answer": "Anenecuilco",
+      "distractors": [
+        "Cuautla",
+        "Tlaltizapán",
+        "Chinameca"
+      ],
+      "explanation": "Zapata came from a family of prosperous smallholders and traders with a liberal fighting tradition. He led the village's struggle to recover fields taken by the neighbouring sugar hacienda.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-zapata-break",
+      "prompt": "What finally drove Zapata into rebellion against the interim government in late summer 1911?",
+      "answer": "An order for his arrest",
+      "distractors": [
+        "Madero's refusal to meet him",
+        "The murder of his brother Eufemio",
+        "The loss of Cuautla to the federals"
+      ],
+      "explanation": "Interim president León de la Barra had sent General Victoriano Huerta into Morelos, and Madero's attempts at mediation failed. The government branded the Zapatistas bandits.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-ayala-montano",
+      "prompt": "Which schoolmaster helped Zapata draft the Plan of Ayala in 1911?",
+      "answer": "Otilio Montaño",
+      "distractors": [
+        "Antonio Díaz Soto y Gama",
+        "Gildardo Magaña",
+        "Manuel Palafox"
+      ],
+      "explanation": "The plan was written in a hurry and typed by a parish priest. It called for land to be returned to the villages and for opponents' property to be taken.",
+      "chapter": 14,
+      "feature": "e9-plan-de-ayala"
+    },
+    {
+      "id": "revolution-ayala-orozco",
+      "prompt": "Whom did the Plan of Ayala of 1911 name in Madero's place as chief of the revolution?",
+      "answer": "Pascual Orozco",
+      "distractors": [
+        "Venustiano Carranza",
+        "Emilio Vázquez Gómez",
+        "Francisco León de la Barra"
+      ],
+      "explanation": "Orozco was then the most famous general of 1910–11. He rose against Madero himself a few months later, but with conservative backers whom the Zapatistas had little in common with.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-zapatista-ideology",
+      "prompt": "How does Gillingham describe the ideology the Zapatistas put into practice wherever they held power?",
+      "answer": "A decentralised peasant socialism",
+      "distractors": [
+        "Anarcho-syndicalism led by urban unions",
+        "Catholic social conservatism",
+        "Liberal individual smallholding"
+      ],
+      "explanation": "Large estates were held and worked collectively, sugar mills were nationalised, and the duty to see that no one starved came before the market, all under a decentralised popular democracy.",
+      "chapter": 14,
+      "core": true,
+      "feature": "e9-zapatista-zone"
+    },
+    {
+      "id": "revolution-tierra-libertad",
+      "prompt": "From which movement did the Zapatistas borrow their slogan \"Tierra y Libertad\"?",
+      "answer": "The anarchists",
+      "distractors": [
+        "The liberals of the Reforma",
+        "The Catholic social movement",
+        "Hidalgo's insurgents"
+      ],
+      "explanation": "The Zapatistas took slogans where they found them, and their rural Catholicism sat beside them. Gillingham finds no consistent universal philosophy behind the movement, but a clear practice.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-zapatista-banners",
+      "prompt": "Which image did the Zapatistas embroider on their battle standards?",
+      "answer": "The Virgin of Guadalupe",
+      "distractors": [
+        "The Sacred Heart of Jesus",
+        "The Christ of Chalma",
+        "Saint James on horseback"
+      ],
+      "explanation": "God fought alongside the pueblo in Zapatista thinking. Their rural Catholicism sat easily beside a radical programme of land reform.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-reconcentration",
+      "prompt": "What did the Carrancista commander in Morelos order the villagers of the state to do in 1916?",
+      "answer": "Move into the towns",
+      "distractors": [
+        "Surrender their arms for an amnesty",
+        "Join the federal army",
+        "Leave for the United States"
+      ],
+      "explanation": "General Pablo González ordered the free villagers to \"reconcentrate\" in the towns, from where they could be deported to labour camps in Yucatán. Faced with hungry towns or conscription, many peasants chose to fight with Zapata instead.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-guajardo",
+      "prompt": "Which Carrancista officer pretended to defect in order to lure Zapata to his death at Chinameca in April 1919?",
+      "answer": "Jesús Guajardo",
+      "distractors": [
+        "Pablo González",
+        "Rodolfo Herrero",
+        "Francisco Cárdenas"
+      ],
+      "explanation": "To make his desertion convincing he took the town of Jonacatepec in Zapata's name. At the hacienda his men, apparently presenting arms in salute, shot Zapata dead.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-chinameca"
+    },
+    {
+      "id": "revolution-chinameca-where",
+      "kind": "where",
+      "prompt": "Zapata was shot at the hacienda of Chinameca, in his home region, on 10 April 1919. Where is Chinameca?",
+      "answer": "Chinameca, in southern Morelos",
+      "explanation": "His death weakened a movement already in decline, and some chiefs surrendered. In 1920 the surviving Zapatistas joined Obregón's rising against Carranza.",
+      "chapter": 15,
+      "feature": "e9-chinameca"
+    },
+    {
+      "id": "revolution-orozco",
+      "prompt": "Which Chihuahua muleteer turned general led the attack on Ciudad Juárez in May 1911 and then rose against Madero in 1912?",
+      "answer": "Pascual Orozco",
+      "distractors": [
+        "Toribio Ortega",
+        "Abraham González",
+        "Tomás Urbina"
+      ],
+      "explanation": "Contracts lost to well-connected caciques had given him a grievance against the old regime. His 1912 revolt took almost all of Chihuahua before it was beaten, and he fled into exile in the US.",
+      "chapter": 14,
+      "core": true,
+      "feature": "e9-orozco-revolt"
+    },
+    {
+      "id": "revolution-orozco-backers",
+      "prompt": "Which Chihuahua oligarchs helped pay for Orozco's rebellion against Madero in 1912?",
+      "answer": "The Creel–Terrazas family",
+      "distractors": [
+        "The Madero family",
+        "The Maytorena family",
+        "The Garza Sada family"
+      ],
+      "explanation": "Their money paid several thousand salaried troops, but the conservative links cost Orozco popular support; even his home district did not rise with him.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-orozco-defeat",
+      "prompt": "Which federal general, the old regime's counter-insurgency expert, defeated Orozco's rebellion in 1912?",
+      "answer": "Victoriano Huerta",
+      "distractors": [
+        "Bernardo Reyes",
+        "Manuel Mondragón",
+        "Joaquín Beltrán"
+      ],
+      "explanation": "Villa delayed the Orozquistas at Parral, saving the rail hub of Torreón, and Huerta drove them north. The victory made Huerta the army's leading general.",
+      "chapter": 14,
+      "feature": "e9-rellano"
+    },
+    {
+      "id": "revolution-felix-diaz-1912",
+      "prompt": "Where did Porfirio Díaz's nephew Félix launch his failed coup against Madero in October 1912?",
+      "answer": "The port of Veracruz",
+      "distractors": [
+        "The Ciudadela in Mexico City",
+        "Monterrey",
+        "Puebla"
+      ],
+      "explanation": "He failed even to cut the telegraph wires and surrendered within days. Saved from the firing squad by a court, he was in prison in the capital when the plotters of February 1913 freed him.",
+      "chapter": 14,
+      "feature": "e9-felix-diaz-1912"
+    },
+    {
+      "id": "revolution-decena-freed",
+      "prompt": "Which two generals did rebels free from prison on 9 February 1913 to launch the Decena Trágica?",
+      "answer": "Félix Díaz and Bernardo Reyes",
+      "distractors": [
+        "Pascual Orozco and Emilio Vázquez Gómez",
+        "Manuel Mondragón and Aureliano Blanquet",
+        "Victoriano Huerta and Joaquín Beltrán"
+      ],
+      "explanation": "General Manuel Mondragón freed them. Reyes was killed attacking the National Palace, and Díaz led the survivors into the city arsenal.",
+      "chapter": 14,
+      "feature": "e9-decena-tragica"
+    },
+    {
+      "id": "revolution-ciudadela",
+      "prompt": "Where did the rebels hold out during the ten days of the Decena Trágica in February 1913?",
+      "answer": "The Ciudadela arsenal",
+      "distractors": [
+        "The National Palace",
+        "Chapultepec Castle",
+        "Lecumberri penitentiary"
+      ],
+      "explanation": "Holding the arsenal gave them far more artillery, shells and machine guns than the government had. They fired thousands of shells into central Mexico City, killing many civilians.",
+      "chapter": 14,
+      "feature": "e9-decena-tragica"
+    },
+    {
+      "id": "revolution-decena-revision",
+      "prompt": "The traditional story says Huerta deliberately dragged out the Decena Trágica. What does Gillingham stress instead?",
+      "answer": "Loyal forces could never have won",
+      "distractors": [
+        "Huerta secretly shipped shells to the rebels",
+        "US warships shelled the loyalists",
+        "Zapata's attacks drew loyal troops away"
+      ],
+      "explanation": "The rebels had the arsenal's shells and machine guns; the government had half as much artillery and only a few dozen mortar shells. Huerta let the stalemate run until the death toll turned opinion against Madero.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-lane-wilson",
+      "prompt": "Which US ambassador rallied diplomats against Madero in 1913 and brokered the Pact of the Embassy?",
+      "answer": "Henry Lane Wilson",
+      "distractors": [
+        "John Lind",
+        "Josephus Daniels",
+        "Dwight Morrow"
+      ],
+      "explanation": "The pact made Huerta provisional president with Félix Díaz's backing. Madero and Pino Suárez were forced to resign and were then shot beside Lecumberri penitentiary.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-huerta-militarism",
+      "prompt": "How does Gillingham characterise Victoriano Huerta's political philosophy as president?",
+      "answer": "Militarism: soldiers should run society",
+      "distractors": [
+        "Positivist rule by technocrats",
+        "Catholic corporatism",
+        "Restoration of the monarchy"
+      ],
+      "explanation": "He ordered officials, students and office workers to drill as soldiers and brought back Porfirian generals. Gillingham compares him with the coup-making generals of the Cold War, such as Pinochet.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-dominguez",
+      "prompt": "Which Chiapas senator was murdered in 1913 for a pamphlet calling on Congress to remove Huerta?",
+      "answer": "Belisario Domínguez",
+      "distractors": [
+        "Abraham González",
+        "Serapio Rendón",
+        "José María Pino Suárez"
+      ],
+      "explanation": "When deputies insisted on investigating his death in October 1913, Huerta had them arrested and dissolved Congress at gunpoint. Such killings drove more Mexicans into rebellion.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-abraham-gonzalez",
+      "prompt": "The murder of which governor in 1913, \"shot while trying to escape\", convinced northerners that Huerta would come for them too?",
+      "answer": "Abraham González of Chihuahua",
+      "distractors": [
+        "José María Maytorena of Sonora",
+        "Venustiano Carranza of Coahuila",
+        "Ignacio Pesqueira of Sonora"
+      ],
+      "explanation": "The killing was the ley fuga, the old Porfirian cover for executing prisoners. Chihuahua, with its fighting men and its border arms trade, was dangerous to the regime.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-huerta-conscription",
+      "prompt": "How did Huerta swell the federal army to fight the rebels of 1913–14?",
+      "answer": "Forced conscription by press gangs",
+      "distractors": [
+        "Hiring US and European mercenaries",
+        "Recruiting volunteers in the US",
+        "Calling up the state militias"
+      ],
+      "explanation": "Ex-convicts, night-shift workers and men leaving bullfights were seized and sent to fight. The army was large on paper but poorly motivated and badly led.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-huerta-exile",
+      "prompt": "When did Huerta resign and leave Mexico for exile?",
+      "answer": "July 1914",
+      "distractors": [
+        "February 1913",
+        "November 1914",
+        "April 1915"
+      ],
+      "explanation": "After the fall of Zacatecas his own cabinet called for his resignation. Bishops, generals, ministers and wealthy Porfirian families left the capital for exile with him or before him.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-carranza-hesitation",
+      "prompt": "How did Carranza, governor of Coahuila, first respond to Huerta's coup of February 1913?",
+      "answer": "He negotiated and acknowledged Huerta as president",
+      "distractors": [
+        "He fled at once to Texas",
+        "He declared himself president in Saltillo",
+        "He offered to mediate with Zapata"
+      ],
+      "explanation": "Only when news of Madero's murder arrived and federal troops headed his way did he announce he would fight. He had kept the state militia armed, so he could field troops at once.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-plan-guadalupe",
+      "prompt": "Which title did the Plan of Guadalupe of March 1913 give Venustiano Carranza?",
+      "answer": "First Chief of the Constitutionalist Army",
+      "distractors": [
+        "Commander of the División del Norte",
+        "Jefe Máximo of the Revolution",
+        "President of the Sovereign Convention"
+      ],
+      "explanation": "The name Constitutionalist claimed legitimacy: Carranza presented himself as the keeper of an orderly, civilian, lawful Mexico against a usurper.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-plan-guadalupe"
+    },
+    {
+      "id": "revolution-guzman-carranza",
+      "prompt": "Which writer, a young member of Carranza's circle, described him as \"somewhat bovine\" and reminiscent of Díaz?",
+      "answer": "Martín Luis Guzmán",
+      "distractors": [
+        "Mariano Azuela",
+        "José Vasconcelos",
+        "John Reed"
+      ],
+      "explanation": "His vivid portraits in The Eagle and the Serpent made Carranza's reputation for dullness and pomp. Gillingham argues that Carranza's ceremony had a purpose in keeping the idea of legitimate government alive.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-sonora",
+      "prompt": "Which northern state, cut off from the centre by the Sierra Madre and closely tied to the US, produced the leaders who ruled Mexico through the 1920s?",
+      "answer": "Sonora",
+      "distractors": [
+        "Chihuahua",
+        "Coahuila",
+        "Sinaloa"
+      ],
+      "explanation": "Martín Luis Guzmán called it a \"Mexican Far West\": recently settled, entrepreneurial and largely autonomous by 1913. Its leaders had mostly sat out 1911 but rose against Huerta in 1913, and Obregón, Calles and de la Huerta came from there.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "revolution-sonora-militia",
+      "prompt": "Like Carranza in Coahuila, the leaders of Obregón's home state kept their militia under arms after the 1911 peace. What reason did they give?",
+      "answer": "The need to defend against the Yaqui",
+      "distractors": [
+        "Bandit raids from Arizona",
+        "Raids by Apache bands",
+        "Protecting the Cananea copper mines"
+      ],
+      "explanation": "They distrusted the Madero settlement and kept armed men in reserve, and even enlarged the force during Orozco's rebellion. It gave them an army ready to fight Huerta in 1913.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-obregon-background",
+      "prompt": "What was Álvaro Obregón before the revolution made him a general?",
+      "answer": "A chickpea farmer and mayor of Huatabampo",
+      "distractors": [
+        "A Coahuila cattle baron and senator",
+        "A Chihuahua muleteer and mine guard",
+        "A Sonora schoolteacher and police chief"
+      ],
+      "explanation": "One of eighteen children, he left school at thirteen, worked at many trades, invented a harvester and exported his crops to Arizona. He kept a common touch that served him in war and politics.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-obregon-yaqui",
+      "prompt": "Which Indigenous soldiers did Obregón recruit in large numbers, helped by his knowledge of their language?",
+      "answer": "The Yaqui",
+      "distractors": [
+        "The Rarámuri",
+        "The Seri",
+        "The Huichol"
+      ],
+      "explanation": "He spoke Mayo fluently and Yaqui well. By autumn 1913 he commanded about twenty thousand men in the Division of the Northwest.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-pablo-gonzalez",
+      "prompt": "Which of his generals was Carranza said to have mocked for never winning even the smallest battle?",
+      "answer": "Pablo González",
+      "distractors": [
+        "Álvaro Obregón",
+        "Benjamín Hill",
+        "Salvador Alvarado"
+      ],
+      "explanation": "González commanded the eastern division in the war against Huerta and later led a brutal, corrupt campaign in Morelos. He nonetheless kept Carranza's trust.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-villa-origins",
+      "prompt": "What background did Pancho Villa come from?",
+      "answer": "Mestizo sharecroppers on a Durango estate",
+      "distractors": [
+        "Spanish-descended ranchers in Sonora",
+        "Prosperous smallholders in Morelos",
+        "A family of Coahuila landowners"
+      ],
+      "explanation": "Fatherless young, he became a bandit as a teenager after, by his own account, shooting a hacendado who attacked his sister. He thought himself too poorly educated and too dark-skinned ever to be president.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-villa-madero",
+      "prompt": "How did Pancho Villa, who loathed the upper-class \"dandies\", regard Madero himself?",
+      "answer": "With devotion, as a rich man for the people",
+      "distractors": [
+        "With contempt, as a weak aristocrat",
+        "As a rival to be removed",
+        "As a puppet of the Americans"
+      ],
+      "explanation": "He told Madero to his face that he was ruining the revolution by making deals, yet remained loyal to him. Madero's murder in 1913 brought Villa back from exile to fight.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-villa-eight-men",
+      "prompt": "With how many men did Villa cross back into Mexico from El Paso in 1913 to fight Huerta?",
+      "answer": "Eight",
+      "distractors": [
+        "Sixty",
+        "Three hundred",
+        "Five thousand"
+      ],
+      "explanation": "By October he attacked Torreón with about five thousand. Forced loans let him turn volunteers into a paid army.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-division-del-norte",
+      "prompt": "What was the name of the army Villa built in 1914, with artillery, cavalry and many hospital wagons?",
+      "answer": "The División del Norte",
+      "distractors": [
+        "The División del Noroeste",
+        "The Ejército Libertador del Sur",
+        "The División del Noreste"
+      ],
+      "explanation": "It moved by train along the Mexican Central railway. Mass cavalry charges were its tactic, and the Porfirian-trained Felipe Ángeles was its strategist.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-division-del-norte"
+    },
+    {
+      "id": "revolution-angeles",
+      "prompt": "Which officer, the foremost military thinker of the Porfiriato, served as Villa's strategist?",
+      "answer": "Felipe Ángeles",
+      "distractors": [
+        "Benjamín Hill",
+        "Pablo González",
+        "Manuel Mondragón"
+      ],
+      "explanation": "Villa's later defeats came partly from ignoring his advice, both on where to strike after the split of 1914 and on how to fight at Celaya.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-torreon",
+      "prompt": "Which railway junction of La Laguna did Villa's army take in early April 1914?",
+      "answer": "Torreón",
+      "distractors": [
+        "Saltillo",
+        "Aguascalientes",
+        "Chihuahua City"
+      ],
+      "explanation": "After it the División del Norte beat the federals again at San Pedro de las Colonias, ending Huerta's hold on the north.",
+      "chapter": 15,
+      "feature": "e9-torreon-1914"
+    },
+    {
+      "id": "revolution-zacatecas",
+      "prompt": "In which battle of June 1914 did Villa's army annihilate Huerta's last strong garrison?",
+      "answer": "Zacatecas",
+      "distractors": [
+        "Celaya",
+        "Torreón",
+        "Ciudad Juárez"
+      ],
+      "explanation": "The silver city commanded the railway into central Mexico. After its fall Huerta's cabinet pressed him to resign.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-zacatecas-1914"
+    },
+    {
+      "id": "revolution-coal",
+      "prompt": "How did Carranza make sure that Obregón, not Villa, reached Mexico City first in 1914?",
+      "answer": "He diverted Villa and withheld his coal",
+      "distractors": [
+        "He sent Villa to besiege Tampico",
+        "He gave Villa's ammunition to Zapata",
+        "He had the US close the border to Villa"
+      ],
+      "explanation": "Carranza ordered Villa aside to take Saltillo and then kept coal from his trains. The split between the popular and northern armies was clear even before Huerta fell.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-dorados",
+      "prompt": "What were Villa's elite bodyguards, with their Stetsons and gold badges, called?",
+      "answer": "The Dorados",
+      "distractors": [
+        "The Colorados",
+        "The Rurales",
+        "The Mapaches"
+      ],
+      "explanation": "In 1915 Villa had an army of fifty thousand and a fine railway car; a year later he was hiding in a cave from American cavalry.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-tampico-pretext",
+      "prompt": "What was the surface pretext for the US seizure of Veracruz in April 1914?",
+      "answer": "The brief arrest of US sailors at Tampico",
+      "distractors": [
+        "Villa's raid on a New Mexico town",
+        "The killing of US miners in Chihuahua",
+        "The murder of the US consul in Veracruz"
+      ],
+      "explanation": "The real reason was President Woodrow Wilson's hostility to Huerta, and one aim was to stop his arms purchases abroad.",
+      "chapter": 15,
+      "feature": "e9-tampico-incident"
+    },
+    {
+      "id": "revolution-veracruz-arms",
+      "prompt": "What became of the German arms shipment that the US seizure of Veracruz in 1914 was meant to stop?",
+      "answer": "It was landed further down the coast",
+      "distractors": [
+        "It was seized by the US Navy",
+        "It was sold to Carranza instead",
+        "It sank in a storm off Tampico"
+      ],
+      "explanation": "The occupation failed to cut Huerta's supply. What really defeated him was the gulf in motivation and leadership between his army and the revolutionaries.",
+      "chapter": 15,
+      "feature": "e9-veracruz-1914"
+    },
+    {
+      "id": "revolution-niagara",
+      "prompt": "How did Carranza respond to the Niagara Falls conference of 1914, meant to settle the Veracruz crisis?",
+      "answer": "He ignored it and pushed on to the capital",
+      "distractors": [
+        "He signed a truce with Huerta there",
+        "He accepted a neutral provisional president",
+        "He sent Obregón to negotiate"
+      ],
+      "explanation": "Gillingham, following Alan Knight, sees the conference as an attempt at another negotiated settlement like the Treaty of Ciudad Juárez. This time the revolutionaries fought on to unconditional victory.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-columbus-motive",
+      "prompt": "What does Gillingham think the most likely reason for Villa's raid on Columbus in 1916?",
+      "answer": "To provoke a US invasion that would discredit Carranza",
+      "distractors": [
+        "Revenge on an arms dealer who cheated him",
+        "A German plot to keep the US out of the war",
+        "To free Villistas held in a US jail"
+      ],
+      "explanation": "A US invasion would expose Carranza's ties to Washington and make Villa a national hero. The raid itself failed, but the gamble paid off: Villa escaped the Americans and won new recruits.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-columbus"
+    },
+    {
+      "id": "revolution-agua-prieta-1915",
+      "prompt": "What turned Villa against the United States after his defeat at Agua Prieta, Sonora, in November 1915?",
+      "answer": "The US let Carrancista troops cross its territory",
+      "distractors": [
+        "The US seized his cattle at the border",
+        "The US interned his family in Texas",
+        "The US seized his railway cars at El Paso"
+      ],
+      "explanation": "Washington had just recognised Carranza and allowed his reinforcements to travel by rail through the US. Villa also cited the lynching and burning of Mexicans in the borderlands.",
+      "chapter": 15,
+      "feature": "e9-agua-prieta-1915"
+    },
+    {
+      "id": "revolution-patton",
+      "prompt": "Which future Second World War general served as an aide to Pershing on the Punitive Expedition and kept a diary of its troubles?",
+      "answer": "George S. Patton",
+      "distractors": [
+        "Douglas MacArthur",
+        "Dwight D. Eisenhower",
+        "Omar Bradley"
+      ],
+      "explanation": "Trucks broke down, planes got lost and maps showed roads that did not exist. Pershing went on to command the US army in France in 1917.",
+      "chapter": 15,
+      "feature": "e9-punitive-expedition"
+    },
+    {
+      "id": "revolution-parral",
+      "prompt": "Which town, Villa's home ground in southern Chihuahua, was the farthest the Punitive Expedition reached?",
+      "answer": "Parral",
+      "distractors": [
+        "Namiquipa",
+        "Colonia Dublán",
+        "Ojinaga"
+      ],
+      "explanation": "After clashes there and at Carrizal with Carrancista troops, the Americans pulled back to Colonia Dublán. They left Mexico in February 1917 without having caught Villa.",
+      "chapter": 15,
+      "feature": "e9-parral-1916"
+    },
+    {
+      "id": "revolution-carranza-punitive",
+      "prompt": "How did Carranza respond to Pershing's Punitive Expedition of 1916–17?",
+      "answer": "He protested but tacitly cooperated",
+      "distractors": [
+        "He declared war on the United States",
+        "He resigned in favour of Obregón",
+        "He invited German military advisers"
+      ],
+      "explanation": "He let the Americans bring supplies by a railway he controlled and sent his own troops after Villa. Gillingham argues the episode made both governments look weak and Villa the winner.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-zimmermann",
+      "prompt": "In the Zimmermann telegram of 1917, what did Germany offer Carranza for attacking the United States?",
+      "answer": "Texas, New Mexico and Arizona",
+      "distractors": [
+        "California and Nevada",
+        "Control of the Panama Canal",
+        "Cuba and Puerto Rico"
+      ],
+      "explanation": "British intelligence intercepted the offer and passed it to Washington. The public outrage helped bring the US into the First World War; Mexico stayed neutral.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-teoloyucan",
+      "prompt": "What did the Treaty of Teoloyucan of August 1914 provide that the 1911 settlement had not?",
+      "answer": "Surrender and dissolution of the federal army",
+      "distractors": [
+        "Cabinet posts for Huerta's ministers",
+        "Elections within five months",
+        "A US guarantee of the peace"
+      ],
+      "explanation": "Obregón signed it on a truck's mudguard north of the capital. This time the war was carried to Mexico City and the old army ceased to exist.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-teoloyucan"
+    },
+    {
+      "id": "revolution-convention-president",
+      "prompt": "Whom did the Convention of Aguascalientes choose as interim president in November 1914?",
+      "answer": "Eulalio Gutiérrez",
+      "distractors": [
+        "Francisco León de la Barra",
+        "Adolfo de la Huerta",
+        "Felipe Ángeles"
+      ],
+      "explanation": "Carranza refused to accept him, and Obregón sided with Carranza. The Convention's government was soon sidelined by the armies of Villa and Zapata that backed it.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-aguascalientes-convention"
+    },
+    {
+      "id": "revolution-convention-absent",
+      "prompt": "Who neither attended the Convention of Aguascalientes nor sent representatives?",
+      "answer": "Venustiano Carranza",
+      "distractors": [
+        "Álvaro Obregón",
+        "Felipe Ángeles",
+        "Pancho Villa"
+      ],
+      "explanation": "Zapata stayed away too but sent intellectuals, who arrived late. Gillingham writes that only Ángeles and Obregón came to negotiate seriously.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-aguascalientes-where",
+      "kind": "where",
+      "prompt": "In October 1914 revolutionary generals met in a city chosen as neutral ground between the factions. Where is Aguascalientes?",
+      "answer": "Aguascalientes, in central Mexico",
+      "explanation": "The Convention declared itself sovereign and broke with Carranza in November. Its split began the war between the victors over Huerta.",
+      "chapter": 15,
+      "feature": "e9-aguascalientes-convention"
+    },
+    {
+      "id": "revolution-presidential-chair",
+      "prompt": "Who was photographed sitting in the presidential chair in the National Palace in December 1914, the high point of the popular revolution?",
+      "answer": "Pancho Villa",
+      "distractors": [
+        "Emiliano Zapata",
+        "Eulalio Gutiérrez",
+        "Álvaro Obregón"
+      ],
+      "explanation": "Zapata sat beside him, uneasy and out of place. Villa soon took his army north, and Zapata abandoned the capital to Carranza's forces at the end of January 1915.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-mexico-city-1914"
+    },
+    {
+      "id": "revolution-angeles-advice",
+      "prompt": "After the revolutionaries split in late 1914, what did Villa's chief strategist urge him to do?",
+      "answer": "Strike at Carranza's base in Veracruz",
+      "distractors": [
+        "Retake Sonora from the Carrancistas",
+        "Make peace with Obregón",
+        "Besiege Tampico for its oil"
+      ],
+      "explanation": "Villa instead spread his forces over several northern fronts, giving Obregón time to rebuild his army for the decisive battles of 1915.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-red-battalions",
+      "prompt": "From which union did Obregón recruit workers into \"Red Battalions\" to fight Villa in 1915?",
+      "answer": "The Casa del Obrero Mundial",
+      "distractors": [
+        "The CROM",
+        "The Partido Liberal Mexicano",
+        "The Gran Círculo de Obreros Libres"
+      ],
+      "explanation": "About five thousand workers joined. Unionised workers who had fought in the Red Battalions later won some of their promised rewards, such as collective contracts and minimum wages.",
+      "chapter": 15,
+      "feature": "e9-carranza-veracruz"
+    },
+    {
+      "id": "revolution-villa-ammunition",
+      "prompt": "Why did Villa run short of ammunition in 1915?",
+      "answer": "Falling exports and worthless paper money",
+      "distractors": [
+        "The US seized his Gulf ports",
+        "Zapata kept the Puebla arsenal",
+        "His arms ships were sunk by Britain"
+      ],
+      "explanation": "The First World War raised arms prices. Carranza sold oil and henequen, whose prices rose too, while two years of war ruined the north's mines, cotton and cattle.",
+      "chapter": 15,
+      "feature": "e9-villista-zone"
+    },
+    {
+      "id": "revolution-ypres",
+      "prompt": "Which First World War battle, Gillingham suggests, had taught Obregón the lesson he applied against Villa's cavalry at Celaya?",
+      "answer": "Ypres",
+      "distractors": [
+        "Verdun",
+        "The Somme",
+        "Gallipoli"
+      ],
+      "explanation": "The autumn 1914 fighting in Flanders had shown how entrenched machine guns could slaughter cavalry. Villa's charges, devastating before, became obsolete.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-celaya-where",
+      "kind": "where",
+      "prompt": "In April 1915 Obregón twice defeated Villa's army at a city on the railway through the Bajío. Where is Celaya?",
+      "answer": "Celaya, in the Bajío of Guanajuato",
+      "explanation": "Villa ignored Felipe Ángeles's advice, formed no reserves and did not attack Obregón's supply lines. Zapata never answered his request for help.",
+      "chapter": 15,
+      "feature": "e9-celaya-1915"
+    },
+    {
+      "id": "revolution-leon",
+      "prompt": "Which battle, decided in early June 1915, in which Obregón lost an arm, finished Villa's army as a conventional force?",
+      "answer": "The battle around León and Trinidad",
+      "distractors": [
+        "The second battle of Celaya",
+        "The siege of Zacatecas",
+        "The defence of El Ébano"
+      ],
+      "explanation": "After weeks of trench warfare Villa threw his army at Obregón's rear. With Obregón wounded, Benjamín Hill launched a planned counter-attack and the Villistas broke, ending the war between conventional armies.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-trinidad-1915"
+    },
+    {
+      "id": "revolution-hill",
+      "prompt": "Who took command and led the decisive counter-attack when Obregón lost his arm in June 1915?",
+      "answer": "Benjamín Hill",
+      "distractors": [
+        "Pablo González",
+        "Plutarco Elías Calles",
+        "Salvador Alvarado"
+      ],
+      "explanation": "Hill was Obregón's cousin. Villa fought one more battle at Aguascalientes in July, but his army never recovered.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-carrancista-rule",
+      "prompt": "Outside the cities, what was Carranza's rule like from 1915 to 1920?",
+      "answer": "Largely nominal; local militias filled the void",
+      "distractors": [
+        "Firmly centralised under civilian governors",
+        "Run by US advisers in the north",
+        "Shared formally with Villa and Zapata"
+      ],
+      "explanation": "Trains were mined and robbed, and generals ran their own fiefdoms and padded their payrolls. Carranza depended on them too much to stop it.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-trevino",
+      "prompt": "When Villa attacked General Jacinto Treviño's garrison at Ciudad Chihuahua, what did it reveal?",
+      "answer": "It was far smaller than the payroll claimed",
+      "distractors": [
+        "Its officers had all deserted to Villa",
+        "It was commanded by US officers",
+        "It had no artillery at all"
+      ],
+      "explanation": "Treviño drew pay for more than 21,000 men but had about 6,000. Such corruption was common among Carranza's generals and harmed none of their careers.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-pelaez",
+      "prompt": "Which commander did the oil companies of northern Veracruz pay to keep their fields and refineries safe?",
+      "answer": "Manuel Peláez",
+      "distractors": [
+        "Félix Díaz",
+        "Saturnino Cedillo",
+        "Esteban Cantú"
+      ],
+      "explanation": "Gillingham calls such outfits mafias with political labels. Mexico's richest export zone stayed outside the government's control for most of the decade.",
+      "chapter": 15,
+      "feature": "e9-pelaez-huasteca"
+    },
+    {
+      "id": "revolution-cantu",
+      "prompt": "Which governor ran Baja California almost independently in the late 1910s, paying for public works with protection money from Mexicali's opium trade?",
+      "answer": "Esteban Cantú",
+      "distractors": [
+        "Salvador Alvarado",
+        "Manuel Peláez",
+        "Plutarco Elías Calles"
+      ],
+      "explanation": "He spent the money on roads, drinking water, drains and a postal service. Cut off from the rest of Mexico except by sea and through the US, he ran his district almost independently of the warring factions.",
+      "chapter": 21,
+      "feature": "e9-cantu-mexicali"
+    },
+    {
+      "id": "revolution-carranza-agrarian-law",
+      "prompt": "What became of the Agrarian Law Carranza issued in 1915?",
+      "answer": "Little; generals took over the estates",
+      "distractors": [
+        "It broke up the Morelos sugar estates",
+        "It created ejidos across the north",
+        "It was struck down by the US"
+      ],
+      "explanation": "Carrancista generals restarted large haciendas using cheap labour, and returning Porfirians, even the Terrazas, recovered their land.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-army-budget",
+      "prompt": "Roughly what share of the Carrancista government's budget went to the army in 1917–19?",
+      "answer": "About two-thirds",
+      "distractors": [
+        "About a fifth",
+        "About a third",
+        "Nearly all of it"
+      ],
+      "explanation": "Gillingham argues the budget, not the new constitution, showed what Carranza's state really was. Obregón cut the army's share sharply in the 1920s.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-article-27",
+      "prompt": "Which article of the 1917 constitution vested ownership of land, water and the subsoil in the nation, allowing expropriation and land reform?",
+      "answer": "Article 27",
+      "distractors": [
+        "Article 3",
+        "Article 123",
+        "Article 130"
+      ],
+      "explanation": "It also made oil deposits national property, so companies could own the surface but not the oil beneath. For decades it was used sparingly, but it made Cárdenas's reforms of the 1930s possible.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-queretaro-constitution"
+    },
+    {
+      "id": "revolution-article-123",
+      "prompt": "Which article of the 1917 constitution set an eight-hour day, a minimum wage and equal pay for men and women?",
+      "answer": "Article 123",
+      "distractors": [
+        "Article 27",
+        "Article 3",
+        "Article 130"
+      ],
+      "explanation": "It also required Sunday rest and paid maternity leave. Gillingham calls the whole the most progressive labour code in the world at the time.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "revolution-article-130",
+      "prompt": "What did Article 130 of the 1917 constitution give the government?",
+      "answer": "Tight control over the Church",
+      "distractors": [
+        "Ownership of all oil and minerals",
+        "The right to suspend elections",
+        "Command of the state militias"
+      ],
+      "explanation": "The state could regulate the clergy and close churches. Its enforcement by Calles in 1926 helped set off the Cristero War.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-ejido-petition",
+      "prompt": "Under the 1917 constitution, what could the rural poor petition the government for?",
+      "answer": "Land grants to form ejidos",
+      "distractors": [
+        "Seats in the Senate",
+        "Exemption from military service",
+        "Credit from the Banco de México"
+      ],
+      "explanation": "An ejido is a community of collective farmers. Few grants were made until the 1930s.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-constituent-congress",
+      "prompt": "Who dominated the Constituent Congress that wrote the 1917 constitution at Querétaro?",
+      "answer": "Lawyers, with few popular leaders",
+      "distractors": [
+        "Villa's and Zapata's generals",
+        "Catholic party delegates",
+        "Leaders of the trade unions"
+      ],
+      "explanation": "Few people voted for it, and the delegates finished in about two months. Even so, they went well beyond Carranza's draft.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-constitution-reality",
+      "prompt": "What was the 1917 constitution in practice in its first years, in Gillingham's view?",
+      "answer": "A symbol, its radical articles mostly unenforced",
+      "distractors": [
+        "A dead letter repealed within a few years",
+        "The basis of immediate mass land reform",
+        "A near copy of the 1857 constitution"
+      ],
+      "explanation": "Carranza used it to set his legitimate state apart from the guerrillas he called barbarians. Its land and labour articles waited for the 1930s.",
+      "chapter": 15,
+      "core": true
+    },
+    {
+      "id": "revolution-bonillas",
+      "prompt": "Which civilian with no military record did Carranza try to make his successor in 1920?",
+      "answer": "Ignacio Bonillas",
+      "distractors": [
+        "Adolfo de la Huerta",
+        "Luis Cabrera",
+        "Eulalio Gutiérrez"
+      ],
+      "explanation": "Imposing him against Obregón, a popular war hero, cost Carranza the army. When he sent troops to Sonora, the Sonorans rose under the Plan of Agua Prieta.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-obregon-joke",
+      "prompt": "During his 1919–20 campaign, why did Obregón joke that people preferred him to other politicians?",
+      "answer": "With one hand he could not steal as much",
+      "distractors": [
+        "He had never held public office",
+        "He was a farmer, not a general",
+        "He spoke the Indigenous languages"
+      ],
+      "explanation": "He had retired to his ranch in 1917, styling himself a farmer, and returned as a wounded war hero promising something to everyone, Americans, capitalists and peasants alike.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-tlaxcalantongo",
+      "prompt": "Where was Carranza killed in May 1920 while fleeing toward Veracruz?",
+      "answer": "Tlaxcalantongo, in the Puebla sierra",
+      "distractors": [
+        "Chinameca, in Morelos",
+        "Teoloyucan, north of the capital",
+        "Agua Prieta, in Sonora"
+      ],
+      "explanation": "Rebel attacks stopped his trains, and he fled on horseback into the mountains. Troops who had offered to escort him shot him in a hut in the night.",
+      "chapter": 15,
+      "core": true,
+      "feature": "e9-tlaxcalantongo"
+    },
+    {
+      "id": "revolution-de-la-huerta",
+      "prompt": "Who served as interim president after Carranza's fall in 1920 and made peace with Villa?",
+      "answer": "Adolfo de la Huerta",
+      "distractors": [
+        "Plutarco Elías Calles",
+        "Eulalio Gutiérrez",
+        "Benjamín Hill"
+      ],
+      "explanation": "The young Sonoran governor finalised a string of peace deals. Obregón was elected president that September.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-villa-surrender",
+      "prompt": "What did Villa receive for laying down his arms in 1920?",
+      "answer": "A hacienda and land for his men",
+      "distractors": [
+        "The governorship of Chihuahua",
+        "A pardon and exile in Texas",
+        "Command of a federal division"
+      ],
+      "explanation": "The hacienda was Canutillo, in Durango, his home region. He was assassinated at Parral in 1923.",
+      "chapter": 15,
+      "feature": "e9-sabinas-1920"
+    },
+    {
+      "id": "revolution-obregon-elected",
+      "prompt": "When was Obregón elected president, closing the decade of revolutionary war?",
+      "answer": "September 1920",
+      "distractors": [
+        "May 1920",
+        "February 1917",
+        "November 1919"
+      ],
+      "explanation": "Gillingham notes the peace was deceptive: assassinations, three military rebellions and the Cristero War followed in the 1920s.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-revolution-es-revolution",
+      "prompt": "Who coined the phrase \"La Revolución es la Revolución\", later used to excuse revolutionary violence?",
+      "answer": "Luis Cabrera",
+      "distractors": [
+        "Martín Luis Guzmán",
+        "Mariano Azuela",
+        "Venustiano Carranza"
+      ],
+      "explanation": "The tautology made the revolution a force like a flood or hurricane, beyond human morality. Cabrera himself listed the killing, rape and looting it was used to justify.",
+      "chapter": 15
+    },
+    {
+      "id": "revolution-underdogs",
+      "prompt": "Which novel, the great novel of the revolution in Gillingham's view, follows a band of mountain rebels led by a rancher feuding with the local cacique?",
+      "answer": "The Underdogs",
+      "distractors": [
+        "The Eagle and the Serpent",
+        "The Death of Artemio Cruz",
+        "The Power and the Glory"
+      ],
+      "explanation": "Mariano Azuela's Los de abajo gives, for Gillingham, a fair sample of the first rebels. Its leader just wants to go home in peace, while a student tries to give his fighting a grand ideological meaning.",
+      "chapter": 14
+    },
+    {
+      "id": "revolution-soldaderas",
+      "prompt": "Who were the soldaderas of the 1910s?",
+      "answer": "Women who served with the armies",
+      "distractors": [
+        "Village self-defence militias",
+        "Villa's elite cavalry escort",
+        "Catholic women's charities"
+      ],
+      "explanation": "Tens of thousands of women served the armies as cooks, partners, couriers, spies, smugglers of ammunition and fighters. Their central military role went largely unrewarded after the war.",
+      "chapter": 16
+    },
+    {
+      "id": "revolution-amelio-robles",
+      "prompt": "Which of Zapata's colonels was born a woman and lived as a man for decades after the revolution?",
+      "answer": "Amelio Robles",
+      "distractors": [
+        "Genovevo de la O",
+        "Otilio Montaño",
+        "Gildardo Magaña"
+      ],
+      "explanation": "Robles was feared as a fighter. Gillingham uses the case, and a woman who headed Carranza's secret service, to show how central women were to the armies.",
+      "chapter": 16
+    },
+    {
+      "id": "revolution-feminist-congress",
+      "prompt": "Which governor convened Mexico's first feminist congress, in Mérida in 1916?",
+      "answer": "Salvador Alvarado",
+      "distractors": [
+        "Felipe Carrillo Puerto",
+        "Plutarco Elías Calles",
+        "Esteban Cantú"
+      ],
+      "explanation": "Alvarado also worked on schooling, paid work for women, reproductive health and domestic violence. Women did not get the national vote until the 1950s.",
+      "chapter": 16,
+      "feature": "e9-feminist-congress-1916"
+    },
+    {
+      "id": "revolution-maize-prices",
+      "prompt": "By how much did maize prices rise between the harvests of 1914 and 1915?",
+      "answer": "More than tenfold",
+      "distractors": [
+        "About a third",
+        "They doubled",
+        "A hundredfold"
+      ],
+      "explanation": "Mexico City introduced ration cards, the poor scratched for weeds, and in 1915, 1916 and 1918 roughly one in twenty of the capital's people died each year.",
+      "chapter": 20
+    },
+    {
+      "id": "revolution-influenza",
+      "prompt": "Which epidemic struck Mexico in late 1918, just as the fighting tailed off?",
+      "answer": "Spanish influenza",
+      "distractors": [
+        "Cholera",
+        "Yellow fever",
+        "Bubonic plague"
+      ],
+      "explanation": "Whole villages in Morelos filled with corpses, Coahuila's mines closed, and in Zacatecas bodies were stacked like logs.",
+      "chapter": 20
+    },
+    {
+      "id": "revolution-flight-to-cities",
+      "prompt": "Where did most people fleeing the dangerous, hungry countryside of the 1910s go?",
+      "answer": "The cities, above all Mexico City",
+      "distractors": [
+        "The henequen plantations of Yucatán",
+        "The oil camps of the Huasteca",
+        "Back to their parents' villages"
+      ],
+      "explanation": "Refugees swelled Guadalajara and Durango, and the Federal District's population rose by nearly a third. It was the start of the great concentration of Mexicans in the capital.",
+      "chapter": 20
+    },
+    {
+      "id": "revolution-oil-companies",
+      "prompt": "How did the foreign oil companies fare during the fighting of the 1910s?",
+      "answer": "They protected their wells and expanded",
+      "distractors": [
+        "They were expropriated by Carranza",
+        "They abandoned the Gulf fields",
+        "They were ruined by Zapatista raids"
+      ],
+      "explanation": "Wartime demand soared, and by 1920 Mexico was selling about a quarter of the world's oil. Oil taxes kept the governments of the early 1920s afloat.",
+      "chapter": 16
+    },
+    {
+      "id": "revolution-carranza-doctrine",
+      "prompt": "Which principle did Carranza promote abroad, declaring the Monroe Doctrine dead?",
+      "answer": "Non-intervention",
+      "distractors": [
+        "Pan-Americanism under US leadership",
+        "Free trade with the United States",
+        "Recognition only of elected governments"
+      ],
+      "explanation": "He also pushed for the ideals of the Mexican constitution to be written into the Treaty of Versailles. Gillingham sees it as an early root of later revolutionary nationalism.",
+      "chapter": 16
+    }
+  ]
+}

@@ -1,0 +1,1673 @@
+{
+  "era": "early-republic",
+  "cards": [
+    {
+      "id": "early-republic-1",
+      "prompt": "Which territory, after voting to join Iturbide's empire in 1822, declared its independence from Mexico on 1 July 1823?",
+      "answer": "Central America",
+      "distractors": [
+        "Yucatán",
+        "Texas",
+        "Alta California"
+      ],
+      "explanation": "Mexican troops under Vicente Filísola had occupied El Salvador to enforce the union. After Iturbide fell, a congress in Guatemala City declared the provinces independent, creating the United Provinces of Central America, while Chiapas, after briefly declaring itself free, opted for Mexico in 1824.",
+      "chapter": 9,
+      "feature": "e6-central-america-1822"
+    },
+    {
+      "id": "early-republic-2",
+      "prompt": "What kind of state did Mexico's first constitution, of 1824, create?",
+      "answer": "A federal republic of states and territories",
+      "distractors": [
+        "A centralist republic governed from the capital",
+        "A constitutional empire under a Bourbon prince",
+        "A republic joined with the provinces of Central America"
+      ],
+      "explanation": "The constitution also made Catholicism the sole permitted religion. The tension between federalists, who wanted strong states, and centralists, who wanted a strong capital, shaped the next three decades and much of the territorial loss.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e6-constitution-1824"
+    },
+    {
+      "id": "early-republic-3",
+      "prompt": "In which year did the last Spanish garrison, in the island fortress of San Juan de Ulúa off Veracruz, finally capitulate?",
+      "answer": "1825",
+      "distractors": [
+        "1821",
+        "1829",
+        "1836"
+      ],
+      "explanation": "Spain did not accept the Treaty of Córdoba, and in 1823 the garrison bombarded Veracruz for three months. Mexico bought warships with its London loans, and a blockade under Pedro Sáinz de Baranda kept relief from Cuba away until the last defenders gave up in November 1825; Spain tried to reconquer the country at Tampico in 1829.",
+      "chapter": 10,
+      "feature": "e6-ulua-1825"
+    },
+    {
+      "id": "early-republic-4",
+      "kind": "where",
+      "prompt": "Where did Santa Anna's army storm the Alamo, the former mission of San Antonio de Valero at Béxar, in March 1836?",
+      "answer": "San Antonio de Béxar, Texas",
+      "explanation": "The army stormed the Alamo on 6 March, killing nearly all of its defenders; the Texas convention had declared independence at Washington-on-the-Brazos four days earlier. With the Goliad massacre later that month, it became a rallying cry for the Texan army.",
+      "chapter": 10,
+      "feature": "e6-alamo"
+    },
+    {
+      "id": "early-republic-5",
+      "prompt": "Captured after San Jacinto, what did Santa Anna agree to in the Treaties of Velasco of May 1836?",
+      "answer": "To withdraw beyond the Rio Grande and work for Texan recognition",
+      "distractors": [
+        "To pay 600,000 pesos to settle the claims of French nationals",
+        "To promise US citizenship to Mexicans who stayed in Texas",
+        "To abolish slavery in Texas and free the people held there"
+      ],
+      "explanation": "Sam Houston's army had routed Santa Anna's camp at San Jacinto in under twenty minutes. On 20 May the government in Mexico City declared void all acts Santa Anna performed as a captive, and Mexico continued to regard Texas as a rebel province.",
+      "chapter": 10,
+      "feature": "e6-velasco"
+    },
+    {
+      "id": "early-republic-6",
+      "prompt": "From the 1830s, which raiders rode south each autumn across the Rio Grande and struck as deep as Durango, Zacatecas and San Luis Potosí?",
+      "answer": "Comanche and Kiowa war parties",
+      "distractors": [
+        "Yaqui and Mayo fighters under Juan Banderas",
+        "Texans of the Santa Fe Expedition",
+        "Filibusters under William Walker"
+      ],
+      "explanation": "In December 1840 some four hundred riders reached San Luis Potosí and attacked Saltillo on the way back. The raids killed and captured thousands and emptied much of the north of settlers and resources before the US invasion.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-comanche-raids"
+    },
+    {
+      "id": "early-republic-7",
+      "prompt": "Which disputed land became the trigger of the US–Mexican War in 1846?",
+      "answer": "The strip between the Nueces and the Rio Grande",
+      "distractors": [
+        "The Mesilla Valley south of New Mexico",
+        "Soconusco, on the Pacific coast of Chiapas",
+        "The coast around Fort Ross, north of San Francisco"
+      ],
+      "explanation": "Under Spain and Mexico the province of Texas ended at the Nueces, but Texas, and then the United States, claimed to the Rio Grande. Polk sent an army into the strip, and the clash there in April 1846 gave him his claim that Mexico had \"shed American blood upon the American soil\".",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-nueces-strip"
+    },
+    {
+      "id": "early-republic-8",
+      "kind": "where",
+      "prompt": "Where did Commodore John D. Sloat land sailors and marines at Monterey, the capital of Alta California, in July 1846?",
+      "answer": "Monterey, Alta California",
+      "explanation": "Sloat proclaimed the annexation of California on 7 July, a few weeks after American settlers had proclaimed a \"California Republic\" at Sonoma. Resistance by Californios in the south later drove US forces out of Los Angeles for several months.",
+      "chapter": 10,
+      "feature": "e6-monterey-ca"
+    },
+    {
+      "id": "early-republic-9",
+      "prompt": "What did Mexico cede to the United States by the Treaty of Guadalupe Hidalgo in 1848?",
+      "answer": "Alta California and New Mexico",
+      "distractors": [
+        "Baja California and Sonora",
+        "Chiapas and Soconusco",
+        "The Mesilla Valley and land south of the Gila"
+      ],
+      "explanation": "In return for $15 million and the assumption of claims, Mexico gave up about half of its claimed territory, counting Texas; gold had been found in California days before the signing. Because the treaty map misplaced El Paso and the Rio Grande, New Mexico's southern boundary stayed disputed until Santa Anna sold the Mesilla strip in 1853.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-mexican-cession-1848"
+    },
+    {
+      "id": "early-republic-10",
+      "kind": "where",
+      "prompt": "Where did rebel Maya capture Valladolid, one of Yucatán's principal cities, in the spring of 1848?",
+      "answer": "Valladolid, in eastern Yucatán",
+      "explanation": "The Caste War had begun in July 1847 when Cecilio Chi attacked the town of Tepich. At its height the rebels advanced to within a short distance of Mérida and Campeche before withdrawing at planting time, and Yucatán, which had broken away in 1841, rejoined Mexico in 1848 in exchange for military aid.",
+      "chapter": 10,
+      "feature": "e6-valladolid-1848"
+    },
+    {
+      "id": "early-republic-executive-changes",
+      "prompt": "According to Gillingham, how many times did Mexico's national executive change hands between 1821 and 1855?",
+      "answer": "48 times",
+      "distractors": [
+        "12 times",
+        "24 times",
+        "96 times"
+      ],
+      "explanation": "That is more than once a year on average. Power was won by an unsettling mix of elections and pronunciamientos, and the country passed through a regency, an empire, dictatorships and several republics.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-pronunciamiento",
+      "prompt": "What was a pronunciamiento, the usual way of changing governments in the early republic?",
+      "answer": "A ritualised revolt announced with a published plan",
+      "distractors": [
+        "A presidential decree dissolving Congress",
+        "A mass rising of the urban poor",
+        "A bishop's declaration against a ruler"
+      ],
+      "explanation": "Plotters \"pronounced\" against the government in a barracks or town hall, printed a manifesto and bargained as others adhered; the violence was more threatened than real. Gillingham sees it as a cheap, Spanish-style coup, and counts the Plan de Iguala as the first.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-iturbide-emperor",
+      "prompt": "In which year was Agustín de Iturbide, the royalist officer who had negotiated independence, proclaimed Emperor of Mexico?",
+      "answer": "1822",
+      "distractors": [
+        "1821",
+        "1823",
+        "1824"
+      ],
+      "explanation": "A second pronunciamiento, staged without a single death, made him emperor in May 1822, seven months after he had become regent. He was crowned in Mexico City's cathedral that July.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e6-iturbide-empire"
+    },
+    {
+      "id": "early-republic-iturbide-reign",
+      "prompt": "Roughly how long did Iturbide reign as Emperor of Mexico before he abdicated?",
+      "answer": "About ten months",
+      "distractors": [
+        "About three years",
+        "About six weeks",
+        "About five years"
+      ],
+      "explanation": "Proclaimed in May 1822, he dissolved Congress, ran out of money and abdicated on 19 March 1823 in the face of a revolt of the provincial garrisons. Like many fallen leaders after him, he was allowed to leave for exile.",
+      "chapter": 9,
+      "feature": "e6-iturbide-empire"
+    },
+    {
+      "id": "early-republic-casa-mata",
+      "prompt": "Which 1823 plan, proclaimed by the army sent to besiege the rebel Santa Anna at Veracruz, brought down Iturbide's empire?",
+      "answer": "The Plan de Casa Mata",
+      "distractors": [
+        "The Plan de Iguala",
+        "The Plan de Ayutla",
+        "The Plan de Jalapa"
+      ],
+      "explanation": "Santa Anna's own Veracruz rising of December 1822 failed, but the besiegers came to terms with him and proclaimed the plan on 1 February 1823. Garrison after garrison adhered until the movement reached critical mass, a model of the pronunciamiento.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e6-casa-mata-1823"
+    },
+    {
+      "id": "early-republic-iturbide-fate",
+      "prompt": "What happened to Iturbide when he sailed back to Mexico from exile in July 1824?",
+      "answer": "He was arrested and shot",
+      "distractors": [
+        "He was restored as emperor",
+        "He was jailed for life at Perote",
+        "He was shipped back to Italy"
+      ],
+      "explanation": "Congress had outlawed him in his absence. He landed in Tamaulipas without warning, was recognised and was executed at Padilla; a diarist wondered whether he had died a hero or a fool.",
+      "chapter": 9,
+      "feature": "e6-padilla-1824"
+    },
+    {
+      "id": "early-republic-iturbide-spending",
+      "prompt": "How did Emperor Iturbide try to win popularity, to the cost of the new state's finances?",
+      "answer": "He cut taxes and raised spending",
+      "distractors": [
+        "He seized and sold Church property",
+        "He doubled the duties on imports",
+        "He sold the northern missions' lands"
+      ],
+      "explanation": "The extra spending went to bureaucrats, merchants and the military. It set a pattern of governments too weak to tax and too poor to pay the army.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-treasury-states",
+      "prompt": "Why did Mexico's federal Treasury have so little money in the years after the Plan de Casa Mata of 1823?",
+      "answer": "The states kept most of the taxes they collected",
+      "distractors": [
+        "The Church received most of the taxes",
+        "Congress abolished all taxes on trade",
+        "Spain confiscated the mint's silver"
+      ],
+      "explanation": "Casa Mata promised the provinces the majority of their revenues, and by early 1825 the Treasury had only 60,000 pesos in hand. Income and corporate taxes tried in 1827 proved unenforceable.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-guadalupe-victoria",
+      "prompt": "Who was Mexico's first president, a penniless orphan from Durango who rose through a seminary and Morelos's army?",
+      "answer": "Guadalupe Victoria",
+      "distractors": [
+        "Vicente Guerrero",
+        "Nicolás Bravo",
+        "Anastasio Bustamante"
+      ],
+      "explanation": "His rise from the margins showed how independence opened high politics to outsiders, although most early heads of government were wealthy creoles or former royalist officers.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-guerrero-president",
+      "prompt": "Who became, in 1829, the first Black president in North American history?",
+      "answer": "Vicente Guerrero",
+      "distractors": [
+        "Guadalupe Victoria",
+        "Lorenzo de Zavala",
+        "Manuel Gómez Pedraza"
+      ],
+      "explanation": "An Afro-Mexican from the southern highlands who learned politics running mule trains, he had been the insurgent chief of the south. Opponents attacked him with racial code words such as \"barbarism\" rather than open insults, which Gillingham finds revealing.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-guerrero-installed",
+      "prompt": "How did Vicente Guerrero reach the presidency in 1829, although he had narrowly lost the vote of 1828?",
+      "answer": "A revolt backed by Santa Anna installed him",
+      "distractors": [
+        "He won a rerun of the election",
+        "Iturbide had named him as his heir",
+        "Victoria resigned early in his favour"
+      ],
+      "explanation": "Guerrero lasted only eight months before his own vice president overthrew him. His rise and fall show how pronunciamientos and elections were intertwined.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-guerrero-death",
+      "prompt": "What happened to Vicente Guerrero in 1831, after he had been overthrown as president?",
+      "answer": "He was captured and shot",
+      "distractors": [
+        "He died in exile in New Orleans",
+        "He was elected governor of Oaxaca",
+        "He retired unharmed to his ranch"
+      ],
+      "explanation": "Lured aboard a Genoese captain's ship at Acapulco and handed over to the government, he was court-martialled and shot at Cuilapan in Oaxaca.",
+      "chapter": 9,
+      "feature": "e6-guerrero-cuilapan-1831"
+    },
+    {
+      "id": "early-republic-racial-classification",
+      "prompt": "What did independent Mexico abolish when it affirmed equal civil rights for all free inhabitants \"whatever their origin\"?",
+      "answer": "Official racial classification",
+      "distractors": [
+        "Military and clerical fueros",
+        "Indigenous communal landholding",
+        "The alcabala sales tax"
+      ],
+      "explanation": "Egalitarians had argued since the Cortes of Cádiz for the rights of castas and Indians, and they won. Racial divisions endured in practice, but a meritocratic path into politics opened.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-wide-suffrage",
+      "prompt": "Between 1820 and 1835, how did Mexico's suffrage compare with that of the United States and Britain?",
+      "answer": "It was wider than either",
+      "distractors": [
+        "It was narrower than either",
+        "It was wider only than Britain's",
+        "It was about the same as Britain's"
+      ],
+      "explanation": "Municipal voters chose their authorities by near-universal male suffrage, and poor Mexicans held real elections with unpredictable results. The centralists of the 1830s narrowed the franchise sharply.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-1836-income",
+      "prompt": "What did Mexico's centralist constitution of 1836 require voters to prove before they could cast a ballot?",
+      "answer": "An annual income of 100 pesos",
+      "distractors": [
+        "Ownership of at least one house",
+        "Membership of a parish confraternity",
+        "Service in the national militia"
+      ],
+      "explanation": "In 1843 Santa Anna raised the bar to 200 pesos, and for the constituent congress of 1846 the property qualification was so high that in one state only seventeen people qualified.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-municipios-abolished",
+      "prompt": "How did the centralist government of the mid-1830s abolish most of Mexico's municipalities?",
+      "answer": "By sharply raising the population required",
+      "distractors": [
+        "By merging them into military districts",
+        "By auctioning off their common lands",
+        "By banning elections in all villages"
+      ],
+      "explanation": "Under the Cádiz rules any community of a thousand people could form a municipio, and hundreds had appeared, a third of them in Indigenous Oaxaca. The new bar of eight thousand for most towns, applied retroactively, wiped out countless village governments.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-centralism-1835",
+      "prompt": "Along with the federal republic, what did Mexico's conservative government of 1835–36 abolish?",
+      "answer": "Elected governors and state legislatures",
+      "distractors": [
+        "The Catholic Church's official status",
+        "The national Congress and its elections",
+        "Mexico's diplomatic ties with Spain"
+      ],
+      "explanation": "The states became departments with appointed governors, and most municipalities went too. The centralist turn helped drive Texas, and later Yucatán, into revolt.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-patria-chica",
+      "prompt": "What is a \"patria chica\", the loyalty that Gillingham sees counting everywhere in nineteenth-century Mexico?",
+      "answer": "One's home town or local region",
+      "distractors": [
+        "The nation as a whole",
+        "A parish under its bishop",
+        "A Masonic lodge's members"
+      ],
+      "explanation": "The municipio and the \"little motherland\" were the units most Mexicans cared about most; Ignacio Ramírez said the municipio is the nation. In the war of 1846–48 the patria without adjectives counted only in some regions.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-nohcacab",
+      "prompt": "What did Maya estate workers in Nohcacab, Yucatán, do after voting on election day as they had been instructed?",
+      "answer": "Secretly elected their own real authorities",
+      "distractors": [
+        "Burned the ballot boxes in protest",
+        "Fled to rebel territory near Belize",
+        "Petitioned the governor for the vote"
+      ],
+      "explanation": "These parallel governments did essential work, such as sharing out the wells that supported thousands of people. Across Mexico, villages stripped of their municipios kept self-rule by unofficial means.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-mixteca-lands",
+      "prompt": "How did Indigenous communities in places like the Mixteca gain from the departure of Spaniards after independence?",
+      "answer": "They bought the Spaniards' lands cheaply",
+      "distractors": [
+        "They inherited the Spaniards' mine shares",
+        "They took over the Spaniards' trading houses",
+        "They received the Spaniards' lands from the Church"
+      ],
+      "explanation": "Indigenous villagers used the new egalitarian rules and their long experience of voting to spend more of their own taxes and remove outside officials who failed them. Land purchases strengthened community clout and cohesion.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-escoceses",
+      "prompt": "In the 1820s, which party label belonged to the conservatives organised in Scottish Rite Masonic lodges?",
+      "answer": "Escoceses",
+      "distractors": [
+        "Yorkinos",
+        "Puros",
+        "Vinagres"
+      ],
+      "explanation": "Two rival Masonic rites were the main political organisations of the decade: the conservative escoceses, whose rite had come with the Spanish, against the liberal yorkinos.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-york-rite",
+      "prompt": "The York Rite Masonic lodges of Mexico's liberal yorkinos were set up by people from which country?",
+      "answer": "The United States",
+      "distractors": [
+        "Great Britain",
+        "France",
+        "Spain"
+      ],
+      "explanation": "The lodges were distinct enough to serve as the party labels of the 1820s. By the 1830s the main divide was usually described as federalists against centralists.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-liberal-federalism",
+      "prompt": "In the decades after 1824, what form of government did Mexican liberals generally favour?",
+      "answer": "A federation with strong state legislatures",
+      "distractors": [
+        "A centralised republic with a strong executive",
+        "A constitutional monarchy under a European prince",
+        "Military rule by regional army commanders"
+      ],
+      "explanation": "Conservatives wanted a centralised republic with a powerful executive. Both sides accepted elections; they disagreed over who should vote and how much the vote should count.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-aceites-vinagres",
+      "prompt": "In Oaxaca's city politics, what was the popular faction opposed to the patrician \"aceites\" (oils) called?",
+      "answer": "The vinagres (vinegars)",
+      "distractors": [
+        "The polkos (polka dancers)",
+        "The chinacos (ragged ones)",
+        "The plateados (silvered ones)"
+      ],
+      "explanation": "Like \"sans-culotte\", the name began as an insult and was proudly adopted. By the 1830s the vinagres were calling themselves federalists, the label of the main national divide.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-calderon-chess",
+      "prompt": "Which observer of Mexican society compared the pronunciamiento to a game of chess in which the pawns look on?",
+      "answer": "Fanny Calderón de la Barca",
+      "distractors": [
+        "Alexander von Humboldt",
+        "John Lloyd Stephens",
+        "Joel Roberts Poinsett"
+      ],
+      "explanation": "The Scottish-born wife of Spain's first minister to Mexico, she found a masked ball crowded and cheerful although a pronunciamiento had been predicted. Most such revolts involved few troops and few deaths.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-1832-battles",
+      "prompt": "The pronunciamientos of which year broke the rule of low bloodshed, killing some four thousand men in four pitched battles?",
+      "answer": "1832",
+      "distractors": [
+        "1823",
+        "1828",
+        "1845"
+      ],
+      "explanation": "Most pronunciamientos were settled by bargaining, and failed leaders usually survived. The civil wars of 1832 also diverted more of the budget to the army and cut revenues further.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-santa-anna-1835",
+      "prompt": "Santa Anna rebelled in 1822 for the reopening of Congress and a federation. What did he rebel for in 1835?",
+      "answer": "Closing Congress and a strong central executive",
+      "distractors": [
+        "Restoring the Iturbide monarchy",
+        "Restoring the federal constitution of 1824",
+        "Reuniting Mexico with Central America"
+      ],
+      "explanation": "Santa Anna shifted with the political wind, proclaiming one ideology and then the other. He was, in Gillingham's judgement, very good at winning power and very bad at using it.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-manga-de-clavo",
+      "prompt": "What was the name of Santa Anna's vast hacienda near Veracruz, to which he often withdrew during his presidencies?",
+      "answer": "Manga de Clavo",
+      "distractors": [
+        "San Francisco de los Patos",
+        "Ciénega de Mata",
+        "Hacienda de Bocas"
+      ],
+      "explanation": "An estate of around a hundred square miles, it anchored a power base that also took in Veracruz's customs duties, bankers and garrison. While he stayed there, blame for the day's turmoil tended to fall on his vice president.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-santa-anna-1846",
+      "prompt": "After his overthrow in 1845, Santa Anna was jailed and exiled. What brought him back to the presidency the next year?",
+      "answer": "The war with the United States",
+      "distractors": [
+        "The Pastry War with France",
+        "The Spanish landing at Tampico",
+        "The Caste War in Yucatán"
+      ],
+      "explanation": "In 1845 the minister of war told him the whole nation would rise at the mere idea of his return; eighteen months later a federalist coup made him president again in the midst of the US invasion.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-budget",
+      "prompt": "According to Gillingham, roughly what share of the federal budget went on debt service and buying off the army between 1830 and 1850?",
+      "answer": "More than 80 per cent",
+      "distractors": [
+        "About 25 per cent",
+        "About 50 per cent",
+        "Less than 10 per cent"
+      ],
+      "explanation": "When governments ran out of money and stopped paying soldiers or creditors, soldiers toppled presidents and foreign powers sent fleets: a vicious circle of debt, poverty and war.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-window-tax",
+      "prompt": "On what did Santa Anna base one of his property taxes, a device used by many early state-builders?",
+      "answer": "The number of windows in a house",
+      "distractors": [
+        "The number of cattle on a ranch",
+        "The number of servants employed",
+        "The height of a house's front wall"
+      ],
+      "explanation": "Even Santa Anna's 1840s dictatorship, the most successful tax-gatherer of the age, never came close to balancing the budget.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-alcabala",
+      "prompt": "What were the alcabalas, the regressive taxes that early republican governments deplored but depended on?",
+      "answer": "Sales taxes charged at town and market entrances",
+      "distractors": [
+        "Head taxes paid by Indigenous villagers",
+        "Tithes collected on behalf of the Church",
+        "Duties levied on silver exports"
+      ],
+      "explanation": "Governments were damned if they taxed, losing popular and elite support, and damned if they did not, running out of money to buy off a turbulent military.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-expulsion-error",
+      "prompt": "What does Gillingham call the early republic's only great unforced error in economic policy?",
+      "answer": "Expelling the Spanish in 1827 and 1829",
+      "distractors": [
+        "Granting land to settlers in Texas",
+        "Abolishing the colonial tribute",
+        "Founding a state development bank"
+      ],
+      "explanation": "The great merchants and landowners left with their capital, most of them for good; the 1829 law expelled the remaining Spaniards, even churchmen and those with Mexican families. Otherwise, he argues, fiscal failure was systemic and largely unavoidable.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-reconquest-plot",
+      "prompt": "What was the aim of the conspiracy, led by a Spanish priest, that came to light in Mexico in 1827?",
+      "answer": "Restoring Spanish rule over Mexico",
+      "distractors": [
+        "Crowning Iturbide's son as emperor",
+        "Making Mexico a British protectorate",
+        "Reuniting Mexico with Central America"
+      ],
+      "explanation": "Together with the long Spanish hold on San Juan de Ulúa and the hostility of the Holy Alliance, it fed fears of reconquest that led to the expulsion of Spaniards. The fears were well founded: Spain sent an invasion force in 1829.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-monopoly-violence",
+      "prompt": "Which basic attribute of a functioning state does Gillingham say Mexico lacked from the outset?",
+      "answer": "A legitimate monopoly on violence",
+      "distractors": [
+        "A written national constitution",
+        "An elected national congress",
+        "A recognised national currency"
+      ],
+      "explanation": "Royalists had pardoned some fifty thousand rebels in the 1810s, and many drifted between army units, militias and robber gangs. Banditry was endemic for decades.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-last-federation",
+      "prompt": "According to Gillingham, of the great republics and federations formed in Spanish America at independence, which was the only one still standing by 1846?",
+      "answer": "Mexico",
+      "distractors": [
+        "Gran Colombia",
+        "Central America",
+        "Peru–Bolivia"
+      ],
+      "explanation": "Many Mexican provinces tried to opt out. The surprise, Gillingham argues, is not that they tried but that all of them except Texas either failed or changed their minds.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-zacatecas-1835",
+      "prompt": "As Congress moved toward centralism in 1835, which state's civic militia did Santa Anna crush, letting his troops sack its capital?",
+      "answer": "Zacatecas",
+      "distractors": [
+        "Jalisco",
+        "Yucatán",
+        "Oaxaca"
+      ],
+      "explanation": "Zacatecas, with the country's strongest militia, had refused to disband it. The defeat of the federalists there came months before the Texan revolt.",
+      "chapter": 9,
+      "feature": "e6-zacatecas-1835"
+    },
+    {
+      "id": "early-republic-yucatan-texan-navy",
+      "prompt": "Breaking away from centralist Mexico in 1841, Yucatán paid which navy $8,000 a month to guard its coast?",
+      "answer": "The navy of the Republic of Texas",
+      "distractors": [
+        "The British Royal Navy",
+        "The US Navy's Home Squadron",
+        "The French squadron in the Antilles"
+      ],
+      "explanation": "Yucatecos, Maya caciques and Mérida planters alike, had been reluctant Mexicans from the start, and the newly independent Texans proposed the alliance. The peninsula was an autonomous state from 1841 to 1848.",
+      "chapter": 9,
+      "feature": "e6-yucatan-secession"
+    },
+    {
+      "id": "early-republic-yucatan-rejoins",
+      "prompt": "Why did Yucatán's government rejoin Mexico in 1848?",
+      "answer": "To get military help against the Maya rebels",
+      "distractors": [
+        "Because Santa Anna's army conquered it",
+        "Because the peace treaty with the US required it",
+        "Because its planters voted for centralism"
+      ],
+      "explanation": "With the rebels close to Mérida and Campeche, the state government had offered its sovereignty to Spain, Britain and the United States before turning back to Mexico.",
+      "chapter": 10,
+      "feature": "e6-yucatan-secession"
+    },
+    {
+      "id": "early-republic-banderas",
+      "prompt": "Which Yaqui leader, claiming to be Montezuma's heir and carrying banners of the Virgin of Guadalupe, led risings in Sonora from 1825?",
+      "answer": "Juan Banderas",
+      "distractors": [
+        "Cajeme",
+        "Tetabiate",
+        "Cecilio Chi"
+      ],
+      "explanation": "Declaring the Yaqui a nation, he used the very symbols of Mexico's independence against the Mexican state, and Gillingham says his first peace secured the Yaqui River valley. He was captured and shot in 1833.",
+      "chapter": 9,
+      "feature": "e6-yaqui-banderas"
+    },
+    {
+      "id": "early-republic-press-juries",
+      "prompt": "In the early republic, how were complaints of subversion, immorality or slander against the press first settled?",
+      "answer": "By press juries",
+      "distractors": [
+        "By military tribunals",
+        "By the bishops' censors",
+        "By presidential decree"
+      ],
+      "explanation": "The insurgents wrote press freedom into the Constitution of 1824, and it was at its height in the 1820s. Later governments of both stripes replaced the juries with less tolerant judges, but never banned press freedom outright.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-1842-elections",
+      "prompt": "What happened in the 1842 congressional elections held under Santa Anna's dictatorship?",
+      "answer": "Santa Anna's opponents won",
+      "distractors": [
+        "His supporters took every seat",
+        "The vote was cancelled by decree",
+        "Only soldiers were allowed to vote"
+      ],
+      "explanation": "Indirect elections in three stages had to be organised by locals, which made them hard to rig from the capital. Santa Anna dissolved that congress, but holding elections remained an imperative of power.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-no-hay-dios",
+      "prompt": "Which young liberal provocateur declared \"No hay Dios\" (\"There is no God\") at the Academia de Letrán literary salon?",
+      "answer": "Ignacio Ramírez",
+      "distractors": [
+        "Guillermo Prieto",
+        "Lucas Alamán",
+        "José María Luis Mora"
+      ],
+      "explanation": "The salon nurtured a new generation of liberal intellectuals. Ramírez also joked that Veracruz was his favourite city because it was the way out of the country.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-prieto-sonnet",
+      "prompt": "The penniless teenager Guillermo Prieto won a government job by improvising a sonnet for which minister of justice, himself a poet?",
+      "answer": "Andrés Quintana Roo",
+      "distractors": [
+        "Lucas Alamán",
+        "Carlos María de Bustamante",
+        "Lorenzo de Zavala"
+      ],
+      "explanation": "The job brought Prieto a university place and a path to the cabinet. The writers of sonnets and plays were also the era's influential political journalists.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-london-debt",
+      "prompt": "What was Mexico's \"London Debt\"?",
+      "answer": "The bonds it sold in London in the 1820s",
+      "distractors": [
+        "Reparations owed to Britain after a war",
+        "Silver owed to British mining companies",
+        "A Bank of England loan of the 1840s"
+      ],
+      "explanation": "Mexico's first bond issues sold well in the London stock bubble of the 1820s, but bankers took usurious commissions and only part of the money reached the Treasury. After the London crash of 1826 the debt burdened Mexico for some sixty years.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-default-1827",
+      "prompt": "In which year did Mexico, short of taxes and hit by the London crash, first default on its foreign loans?",
+      "answer": "1827",
+      "distractors": [
+        "1824",
+        "1838",
+        "1846"
+      ],
+      "explanation": "The Treasury then took out new loans to service old ones at ruinous rates. Refinancing briefly rescued it, but politics and civil war kept the interest unpaid, and by 1837 the debt had reached 50 million pesos.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-steam-engines",
+      "prompt": "What did British mining companies promise Mexico's flooded and abandoned silver mines in the 1820s?",
+      "answer": "Steam engines to drain them",
+      "distractors": [
+        "Railways to carry ore to the coast",
+        "Mercury from British refineries",
+        "Convict labourers from Australia"
+      ],
+      "explanation": "Shareholders were promised the fabled riches of New Spain. The investment dried up in the 1830s, after pronunciados looted the British-restored mines of Guanajuato.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-arista-1833",
+      "prompt": "Which future president led the pronunciados who looted the British-restored mines of Guanajuato in 1833?",
+      "answer": "Mariano Arista",
+      "distractors": [
+        "Anastasio Bustamante",
+        "Nicolás Bravo",
+        "José Joaquín de Herrera"
+      ],
+      "explanation": "The raid ended British investment in Mexican mining for years. Arista later commanded the Mexican army at the first battles of the US war in 1846.",
+      "chapter": 9
+    },
+    {
+      "id": "early-republic-british-trade",
+      "prompt": "By 1828, merchants from which country had taken over most of Mexico's big trading houses?",
+      "answer": "Britain",
+      "distractors": [
+        "The United States",
+        "France",
+        "Spain"
+      ],
+      "explanation": "Free trade let Britain unload its surplus of Lancashire cotton, Sheffield steel and old muskets, and London was the financial centre of the world.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-informal-empire",
+      "prompt": "After failed military ventures in the region, what kind of empire did Britain pursue in independent Spanish America?",
+      "answer": "Informal empire through trade and finance",
+      "distractors": [
+        "Direct rule through new colonies",
+        "Protectorates under British governors",
+        "Missions backed by the Royal Navy"
+      ],
+      "explanation": "Lord Castlereagh, then Secretary for War and the Colonies, set out the policy in 1807: support friendly local governments with which British commerce could flourish, and fight only in extremis.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-alaman-bank",
+      "prompt": "Which conservative statesman negotiated loans as foreign minister in the 1820s and founded a state development bank in the early 1830s?",
+      "answer": "Lucas Alamán",
+      "distractors": [
+        "Lorenzo de Zavala",
+        "Valentín Gómez Farías",
+        "José María Luis Mora"
+      ],
+      "explanation": "Foreign businessmen were impressed by him. Gillingham imagines that, with California's gold, the development bank he dreamed of might have jump-started Mexican industry.",
+      "chapter": 9,
+      "core": true
+    },
+    {
+      "id": "early-republic-barradas",
+      "prompt": "Who commanded the Spanish expedition that tried to reconquer Mexico in 1829?",
+      "answer": "Isidro Barradas",
+      "distractors": [
+        "José Dávila",
+        "Juan O'Donojú",
+        "Félix María Calleja"
+      ],
+      "explanation": "Some 3,500 soldiers from Cuba landed on a waterless beach, took the port unopposed and then waited for royalist risings that never came. Yellow fever and Santa Anna's attack forced their surrender in September.",
+      "chapter": 10,
+      "feature": "e6-barradas"
+    },
+    {
+      "id": "early-republic-where-tampico",
+      "kind": "where",
+      "prompt": "Where did Spain's 1829 expedition to reconquer Mexico occupy a port, only to surrender to Santa Anna weeks later?",
+      "answer": "Tampico",
+      "explanation": "The victory made Santa Anna the \"Victor of Tampico\", political capital he drew on for decades. Only about half of the invaders made it home, and Spain attempted no further reconquest.",
+      "chapter": 10,
+      "feature": "e6-barradas"
+    },
+    {
+      "id": "early-republic-pastry-war",
+      "prompt": "Why did France blockade Mexico and attack Veracruz in the \"Pastry War\" of 1838?",
+      "answer": "To collect compensation claims for French nationals",
+      "distractors": [
+        "To install a European prince on the throne",
+        "To seize the silver mines of Zacatecas",
+        "To avenge the expulsion of French priests"
+      ],
+      "explanation": "One claimant was a pastry cook whose shop Mexican soldiers had wrecked, hence the name. The French were after money, not conquest, but the political effect inside Mexico was outsized.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e6-pastry-war"
+    },
+    {
+      "id": "early-republic-santa-anna-leg",
+      "prompt": "What did Santa Anna lose fighting the French at Veracruz in 1838, an injury that restored his popularity?",
+      "answer": "A leg",
+      "distractors": [
+        "An arm",
+        "An eye",
+        "A hand"
+      ],
+      "explanation": "Grapeshot killed his horse and shattered his leg as he led from the front. Lithographs and pamphlets made sure no one forgot his sacrifice, and the amputated leg later received its own state funeral.",
+      "chapter": 9,
+      "feature": "e6-pastry-war"
+    },
+    {
+      "id": "early-republic-texas-settlers",
+      "prompt": "What did independent Mexico offer settler families to populate Texas in the 1820s?",
+      "answer": "Generous land grants and years free of tax",
+      "distractors": [
+        "Free passage and a cash bounty",
+        "Land in return for service in the army",
+        "Citizenship only after twenty years"
+      ],
+      "explanation": "Mexico was more generous to settlers than the United States, and the policy worked all too well. Stephen Austin was the leading colonist.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-texas-majority",
+      "prompt": "By 1836, who made up the large majority of the settler (non-Indigenous) population of Texas?",
+      "answer": "Anglo-American settlers",
+      "distractors": [
+        "Tejano ranchers",
+        "Irish Catholic colonists",
+        "German immigrants"
+      ],
+      "explanation": "Texas had only a few thousand inhabitants at independence; by 1836 it had tens of thousands, most of them Anglo-American colonists and the people they enslaved.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-austin-slavery",
+      "prompt": "What exception to Mexican law did Stephen Austin negotiate for the Anglo-American colonists of Texas?",
+      "answer": "Permission to keep enslaved people",
+      "distractors": [
+        "Exemption from all future taxes",
+        "The right to elect their own governor",
+        "Separate statehood from Coahuila"
+      ],
+      "explanation": "Austin took Mexican citizenship, converted to Catholicism and declared loyalty to three successive regimes. Slavery, which Mexico prohibited, underpinned the cotton economy his colonists were building.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-fredonian",
+      "prompt": "In 1826, against which rising of his fellow Americans did Stephen Austin fight on Mexico's side?",
+      "answer": "The Fredonian rebellion",
+      "distractors": [
+        "The Bear Flag Revolt",
+        "The Republic of the Rio Grande",
+        "The Texan Santa Fe Expedition"
+      ],
+      "explanation": "The rising at Nacogdoches in East Texas was quickly put down. Austin's loyalty held until the 1830s, when he and other colonists turned against the centralist government.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-1832-convention",
+      "prompt": "What did the Texas colonists' convention of 1832, which the Tejano towns did not attend, ask of Mexico City?",
+      "answer": "Statehood and continued tax exemptions",
+      "distractors": [
+        "Annexation to the United States",
+        "Abolition of slavery in Texas",
+        "Return of the Spanish monarchy"
+      ],
+      "explanation": "Gillingham calls it a demand for representation without taxation. Refused, the colonists rebelled, promising volunteers large grants of land to fight.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-san-jacinto",
+      "prompt": "What were Santa Anna and his staff doing when Sam Houston's Texans attacked their camp at San Jacinto in April 1836?",
+      "answer": "Taking a siesta",
+      "distractors": [
+        "Holding a council of war",
+        "Crossing the Brazos River",
+        "Celebrating the fall of the Alamo"
+      ],
+      "explanation": "The battle lasted well under an hour; Santa Anna was captured and the Texan republic survived at very low cost. Its success inspired both the Plains Indians and the United States.",
+      "chapter": 9,
+      "core": true,
+      "feature": "e6-san-jacinto"
+    },
+    {
+      "id": "early-republic-comanche-name",
+      "prompt": "What did the Comanche, the main power of the southern plains, call themselves?",
+      "answer": "Nʉmʉnʉʉ",
+      "distractors": [
+        "Diné",
+        "Yoeme",
+        "Ndé"
+      ],
+      "explanation": "The name means \"the people\". The Comanchería rivalled the old Habsburg lands in extent, and the Comanche sent representatives to Iturbide's coronation, confident that they were a nation in their own right.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-comanche-organisation",
+      "prompt": "How does Gillingham describe the political organisation of the Comanche?",
+      "answer": "A loose coalition of independent kin-based bands",
+      "distractors": [
+        "A tributary empire ruled from a capital",
+        "A confederacy under a hereditary king",
+        "Mission towns under Franciscan rule"
+      ],
+      "explanation": "Gillingham sees them as nomadic warrior-traders rather than empire-builders: superb cavalry and a near-industrial trade in horses, cattle and bison hides, but no metropolis and no universal creed.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-comanche-peace",
+      "prompt": "What freed the Comanche to raid deep into Mexico on a new scale from the mid-1830s?",
+      "answer": "Peace with the US and rival Plains peoples",
+      "distractors": [
+        "The collapse of the bison herds",
+        "Guns smuggled in from Spanish Cuba",
+        "An alliance with the Yaqui of Sonora"
+      ],
+      "explanation": "Between 1840 and 1847 bands of more than a hundred warriors attacked Mexico at least thirty times. Traders who spied for the raiders, militias that defended only themselves and a distracted capital all helped them.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-scalp-bounties",
+      "prompt": "What did Chihuahua and other northern Mexican states pay bounties for in their wars with the Apache?",
+      "answer": "Apache scalps",
+      "distractors": [
+        "Captured horses",
+        "Live prisoners",
+        "Seized muskets"
+      ],
+      "explanation": "Northern Mexicans often spoke of exterminating the \"barbarians\", and hired parties hunted for pay. The trade was open to abuse, since not every scalp came from an Indian.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-two-vanguards",
+      "prompt": "Which two groups does Gillingham see as the unwitting vanguards of US expansion into Mexico?",
+      "answer": "The Texan colonists and the Comanche",
+      "distractors": [
+        "Missionaries and fur trappers",
+        "Mormon settlers and gold miners",
+        "British merchants and Irish deserters"
+      ],
+      "explanation": "Neither was empire-building itself: the Texans wanted profitable autonomy, the Comanche were raiders and traders. But both exposed Mexico's inability to hold its North.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-presidio-troops",
+      "prompt": "In 1840, how many troops did Mexico's Ministry of War count in all the presidios from New Mexico to Tamaulipas?",
+      "answer": "707",
+      "distractors": [
+        "3,200",
+        "2,500",
+        "15,000"
+      ],
+      "explanation": "The 22 men defending Nuevo León had twelve muskets between them. Such sovereignty as there was in the North came from posses and state militias, and was local.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-sf-shanty",
+      "prompt": "In 1835, what did the future centre of San Francisco consist of, according to an American sailor-writer who visited?",
+      "answer": "A single shanty of rough boards",
+      "distractors": [
+        "A walled presidio town of 2,000",
+        "A Russian fur-trading fort",
+        "A mission of a thousand converts"
+      ],
+      "explanation": "When the writer, Richard Henry Dana Jr., returned in 1859 he found a lamp-lit city he put at a hundred thousand people, its harbour crowded with clipper ships. Gillingham uses the contrast to show what Mexico lost.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-fort-ross",
+      "prompt": "Which empire's subjects kept an armed trading post on the coast north of San Francisco Bay for decades of Spanish and Mexican rule?",
+      "answer": "Russia's",
+      "distractors": [
+        "Britain's",
+        "France's",
+        "Prussia's"
+      ],
+      "explanation": "The post, near Bodega, hunted sea otters and grew wheat, and its cannon could see off any Spanish attack. It exemplified how exposed Mexico's Pacific North was to rival empires.",
+      "chapter": 10,
+      "feature": "e6-fort-ross"
+    },
+    {
+      "id": "early-republic-jones-1842",
+      "prompt": "Why did US Commodore Thomas ap Catesby Jones hand back Monterey, California, a day after seizing it in 1842?",
+      "answer": "He learned the two countries were not at war",
+      "distractors": [
+        "A Mexican army retook the town",
+        "Britain threatened to declare war",
+        "Congress refused to annex the port"
+      ],
+      "explanation": "He had acted on rumour; he apologised and withdrew. Gillingham reads the episode as a sign of the disdain, opportunism and nationalism that led to war four years later.",
+      "chapter": 10,
+      "feature": "e6-jones-monterey-1842"
+    },
+    {
+      "id": "early-republic-manifest-destiny",
+      "prompt": "Which journalist is credited with coining the phrase \"manifest destiny\" in 1845?",
+      "answer": "John L. O'Sullivan",
+      "distractors": [
+        "Horace Greeley",
+        "Walt Whitman",
+        "Washington Irving"
+      ],
+      "explanation": "He wrote that the annexation of Texas was a given, that Mexico should have surrendered California peacefully, and that the United States was destined to overspread the continent.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-requerimiento",
+      "prompt": "Gillingham calls \"manifest destiny\" a Protestant update of which Spanish document of the conquest era?",
+      "answer": "The requerimiento",
+      "distractors": [
+        "The Laws of Burgos",
+        "The New Laws",
+        "The Recopilación de Indias"
+      ],
+      "explanation": "The requerimiento, read out on American beaches, asserted a God-given right of conquest. Manifest destiny claimed the continent as allotted by Providence, printed in New York instead.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-annexation-response",
+      "prompt": "How did Mexico respond when the United States annexed Texas in 1845?",
+      "answer": "It broke off diplomatic relations",
+      "distractors": [
+        "It declared war at once",
+        "It ceded Texas by treaty",
+        "It asked Spain for protection"
+      ],
+      "explanation": "Mexico had warned that annexation would mean war. When President Herrera then seemed open to a US offer to buy California and New Mexico, he was overthrown.",
+      "chapter": 10,
+      "feature": "e6-texas-annexation"
+    },
+    {
+      "id": "early-republic-paredes",
+      "prompt": "Which general overthrew President José Joaquín de Herrera, who had seemed willing to consider a US offer for California and New Mexico?",
+      "answer": "Mariano Paredes",
+      "distractors": [
+        "Mariano Arista",
+        "Gabriel Valencia",
+        "Pedro de Ampudia"
+      ],
+      "explanation": "The United States had offered $25 million for the two territories. Within months, US troops were moving into the disputed land between the Nueces and the Rio Grande.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-monarchy-1846",
+      "prompt": "In 1846, what did General Paredes and Lucas Alamán hope would deter a US attack on Mexico?",
+      "answer": "A European prince on a Mexican throne",
+      "distractors": [
+        "An alliance with the Republic of Texas",
+        "A British protectorate over California",
+        "A war alliance with the Comanche"
+      ],
+      "explanation": "The idea was that Washington would hesitate to attack a state with a European monarch, whatever the Monroe Doctrine said. There was neither time nor support for it, but monarchists never vanished.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-taylor",
+      "prompt": "Which US general led the army sent into the disputed strip between the Nueces and the Rio Grande in 1846?",
+      "answer": "Zachary Taylor",
+      "distractors": [
+        "Winfield Scott",
+        "Stephen W. Kearny",
+        "John E. Wool"
+      ],
+      "explanation": "An exchange of fire with Mexican troops there in April 1846 gave Polk his case for war, which Congress declared in May. Taylor then invaded the northeast.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-taylor"
+    },
+    {
+      "id": "early-republic-war-length",
+      "prompt": "How long did the fighting of the US–Mexican War last?",
+      "answer": "About a year and a half",
+      "distractors": [
+        "About six months",
+        "About three years",
+        "About five years"
+      ],
+      "explanation": "It ran from April 1846 to September 1847, when Mexico City fell, although the peace treaty was signed only in February 1848.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-kearny",
+      "prompt": "Which US general occupied Santa Fe without a fight and proclaimed New Mexico part of the United States in August 1846?",
+      "answer": "Stephen W. Kearny",
+      "distractors": [
+        "Zachary Taylor",
+        "Winfield Scott",
+        "John E. Wool"
+      ],
+      "explanation": "New Mexico's governor, Manuel Armijo, had raised a militia, but his officers fell out and he abandoned his defensive position without a fight. Kearny then marched on to California.",
+      "chapter": 10,
+      "feature": "e6-santa-fe-1846"
+    },
+    {
+      "id": "early-republic-monterrey-1846",
+      "prompt": "How did the battle for Monterrey, Nuevo León, end in September 1846?",
+      "answer": "Its defenders withdrew with their weapons",
+      "distractors": [
+        "Taylor was driven back to the Rio Grande",
+        "The garrison surrendered unconditionally",
+        "The city was burned to the ground"
+      ],
+      "explanation": "US troops fought from house to house toward the main square while their artillery shelled the town; civilians fought back and went hungry. When mortars came within range of the last redoubt, the Mexicans negotiated their withdrawal.",
+      "chapter": 10,
+      "feature": "e6-monterrey"
+    },
+    {
+      "id": "early-republic-buena-vista",
+      "prompt": "What did Santa Anna do after the fighting at Buena Vista (La Angostura) in February 1847 had left him well placed against Taylor?",
+      "answer": "He retreated, losing much of his army",
+      "distractors": [
+        "He pursued Taylor to the Rio Grande",
+        "He signed an armistice with Taylor",
+        "He took Saltillo by storm"
+      ],
+      "explanation": "He had force-marched north across the desert without a supply train, pushed by outrage in the capital at his inactivity. Short of food and water, he withdrew in the rain.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-buena-vista"
+    },
+    {
+      "id": "early-republic-polkos",
+      "prompt": "What happened in Mexico City in early 1847, just as Santa Anna fought at Buena Vista and the US prepared to land at Veracruz?",
+      "answer": "A revolt ousted Vice President Gómez Farías",
+      "distractors": [
+        "Congress proclaimed Santa Anna emperor",
+        "A cholera epidemic emptied the capital",
+        "The city council sued for a separate peace"
+      ],
+      "explanation": "The Revolt of the Polkos, against the vice president running the government in Santa Anna's absence, was the third coup in little more than a year. Elite disunity, a hostile press and disobedient generals hampered the Mexican war effort as much as poverty did.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-veracruz-1847",
+      "prompt": "How did Winfield Scott take the port of Veracruz in March 1847?",
+      "answer": "By a siege and bombardment of the city",
+      "distractors": [
+        "By a surprise night assault",
+        "By bribing the garrison's commander",
+        "By starving it with a long blockade"
+      ],
+      "explanation": "Scott shelled the city for days, hitting churches, bakeries and hospitals, and twice refused foreign consuls' requests for a ceasefire to evacuate civilians. Most of the more than a thousand casualties were civilians.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-veracruz-1847"
+    },
+    {
+      "id": "early-republic-cerro-gordo",
+      "prompt": "What mistake cost Santa Anna the battle of Cerro Gordo in April 1847?",
+      "answer": "He left ground he thought impassable unguarded",
+      "distractors": [
+        "He attacked before his artillery arrived",
+        "He split his army to defend Puebla",
+        "He ran out of ammunition on the hill"
+      ],
+      "explanation": "He fortified only one of the hills, saying not even a rabbit could climb the other, and posted no scouts on his left flank. US engineers dragged cannon up the hill, and the Mexican army was routed, losing some three thousand prisoners.",
+      "chapter": 10,
+      "feature": "e6-cerro-gordo"
+    },
+    {
+      "id": "early-republic-yellow-fever",
+      "prompt": "Which ally did Santa Anna hope would destroy Scott's army if he could keep it in the coastal lowlands in 1847?",
+      "answer": "Yellow fever",
+      "distractors": [
+        "Smallpox",
+        "Typhus",
+        "Winter frosts"
+      ],
+      "explanation": "The wet season in the tropical lowlands had always killed invaders, as it had Spain's soldiers in 1829. Defeat at Cerro Gordo opened the road to the highlands and Puebla.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-valencia",
+      "prompt": "Which general's refusal to obey Santa Anna's orders helped lose the battle of Padierna (Contreras) in August 1847?",
+      "answer": "Gabriel Valencia",
+      "distractors": [
+        "Mariano Arista",
+        "Pedro de Ampudia",
+        "Nicolás Bravo"
+      ],
+      "explanation": "Valencia, a political rival, would not pull back to the secondary lines as ordered. Santa Anna nonetheless saved most of his army and negotiated a truce to rebuild it.",
+      "chapter": 10,
+      "feature": "e6-contreras"
+    },
+    {
+      "id": "early-republic-san-patricios",
+      "prompt": "What was the Saint Patrick's Battalion (the San Patricios) of the US–Mexican War?",
+      "answer": "Irish-led deserters fighting for Mexico",
+      "distractors": [
+        "Irish volunteers in the US Army",
+        "Mexican guerrillas named for a saint",
+        "Catholic chaplains with Scott's army"
+      ],
+      "explanation": "Many were Catholic immigrants repelled by the abuse of fellow Catholics and their churches. Skilled artillerymen, they fought under a green banner sewn by nuns in San Luis Potosí, led by John Riley.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-churubusco",
+      "prompt": "At which battle in August 1847 did the San Patricios fight a rearguard action covering the retreat into Mexico City?",
+      "answer": "Churubusco",
+      "distractors": [
+        "Molino del Rey",
+        "Sacramento",
+        "San Pasqual"
+      ],
+      "explanation": "They held the convent of Churubusco until their ammunition ran out. Captured San Patricios were tried as deserters, and dozens were hanged in September.",
+      "chapter": 10,
+      "feature": "e6-churubusco"
+    },
+    {
+      "id": "early-republic-chapultepec",
+      "prompt": "Which hilltop fortification was the last obstacle between Scott's army and Mexico City in September 1847?",
+      "answer": "Chapultepec Castle",
+      "distractors": [
+        "The convent of Churubusco",
+        "The fort of Perote",
+        "The hill of El Peñón"
+      ],
+      "explanation": "Santa Anna had foreseen an attack from the west, but his cavalry failed to spring the ambush he had prepared. Scott took heavy casualties storming the castle, after which the capital could not be held.",
+      "chapter": 10,
+      "feature": "e6-chapultepec"
+    },
+    {
+      "id": "early-republic-mexico-city-rising",
+      "prompt": "What happened as US troops marched into Mexico City on 14 September 1847?",
+      "answer": "Residents fought them in the streets",
+      "distractors": [
+        "Crowds welcomed them at the gates",
+        "Santa Anna's army retook the city",
+        "Congress signed an immediate peace"
+      ],
+      "explanation": "Thousands threw stones and bricks from the rooftops, women asked for paving stones to throw, and the American who raised the flag over the National Palace was killed. The fighting stopped only when US artillery fired grapeshot into the crowds.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-mexico-city-1847"
+    },
+    {
+      "id": "early-republic-guerrillas",
+      "prompt": "Which Mexican fighters most frightened US commanders in 1847, threatening an endless dirty war?",
+      "answer": "Guerrillas",
+      "distractors": [
+        "The San Patricios",
+        "Regular lancer cavalry",
+        "National Guard infantry"
+      ],
+      "explanation": "Ubiquitous in the occupied North and along the central roads, they struck detachments and supply trains. Scott threatened mass reprisals against towns whose authorities failed to hand them over.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-volunteers",
+      "prompt": "Which American troops did Winfield Scott say had committed atrocities in Mexico \"sufficient to make Heaven weep\"?",
+      "answer": "Militia and volunteers",
+      "distractors": [
+        "Regular dragoons",
+        "Navy landing parties",
+        "Marines"
+      ],
+      "explanation": "Volunteers from the Southern and frontier states, electing their own officers, turned to theft, murder and rape. Their abuses drove recruits to the Mexican guerrillas, who by early 1847 were cutting US supply lines in the North.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-us-wealth",
+      "prompt": "According to Gillingham, what was the main reason US forces won the war with Mexico?",
+      "answer": "The United States was far richer",
+      "distractors": [
+        "Mexican soldiers would not fight",
+        "Britain and France backed the US",
+        "The Comanche fought on the US side"
+      ],
+      "explanation": "Money bought a navy that could land troops, blockade ports and stop arms imports, plus plentiful mobile cannon and engineers to haul them over ground Mexicans thought impassable. Mexicans fought with old muskets that often jammed.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-us-dead",
+      "prompt": "About how many US soldiers died in the war with Mexico, most of them from disease?",
+      "answer": "About 13,000",
+      "distractors": [
+        "About 3,000",
+        "About 30,000",
+        "About 60,000"
+      ],
+      "explanation": "That was out of some 108,000 who served. For all their generals' failures, poor equipment and hunger, Mexican regulars, National Guards and guerrillas often fought well.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-lincoln",
+      "prompt": "Which young congressman called President Polk's arguments for the war \"the half insane mumbling of a fever-dream\"?",
+      "answer": "Abraham Lincoln",
+      "distractors": [
+        "Henry Clay",
+        "John C. Calhoun",
+        "Daniel Webster"
+      ],
+      "explanation": "He spoke in January 1848, months after the fall of Mexico City. Polk insisted the war was defensive, forced on the United States after years of \"patient endurance\".",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-tucson",
+      "prompt": "Why did the authorities of Tucson let the US army pass without resistance during the war?",
+      "answer": "They needed their men to fight the Apache",
+      "distractors": [
+        "They had been bribed with US silver",
+        "They had already declared for Texas",
+        "Their garrison had gone to defend Veracruz"
+      ],
+      "explanation": "Northern authorities put fighting Indians ahead of fighting Americans; when the federal government asked Zacatecas, Durango and Chihuahua for troops in August 1846, none came.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-huasteca",
+      "prompt": "In which regions did peasants seize the chance of the US war to fight the government and local landowners rather than the invaders?",
+      "answer": "The Huasteca and Morelos",
+      "distractors": [
+        "Sonora and Sinaloa",
+        "Chiapas and Tabasco",
+        "Coahuila and Nuevo León"
+      ],
+      "explanation": "Outside a heartland running from the Valley of Mexico and Veracruz to Michoacán, Oaxaca, Guerrero and the Bajío, the national territory was not a potent idea.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-puros",
+      "prompt": "What were the radical liberals called who wanted to fight on against the United States rather than accept the peace of 1848?",
+      "answer": "Puros",
+      "distractors": [
+        "Moderados",
+        "Escoceses",
+        "Polkos"
+      ],
+      "explanation": "Against them stood the moderados, moderate liberals like President Herrera who saw no option beyond the treaty, and the conservatives, who now formed a party.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-half-territory",
+      "prompt": "Which conservative statesman's lament that Mexico had lost \"half the national territory\" became the standard description of 1848?",
+      "answer": "Lucas Alamán",
+      "distractors": [
+        "Carlos María de Bustamante",
+        "Mariano Otero",
+        "Manuel de la Peña y Peña"
+      ],
+      "explanation": "The loss took in today's California, Nevada and Utah, most of Arizona and Colorado, and more. Alamán led the newly formed Conservative Party.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-where-queretaro",
+      "kind": "where",
+      "prompt": "Where did Mexico's government and Congress sit to make peace while US troops held the capital in 1847–48?",
+      "answer": "Querétaro",
+      "explanation": "Congress approved the Treaty of Guadalupe Hidalgo there in May 1848 against strong opposition, and US troops left Mexico City in June.",
+      "chapter": 10,
+      "feature": "e6-queretaro-1848"
+    },
+    {
+      "id": "early-republic-trist",
+      "prompt": "Which US negotiator ignored his recall to Washington and went on to sign the peace treaty with Mexico in 1848?",
+      "answer": "Nicholas Trist",
+      "distractors": [
+        "John Slidell",
+        "James Buchanan",
+        "Joel Poinsett"
+      ],
+      "explanation": "Fearing his government would seize all of Mexico, Trist held to the more modest aims set in August 1847. He wrote that he was ashamed of the terms, lost his job and spent twenty years as a railway clerk.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-guadalupe-hidalgo-signing"
+    },
+    {
+      "id": "early-republic-trist-saved",
+      "prompt": "By sticking to modest war aims in the peace talks of 1847–48, the US negotiator probably saved which lands for Mexico?",
+      "answer": "Baja California and Tehuantepec",
+      "distractors": [
+        "Alta California and Nevada",
+        "Texas and the Nueces Strip",
+        "New Mexico and Utah"
+      ],
+      "explanation": "Some in the United States wanted to take all of Mexico. The Isthmus of Tehuantepec mattered as a shortcut between the Atlantic and the Pacific.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-treaty-date",
+      "prompt": "On what date was the Treaty of Guadalupe Hidalgo signed?",
+      "answer": "2 February 1848",
+      "distractors": [
+        "14 September 1847",
+        "24 December 1847",
+        "22 April 1848"
+      ],
+      "explanation": "Bankrupt, with its army virtually gone, its ports and capital occupied and wars raging against the Comanche and the Maya, Mexico had little choice but to sign.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-guadalupe-hidalgo-signing"
+    },
+    {
+      "id": "early-republic-raids-promise",
+      "prompt": "Besides paying $15 million, what did the United States promise Mexico about Indigenous raiders in the treaty of 1848?",
+      "answer": "To stop their raids across the new border",
+      "distractors": [
+        "To arm Mexico's border militias",
+        "To pay for every ranch they burned",
+        "To let Mexican troops pursue them north"
+      ],
+      "explanation": "The promise proved unworkable, and the Gadsden Treaty later released the United States from it. The treaty also offered Mexicans in the ceded lands US citizenship and protection of their property.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-article-10",
+      "prompt": "Which article of the Treaty of Guadalupe Hidalgo, protecting Mexican land grants, did the US Senate strike out?",
+      "answer": "Article 10",
+      "distractors": [
+        "Article 5",
+        "Article 8",
+        "Article 11"
+      ],
+      "explanation": "Without it, landowners had to prove their titles before US tribunals, where the burden of proof lay with them. Gillingham notes that confirmed claims covered only a small fraction of the land they had held.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-residents-1848",
+      "prompt": "Roughly how many Mexican citizens lived in the territories ceded to the United States in 1848?",
+      "answer": "About 100,000",
+      "distractors": [
+        "About 10,000",
+        "About 1 million",
+        "About 3 million"
+      ],
+      "explanation": "Most sold up, were dispossessed by legal or violent means, or were sent to reservations. Their political ties to the Mexican state had always been feeble.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-gold-debt",
+      "prompt": "Gillingham notes that the gold taken from California's mines in 1850 alone would have paid off nearly all of what?",
+      "answer": "Mexico's national debt",
+      "distractors": [
+        "The cost of the US war",
+        "Spain's colonial debts",
+        "Britain's Latin American loans"
+      ],
+      "explanation": "Gold was found in California days before the peace treaty was signed. The bonanza fuelled the explosive growth of the United States instead of Mexico.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-gold-rush-miners",
+      "prompt": "How were Mexican miners driven out of California's gold fields around 1850?",
+      "answer": "By a foreign miners' tax and racist violence",
+      "distractors": [
+        "By a US Army expulsion order",
+        "By a clause of the 1848 peace treaty",
+        "By a mercury shortage in the diggings"
+      ],
+      "explanation": "Thousands of Sonorans had joined the rush in 1849. California's anti-vagrancy law even called poor Mexicans \"greasers\" and provided for jail and forced labour.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-garcia-cubas",
+      "prompt": "Which Mexican cartographer showed Santa Anna a map in 1853 that revealed to him how much territory had been lost?",
+      "answer": "Antonio García Cubas",
+      "distractors": [
+        "Manuel Orozco y Berra",
+        "John Disturnell",
+        "Alexander von Humboldt"
+      ],
+      "explanation": "García Cubas was shocked to find that Santa Anna had had no idea of the lost lands' importance. Gillingham argues that in 1848 the North was barely charted and hardly a national territory at all.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-lost-opportunity",
+      "prompt": "How does Gillingham judge the long-term meaning of Mexico's loss of its colonial North?",
+      "answer": "A last lost chance to join the rich nations",
+      "distractors": [
+        "A blessing that spared it a civil war",
+        "A trivial loss of empty desert",
+        "A loss soon made good by new mines"
+      ],
+      "explanation": "With California's gold, he imagines, Mexico might have regained its old place at the centre of the world economy, built industries and an army, and dug a canal at Tehuantepec. Instead it was bankrupt and heading for civil war.",
+      "chapter": 10,
+      "core": true
+    },
+    {
+      "id": "early-republic-caste-war-chi",
+      "prompt": "Which batab, or Maya town leader, began the Caste War by attacking Tepich in July 1847?",
+      "answer": "Cecilio Chi",
+      "distractors": [
+        "Jacinto Pat",
+        "Juan Banderas",
+        "Manuel Antonio Ay"
+      ],
+      "explanation": "After the authorities discovered his fellow conspirator Ay and shot him, Chi struck at Tepich, killing its creole families. The war that followed lasted for decades.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-caste-war-tepich"
+    },
+    {
+      "id": "early-republic-caste-war-land",
+      "prompt": "Which Yucatán state law raised the pressure on Maya peasants in the years before the Caste War?",
+      "answer": "One letting individuals claim untitled common land",
+      "distractors": [
+        "One banning the Maya from owning cattle",
+        "One forcing Spanish on village schools",
+        "One closing the ports to maize imports"
+      ],
+      "explanation": "Settlers moved into Maya regions, and new taxes and conscription for the wars with Texas and France added to the burden. Priests' fees, failed maize harvests and a withering export sector did the rest.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-caste-war-rifles",
+      "prompt": "Where did the Maya rebels of the Caste War obtain their rifles?",
+      "answer": "Smuggled in from British Belize",
+      "distractors": [
+        "Captured from the Texan navy",
+        "Bought from US traders at Veracruz",
+        "Forged in rebel workshops at Tulum"
+      ],
+      "explanation": "With British rifles and military training, the rebels waged a coordinated war for decades. Gillingham stresses that this was no contest between improvising Indians and organised governments.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-caste-war-pat",
+      "prompt": "What kind of man was Jacinto Pat, a leader of the Caste War, complicating any reading of it as a war of poor against rich?",
+      "answer": "A commercial estate owner",
+      "distractors": [
+        "A landless day labourer",
+        "A village parish priest",
+        "A creole army officer"
+      ],
+      "explanation": "Like Cecilio Chi, Pat was a landowner with a stake in the market economy. Whether Yucatecos fought also depended on region, kin and faction, so it was neither a simple race war nor a simple class war. Gillingham calls it a conflict between two embryonic nations.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-talking-cross",
+      "prompt": "Which religious cult did the rebel Maya found during the Caste War?",
+      "answer": "The Talking Cross",
+      "distractors": [
+        "The Virgin of Izamal",
+        "The Black Christ of Esquipulas",
+        "The Holy Child of Atocha"
+      ],
+      "explanation": "The rebels were firmly anticlerical, killing a priest and proclaiming that they could kill them all. Their syncretic cult became the heart of an independent Maya state.",
+      "chapter": 10,
+      "core": true,
+      "feature": "e6-chan-santa-cruz"
+    },
+    {
+      "id": "early-republic-where-chan-santa-cruz",
+      "kind": "where",
+      "prompt": "Where in the Yucatán peninsula did the rebel Maya set up their capital, Chan Santa Cruz?",
+      "answer": "Chan Santa Cruz, today Felipe Carrillo Puerto",
+      "explanation": "The rebel capital opened relations with Britain and lasted some fifty years, until Mexican federal troops occupied it in 1901.",
+      "chapter": 10,
+      "feature": "e6-chan-santa-cruz"
+    },
+    {
+      "id": "early-republic-caste-war-toll",
+      "prompt": "In its first decade, roughly what share of Yucatán's prewar population did the Caste War cost through death, flight and epidemics?",
+      "answer": "More than a third",
+      "distractors": [
+        "About a tenth",
+        "About a fifth",
+        "Nearly all"
+      ],
+      "explanation": "Some two hundred thousand people were lost, many of them in the cholera and smallpox epidemics of 1853. Gillingham calls it the greatest of Mexico's Indigenous wars in length and devastation.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-yucatan-maya-speakers",
+      "prompt": "What unusual linguistic fact marked Yucatán society before the Caste War?",
+      "answer": "Many whites spoke Maya, some nothing else",
+      "distractors": [
+        "Maya was banned in the towns",
+        "Most Maya also spoke Spanish",
+        "Its creoles spoke mainly English"
+      ],
+      "explanation": "Spaniards were few enough that they had to learn Maya. With its export crops and two rich cities, Mérida and Campeche, Yucatán was one of provincial Mexico's most dynamic regions until independence broke its old balance.",
+      "chapter": 10
+    },
+    {
+      "id": "early-republic-patria-1847",
+      "prompt": "In 1847, what did the nationalist Carlos María de Bustamante say was the Mexicans' cause, against the enemy's \"theft, plunder and conquest\"?",
+      "answer": "The patria",
+      "distractors": [
+        "The faith",
+        "Liberty",
+        "The Constitution"
+      ],
+      "explanation": "Patria means the homeland. The US war left Mexicans bitter and fearful, and some more conscious of a collective identity; Guillermo Prieto called the volunteers a family defending the great home called Patria. It did not bring political unity.",
+      "chapter": 11
+    },
+    {
+      "id": "early-republic-filibusters",
+      "prompt": "In the 1850s, what did several private armed expeditions launched from US soil try to do?",
+      "answer": "Seize Sonora, Baja California or Tamaulipas",
+      "distractors": [
+        "Free the people enslaved in Texas",
+        "Rescue captives held by the Comanche",
+        "Dig a canal across Tehuantepec"
+      ],
+      "explanation": "Gillingham counts seven such filibuster expeditions in the decade; William Walker's landing at La Paz in 1853 was one. They kept alive Mexican fears of further US expansion.",
+      "chapter": 11,
+      "feature": "e6-walker-filibuster"
+    },
+    {
+      "id": "early-republic-guadalajara-1852",
+      "prompt": "From which city did the 1852 wave of pronunciamientos that brought Santa Anna back to power spread?",
+      "answer": "Guadalajara",
+      "distractors": [
+        "Veracruz",
+        "Puebla",
+        "San Luis Potosí"
+      ],
+      "explanation": "His Conservative allies wanted a technocratic dictator who would deliver economic and administrative development. They got the dictatorship but not the development.",
+      "chapter": 11
+    },
+    {
+      "id": "early-republic-serene-highness",
+      "prompt": "What title did Santa Anna give himself during his last dictatorship, which began in 1853?",
+      "answer": "His Most Serene Highness",
+      "distractors": [
+        "Emperor of the Mexicans",
+        "Protector of the Nation",
+        "First Consul of Mexico"
+      ],
+      "explanation": "He closed Congress and the press, exiled dissidents, hired Swiss mercenaries, set up a secret police and required passports for travel inside Mexico.",
+      "chapter": 11,
+      "core": true
+    },
+    {
+      "id": "early-republic-jesuits",
+      "prompt": "Which religious order did Santa Anna invite back to Mexico during his last dictatorship?",
+      "answer": "The Jesuits",
+      "distractors": [
+        "The Dominicans",
+        "The Franciscans",
+        "The Augustinians"
+      ],
+      "explanation": "It was a gesture to his Conservative allies, whose leading mind, Lucas Alamán, formally foreign minister, died shortly after the government took office in 1853.",
+      "chapter": 11
+    },
+    {
+      "id": "early-republic-mesilla",
+      "prompt": "What did Santa Anna's last government sell to the United States in 1853?",
+      "answer": "La Mesilla, the strip south of the Gila",
+      "distractors": [
+        "The Baja California peninsula",
+        "The Soconusco coast of Chiapas",
+        "The port and bay of Guaymas"
+      ],
+      "explanation": "Known in the US as the Gadsden Purchase, it gave the United States a southern railroad route to California. The sale is infamous, but Gillingham judges it probably the best deal Mexico could get from a neighbour whose maximum demands included most of the border states.",
+      "chapter": 11,
+      "core": true,
+      "feature": "e6-gadsden-purchase-1853"
+    },
+    {
+      "id": "early-republic-mesilla-price",
+      "prompt": "In the Gadsden Purchase of 1853–54, how much did the United States finally pay Mexico?",
+      "answer": "$10 million",
+      "distractors": [
+        "$2 million",
+        "$5 million",
+        "$40 million"
+      ],
+      "explanation": "Gillingham gives ten million pesos, then worth about the same as ten million dollars. The treaty signed in December 1853 set $15 million for a larger strip; the US Senate cut both the land and the price before ratifying it in 1854.",
+      "chapter": 11,
+      "feature": "e6-gadsden-purchase-1853"
+    }
+  ]
+}
