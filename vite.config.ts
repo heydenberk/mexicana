@@ -6,7 +6,7 @@ export default defineConfig({
   build: {
     // The era GeoJSON is bundled into the main chunk, so it is large by design (~0.7 MB gzipped).
     chunkSizeWarningLimit: 3000,
-    // Two pages: the atlas, and the quiz at quiz/ (served as /mexicana/quiz/).
-    rolldownOptions: { input: { atlas: 'index.html', quiz: 'quiz/index.html' } },
+    // Three pages: the atlas, the history quiz at quiz/ (served as /mexicana/quiz/), and the states and cities quiz at places/.
+    rolldownOptions: { input: { atlas: 'index.html', quiz: 'quiz/index.html', places: 'places/index.html' } },
   },
 });

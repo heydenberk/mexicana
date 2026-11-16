@@ -65,6 +65,12 @@ mapshaper([shp('states'), '-filter', `["MEX","USA","GTM","BLZ"].indexOf(adm0_a3)
   '-each', `name = (${JSON.stringify(STATE_NAMES)})[name] || name; country = adm0_a3`, '-filter-fields', 'name,country',
   '-o', `${OUT}/state-labels.geojson`, 'precision=0.001', 'geojson-type=FeatureCollection']);
 
+// Mexico's 32 states as polygons, for the states and cities quiz. Simplified like the borders above, so their edges
+// fall on the drawn border lines. (A nameless islet off Yucatán, the Alacranes reef, is dropped.)
+mapshaper([shp('states'), '-filter', `adm0_a3 == "MEX" && !!name`, '-simplify', 'visvalingam', 'interval=200', 'keep-shapes',
+  '-each', `name = (${JSON.stringify(STATE_NAMES)})[name] || name`, '-filter-fields', 'name',
+  '-o', `${OUT}/mexico-states.geojson`, 'precision=0.0001', 'geojson-type=FeatureCollection']);
+
 // Modern cities: in Mexico every state capital and every city of 100,000 or more. In the US, the capitals and main
 // cities of the states that were once New Spain or Mexico, and of Louisiana; elsewhere, national capitals.
 // Natural Earth drops some accents and has a few errors in Mexico, corrected here; each point is checked against

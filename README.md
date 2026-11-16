@@ -59,6 +59,24 @@ should remember, not only the ones that can be mapped. Both modes use the same c
 Progress and best scores are kept in the browser's local storage only (`mexicana-study` and `mexicana-quiz-best`).
 **Clear saved progress**, at the foot of the home screen, deletes both.
 
+## States and cities quiz
+
+**Live:** https://heydenberk.com/mexicana/places/ (linked from the quiz's front page)
+
+A map quiz on modern Mexico, apart from the history. The front page shows the map with every state and state capital
+named, to study from; during a quiz the names are hidden.
+
+- **States**: find each of the 32 states by clicking it (the map fills in green and red as you go); name a highlighted
+  state from four neighbours; and name each state's capital (the wrong options include the state's largest other
+  city, such as Tijuana for Baja California).
+- **Cities**: 20 at a time from the 79 in the reference layer (every state capital and every city of 100,000 or more,
+  less three that Natural Earth gets wrong or that are part of Mexico City): place a pin within 50 km, name a marked
+  city from four nearby, or say which state a city is in.
+
+Right answers move on by themselves; a wrong one waits so you can look at the map. At the end you can retry just the
+ones you missed. Best scores are kept in local storage (`mexicana-places-best`). The states come from
+`data/reference/mexico-states.geojson`, made by `npm run build:reference`.
+
 ## Editing the history
 
 All historical content is in `data/`, which you can edit without touching code. In dev the page reloads when you save.
@@ -157,6 +175,8 @@ says which states they use.
 `data/reference/` holds the faint modern layers, all from [Natural Earth](https://www.naturalearthdata.com/)
 1:10m (public domain): land, lakes, rivers, country and state borders, state names, and cities. It also has a small
 hand-made file of landform and sea labels (`physiography.geojson`). Rebuild them with `npm run build:reference`.
+
+`mexico-states.geojson` holds Mexico's 32 states as polygons, for the states and cities quiz.
 
 The cities are every Mexican state capital and every Mexican city of 100,000 or more, the capitals and main cities of
 the US states that were once New Spain or Mexico (and Louisiana), and the Central American and Caribbean capitals.

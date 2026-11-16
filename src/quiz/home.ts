@@ -51,6 +51,7 @@ export function renderHome() {
     </section>
     <h3 class="list-heading">Eras</h3>
     <ol class="era-cards">${items}</ol>
+    <p class="small muted other-quiz">Mexico today: <a href="../places/">a map quiz on the states and cities</a>.</p>
     <p class="saved-note small muted">
       ${canSave ? 'Your progress is saved in this browser only.' : 'This browser is not letting the page save, so progress lasts only for this visit.'}
       ${studiedAny || Object.keys(readBest()).length ? '<button id="clear" class="link-button">Clear saved progress</button>' : ''}

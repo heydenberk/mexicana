@@ -1,4 +1,7 @@
 import type { Era } from '../types';
+import { shuffled } from './util';
+
+export { distanceKm, formatKm, shuffled } from './util';
 
 /**
  * A card as authored in data/cards/NN-name.json. A fact card is a flashcard, and in the quiz a multiple-choice
@@ -56,16 +59,6 @@ export function loadDecks(eras: Era[]): Map<string, Deck> {
 
 export const isMapCard = (c: Card): c is MapCard => c.kind === 'where';
 
-/** Fisher–Yates shuffle into a new array. `random` returns [0, 1), like Math.random. */
-export function shuffled<T>(items: readonly T[], random: () => number = Math.random): T[] {
-  const out = [...items];
-  for (let i = out.length - 1; i > 0; i--) {
-    const j = Math.floor(random() * (i + 1));
-    [out[i], out[j]] = [out[j], out[i]];
-  }
-  return out;
-}
-
 /** A card as a quiz question, with a fact card's answer shuffled in among its distractors. */
 export function toQuestion(card: Card, random: () => number = Math.random): AskedQuestion {
   if (isMapCard(card)) return card;
@@ -86,20 +79,6 @@ export function sampleQuiz(deck: Deck, random: () => number = Math.random, lengt
   return [...maps, ...facts, ...extra]
     .sort((a, b) => order.get(a.id)! - order.get(b.id)!)
     .map((c) => toQuestion(c, random));
-}
-
-/** Great-circle distance in kilometres between two [lng, lat] points. */
-export function distanceKm(a: [number, number], b: [number, number]): number {
-  const rad = Math.PI / 180;
-  const dLat = (b[1] - a[1]) * rad;
-  const dLng = (b[0] - a[0]) * rad;
-  const h = Math.sin(dLat / 2) ** 2 + Math.cos(a[1] * rad) * Math.cos(b[1] * rad) * Math.sin(dLng / 2) ** 2;
-  return 2 * 6371 * Math.asin(Math.min(1, Math.sqrt(h)));
-}
-
-export function formatKm(km: number): string {
-  if (km < 1) return 'less than 1 km';
-  return `${Math.round(km).toLocaleString('en')} km`;
 }
 
 /** A line for the end of a quiz. */
